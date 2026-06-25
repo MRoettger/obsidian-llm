@@ -112,7 +112,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Python - Async und Performance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +121,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Rückverweise auf Python - Async und Performance"
+              "title": "Rückverweise"
             }
           },
           {
@@ -212,8 +211,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4f5e9db9075000fb",
+  "active": "0248d35b49087c48",
   "lastOpenFiles": [
+    "Python/Python - Async und Performance.md",
     "Laufen/Obsidian-Struktur-Analyse 25.06.2026.md",
     "Laufen/Rennvorbereitung-Checkliste.md",
     "Laufen/5km-Test-Protokoll.md",
@@ -224,7 +224,6 @@
     "Python/Python - Syntax und Datentypen.md",
     "Python/Python-Erkenntnisse.md",
     "Python - Datenstrukturen und Komplexität.md",
-    "Python/Python - Async und Performance.md",
     "Laufen/Wochenbericht 2026-06-18 bis 06-25.md",
     "Python",
     "Willkommen.md",
