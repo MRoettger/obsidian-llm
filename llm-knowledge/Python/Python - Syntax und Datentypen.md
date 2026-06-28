@@ -1,3 +1,10 @@
+---
+type: wissen
+tags: [python, syntax, datentypen]
+status: stabil
+updated: 2026-06-28
+---
+
 # 🐍 Python – Syntax und Datentypen
 
 Kernaussagen zu Sprachgrundlagen, Datentypen und idiomatischer Syntax. Teil von [[Python-Erkenntnisse]].

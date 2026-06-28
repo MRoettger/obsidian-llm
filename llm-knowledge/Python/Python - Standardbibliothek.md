@@ -1,3 +1,10 @@
+---
+type: wissen
+tags: [python, standardbibliothek]
+status: stabil
+updated: 2026-06-28
+---
+
 # 🐍 Python – Standardbibliothek
 
 Wichtige Module und Helfer aus der Standardbibliothek. Teil von [[Python-Erkenntnisse]].

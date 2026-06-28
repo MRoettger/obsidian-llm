@@ -1,3 +1,10 @@
+---
+type: wochenbericht
+tags: [laufen, wochenbericht]
+status: abgeschlossen
+updated: 2026-06-28
+---
+
 # 📅 Wochenbericht 18.–25. Juni 2026
 
 Auswertung der Trainingswoche aus Intervals.icu im Abgleich mit den [[Laufziele|Laufzielen]]. Diese Woche enthielt den 5-km-Wettkampf (24.06.).

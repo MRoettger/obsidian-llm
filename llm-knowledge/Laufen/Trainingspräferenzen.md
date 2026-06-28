@@ -1,3 +1,10 @@
+---
+type: praeferenzen
+tags: [laufen, praeferenzen]
+status: stabil
+updated: 2026-06-28
+---
+
 # ⚙️ Trainingspräferenzen
 
 Persönliche Festlegungen für die Wochenplanung. Diese Vorgaben haben Vorrang vor allgemeinen Planungs-Faustregeln.

@@ -1,3 +1,10 @@
+---
+type: checkliste
+tags: [laufen, rennen, checkliste]
+status: stabil
+updated: 2026-06-28
+---
+
 # ✅ Rennvorbereitung-Checkliste
 
 Essentielle Erfolgsfaktoren für Rennvorbereitung auf Basis der Erkenntnis vom 24.06.2026 Test. **Mindestens diese drei Fehler dürfen sich nicht wiederholen.**

@@ -1,3 +1,10 @@
+---
+type: erkenntnisse
+tags: [laufen, rennen, fehleranalyse]
+status: lebend
+updated: 2026-06-28
+---
+
 # 🏁 Renntag-Erkenntnisse
 
 Gesammelte Lehren aus Wettkämpfen und Test-Läufen — distanzunabhängig, damit sich Fehler nicht wiederholen. Ergänzt die jeweiligen Wochenberichte um die dauerhaft gültigen Konsequenzen.

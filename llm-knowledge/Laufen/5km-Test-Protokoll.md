@@ -1,3 +1,10 @@
+---
+type: vorlage
+tags: [laufen, 5km, test, vorlage]
+status: stabil
+updated: 2026-06-28
+---
+
 # 📋 5-km-Test-Protokoll
 
 Vorlage zur Dokumentation von 5-km-Maximalversuchen — verhindert, dass wiederholt dieselben Fehler gemacht werden.

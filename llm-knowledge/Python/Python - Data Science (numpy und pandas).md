@@ -1,3 +1,10 @@
+---
+type: wissen
+tags: [python, numpy, pandas, data-science]
+status: stabil
+updated: 2026-06-28
+---
+
 # 🐍 Python – Data Science (numpy und pandas)
 
 Kernkonzepte zu numpy und pandas. Teil von [[Python-Erkenntnisse]].

@@ -1,3 +1,10 @@
+---
+type: wissen
+tags: [python, datenstrukturen, komplexitaet]
+status: stabil
+updated: 2026-06-28
+---
+
 # 🐍 Python – Datenstrukturen und Komplexität
 
 Spezialisierte Datenstrukturen und Laufzeitverhalten. Teil von [[Python-Erkenntnisse]].

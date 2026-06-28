@@ -1,4 +1,13 @@
-# 🏗️ Obsidian-Struktur für Laufen — Analyse & Verbesserungen
+---
+type: meta
+tags: [laufen, obsidian-struktur, archiv]
+status: ueberholt
+updated: 2026-06-28
+---
+
+# 🏗️ Obsidian-Struktur für Laufen — Analyse & Verbesserungen (überholt)
+
+> **Hinweis (28.06.2026):** Der unten vorgeschlagene Ordnerplan mit Emoji-Unterordnern wurde verworfen. Statt tiefer Ordnerverschachtelung gibt es jetzt eine flache Struktur mit YAML-Frontmatter (`type`, `tags`, `status`) pro Notiz plus [[_Index]] als zentralen Einstiegspunkt — das ist für ein LLM leichter durchsuch- und filterbar als Ordnertiefe. Dieses Dokument bleibt als Historie erhalten.
 
 **Stand: 25. Juni 2026 | Nach 5-km-Test Auswertung**
 

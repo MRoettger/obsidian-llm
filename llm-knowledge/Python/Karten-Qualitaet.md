@@ -1,3 +1,10 @@
+---
+type: meta
+tags: [python, anki, kartenqualitaet]
+status: stabil
+updated: 2026-06-28
+---
+
 # 🟥 Karten-Qualität — was gute Python-Karten unterscheidet
 
 Abgeleitet aus dem Vergleich der **rot markierten** (überarbeitungsbedürftigen) Karten gegen die bewährten Karten im Deck **Python::Fortgeschritten**. Diese Notiz hält fest, *warum* die roten Karten markiert wurden, damit künftige Karten von Anfang an besser entstehen.

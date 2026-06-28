@@ -1,3 +1,10 @@
+---
+type: wissen
+tags: [python, funktionen, oop]
+status: stabil
+updated: 2026-06-28
+---
+
 # 🐍 Python – Funktionen und OOP
 
 Funktionen höherer Ordnung, Closures und objektorientierte Konzepte inklusive Dunder-Methoden. Teil von [[Python-Erkenntnisse]].

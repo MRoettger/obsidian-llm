@@ -1,3 +1,10 @@
+---
+type: moc
+tags: [python, uebersicht]
+status: lebend
+updated: 2026-06-28
+---
+
 # 🐍 Python-Erkenntnisse
 
 Themen-Überblick zu meinem Python-Wissen, abgeleitet aus den Anki-Decks **Python** und **Python::Fortgeschritten**. Jede Themen-Notiz fasst die Kernaussagen der zugehörigen Karten zusammen und führt am Ende eine Tabelle der erfassten Anki-Karten-IDs (für duplikatsicheres Erweitern).

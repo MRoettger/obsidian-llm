@@ -1,3 +1,10 @@
+---
+type: referenz
+tags: [laufen, halbmarathon, marathon, methodik]
+status: stabil
+updated: 2026-06-28
+---
+
 # 🏃‍♂️ Trainingsmethoden Halbmarathon & Marathon
 
 Übersicht der effektivsten Trainingsmethoden für die langen Distanzen — aufgebaut auf den im Vault dokumentierten Prinzipien (polarisiertes Modell, [[Herzfrequenzzonen]], 80/20-Verteilung) und auf HM/Marathon übertragen.

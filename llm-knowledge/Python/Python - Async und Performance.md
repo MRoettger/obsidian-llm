@@ -1,3 +1,10 @@
+---
+type: wissen
+tags: [python, async, performance]
+status: stabil
+updated: 2026-06-28
+---
+
 # 🐍 Python – Async und Performance
 
 Nebenläufigkeit, Parallelität, der GIL und Performance-Messung. Teil von [[Python-Erkenntnisse]].

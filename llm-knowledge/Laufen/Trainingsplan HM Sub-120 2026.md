@@ -1,3 +1,10 @@
+---
+type: plan
+tags: [laufen, halbmarathon, trainingsplan]
+status: aktiv
+updated: 2026-06-28
+---
+
 # 🗓️ Trainingsplan Halbmarathon Sub-1:20 (16 Wochen)
 
 **Erstellt:** 28.06.2026 | **Letztes Update:** 28.06.2026 (konsolidiert)

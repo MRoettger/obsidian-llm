@@ -1,3 +1,10 @@
+---
+type: ziele
+tags: [laufen, ziele]
+status: aktiv
+updated: 2026-06-28
+---
+
 # 🎯 Laufziele
 
 ## Hauptziel (Stand 28.06.2026)

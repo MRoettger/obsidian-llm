@@ -1,3 +1,10 @@
+---
+type: referenz
+tags: [laufen, halbmarathon, wissenschaft]
+status: stabil
+updated: 2026-06-28
+---
+
 # 📚 HM-Aufbau — Forschungsgrundlagen 2026
 
 Wissenschaftliche Basis für den [[Trainingsplan HM Sub-120 2026]]. Recherche-Stand: 28.06.2026, Schwerpunkt aktuelle Peer-Review-Literatur (2014–2026). Die Empfehlungen decken sich weitgehend mit der bestehenden Vault-Methodik ([[Trainingsmethoden Halbmarathon Marathon]]) und schärfen sie an einigen Stellen.

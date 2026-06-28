@@ -1,3 +1,10 @@
+---
+type: referenz
+tags: [laufen, 5km, methodik]
+status: abgeschlossen
+updated: 2026-06-28
+---
+
 # 🏃 Trainingsbausteine 5 km
 
 Basierend auf der Trainingsanalyse der letzten Wochen und dem Ziel 5-km-Zeit zu verbessern.

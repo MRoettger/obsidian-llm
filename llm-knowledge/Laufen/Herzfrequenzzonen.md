@@ -1,3 +1,10 @@
+---
+type: referenz
+tags: [laufen, physiologie]
+status: stabil
+updated: 2026-06-28
+---
+
 # 💓 Herzfrequenzzonen
 
 Aus dem **Sportmedizinischen Stufentest** (Seite 5 der Auswertung).

@@ -1,3 +1,10 @@
+---
+type: status
+tags: [laufen, status, intervals-icu]
+status: lebend
+updated: 2026-06-28
+---
+
 # 📊 Aktueller Fitnessstatus
 
 Letzter Stand: **20. Juni 2026** (aus Intervals.icu)
