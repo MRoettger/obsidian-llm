@@ -11,14 +11,14 @@
             "id": "0248d35b49087c48",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "llm-knowledge/Python/Karten-Qualitaet.md",
-                "bFile": "llm-knowledge/Python/Karten-Qualitaet.md",
-                "aRef": ""
+                "file": "Laufen/Obsidian-Struktur-Analyse 25.06.2026.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: Karten-Qualitaet  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "Obsidian-Struktur-Analyse 25.06.2026"
             }
           }
         ]
@@ -94,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Laufen/Obsidian-Struktur-Analyse 25.06.2026.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Rückverweise"
+              "title": "Rückverweise auf Obsidian-Struktur-Analyse 25.06.2026"
             }
           },
           {
@@ -195,29 +196,32 @@
   },
   "active": "0248d35b49087c48",
   "lastOpenFiles": [
+    "Laufen/Trainingspräferenzen.md",
+    "Laufen/Wochenbericht 2026-06-18 bis 06-25.md",
+    "Laufen/Trainingsplan HM Sub-120 2026.md",
+    "Laufen/Trainingsmethoden Halbmarathon Marathon.md",
     "Laufen/Rennvorbereitung-Checkliste.md",
-    "Python/Karten-Qualitaet.md",
-    "Laufen/Laufziele.md",
-    "Laufen/Aktueller Fitnessstatus.md",
     "Laufen/Renntag-Erkenntnisse.md",
-    "Laufen/5km-Test-Protokoll.md",
-    "Python/Python - Async und Performance.md",
     "Laufen/Obsidian-Struktur-Analyse 25.06.2026.md",
+    "Laufen/Laufziele.md",
+    "Laufen/HM-Aufbau Forschungsgrundlagen 2026.md",
+    "Laufen/Herzfrequenzzonen.md",
+    "Laufen/Aktueller Fitnessstatus.md",
+    "Laufen/5km-Test-Protokoll.md",
+    "Laufen/12-Wochen-Plan HM-Aufbau 2026.md",
     "Python/Python - Data Science (numpy und pandas).md",
+    "Python/Python - Async und Performance.md",
+    "Python/Karten-Qualitaet.md",
     "Python/Python - Datenstrukturen und Komplexität.md",
     "Python/Python - Funktionen und OOP.md",
     "Python/Python - Standardbibliothek.md",
     "Python/Python - Syntax und Datentypen.md",
     "Python/Python-Erkenntnisse.md",
     "Python - Datenstrukturen und Komplexität.md",
-    "Laufen/Wochenbericht 2026-06-18 bis 06-25.md",
     "Python",
     "Willkommen.md",
     "Laufen/Wochenbericht 2026-06-16 bis 06-22.md",
-    "Laufen/Trainingspräferenzen.md",
     "Laufen/Trainingsbausteine 5km.md",
-    "Laufen/Trainingsmethoden Halbmarathon Marathon.md",
-    "Laufen/Herzfrequenzzonen.md",
     "Laufen"
   ]
 }
