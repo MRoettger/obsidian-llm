@@ -38,7 +38,7 @@ updated: 2026-06-28
 ## Verknüpfte Notizen
 - [[Trainingsplan HM Sub-120 2026]] — 16-Wochen-Plan
 - [[HM-Aufbau Forschungsgrundlagen 2026]] — wissenschaftliche Basis
-- [[Herzfrequenzzonen]] · [[Trainingsmethoden Halbmarathon Marathon]] · [[Trainingsbausteine 5km]] · [[Aktueller Fitnessstatus]]
+- [[Herzfrequenzzonen]] · [[Trainingsmethoden Halbmarathon Marathon]] · [[Trainingsbausteine 5km]] 
 
 ---
 *Stand: 28.06.2026 (konsolidiert) | Quellen: Intervals.icu, Sportmedizintest, Sportwissenschaft*
