@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Laufen/Obsidian-Struktur-Analyse 25.06.2026.md",
+                "file": "Laufen/_Index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Obsidian-Struktur-Analyse 25.06.2026"
+              "title": "_Index"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Laufen/Obsidian-Struktur-Analyse 25.06.2026.md",
+                "file": "Laufen/_Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Rückverweise auf Obsidian-Struktur-Analyse 25.06.2026"
+              "title": "Rückverweise auf _Index"
             }
           },
           {
@@ -196,6 +196,8 @@
   },
   "active": "0248d35b49087c48",
   "lastOpenFiles": [
+    "Laufen/Wochenbericht 2026-06-18 bis 06-25.md",
+    "Laufen/Obsidian-Struktur-Analyse 25.06.2026.md",
     "Laufen/Laufziele.md",
     "Laufen/HM-Aufbau Forschungsgrundlagen 2026.md",
     "Laufen/Herzfrequenzzonen.md",
@@ -204,9 +206,7 @@
     "Laufen/Aktueller Fitnessstatus.md",
     "Laufen/5km-Test-Protokoll.md",
     "Laufen/Trainingsplan HM Sub-120 2026.md",
-    "Laufen/Wochenbericht 2026-06-18 bis 06-25.md",
     "Laufen/Trainingspräferenzen.md",
-    "Laufen/Obsidian-Struktur-Analyse 25.06.2026.md",
     "Laufen/Trainingsmethoden Halbmarathon Marathon.md",
     "Laufen/Renntag-Erkenntnisse.md",
     "Laufen/12-Wochen-Plan HM-Aufbau 2026.md",
