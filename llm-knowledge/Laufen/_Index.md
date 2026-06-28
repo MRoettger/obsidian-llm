@@ -11,7 +11,6 @@ Map of Content für alle Laufen-Notizen. Flache Ordnerstruktur, Filterung läuft
 
 ## Ziele & Status
 - [[Laufziele]] — Saisonziele, aktueller Hauptfokus
-- [[Aktueller Fitnessstatus]] — CTL/ATL/TSB, lebend gepflegt
 - [[Herzfrequenzzonen]] — Zonen-Referenz aus dem Stufentest
 
 ## Pläne & Methodik
@@ -23,7 +22,6 @@ Map of Content für alle Laufen-Notizen. Flache Ordnerstruktur, Filterung läuft
 
 ## Rennen & Tests
 - [[Rennvorbereitung-Checkliste]] — Checkliste vor jedem Test/Rennen
-- [[5km-Test-Protokoll]] — Vorlage für 5-km-Maximalversuche
 - [[Renntag-Erkenntnisse]] — laufend gepflegte Fehler-Datenbank
 
 ## Wochenberichte

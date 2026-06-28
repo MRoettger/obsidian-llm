@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Laufen/Laufziele.md",
+                "file": "Laufen/HM-Aufbau Forschungsgrundlagen 2026.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Laufziele"
+              "title": "HM-Aufbau Forschungsgrundlagen 2026"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Laufen/Laufziele.md",
+                "file": "Laufen/HM-Aufbau Forschungsgrundlagen 2026.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Rückverweise auf Laufziele"
+              "title": "Rückverweise auf HM-Aufbau Forschungsgrundlagen 2026"
             }
           },
           {
@@ -196,19 +196,19 @@
   },
   "active": "0248d35b49087c48",
   "lastOpenFiles": [
-    "Laufen/HM-Aufbau Forschungsgrundlagen 2026.md",
     "Laufen/Herzfrequenzzonen.md",
+    "Laufen/_Index.md",
+    "Laufen/Rennvorbereitung-Checkliste.md",
+    "Laufen/Laufziele.md",
     "Laufen/Aktueller Fitnessstatus.md",
     "Laufen/5km-Test-Protokoll.md",
+    "Laufen/HM-Aufbau Forschungsgrundlagen 2026.md",
     "Laufen/Trainingsplan HM Sub-120 2026.md",
     "Laufen/Wochenbericht 2026-06-18 bis 06-25.md",
     "Laufen/Trainingspräferenzen.md",
-    "Laufen/_Index.md",
     "Laufen/Obsidian-Struktur-Analyse 25.06.2026.md",
     "Laufen/Trainingsmethoden Halbmarathon Marathon.md",
-    "Laufen/Rennvorbereitung-Checkliste.md",
     "Laufen/Renntag-Erkenntnisse.md",
-    "Laufen/Laufziele.md",
     "Laufen/12-Wochen-Plan HM-Aufbau 2026.md",
     "Python/Python - Data Science (numpy und pandas).md",
     "Python/Python - Async und Performance.md",
