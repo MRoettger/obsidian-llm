@@ -80,7 +80,6 @@ Laufseitig okay (2 lockere Läufe Z1 + 1 Wettkampf). Aber die großen Z2–3-Rad
 
 ## Verknüpfte Notizen
 - [[Laufziele]]
-- [[Aktueller Fitnessstatus]]
 - [[Herzfrequenzzonen]]
 - [[Trainingsbausteine 5km]]
 - [[Trainingsmethoden Halbmarathon Marathon]]
