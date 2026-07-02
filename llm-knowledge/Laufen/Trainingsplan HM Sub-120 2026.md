@@ -2,7 +2,7 @@
 type: plan
 tags: [laufen, halbmarathon, trainingsplan]
 status: aktiv
-updated: 2026-06-28
+updated: 2026-07-02
 ---
 
 # 🗓️ Trainingsplan Halbmarathon Sub-1:20 (16 Wochen)
@@ -14,7 +14,7 @@ updated: 2026-06-28
 **Wettkampfdatum:** noch offen — Block ist Trainingsgerüst, Taper wird auf reales Datum gelegt
 **Grundlage:** [[Trainingsmethoden Halbmarathon Marathon]], [[Herzfrequenzzonen]], [[Trainingspräferenzen]] + Sportwissenschaft (siehe [[HM-Aufbau Forschungsgrundlagen 2026]])
 
-> **Status Intervals.icu:** KW 27 (laufend), KW 28 und KW 29 sind konkret eingetragen. Folgewochen werden zu Wochenbeginn aus diesem Rahmen fein geplant (mit aktuellem Form-/Belastungs-Check).
+> **Status Intervals.icu:** KW 27 (laufend) und KW 28 sind konkret eingetragen. **KW 29 (13.–19.07.) = Urlaubswoche (Wandern, kein strukturiertes Laufen)** — siehe [[Urlaub 2026-07-13 bis 07-19]]. Folgewochen werden zu Wochenbeginn aus diesem Rahmen fein geplant (mit aktuellem Form-/Belastungs-Check).
 
 ---
 
@@ -39,8 +39,8 @@ Pyramidal → polarisiert (Filipas et al. 2022): erst breite Grundlage mit orden
 |----|----------|-------|---------------|----------|-------------|
 | 27 (lfd.) | – | Aufbau | ~48 km | 16 km | bereits in Intervals.icu |
 | 28 | 1 | Grundlage | ~52 km | 17 km (4 km HM-Pace) | ✅ eingetragen — Schwelle 3×10 |
-| 29 | 2 | Grundlage | ~56 km | 18 km (5 km HM-Pace) | ✅ eingetragen — Schwelle 2×15 |
-| 30 | 3 | Grundlage | ~60 km | 19 km | LR mit Tempoende; **LTHR-Feldtest** |
+| 29 | 2 | **🚴 Urlaub (Rennrad)** | – (kein Laufen) | – | 13.–19.07. viele km + Höhenmeter → aerober **Radblock** statt Laufwoche, s. [[Urlaub 2026-07-13 bis 07-19]] |
+| 30 | 3 | Grundlage *(voller Einstieg)* | ~60 km | 19 km | wieder voll nach Urlaub (Rad = impactfrei); LR mit Tempoende; **LTHR-Feldtest** |
 | 31 | 4 | **Entlastung** | ~46 km | 14 km | −25 %, Erholung |
 | 32 | 5 | Aufbau | ~62 km | 20 km | HM-Pace-Block 6 km @3:45–3:50 |
 | 33 | 6 | Aufbau | ~66 km | 20 km | erstes lockeres Doppel einführen |
@@ -85,7 +85,7 @@ Pyramidal → polarisiert (Filipas et al. 2022): erst breite Grundlage mit orden
 ## 📌 Offene Punkte
 
 - **Wettkampfdatum/HM-Termin** festlegen → fixiert die genaue Taper-Lage (aktuell KW 43 angenommen).
-- **LTHR-Klärung:** 165 bpm (Sportmedizin) vs. 172 bpm (Intervals.icu) verschieben die Zonengrenzen. Feldtest in KW 30 eingeplant — wichtig, weil 3:45/km nah an den Zonengrenzen liegt.
+- **LTHR-Klärung:** 165 bpm (Sportmedizin) vs. 172 bpm (Intervals.icu) verschieben die Zonengrenzen. Feldtest in KW 30 eingeplant — wichtig, weil 3:45/km nah an den Zonengrenzen liegt. Datenpunkt 02.07.: Schwellentempo (4:05–4:13/km) bei nur 149–158 bpm gelaufen, spricht eher für niedrigeres LTHR bzw. gute aktuelle Ökonomie — siehe [[Trainingslog 2026-07-02 Schwelle]].
 - **HM-Zielpace** kalibrieren, sobald 1–2 HM-Pace-Läufe gelaufen sind.
 - **Plausibilität Sub-1:20:** 5-km-Form ~18:00 ⇒ VDOT-äquivalent ~1:20–1:23 HM. Sub-1:20 ist am oberen Rand und gelingt nur mit ausgebautem aerobem Unterbau (Peak ~80 km). Realistisch als Zielfenster; ggf. zweiter Block nötig, falls der aerobe Aufbau mehr Zeit braucht.
 

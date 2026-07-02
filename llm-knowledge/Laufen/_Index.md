@@ -24,8 +24,12 @@ Map of Content für alle Laufen-Notizen. Flache Ordnerstruktur, Filterung läuft
 - [[Rennvorbereitung-Checkliste]] — Checkliste vor jedem Test/Rennen
 - [[Renntag-Erkenntnisse]] — laufend gepflegte Fehler-Datenbank
 
-## Wochenberichte
+## Wochenberichte & Trainingslogs
 - [[Wochenbericht 2026-06-18 bis 06-25]]
+- [[Trainingslog 2026-07-02 Schwelle]] — Qualitätseinheit KW 27, Plan-Abgleich
+
+## Urlaub & Pausen
+- [[Urlaub 2026-07-13 bis 07-19]] — Rennrad-Urlaub (KW 29), Plan-Anpassung KW 29–31
 
 ## Prinzip für neue Notizen
 1. Immer Frontmatter mit `type`, `tags`, `status`, `updated` setzen.
