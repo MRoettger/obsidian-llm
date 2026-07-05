@@ -83,9 +83,9 @@
       "source_file": "llm-knowledge/Laufen/Wochenbericht 2026-06-29 bis 07-05.md",
       "source_location": "L1",
       "_origin": "ast",
-      "id": "llm_knowledge_laufen_wochenbericht_2026_06_29_bis_07_05",
       "community": 50,
-      "norm_label": "wochenbericht 2026-06-29 bis 07-05.md"
+      "norm_label": "wochenbericht 2026-06-29 bis 07-05.md",
+      "id": "llm_knowledge_laufen_wochenbericht_2026_06_29_bis_07_05"
     },
     {
       "label": "\ud83d\udcc5 Wochenbericht 29. Juni \u2013 5. Juli 2026 (KW 27)",
@@ -93,9 +93,9 @@
       "source_file": "llm-knowledge/Laufen/Wochenbericht 2026-06-29 bis 07-05.md",
       "source_location": "L8",
       "_origin": "ast",
-      "id": "llm_knowledge_laufen_wochenbericht_2026_06_29_bis_07_05_wochenbericht_29_juni_5_juli_2026_kw_27",
       "community": 50,
-      "norm_label": "\ud83d\udcc5 wochenbericht 29. juni \u2013 5. juli 2026 (kw 27)"
+      "norm_label": "\ud83d\udcc5 wochenbericht 29. juni \u2013 5. juli 2026 (kw 27)",
+      "id": "llm_knowledge_laufen_wochenbericht_2026_06_29_bis_07_05_wochenbericht_29_juni_5_juli_2026_kw_27"
     },
     {
       "label": "\ud83d\uddd3\ufe0f Die Einheiten im \u00dcberblick",
@@ -103,9 +103,9 @@
       "source_file": "llm-knowledge/Laufen/Wochenbericht 2026-06-29 bis 07-05.md",
       "source_location": "L14",
       "_origin": "ast",
-      "id": "llm_knowledge_laufen_wochenbericht_2026_06_29_bis_07_05_die_einheiten_im_\u00fcberblick",
       "community": 50,
-      "norm_label": "\ud83d\uddd3\ufe0f die einheiten im uberblick"
+      "norm_label": "\ud83d\uddd3\ufe0f die einheiten im uberblick",
+      "id": "llm_knowledge_laufen_wochenbericht_2026_06_29_bis_07_05_die_einheiten_im_\u00fcberblick"
     },
     {
       "label": "\ud83d\udcca Formverlauf (CTL / ATL / TSB)",
@@ -113,9 +113,9 @@
       "source_file": "llm-knowledge/Laufen/Wochenbericht 2026-06-29 bis 07-05.md",
       "source_location": "L28",
       "_origin": "ast",
-      "id": "llm_knowledge_laufen_wochenbericht_2026_06_29_bis_07_05_formverlauf_ctl_atl_tsb",
       "community": 50,
-      "norm_label": "\ud83d\udcca formverlauf (ctl / atl / tsb)"
+      "norm_label": "\ud83d\udcca formverlauf (ctl / atl / tsb)",
+      "id": "llm_knowledge_laufen_wochenbericht_2026_06_29_bis_07_05_formverlauf_ctl_atl_tsb"
     },
     {
       "label": "\ud83c\udfaf Abgleich mit Plan & Zielen",
@@ -123,9 +123,9 @@
       "source_file": "llm-knowledge/Laufen/Wochenbericht 2026-06-29 bis 07-05.md",
       "source_location": "L44",
       "_origin": "ast",
-      "id": "llm_knowledge_laufen_wochenbericht_2026_06_29_bis_07_05_abgleich_mit_plan_zielen",
       "community": 50,
-      "norm_label": "\ud83c\udfaf abgleich mit plan & zielen"
+      "norm_label": "\ud83c\udfaf abgleich mit plan & zielen",
+      "id": "llm_knowledge_laufen_wochenbericht_2026_06_29_bis_07_05_abgleich_mit_plan_zielen"
     },
     {
       "label": "Umfang \u2014 **klar \u00fcbererf\u00fcllt**",
@@ -133,9 +133,9 @@
       "source_file": "llm-knowledge/Laufen/Wochenbericht 2026-06-29 bis 07-05.md",
       "source_location": "L46",
       "_origin": "ast",
-      "id": "llm_knowledge_laufen_wochenbericht_2026_06_29_bis_07_05_umfang_klar_\u00fcbererf\u00fcllt",
       "community": 50,
-      "norm_label": "umfang \u2014 **klar ubererfullt**"
+      "norm_label": "umfang \u2014 **klar ubererfullt**",
+      "id": "llm_knowledge_laufen_wochenbericht_2026_06_29_bis_07_05_umfang_klar_\u00fcbererf\u00fcllt"
     },
     {
       "label": "Struktur \u2014 **lehrbuchm\u00e4\u00dfig getroffen**",
@@ -143,9 +143,9 @@
       "source_file": "llm-knowledge/Laufen/Wochenbericht 2026-06-29 bis 07-05.md",
       "source_location": "L49",
       "_origin": "ast",
-      "id": "llm_knowledge_laufen_wochenbericht_2026_06_29_bis_07_05_struktur_lehrbuchm\u00e4ssig_getroffen",
       "community": 50,
-      "norm_label": "struktur \u2014 **lehrbuchma\u00dfig getroffen**"
+      "norm_label": "struktur \u2014 **lehrbuchma\u00dfig getroffen**",
+      "id": "llm_knowledge_laufen_wochenbericht_2026_06_29_bis_07_05_struktur_lehrbuchm\u00e4ssig_getroffen"
     },
     {
       "label": "Intensit\u00e4tsverteilung (80/20)",
@@ -153,9 +153,9 @@
       "source_file": "llm-knowledge/Laufen/Wochenbericht 2026-06-29 bis 07-05.md",
       "source_location": "L52",
       "_origin": "ast",
-      "id": "llm_knowledge_laufen_wochenbericht_2026_06_29_bis_07_05_intensit\u00e4tsverteilung_80_20",
       "community": 50,
-      "norm_label": "intensitatsverteilung (80/20)"
+      "norm_label": "intensitatsverteilung (80/20)",
+      "id": "llm_knowledge_laufen_wochenbericht_2026_06_29_bis_07_05_intensit\u00e4tsverteilung_80_20"
     },
     {
       "label": "Rad \u2014 **Plan-Soll verfehlt (klein)**",
@@ -163,9 +163,9 @@
       "source_file": "llm-knowledge/Laufen/Wochenbericht 2026-06-29 bis 07-05.md",
       "source_location": "L55",
       "_origin": "ast",
-      "id": "llm_knowledge_laufen_wochenbericht_2026_06_29_bis_07_05_rad_plan_soll_verfehlt_klein",
       "community": 50,
-      "norm_label": "rad \u2014 **plan-soll verfehlt (klein)**"
+      "norm_label": "rad \u2014 **plan-soll verfehlt (klein)**",
+      "id": "llm_knowledge_laufen_wochenbericht_2026_06_29_bis_07_05_rad_plan_soll_verfehlt_klein"
     },
     {
       "label": "\ud83d\udd11 Erkenntnisse",
@@ -173,9 +173,9 @@
       "source_file": "llm-knowledge/Laufen/Wochenbericht 2026-06-29 bis 07-05.md",
       "source_location": "L60",
       "_origin": "ast",
-      "id": "llm_knowledge_laufen_wochenbericht_2026_06_29_bis_07_05_erkenntnisse",
       "community": 50,
-      "norm_label": "\ud83d\udd11 erkenntnisse"
+      "norm_label": "\ud83d\udd11 erkenntnisse",
+      "id": "llm_knowledge_laufen_wochenbericht_2026_06_29_bis_07_05_erkenntnisse"
     },
     {
       "label": "\u2705 Konsequenzen f\u00fcr die n\u00e4chste Planung",
@@ -183,9 +183,9 @@
       "source_file": "llm-knowledge/Laufen/Wochenbericht 2026-06-29 bis 07-05.md",
       "source_location": "L70",
       "_origin": "ast",
-      "id": "llm_knowledge_laufen_wochenbericht_2026_06_29_bis_07_05_konsequenzen_f\u00fcr_die_n\u00e4chste_planung",
       "community": 50,
-      "norm_label": "\u2705 konsequenzen fur die nachste planung"
+      "norm_label": "\u2705 konsequenzen fur die nachste planung",
+      "id": "llm_knowledge_laufen_wochenbericht_2026_06_29_bis_07_05_konsequenzen_f\u00fcr_die_n\u00e4chste_planung"
     },
     {
       "label": "Verkn\u00fcpfte Notizen",
@@ -193,19 +193,9 @@
       "source_file": "llm-knowledge/Laufen/Wochenbericht 2026-06-29 bis 07-05.md",
       "source_location": "L79",
       "_origin": "ast",
-      "id": "llm_knowledge_laufen_wochenbericht_2026_06_29_bis_07_05_verkn\u00fcpfte_notizen",
       "community": 50,
-      "norm_label": "verknupfte notizen"
-    },
-    {
-      "label": "2026-07-03.md",
-      "file_type": "document",
-      "source_file": "llm-knowledge/2026-07-03.md",
-      "source_location": "L1",
-      "_origin": "ast",
-      "community": 86,
-      "norm_label": "2026-07-03.md",
-      "id": "llm_knowledge_2026_07_03"
+      "norm_label": "verknupfte notizen",
+      "id": "llm_knowledge_laufen_wochenbericht_2026_06_29_bis_07_05_verkn\u00fcpfte_notizen"
     },
     {
       "label": "claude_desktop_config.json",
@@ -24420,9 +24410,9 @@
       "source_file": "llm-knowledge/Laufen/Wochenbericht 2026-06-29 bis 07-05.md",
       "source_location": "L8",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "llm_knowledge_laufen_wochenbericht_2026_06_29_bis_07_05",
-      "target": "llm_knowledge_laufen_wochenbericht_2026_06_29_bis_07_05_wochenbericht_29_juni_5_juli_2026_kw_27",
-      "confidence_score": 1.0
+      "target": "llm_knowledge_laufen_wochenbericht_2026_06_29_bis_07_05_wochenbericht_29_juni_5_juli_2026_kw_27"
     },
     {
       "relation": "contains",
@@ -24430,9 +24420,9 @@
       "source_file": "llm-knowledge/Laufen/Wochenbericht 2026-06-29 bis 07-05.md",
       "source_location": "L44",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "llm_knowledge_laufen_wochenbericht_2026_06_29_bis_07_05_wochenbericht_29_juni_5_juli_2026_kw_27",
-      "target": "llm_knowledge_laufen_wochenbericht_2026_06_29_bis_07_05_abgleich_mit_plan_zielen",
-      "confidence_score": 1.0
+      "target": "llm_knowledge_laufen_wochenbericht_2026_06_29_bis_07_05_abgleich_mit_plan_zielen"
     },
     {
       "relation": "contains",
@@ -24440,9 +24430,9 @@
       "source_file": "llm-knowledge/Laufen/Wochenbericht 2026-06-29 bis 07-05.md",
       "source_location": "L14",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "llm_knowledge_laufen_wochenbericht_2026_06_29_bis_07_05_wochenbericht_29_juni_5_juli_2026_kw_27",
-      "target": "llm_knowledge_laufen_wochenbericht_2026_06_29_bis_07_05_die_einheiten_im_\u00fcberblick",
-      "confidence_score": 1.0
+      "target": "llm_knowledge_laufen_wochenbericht_2026_06_29_bis_07_05_die_einheiten_im_\u00fcberblick"
     },
     {
       "relation": "contains",
@@ -24450,9 +24440,9 @@
       "source_file": "llm-knowledge/Laufen/Wochenbericht 2026-06-29 bis 07-05.md",
       "source_location": "L60",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "llm_knowledge_laufen_wochenbericht_2026_06_29_bis_07_05_wochenbericht_29_juni_5_juli_2026_kw_27",
-      "target": "llm_knowledge_laufen_wochenbericht_2026_06_29_bis_07_05_erkenntnisse",
-      "confidence_score": 1.0
+      "target": "llm_knowledge_laufen_wochenbericht_2026_06_29_bis_07_05_erkenntnisse"
     },
     {
       "relation": "contains",
@@ -24460,9 +24450,9 @@
       "source_file": "llm-knowledge/Laufen/Wochenbericht 2026-06-29 bis 07-05.md",
       "source_location": "L28",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "llm_knowledge_laufen_wochenbericht_2026_06_29_bis_07_05_wochenbericht_29_juni_5_juli_2026_kw_27",
-      "target": "llm_knowledge_laufen_wochenbericht_2026_06_29_bis_07_05_formverlauf_ctl_atl_tsb",
-      "confidence_score": 1.0
+      "target": "llm_knowledge_laufen_wochenbericht_2026_06_29_bis_07_05_formverlauf_ctl_atl_tsb"
     },
     {
       "relation": "contains",
@@ -24470,9 +24460,9 @@
       "source_file": "llm-knowledge/Laufen/Wochenbericht 2026-06-29 bis 07-05.md",
       "source_location": "L70",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "llm_knowledge_laufen_wochenbericht_2026_06_29_bis_07_05_wochenbericht_29_juni_5_juli_2026_kw_27",
-      "target": "llm_knowledge_laufen_wochenbericht_2026_06_29_bis_07_05_konsequenzen_f\u00fcr_die_n\u00e4chste_planung",
-      "confidence_score": 1.0
+      "target": "llm_knowledge_laufen_wochenbericht_2026_06_29_bis_07_05_konsequenzen_f\u00fcr_die_n\u00e4chste_planung"
     },
     {
       "relation": "contains",
@@ -24480,9 +24470,9 @@
       "source_file": "llm-knowledge/Laufen/Wochenbericht 2026-06-29 bis 07-05.md",
       "source_location": "L79",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "llm_knowledge_laufen_wochenbericht_2026_06_29_bis_07_05_wochenbericht_29_juni_5_juli_2026_kw_27",
-      "target": "llm_knowledge_laufen_wochenbericht_2026_06_29_bis_07_05_verkn\u00fcpfte_notizen",
-      "confidence_score": 1.0
+      "target": "llm_knowledge_laufen_wochenbericht_2026_06_29_bis_07_05_verkn\u00fcpfte_notizen"
     },
     {
       "relation": "contains",
@@ -24490,9 +24480,9 @@
       "source_file": "llm-knowledge/Laufen/Wochenbericht 2026-06-29 bis 07-05.md",
       "source_location": "L52",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "llm_knowledge_laufen_wochenbericht_2026_06_29_bis_07_05_abgleich_mit_plan_zielen",
-      "target": "llm_knowledge_laufen_wochenbericht_2026_06_29_bis_07_05_intensit\u00e4tsverteilung_80_20",
-      "confidence_score": 1.0
+      "target": "llm_knowledge_laufen_wochenbericht_2026_06_29_bis_07_05_intensit\u00e4tsverteilung_80_20"
     },
     {
       "relation": "contains",
@@ -24500,9 +24490,9 @@
       "source_file": "llm-knowledge/Laufen/Wochenbericht 2026-06-29 bis 07-05.md",
       "source_location": "L55",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "llm_knowledge_laufen_wochenbericht_2026_06_29_bis_07_05_abgleich_mit_plan_zielen",
-      "target": "llm_knowledge_laufen_wochenbericht_2026_06_29_bis_07_05_rad_plan_soll_verfehlt_klein",
-      "confidence_score": 1.0
+      "target": "llm_knowledge_laufen_wochenbericht_2026_06_29_bis_07_05_rad_plan_soll_verfehlt_klein"
     },
     {
       "relation": "contains",
@@ -24510,9 +24500,9 @@
       "source_file": "llm-knowledge/Laufen/Wochenbericht 2026-06-29 bis 07-05.md",
       "source_location": "L49",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "llm_knowledge_laufen_wochenbericht_2026_06_29_bis_07_05_abgleich_mit_plan_zielen",
-      "target": "llm_knowledge_laufen_wochenbericht_2026_06_29_bis_07_05_struktur_lehrbuchm\u00e4ssig_getroffen",
-      "confidence_score": 1.0
+      "target": "llm_knowledge_laufen_wochenbericht_2026_06_29_bis_07_05_struktur_lehrbuchm\u00e4ssig_getroffen"
     },
     {
       "relation": "contains",
@@ -24520,9 +24510,9 @@
       "source_file": "llm-knowledge/Laufen/Wochenbericht 2026-06-29 bis 07-05.md",
       "source_location": "L46",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "llm_knowledge_laufen_wochenbericht_2026_06_29_bis_07_05_abgleich_mit_plan_zielen",
-      "target": "llm_knowledge_laufen_wochenbericht_2026_06_29_bis_07_05_umfang_klar_\u00fcbererf\u00fcllt",
-      "confidence_score": 1.0
+      "target": "llm_knowledge_laufen_wochenbericht_2026_06_29_bis_07_05_umfang_klar_\u00fcbererf\u00fcllt"
     },
     {
       "relation": "contains",
@@ -94368,5 +94358,5 @@
       "source_file": "llm-knowledge/Python/Python - Async und Performance.md"
     }
   ],
-  "built_at_commit": "e333587605e4641b4bc13caa98d136e1d845c121"
+  "built_at_commit": "73b7f3448e42df09808c5641f7d13353e5adaa20"
 }

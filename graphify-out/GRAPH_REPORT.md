@@ -1,16 +1,16 @@
 # Graph Report - obsidian-llm  (2026-07-05)
 
 ## Corpus Check
-- 38 files · ~347,412 words
+- 37 files · ~347,399 words
 - Verdict: corpus is large enough that graph structure adds value.
 
 ## Summary
-- 2396 nodes · 6574 edges · 100 communities (87 shown, 13 thin omitted)
+- 2395 nodes · 6574 edges · 99 communities (86 shown, 13 thin omitted)
 - Extraction: 89% EXTRACTED · 11% INFERRED · 0% AMBIGUOUS · INFERRED: 718 edges (avg confidence: 0.6)
 - Token cost: 0 input · 0 output
 
 ## Graph Freshness
-- Built from commit: `e3335876`
+- Built from commit: `73b7f344`
 - Run `git rev-parse HEAD` and compare to check if the graph is stale.
 - Run `graphify update .` after code changes (no API cost).
 
@@ -147,7 +147,7 @@
 - **asyncio Nebenläufigkeits-Fluss** — llm_knowledge_python_python___async_und_performance_async_def, llm_knowledge_python_python___async_und_performance_await, llm_knowledge_python_python___async_und_performance_gather [EXTRACTED 0.90]
 - **GIL bestimmt Thread- vs. Prozess-Wahl** — llm_knowledge_python_python___async_und_performance_gil, llm_knowledge_python_python___async_und_performance_threadpool_processpool, llm_knowledge_python_python___async_und_performance_concurrency_vs_parallelism [INFERRED 0.85]
 
-## Communities (100 total, 13 thin omitted)
+## Communities (99 total, 13 thin omitted)
 
 ### Community 1 - "Obsidian-Git Internals (JS)"
 Cohesion: 0.01
@@ -494,11 +494,11 @@ Nodes (3): Generator (yield), yield from, Comprehensions & Generator-Ausdruck
 _Questions this graph is uniquely positioned to answer:_
 
 - **Why does `i()` connect `Plugin Code (minified) C63` to `Obsidian-Git Internals (JS)`, `Plugin Code (minified) C2`, `Plugin Code (minified) C4`, `Plugin Code (minified) C7`, `Plugin Code (minified) C8`, `Plugin Code (minified) C9`, `Plugin Code (minified) C10`, `Zod Validation Internals (JS)`, `Plugin Code (minified) C14`, `Plugin Code (minified) C18`, `Plugin Code (minified) C19`, `Plugin Code (minified) C20`, `Plugin Code (minified) C21`, `Plugin Code (minified) C23`, `Plugin Code (minified) C24`, `Plugin Code (minified) C25`, `Plugin Code (minified) C26`, `Plugin Code (minified) C27`, `Plugin Code (minified) C30`, `Plugin Code (minified) C31`, `Plugin Code (minified) C33`, `Plugin Code (minified) C35`, `Plugin Code (minified) C38`, `Plugin Code (minified) C40`, `Plugin Code (minified) C41`, `Plugin Code (minified) C42`, `Plugin Code (minified) C43`, `Plugin Code (minified) C44`, `Plugin Code (minified) C48`, `Plugin Code (minified) C49`, `Plugin Code (minified) C51`, `Plugin Code (minified) C52`, `Plugin Code (minified) C54`, `Plugin Code (minified) C57`, `Plugin Code (minified) C60`, `Plugin Code (minified) C67`, `Plugin Code (minified) C68`, `Plugin Code (minified) C69`, `Plugin Code (minified) C72`, `Plugin Code (minified) C75`, `Plugin Code (minified) C77`, `Plugin Code (minified) C78`?**
-  _High betweenness centrality (0.059) - this node is a cross-community bridge._
+  _High betweenness centrality (0.069) - this node is a cross-community bridge._
+- **Why does `p()` connect `Plugin Code (minified) C7` to `Obsidian-Git Internals (JS)`, `Plugin Code (minified) C4`, `Plugin Code (minified) C41`, `Plugin Code (minified) C10`, `Plugin Code (minified) C75`, `Plugin Code (minified) C76`, `Plugin Code (minified) C77`, `Plugin Code (minified) C44`, `Plugin Code (minified) C63`, `Plugin Code (minified) C19`, `Plugin Code (minified) C20`, `Plugin Code (minified) C54`, `Plugin Code (minified) C22`, `Plugin Code (minified) C26`, `Plugin Code (minified) C29`, `Plugin Code (minified) C31`?**
+  _High betweenness centrality (0.033) - this node is a cross-community bridge._
 - **Why does `e()` connect `Plugin Code (minified) C2` to `Obsidian-Git Internals (JS)`, `Plugin Code (minified) C4`, `MCP Task & Capability Handling (JS)`, `Plugin Code (minified) C7`, `Plugin Code (minified) C8`, `Plugin Code (minified) C9`, `Plugin Code (minified) C10`, `Plugin Code (minified) C11`, `Zod Validation Internals (JS)`, `Plugin Code (minified) C14`, `Plugin Code (minified) C20`, `Plugin Code (minified) C22`, `Plugin Code (minified) C26`, `Plugin Code (minified) C29`, `Plugin Code (minified) C30`, `Plugin Code (minified) C31`, `Plugin Code (minified) C32`, `Plugin Code (minified) C33`, `Plugin Code (minified) C36`, `Plugin Code (minified) C39`, `Plugin Code (minified) C40`, `Plugin Code (minified) C43`, `Plugin Code (minified) C44`, `Plugin Code (minified) C52`, `Plugin Code (minified) C54`, `Plugin Code (minified) C58`, `Plugin Code (minified) C59`, `Plugin Code (minified) C63`, `Plugin Code (minified) C67`, `Plugin Code (minified) C68`, `Plugin Code (minified) C75`, `Plugin Code (minified) C76`?**
-  _High betweenness centrality (0.029) - this node is a cross-community bridge._
-- **Why does `"node_modules/marked/lib/marked.esm.js"()` connect `Plugin Code (minified) C20` to `MCP Test/Assert Helpers (JS)`, `Plugin Code (minified) C2`, `Plugin Code (minified) C7`, `Plugin Code (minified) C10`, `Plugin Code (minified) C77`, `Plugin Code (minified) C19`, `Plugin Code (minified) C62`, `Plugin Code (minified) C63`?**
-  _High betweenness centrality (0.023) - this node is a cross-community bridge._
+  _High betweenness centrality (0.030) - this node is a cross-community bridge._
 - **Are the 121 inferred relationships involving `i()` (e.g. with `main.js` and `_6()`) actually correct?**
   _`i()` has 121 INFERRED edges - model-reasoned connections that need verification._
 - **Are the 72 inferred relationships involving `e()` (e.g. with `$b()` and `c3()`) actually correct?**
