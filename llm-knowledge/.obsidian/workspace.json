@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "344c487bf2b7a60d",
+        "id": "610eba1fe5e94ba8",
         "type": "tabs",
         "children": [
           {
-            "id": "db26779634d8c3d9",
+            "id": "ae83501426a7c20c",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "graphify-out/graph.html",
-                "bFile": "graphify-out/graph.html",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: graph.html  (Working Tree)"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Neuer Tab"
             }
           }
         ]
@@ -195,8 +191,9 @@
   },
   "active": "0813c63cf193ce00",
   "lastOpenFiles": [
-    "Laufen/Wochenbericht 2026-06-29 bis 07-05.md",
     "2026-07-03.md",
+    "2026-07-05.md",
+    "Laufen/Wochenbericht 2026-06-29 bis 07-05.md",
     "Laufen/Trainingslog 2026-07-02 Schwelle.md",
     "Laufen/Trainingsplan HM Sub-120 2026.md.tmp.94958.6cc7d9f832ca",
     "Laufen/Trainingsplan HM Sub-120 2026.md.tmp.94958.94fa794401ba",
@@ -222,7 +219,6 @@
     "Python/Python - Datenstrukturen und Komplexität.md",
     "Python/Python - Funktionen und OOP.md",
     "Python/Python - Standardbibliothek.md",
-    "Python/Python - Syntax und Datentypen.md",
     "Python",
     "Laufen"
   ]
