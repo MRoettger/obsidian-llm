@@ -65,9 +65,9 @@
     "semantic_hash": "65ae45c2a7c68e5df3c8f9ea534cbf3a"
   },
   "llm-knowledge/.obsidian/workspace.json": {
-    "mtime": 1783287684.197821,
-    "ast_hash": "86af7b7e5a5993c227a796cf7068cbb8",
-    "semantic_hash": "86af7b7e5a5993c227a796cf7068cbb8"
+    "mtime": 1783288597.863734,
+    "ast_hash": "edb6fd95789c0767ddcc66149b2f9208",
+    "semantic_hash": ""
   },
   "llm-knowledge/2026-07-03.md": {
     "mtime": 1783114044.947687,
@@ -183,5 +183,10 @@
     "mtime": 1782682659.8764577,
     "ast_hash": "35db775226a1b5523078c6d6dce45b25",
     "semantic_hash": "35db775226a1b5523078c6d6dce45b25"
+  },
+  "llm-knowledge/Laufen/Wochenbericht 2026-06-29 bis 07-05.md": {
+    "mtime": 1783288596.8008387,
+    "ast_hash": "fe4efa58e8e86c96ce542414902fe274",
+    "semantic_hash": ""
   }
 }
