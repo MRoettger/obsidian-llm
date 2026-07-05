@@ -13,12 +13,12 @@
             "state": {
               "type": "split-diff-view",
               "state": {
-                "aFile": "graphify-out/cache/ast/v0.9.6/1b88dabb189001763c055ab71f27e4dd162dfa87d20c7b3d836ef44f27334c85.json",
-                "bFile": "graphify-out/cache/ast/v0.9.6/1b88dabb189001763c055ab71f27e4dd162dfa87d20c7b3d836ef44f27334c85.json",
+                "aFile": "graphify-out/graph.html",
+                "bFile": "graphify-out/graph.html",
                 "aRef": ""
               },
               "icon": "diff",
-              "title": "Diff: 1b88dabb189001763c055ab71f27e4dd162dfa87d20c7b3d836ef44f27334c85.json  (Working Tree)"
+              "title": "Diff: graph.html  (Working Tree)"
             }
           }
         ]
@@ -193,8 +193,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "db26779634d8c3d9",
+  "active": "0813c63cf193ce00",
   "lastOpenFiles": [
+    "Laufen/Wochenbericht 2026-06-29 bis 07-05.md",
     "2026-07-03.md",
     "Laufen/Trainingslog 2026-07-02 Schwelle.md",
     "Laufen/Trainingsplan HM Sub-120 2026.md.tmp.94958.6cc7d9f832ca",
@@ -222,7 +223,6 @@
     "Python/Python - Funktionen und OOP.md",
     "Python/Python - Standardbibliothek.md",
     "Python/Python - Syntax und Datentypen.md",
-    "Python/Python-Erkenntnisse.md",
     "Python",
     "Laufen"
   ]
