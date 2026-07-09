@@ -11,10 +11,14 @@
             "id": "ae83501426a7c20c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Neuer Tab"
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "llm-knowledge/2026-07-09.md",
+                "bFile": "llm-knowledge/2026-07-09.md",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: 2026-07-09  (Working Tree)"
             }
           }
         ]
@@ -189,11 +193,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0813c63cf193ce00",
+  "active": "ae83501426a7c20c",
   "lastOpenFiles": [
+    "2026-07-09.md",
+    "Laufen/Wochenbericht 2026-06-29 bis 07-05.md",
     "2026-07-03.md",
     "2026-07-05.md",
-    "Laufen/Wochenbericht 2026-06-29 bis 07-05.md",
     "Laufen/Trainingslog 2026-07-02 Schwelle.md",
     "Laufen/Trainingsplan HM Sub-120 2026.md.tmp.94958.6cc7d9f832ca",
     "Laufen/Trainingsplan HM Sub-120 2026.md.tmp.94958.94fa794401ba",
@@ -218,7 +223,6 @@
     "Python/Karten-Qualitaet.md",
     "Python/Python - Datenstrukturen und Komplexität.md",
     "Python/Python - Funktionen und OOP.md",
-    "Python/Python - Standardbibliothek.md",
     "Python",
     "Laufen"
   ]

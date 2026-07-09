@@ -5,9 +5,9 @@
     "semantic_hash": "b62aacd39b97f261d1b6126e5a68cbef"
   },
   ".claude/settings.local.json": {
-    "mtime": 1783628041.9247177,
-    "ast_hash": "45b6782b254c1fbef5606114c0818b42",
-    "semantic_hash": ""
+    "mtime": 1783288077.3979642,
+    "ast_hash": "2b71f181aeef68a67e635ef57f23a734",
+    "semantic_hash": "2b71f181aeef68a67e635ef57f23a734"
   },
   "llm-knowledge/.obsidian/app.json": {
     "mtime": 1782932131.7506242,
@@ -65,8 +65,8 @@
     "semantic_hash": "65ae45c2a7c68e5df3c8f9ea534cbf3a"
   },
   "llm-knowledge/.obsidian/workspace.json": {
-    "mtime": 1783596127.5848432,
-    "ast_hash": "28e0657505a29601ed8bb0751d32bbe1",
+    "mtime": 1783288760.9468188,
+    "ast_hash": "bf587d1ca3555442c36b99e3c70501da",
     "semantic_hash": ""
   },
   "llm-knowledge/Laufen/HM-Aufbau Forschungsgrundlagen 2026.md": {
@@ -182,21 +182,6 @@
   "llm-knowledge/Laufen/Wochenbericht 2026-06-29 bis 07-05.md": {
     "mtime": 1783288596.8008387,
     "ast_hash": "fe4efa58e8e86c96ce542414902fe274",
-    "semantic_hash": ""
-  },
-  ".claude/settings.json": {
-    "mtime": 1783628286.6611817,
-    "ast_hash": "e51077b6a7f1f67afc748f1a32a1557d",
-    "semantic_hash": ""
-  },
-  "CLAUDE.md": {
-    "mtime": 1783628286.660977,
-    "ast_hash": "82efb97a359f5c7290bf2513d14686be",
-    "semantic_hash": ""
-  },
-  "llm-knowledge/2026-07-09.md": {
-    "mtime": 1783596108.5903854,
-    "ast_hash": "d41d8cd98f00b204e9800998ecf8427e",
     "semantic_hash": ""
   }
 }

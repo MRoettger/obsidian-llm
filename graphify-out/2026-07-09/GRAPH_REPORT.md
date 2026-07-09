@@ -1,0 +1,509 @@
+# Graph Report - obsidian-llm  (2026-07-05)
+
+## Corpus Check
+- 37 files · ~347,399 words
+- Verdict: corpus is large enough that graph structure adds value.
+
+## Summary
+- 2395 nodes · 6574 edges · 99 communities (86 shown, 13 thin omitted)
+- Extraction: 89% EXTRACTED · 11% INFERRED · 0% AMBIGUOUS · INFERRED: 718 edges (avg confidence: 0.6)
+- Token cost: 0 input · 0 output
+
+## Graph Freshness
+- Built from commit: `73b7f344`
+- Run `git rev-parse HEAD` and compare to check if the graph is stale.
+- Run `graphify update .` after code changes (no API cost).
+
+## Community Hubs (Navigation)
+- [[_COMMUNITY_Obsidian-Git Internals (JS)|Obsidian-Git Internals (JS)]]
+- [[_COMMUNITY_Plugin Code (minified) C2|Plugin Code (minified) C2]]
+- [[_COMMUNITY_MCP ToolPrompt Registration (JS)|MCP Tool/Prompt Registration (JS)]]
+- [[_COMMUNITY_Plugin Code (minified) C4|Plugin Code (minified) C4]]
+- [[_COMMUNITY_MCP Task & Capability Handling (JS)|MCP Task & Capability Handling (JS)]]
+- [[_COMMUNITY_Running Training & HR Science|Running Training & HR Science]]
+- [[_COMMUNITY_Plugin Code (minified) C7|Plugin Code (minified) C7]]
+- [[_COMMUNITY_Plugin Code (minified) C8|Plugin Code (minified) C8]]
+- [[_COMMUNITY_Plugin Code (minified) C9|Plugin Code (minified) C9]]
+- [[_COMMUNITY_Plugin Code (minified) C10|Plugin Code (minified) C10]]
+- [[_COMMUNITY_Plugin Code (minified) C11|Plugin Code (minified) C11]]
+- [[_COMMUNITY_Zod Schema Core (JS)|Zod Schema Core (JS)]]
+- [[_COMMUNITY_Zod Validation Internals (JS)|Zod Validation Internals (JS)]]
+- [[_COMMUNITY_Plugin Code (minified) C14|Plugin Code (minified) C14]]
+- [[_COMMUNITY_REST API Server  SSE (JS)|REST API Server / SSE (JS)]]
+- [[_COMMUNITY_Zod JSON-Schema Parsing (JS)|Zod JSON-Schema Parsing (JS)]]
+- [[_COMMUNITY_Zod String Formats (JS)|Zod String Formats (JS)]]
+- [[_COMMUNITY_Plugin Code (minified) C18|Plugin Code (minified) C18]]
+- [[_COMMUNITY_Plugin Code (minified) C19|Plugin Code (minified) C19]]
+- [[_COMMUNITY_Plugin Code (minified) C20|Plugin Code (minified) C20]]
+- [[_COMMUNITY_Plugin Code (minified) C21|Plugin Code (minified) C21]]
+- [[_COMMUNITY_Plugin Code (minified) C22|Plugin Code (minified) C22]]
+- [[_COMMUNITY_Plugin Code (minified) C23|Plugin Code (minified) C23]]
+- [[_COMMUNITY_Plugin Code (minified) C24|Plugin Code (minified) C24]]
+- [[_COMMUNITY_Plugin Code (minified) C25|Plugin Code (minified) C25]]
+- [[_COMMUNITY_Plugin Code (minified) C26|Plugin Code (minified) C26]]
+- [[_COMMUNITY_Plugin Code (minified) C27|Plugin Code (minified) C27]]
+- [[_COMMUNITY_Plugin Code (minified) C28|Plugin Code (minified) C28]]
+- [[_COMMUNITY_Plugin Code (minified) C29|Plugin Code (minified) C29]]
+- [[_COMMUNITY_Plugin Code (minified) C30|Plugin Code (minified) C30]]
+- [[_COMMUNITY_Plugin Code (minified) C31|Plugin Code (minified) C31]]
+- [[_COMMUNITY_Plugin Code (minified) C32|Plugin Code (minified) C32]]
+- [[_COMMUNITY_Plugin Code (minified) C33|Plugin Code (minified) C33]]
+- [[_COMMUNITY_Plugin Code (minified) C34|Plugin Code (minified) C34]]
+- [[_COMMUNITY_Plugin Code (minified) C35|Plugin Code (minified) C35]]
+- [[_COMMUNITY_Plugin Code (minified) C36|Plugin Code (minified) C36]]
+- [[_COMMUNITY_Python Functions & OOP|Python Functions & OOP]]
+- [[_COMMUNITY_Plugin Code (minified) C38|Plugin Code (minified) C38]]
+- [[_COMMUNITY_Plugin Code (minified) C39|Plugin Code (minified) C39]]
+- [[_COMMUNITY_Plugin Code (minified) C40|Plugin Code (minified) C40]]
+- [[_COMMUNITY_Plugin Code (minified) C41|Plugin Code (minified) C41]]
+- [[_COMMUNITY_Plugin Code (minified) C42|Plugin Code (minified) C42]]
+- [[_COMMUNITY_Plugin Code (minified) C43|Plugin Code (minified) C43]]
+- [[_COMMUNITY_Plugin Code (minified) C44|Plugin Code (minified) C44]]
+- [[_COMMUNITY_Plugin Code (minified) C45|Plugin Code (minified) C45]]
+- [[_COMMUNITY_Python Syntax & Card Quality|Python Syntax & Card Quality]]
+- [[_COMMUNITY_Plugin Code (minified) C47|Plugin Code (minified) C47]]
+- [[_COMMUNITY_Plugin Code (minified) C48|Plugin Code (minified) C48]]
+- [[_COMMUNITY_Plugin Code (minified) C49|Plugin Code (minified) C49]]
+- [[_COMMUNITY_Plugin Code (minified) C50|Plugin Code (minified) C50]]
+- [[_COMMUNITY_Plugin Code (minified) C51|Plugin Code (minified) C51]]
+- [[_COMMUNITY_Plugin Code (minified) C52|Plugin Code (minified) C52]]
+- [[_COMMUNITY_Plugin Code (minified) C53|Plugin Code (minified) C53]]
+- [[_COMMUNITY_Plugin Code (minified) C54|Plugin Code (minified) C54]]
+- [[_COMMUNITY_Plugin Code (minified) C55|Plugin Code (minified) C55]]
+- [[_COMMUNITY_Python Standard Library|Python Standard Library]]
+- [[_COMMUNITY_Plugin Code (minified) C57|Plugin Code (minified) C57]]
+- [[_COMMUNITY_Plugin Code (minified) C58|Plugin Code (minified) C58]]
+- [[_COMMUNITY_Plugin Code (minified) C59|Plugin Code (minified) C59]]
+- [[_COMMUNITY_Plugin Code (minified) C60|Plugin Code (minified) C60]]
+- [[_COMMUNITY_Plugin Code (minified) C61|Plugin Code (minified) C61]]
+- [[_COMMUNITY_Plugin Code (minified) C62|Plugin Code (minified) C62]]
+- [[_COMMUNITY_Plugin Code (minified) C63|Plugin Code (minified) C63]]
+- [[_COMMUNITY_Plugin Code (minified) C64|Plugin Code (minified) C64]]
+- [[_COMMUNITY_Plugin Code (minified) C65|Plugin Code (minified) C65]]
+- [[_COMMUNITY_Python Async & Performance|Python Async & Performance]]
+- [[_COMMUNITY_Plugin Code (minified) C67|Plugin Code (minified) C67]]
+- [[_COMMUNITY_Plugin Code (minified) C68|Plugin Code (minified) C68]]
+- [[_COMMUNITY_Plugin Code (minified) C69|Plugin Code (minified) C69]]
+- [[_COMMUNITY_Plugin Code (minified) C70|Plugin Code (minified) C70]]
+- [[_COMMUNITY_Plugin Code (minified) C71|Plugin Code (minified) C71]]
+- [[_COMMUNITY_Plugin Code (minified) C72|Plugin Code (minified) C72]]
+- [[_COMMUNITY_Plugin Code (minified) C73|Plugin Code (minified) C73]]
+- [[_COMMUNITY_Plugin Code (minified) C75|Plugin Code (minified) C75]]
+- [[_COMMUNITY_Plugin Code (minified) C76|Plugin Code (minified) C76]]
+- [[_COMMUNITY_Plugin Code (minified) C77|Plugin Code (minified) C77]]
+- [[_COMMUNITY_Plugin Code (minified) C78|Plugin Code (minified) C78]]
+- [[_COMMUNITY_Plugin Code (minified) C80|Plugin Code (minified) C80]]
+- [[_COMMUNITY_Plugin Code (minified) C81|Plugin Code (minified) C81]]
+- [[_COMMUNITY_Python Data Science (numpypandas)|Python Data Science (numpy/pandas)]]
+- [[_COMMUNITY_Python Data Structures & Complexity|Python Data Structures & Complexity]]
+- [[_COMMUNITY_Plugin Code (minified) C85|Plugin Code (minified) C85]]
+- [[_COMMUNITY_Plugin Code (minified) C88|Plugin Code (minified) C88]]
+- [[_COMMUNITY_Plugin Code (minified) C89|Plugin Code (minified) C89]]
+- [[_COMMUNITY_Plugin Code (minified) C90|Plugin Code (minified) C90]]
+- [[_COMMUNITY_Plugin Code (minified) C93|Plugin Code (minified) C93]]
+- [[_COMMUNITY_Plugin Code (minified) C94|Plugin Code (minified) C94]]
+- [[_COMMUNITY_Plugin Code (minified) C95|Plugin Code (minified) C95]]
+- [[_COMMUNITY_Python Generators|Python Generators]]
+- [[_COMMUNITY_Plugin Code (minified) C97|Plugin Code (minified) C97]]
+- [[_COMMUNITY_Plugin Code (minified) C98|Plugin Code (minified) C98]]
+- [[_COMMUNITY_Plugin Code (minified) C99|Plugin Code (minified) C99]]
+- [[_COMMUNITY_Plugin Code (minified) C100|Plugin Code (minified) C100]]
+- [[_COMMUNITY_Plugin Code (minified) C101|Plugin Code (minified) C101]]
+- [[_COMMUNITY_Plugin Code (minified) C102|Plugin Code (minified) C102]]
+- [[_COMMUNITY_Plugin Code (minified) C103|Plugin Code (minified) C103]]
+- [[_COMMUNITY_Plugin Code (minified) C106|Plugin Code (minified) C106]]
+
+## God Nodes (most connected - your core abstractions)
+1. `push()` - 168 edges
+2. `i()` - 150 edges
+3. `e()` - 98 edges
+4. `slice()` - 84 edges
+5. `normalizeParams()` - 59 edges
+6. `get()` - 58 edges
+7. `join()` - 57 edges
+8. `toString()` - 56 edges
+9. `u()` - 56 edges
+10. `ie()` - 55 edges
+
+## Surprising Connections (you probably didn't know these)
+- `asyncio` --semantically_similar_to--> `Generator (yield)`  [INFERRED] [semantically similar]
+  llm-knowledge/Python/Python - Async und Performance.md → llm-knowledge/Python/Python - Funktionen und OOP.md
+- `VF()` --calls--> `fe()`  [INFERRED]
+  llm-knowledge/.obsidian/plugins/obsidian-git/main.js → llm-knowledge/.obsidian/plugins/obsidian-local-rest-api/main.js
+- `Gb()` --indirect_call--> `M()`  [INFERRED]
+  llm-knowledge/.obsidian/plugins/obsidian-git/main.js → llm-knowledge/.obsidian/plugins/obsidian-local-rest-api/main.js
+- `Gb()` --indirect_call--> `X()`  [INFERRED]
+  llm-knowledge/.obsidian/plugins/obsidian-git/main.js → llm-knowledge/.obsidian/plugins/obsidian-local-rest-api/main.js
+- `"node_modules/get-intrinsic/index.js"()` --indirect_call--> `e()`  [INFERRED]
+  llm-knowledge/.obsidian/plugins/obsidian-local-rest-api/main.js → llm-knowledge/.obsidian/plugins/obsidian-git/main.js
+
+## Import Cycles
+- None detected.
+
+## Hyperedges (group relationships)
+- **5-km-Test-Fehlschlag 24.06: Hitze + kein Taper + zu schnell raus** — llm_knowledge_laufen_renntag_erkenntnisse_dreifaktoren_einbruch, llm_knowledge_laufen_rennvorbereitung_checkliste_drei_must_haves, llm_knowledge_laufen_wochenbericht_2026_06_18_bis_06_25_doppeltage_stolperfalle [INFERRED 0.85]
+- **HM Sub-1:20 Plan-Säulen: pyramidal→polarisiert, Schwelle, VO2max, Long Run, Taper** — llm_knowledge_laufen_hm_aufbau_forschungsgrundlagen_2026_pyramidal_polarisiert, llm_knowledge_laufen_hm_aufbau_forschungsgrundlagen_2026_schwellentraining, llm_knowledge_laufen_hm_aufbau_forschungsgrundlagen_2026_vo2max_intervalle, llm_knowledge_laufen_hm_aufbau_forschungsgrundlagen_2026_long_run, llm_knowledge_laufen_hm_aufbau_forschungsgrundlagen_2026_tapering [EXTRACTED 0.90]
+- **Python-Erkenntnisse Themen-Übersicht (MOC)** — llm_knowledge_python_python_erkenntnisse, llm_knowledge_python_python___syntax_und_datentypen, llm_knowledge_python_python___funktionen_und_oop, llm_knowledge_python_python___standardbibliothek, llm_knowledge_python_python___async_und_performance, llm_knowledge_python_python___datenstrukturen_und_komplexitaet, llm_knowledge_python_python___data_science__numpy_und_pandas_ [EXTRACTED 1.00]
+- **asyncio Nebenläufigkeits-Fluss** — llm_knowledge_python_python___async_und_performance_async_def, llm_knowledge_python_python___async_und_performance_await, llm_knowledge_python_python___async_und_performance_gather [EXTRACTED 0.90]
+- **GIL bestimmt Thread- vs. Prozess-Wahl** — llm_knowledge_python_python___async_und_performance_gil, llm_knowledge_python_python___async_und_performance_threadpool_processpool, llm_knowledge_python_python___async_und_performance_concurrency_vs_parallelism [INFERRED 0.85]
+
+## Communities (99 total, 13 thin omitted)
+
+### Community 1 - "Obsidian-Git Internals (JS)"
+Cohesion: 0.01
+Nodes (57): $1(), A2(), aI(), BF(), C8(), compare(), computeStagedHunks(), createHunk() (+49 more)
+
+### Community 2 - "Plugin Code (minified) C2"
+Cohesion: 0.04
+Nodes (55): a8(), bH(), c3(), c6(), connect(), d6(), e(), e6() (+47 more)
+
+### Community 3 - "MCP Tool/Prompt Registration (JS)"
+Cohesion: 0.06
+Nodes (55): args(), assertCompleteRequestPrompt(), assertCompleteRequestResourceTemplate(), buildServer(), createCompletionResult(), _createRegisteredPrompt(), _createRegisteredResource(), _createRegisteredResourceTemplate() (+47 more)
+
+### Community 4 - "Plugin Code (minified) C4"
+Cohesion: 0.16
+Nodes (18): addAskPassScriptToExclude(), calcSigns(), changeEnd(), ensure(), error(), hi(), i0(), oncommit() (+10 more)
+
+### Community 5 - "MCP Task & Capability Handling (JS)"
+Cohesion: 0.06
+Nodes (46): addResourceSpec(), assertCapabilityForMethod(), assertClientRequestTaskCapability(), assertNotificationCapability(), assertTaskCapability(), assertTaskHandlerCapability(), assertToolsCallTaskCapability(), cancelTask() (+38 more)
+
+### Community 6 - "Running Training & HR Science"
+Cohesion: 0.07
+Nodes (47): Laufen — Übersicht (MOC), Herzfrequenzzonen, 5-Zonen-HF-Modell (Laufen), LTHR-Doppelwert (165 vs. 172 bpm), HM-Aufbau Forschungsgrundlagen 2026, Bosquet et al. 2007, MSSE, Casado et al. 2022, IJSPP, Rad / Crosstraining (VO2max-Erhalt, impactfrei) (+39 more)
+
+### Community 7 - "Plugin Code (minified) C7"
+Cohesion: 0.14
+Nodes (39): A(), ak(), C(), dI(), ek(), ev(), FP(), g() (+31 more)
+
+### Community 8 - "Plugin Code (minified) C8"
+Cohesion: 0.07
+Nodes (35): $0(), $2(), activateCodeMirrorExtensions(), activateFeature(), addEventListener(), changeToNewFilepath(), computeSigns(), conditionallyActivateBySettings() (+27 more)
+
+### Community 9 - "Plugin Code (minified) C9"
+Cohesion: 0.10
+Nodes (46): aS(), askpass(), $b(), ck(), deleteRef(), deleteRefs(), em(), exists() (+38 more)
+
+### Community 10 - "Plugin Code (minified) C10"
+Cohesion: 0.12
+Nodes (39): acquire(), Bg(), d0(), Db(), delete(), dk(), et(), FL() (+31 more)
+
+### Community 11 - "Plugin Code (minified) C11"
+Cohesion: 0.08
+Nodes (33): adaptTextForFakeCommit(), c5(), computeDom(), createHtmlNode(), D2(), D5(), f4(), g5() (+25 more)
+
+### Community 12 - "Zod Schema Core (JS)"
+Cohesion: 0.10
+Nodes (25): aborted(), clone(), extend(), extract(), handleIntersectionResults(), handlePipeResult(), isObject(), isPlainObject() (+17 more)
+
+### Community 13 - "Zod Validation Internals (JS)"
+Cohesion: 0.07
+Nodes (34): abort(), addIssueToContext(), assertNever(), compile(), datetimeRegex(), dirty(), floatSafeRemainder2(), _getCached() (+26 more)
+
+### Community 14 - "Plugin Code (minified) C14"
+Cohesion: 0.09
+Nodes (30): AE(), B3(), bP(), constructor(), create(), cw(), dispatch(), dP() (+22 more)
+
+### Community 15 - "REST API Server / SSE (JS)"
+Cohesion: 0.12
+Nodes (21): appendFileContent(), close(), closeSSEStream(), closeStandaloneSSEStream(), handleDeleteRequest(), handleGetRequest(), handlePostRequest(), handleRequest() (+13 more)
+
+### Community 16 - "Zod JSON-Schema Parsing (JS)"
+Cohesion: 0.10
+Nodes (27): addErrorMessage(), addFormat(), addPattern(), emoji(), escapeLiteralCheckValue(), escapeNonAlphaNumeric(), parseAnyDef(), parseArrayDef() (+19 more)
+
+### Community 17 - "Zod String Formats (JS)"
+Cohesion: 0.07
+Nodes (29): _cidrv4(), _cidrv6(), _custom(), discriminatedUnion(), duration2(), _e164(), _emoji2(), _guid() (+21 more)
+
+### Community 18 - "Plugin Code (minified) C18"
+Cohesion: 0.12
+Nodes (20): _8(), applyPatch(), Aw(), convertErrors(), createPatch(), EL(), fI(), H5() (+12 more)
+
+### Community 19 - "Plugin Code (minified) C19"
+Cohesion: 0.19
+Nodes (23): copy(), ct(), defer_effect(), f$(), ff(), fO(), ft(), GF() (+15 more)
+
+### Community 20 - "Plugin Code (minified) C20"
+Cohesion: 0.14
+Nodes (21): C0(), De(), du(), expandAgainstMap(), g3(), Gb(), has(), jE() (+13 more)
+
+### Community 21 - "Plugin Code (minified) C21"
+Cohesion: 0.11
+Nodes (35): branchInfo(), canPush(), checkAuthorInfo(), checkout(), commit(), commitAll(), discard(), getConfig() (+27 more)
+
+### Community 22 - "Plugin Code (minified) C22"
+Cohesion: 0.06
+Nodes (80): filepath(), settings(), view(), activeFileDelete(), activeFileGet(), activeFilePatch(), activeFilePost(), activeFilePut() (+72 more)
+
+### Community 23 - "Plugin Code (minified) C23"
+Cohesion: 0.10
+Nodes (24): finite(), floatSafeRemainder(), _gt(), _gte(), _int(), jsonStringifyReplacer(), _length(), _lt() (+16 more)
+
+### Community 24 - "Plugin Code (minified) C24"
+Cohesion: 0.10
+Nodes (22): addToPath(), B4(), buildValues(), cO(), diffWithOptionsObj(), Do(), equals(), extractCommon() (+14 more)
+
+### Community 25 - "Plugin Code (minified) C25"
+Cohesion: 0.13
+Nodes (28): addFileToGitignore(), addTask(), av(), cloneNewRepo(), createBranch(), createNewRepo(), deleteBranch(), discardAll() (+20 more)
+
+### Community 26 - "Plugin Code (minified) C26"
+Cohesion: 0.11
+Nodes (34): bv(), C4(), content(), $D(), Ea(), eB(), get(), getall() (+26 more)
+
+### Community 27 - "Plugin Code (minified) C27"
+Cohesion: 0.10
+Nodes (26): checkRequirements(), display(), displayFromNow(), displayState(), getConflict(), getEnvVars(), getGitPath(), getHostname() (+18 more)
+
+### Community 28 - "Plugin Code (minified) C28"
+Cohesion: 0.10
+Nodes (22): a5(), activateLineAuthoring(), addLineAuthorInfoSettings(), cA(), colorSettingPreviewDesc(), configureLineAuthorShowStatus(), createColorSetting(), createGutterContextMenuHandler() (+14 more)
+
+### Community 29 - "Plugin Code (minified) C29"
+Cohesion: 0.15
+Nodes (21): aD(), CD(), Cx(), dx(), ED(), FD(), Fr(), hx() (+13 more)
+
+### Community 30 - "Plugin Code (minified) C30"
+Cohesion: 0.20
+Nodes (12): Bl(), dN(), generateEmptyDiff(), HH(), hN(), makeFileDiffHtml(), Mg(), render() (+4 more)
+
+### Community 31 - "Plugin Code (minified) C31"
+Cohesion: 0.11
+Nodes (32): bd(), CS(), deleteSection(), fromPayloadSignature(), getViewType(), gpgsig(), headers(), isolateSignature() (+24 more)
+
+### Community 32 - "Plugin Code (minified) C32"
+Cohesion: 0.16
+Nodes (14): aO(), bs(), castInput(), diff(), Kt(), Lo(), mO(), Mw() (+6 more)
+
+### Community 33 - "Plugin Code (minified) C33"
+Cohesion: 0.06
+Nodes (16): activate(), Bw(), Ec(), eN(), Hb(), JL(), jt(), k0() (+8 more)
+
+### Community 34 - "Plugin Code (minified) C34"
+Cohesion: 0.10
+Nodes (22): _addCheck(), _base64(), _base64url(), cidr(), _cuid(), _cuid2(), date(), datetime() (+14 more)
+
+### Community 35 - "Plugin Code (minified) C35"
+Cohesion: 0.13
+Nodes (19): _6(), applyLineGroupping(), applyRematchMatching(), dT(), e4(), fH(), generateFileHtml(), generateLineHtml() (+11 more)
+
+### Community 36 - "Plugin Code (minified) C36"
+Cohesion: 0.11
+Nodes (23): _accumulate(), byte(), chunk(), eof(), fromIdx(), iN(), jR(), _loadnext() (+15 more)
+
+### Community 37 - "Python Functions & OOP"
+Cohesion: 0.13
+Nodes (19): Python – Funktionen und OOP, Abstrakte Basisklasse (ABC), *args / **kwargs, __call__, Closure, Context Manager, @dataclass, Decorator (+11 more)
+
+### Community 38 - "Plugin Code (minified) C38"
+Cohesion: 0.11
+Nodes (18): AC(), BA(), dC(), fC(), H6(), K6(), L6(), LC() (+10 more)
+
+### Community 40 - "Plugin Code (minified) C40"
+Cohesion: 0.16
+Nodes (15): bC(), bT(), cH(), Eo(), i8(), jv(), lI(), lr() (+7 more)
+
+### Community 41 - "Plugin Code (minified) C41"
+Cohesion: 0.31
+Nodes (17): clone(), commitAndSync(), displayError(), displayMessage(), fetch(), getFileChangesCount(), getProgressText(), handleNoNetworkError() (+9 more)
+
+### Community 42 - "Plugin Code (minified) C42"
+Cohesion: 0.14
+Nodes (15): add(), display(), emit(), getCertificateIsUptoStandards(), getCertificateValidityDays(), getEnumValues(), getMcpTools(), getRoutes() (+7 more)
+
+### Community 43 - "Plugin Code (minified) C43"
+Cohesion: 0.08
+Nodes (30): Ax(), BR(), createFilter(), eE(), eH(), exec(), filter(), gv() (+22 more)
+
+### Community 44 - "Plugin Code (minified) C44"
+Cohesion: 0.16
+Nodes (20): capture(), DD(), increment(), P2(), create(), discriminator(), errors(), exclude() (+12 more)
+
+### Community 45 - "Plugin Code (minified) C45"
+Cohesion: 0.14
+Nodes (21): assertRequestHandlerCapability(), decideAdditionalProperties(), description(), getLiteralValue(), getMethodLiteral(), getObjectShape(), getSchemaDescription(), isNullable() (+13 more)
+
+### Community 46 - "Python Syntax & Card Quality"
+Cohesion: 0.14
+Nodes (15): Karten-Qualität, Qualitätskriterien für gute Karten, numpy Views vs. Kopien, Methodentypen (classmethod/staticmethod/Instanz), Python – Syntax und Datentypen, Shallow vs. Deep Copy, Falsy-Werte, Float-Vergleich (+7 more)
+
+### Community 47 - "Plugin Code (minified) C47"
+Cohesion: 0.16
+Nodes (14): deactivate(), decrement(), F0(), flush(), h0(), is_rendered(), It(), m0() (+6 more)
+
+### Community 48 - "Plugin Code (minified) C48"
+Cohesion: 0.10
+Nodes (26): beforeSaveSettings(), bShouldBeEditable(), createMergeView(), formatPath(), getDiffString(), getDisplayText(), getFileStatusResult(), getRelativeVaultPath() (+18 more)
+
+### Community 49 - "Plugin Code (minified) C49"
+Cohesion: 0.16
+Nodes (13): lD(), oD(), sD(), "node_modules/node-forge/lib/aes.js"(), "node_modules/node-forge/lib/des.js"(), "node_modules/node-forge/lib/md5.js"(), "node_modules/node-forge/lib/mgf1.js"(), "node_modules/node-forge/lib/pss.js"() (+5 more)
+
+### Community 50 - "Plugin Code (minified) C50"
+Cohesion: 0.17
+Nodes (11): 🎯 Abgleich mit Plan & Zielen, 🗓️ Die Einheiten im Überblick, 🔑 Erkenntnisse, 📊 Formverlauf (CTL / ATL / TSB), Intensitätsverteilung (80/20), ✅ Konsequenzen für die nächste Planung, Rad — **Plan-Soll verfehlt (klein)**, Struktur — **lehrbuchmäßig getroffen** (+3 more)
+
+### Community 51 - "Plugin Code (minified) C51"
+Cohesion: 0.23
+Nodes (12): add(), _addPattern(), C2(), clear(), i5(), mf(), q$(), q4() (+4 more)
+
+### Community 52 - "Plugin Code (minified) C52"
+Cohesion: 0.15
+Nodes (13): d8(), h8(), iC(), iH(), JC(), m8(), Nr(), p8() (+5 more)
+
+### Community 53 - "Plugin Code (minified) C53"
+Cohesion: 0.23
+Nodes (12): blame(), computeLineAuthorInfo(), E2(), getRelativeRepoPath(), getSubmoduleOfFile(), gitShow(), hashObject(), isTracked() (+4 more)
+
+### Community 54 - "Plugin Code (minified) C54"
+Cohesion: 0.10
+Nodes (31): _addEntry(), aN(), Bb(), bk(), CB(), cN(), cu(), entries() (+23 more)
+
+### Community 55 - "Plugin Code (minified) C55"
+Cohesion: 0.20
+Nodes (11): brand(), _catch(), createZodEnum(), _default(), innerType(), keyof(), pipe(), preprocess() (+3 more)
+
+### Community 56 - "Python Standard Library"
+Cohesion: 0.18
+Nodes (12): Python – Standardbibliothek, itertools.chain, collections.Counter, datetime (strptime/strftime), collections.defaultdict, enum.Enum, itertools.groupby, json (dumps/dump/loads/load) (+4 more)
+
+### Community 57 - "Plugin Code (minified) C57"
+Cohesion: 0.25
+Nodes (8): apply(), B1(), H1(), iI(), L1(), N1(), qx(), uO()
+
+### Community 59 - "Plugin Code (minified) C59"
+Cohesion: 0.50
+Nodes (4): attributeChangedCallback(), connectedCallback(), $$g_p(), tF()
+
+### Community 60 - "Plugin Code (minified) C60"
+Cohesion: 0.16
+Nodes (18): offset(), wrap(), en_default(), error(), isEmpty(), isIP(), "node_modules/express/lib/middleware/query.js"(), "node_modules/express/lib/request.js"() (+10 more)
+
+### Community 61 - "Plugin Code (minified) C61"
+Cohesion: 0.40
+Nodes (5): build(), IP(), k5(), MP(), uP()
+
+### Community 62 - "Plugin Code (minified) C62"
+Cohesion: 0.20
+Nodes (10): D3(), E3(), gl(), j3(), k3(), P3(), T3(), u3() (+2 more)
+
+### Community 63 - "Plugin Code (minified) C63"
+Cohesion: 0.07
+Nodes (36): AR(), CR(), discover(), dS(), eS(), getRemoteHelperFor(), HM(), hS() (+28 more)
+
+### Community 64 - "Plugin Code (minified) C64"
+Cohesion: 0.31
+Nodes (11): load(), s3(), v2(), "node_modules/body-parser/node_modules/debug/src/browser.js"(), "node_modules/body-parser/node_modules/debug/src/node.js"(), "node_modules/express/node_modules/debug/src/browser.js"(), "node_modules/express/node_modules/debug/src/node.js"(), "node_modules/finalhandler/node_modules/debug/src/browser.js"() (+3 more)
+
+### Community 65 - "Plugin Code (minified) C65"
+Cohesion: 0.50
+Nodes (4): config(), finalizeIssue(), handleUnionResults(), unwrapMessage()
+
+### Community 66 - "Python Async & Performance"
+Cohesion: 0.29
+Nodes (10): Python – Async und Performance, async def / Coroutine, asyncio, await, Concurrency vs. Parallelism, cProfile, asyncio.gather vs. wait, GIL (Global Interpreter Lock) (+2 more)
+
+### Community 67 - "Plugin Code (minified) C67"
+Cohesion: 0.24
+Nodes (10): A6(), AP(), CP(), f2(), lP(), n0(), oP(), s5() (+2 more)
+
+### Community 68 - "Plugin Code (minified) C68"
+Cohesion: 0.10
+Nodes (25): advance(), Bn(), consider(), e5(), EP(), ew(), Fb(), g2() (+17 more)
+
+### Community 69 - "Plugin Code (minified) C69"
+Cohesion: 0.67
+Nodes (3): eI(), Pf(), tI()
+
+### Community 70 - "Plugin Code (minified) C70"
+Cohesion: 0.22
+Nodes (8): author, authorUrl, description, fundingUrl, id, isDesktopOnly, name, version
+
+### Community 71 - "Plugin Code (minified) C71"
+Cohesion: 0.22
+Nodes (8): author, authorUrl, description, id, isDesktopOnly, minAppVersion, name, version
+
+### Community 75 - "Plugin Code (minified) C75"
+Cohesion: 0.12
+Nodes (20): aB(), Ag(), CL(), delim(), DL(), encode(), gE(), Hg() (+12 more)
+
+### Community 76 - "Plugin Code (minified) C76"
+Cohesion: 0.17
+Nodes (13): demux(), destroy(), end(), k2(), notifyComputationResultToSubscribers(), notifyLineAuthoring(), _array(), cleanEnum() (+5 more)
+
+### Community 77 - "Plugin Code (minified) C77"
+Cohesion: 0.18
+Nodes (12): append(), hO(), MR(), Nx(), Oe(), oO(), Rc(), z5() (+4 more)
+
+### Community 78 - "Plugin Code (minified) C78"
+Cohesion: 0.18
+Nodes (11): j2(), clear(), "node_modules/iconv-lite/encodings/utf16.js"(), "node_modules/@modelcontextprotocol/sdk/node_modules/iconv-lite/encodings/utf16.js"(), "node_modules/node-forge/lib/cipherModes.js"(), "node_modules/node-forge/lib/pkcs1.js"(), "node_modules/node-forge/lib/util.js"(), "node_modules/qs/lib/utils.js"() (+3 more)
+
+### Community 80 - "Plugin Code (minified) C80"
+Cohesion: 0.33
+Nodes (6): kN(), L0(), Mi(), p0(), xE(), or()
+
+### Community 81 - "Plugin Code (minified) C81"
+Cohesion: 0.33
+Nodes (6): check(), cleanParams(), custom2(), handleRefineResult(), issue(), superRefine()
+
+### Community 82 - "Python Data Science (numpy/pandas)"
+Cohesion: 0.40
+Nodes (6): Python – Data Science (numpy und pandas), loc vs. iloc, map / apply / applymap, SettingWithCopyWarning, Vektorisierung (numpy), functools.lru_cache / cache
+
+### Community 83 - "Python Data Structures & Complexity"
+Cohesion: 0.33
+Nodes (6): Python – Datenstrukturen und Komplexität, heapq, Membership-Komplexität (in bei list vs. set), collections.deque, list vs. tuple (Hashbarkeit), Python-Erkenntnisse
+
+### Community 85 - "Plugin Code (minified) C85"
+Cohesion: 0.40
+Nodes (5): _normalize(), _overwrite(), _toLowerCase(), _toUpperCase(), _trim()
+
+### Community 88 - "Plugin Code (minified) C88"
+Cohesion: 0.50
+Nodes (4): addMcpTool(), addPublicRoute(), addRoute(), assertRegistered()
+
+### Community 89 - "Plugin Code (minified) C89"
+Cohesion: 0.50
+Nodes (4): debounce(), loadSettings(), onload(), saveSettings()
+
+### Community 90 - "Plugin Code (minified) C90"
+Cohesion: 0.50
+Nodes (4): handleArrayResult(), handleObjectResult(), handleOptionalObjectResult(), prefixIssues()
+
+### Community 94 - "Plugin Code (minified) C94"
+Cohesion: 0.67
+Nodes (3): deepPartial(), deepPartialify(), unwrap()
+
+### Community 95 - "Plugin Code (minified) C95"
+Cohesion: 0.67
+Nodes (3): isPlainObject2(), mergeCapabilities(), registerCapabilities()
+
+### Community 96 - "Python Generators"
+Cohesion: 0.67
+Nodes (3): Generator (yield), yield from, Comprehensions & Generator-Ausdruck
+
+## Knowledge Gaps
+- **74 isolated node(s):** `🗓️ Die Einheiten im Überblick`, `📊 Formverlauf (CTL / ATL / TSB)`, `Umfang — **klar übererfüllt**`, `Struktur — **lehrbuchmäßig getroffen**`, `Intensitätsverteilung (80/20)` (+69 more)
+  These have ≤1 connection - possible missing edges or undocumented components.
+- **13 thin communities (<3 nodes) omitted from report** — run `graphify query` to explore isolated nodes.
+
+## Suggested Questions
+_Questions this graph is uniquely positioned to answer:_
+
+- **Why does `i()` connect `Plugin Code (minified) C63` to `Obsidian-Git Internals (JS)`, `Plugin Code (minified) C2`, `Plugin Code (minified) C4`, `Plugin Code (minified) C7`, `Plugin Code (minified) C8`, `Plugin Code (minified) C9`, `Plugin Code (minified) C10`, `Zod Validation Internals (JS)`, `Plugin Code (minified) C14`, `Plugin Code (minified) C18`, `Plugin Code (minified) C19`, `Plugin Code (minified) C20`, `Plugin Code (minified) C21`, `Plugin Code (minified) C23`, `Plugin Code (minified) C24`, `Plugin Code (minified) C25`, `Plugin Code (minified) C26`, `Plugin Code (minified) C27`, `Plugin Code (minified) C30`, `Plugin Code (minified) C31`, `Plugin Code (minified) C33`, `Plugin Code (minified) C35`, `Plugin Code (minified) C38`, `Plugin Code (minified) C40`, `Plugin Code (minified) C41`, `Plugin Code (minified) C42`, `Plugin Code (minified) C43`, `Plugin Code (minified) C44`, `Plugin Code (minified) C48`, `Plugin Code (minified) C49`, `Plugin Code (minified) C51`, `Plugin Code (minified) C52`, `Plugin Code (minified) C54`, `Plugin Code (minified) C57`, `Plugin Code (minified) C60`, `Plugin Code (minified) C67`, `Plugin Code (minified) C68`, `Plugin Code (minified) C69`, `Plugin Code (minified) C72`, `Plugin Code (minified) C75`, `Plugin Code (minified) C77`, `Plugin Code (minified) C78`?**
+  _High betweenness centrality (0.069) - this node is a cross-community bridge._
+- **Why does `p()` connect `Plugin Code (minified) C7` to `Obsidian-Git Internals (JS)`, `Plugin Code (minified) C4`, `Plugin Code (minified) C41`, `Plugin Code (minified) C10`, `Plugin Code (minified) C75`, `Plugin Code (minified) C76`, `Plugin Code (minified) C77`, `Plugin Code (minified) C44`, `Plugin Code (minified) C63`, `Plugin Code (minified) C19`, `Plugin Code (minified) C20`, `Plugin Code (minified) C54`, `Plugin Code (minified) C22`, `Plugin Code (minified) C26`, `Plugin Code (minified) C29`, `Plugin Code (minified) C31`?**
+  _High betweenness centrality (0.033) - this node is a cross-community bridge._
+- **Why does `e()` connect `Plugin Code (minified) C2` to `Obsidian-Git Internals (JS)`, `Plugin Code (minified) C4`, `MCP Task & Capability Handling (JS)`, `Plugin Code (minified) C7`, `Plugin Code (minified) C8`, `Plugin Code (minified) C9`, `Plugin Code (minified) C10`, `Plugin Code (minified) C11`, `Zod Validation Internals (JS)`, `Plugin Code (minified) C14`, `Plugin Code (minified) C20`, `Plugin Code (minified) C22`, `Plugin Code (minified) C26`, `Plugin Code (minified) C29`, `Plugin Code (minified) C30`, `Plugin Code (minified) C31`, `Plugin Code (minified) C32`, `Plugin Code (minified) C33`, `Plugin Code (minified) C36`, `Plugin Code (minified) C39`, `Plugin Code (minified) C40`, `Plugin Code (minified) C43`, `Plugin Code (minified) C44`, `Plugin Code (minified) C52`, `Plugin Code (minified) C54`, `Plugin Code (minified) C58`, `Plugin Code (minified) C59`, `Plugin Code (minified) C63`, `Plugin Code (minified) C67`, `Plugin Code (minified) C68`, `Plugin Code (minified) C75`, `Plugin Code (minified) C76`?**
+  _High betweenness centrality (0.030) - this node is a cross-community bridge._
+- **Are the 121 inferred relationships involving `i()` (e.g. with `main.js` and `_6()`) actually correct?**
+  _`i()` has 121 INFERRED edges - model-reasoned connections that need verification._
+- **Are the 72 inferred relationships involving `e()` (e.g. with `$b()` and `c3()`) actually correct?**
+  _`e()` has 72 INFERRED edges - model-reasoned connections that need verification._
+- **What connects `🗓️ Die Einheiten im Überblick`, `📊 Formverlauf (CTL / ATL / TSB)`, `Umfang — **klar übererfüllt**` to the rest of the system?**
+  _76 weakly-connected nodes found - possible documentation gaps or missing edges._
+- **Should `MCP Test/Assert Helpers (JS)` be split into smaller, more focused modules?**
+  _Cohesion score 0.004464285714285714 - nodes in this community are weakly interconnected._
