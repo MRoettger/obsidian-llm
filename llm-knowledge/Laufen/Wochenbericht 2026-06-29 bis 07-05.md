@@ -4,7 +4,7 @@ tags: [laufen, wochenbericht]
 status: abgeschlossen
 updated: 2026-07-05
 ---
-
+	
 # 📅 Wochenbericht 29. Juni – 5. Juli 2026 (KW 27)
 
 Auswertung der Trainingswoche aus Intervals.icu im Abgleich mit [[Laufziele|Laufzielen]] und [[Trainingsplan HM Sub-120 2026|Trainingsplan]]. Erste Woche im HM-Aufbau — und die erste **reine Laufwoche** ohne Rad.
