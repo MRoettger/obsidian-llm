@@ -20,6 +20,18 @@ erstellt: 2026-07-09
 | Auto 1 | Tim    | Moritz    |
 | Auto 2 | Simon  |           |
 | Auto 3 | Don    |           |
+
+## 2. Tour de France vor Ort
+- [ ] Welche 2 Etappen/Tage genau (Datum + Etappennummer): 
+- [ ] Streckenverlauf/Durchfahrtsort bei Cornimont bzw. in den Vogesen: 
+- [ ] Voraussichtliche Durchfahrtszeit (Karawane + Feld, siehe offizieller Zeitplan/Live-Tracker): 
+- [ ] Straßensperrung: ab wann für Autos gesperrt (oft 2–4h vorher, Werbekarawane ~1–1,5h vor dem Feld)
+- [ ] Parkplatz-Plan: wo Autos abstellen, da Zufahrt zur Strecke gesperrt wird
+- [ ] Letztes Stück per Rad/zu Fuß zum Streckenrand einplanen
+- [ ] Guten Aussichtspunkt vorab festlegen (z.B. an einem Anstieg – ruhiger als am Zielort)
+- [ ] Frühzeitig losfahren/loslaufen (gute Plätze oft Stunden vorher belegt)
+- [ ] Rückweg/Rückfahrt planen (Straße bleibt nach Durchfahrt noch länger gesperrt)
+
 ## 5. Gemeinsame Ausrüstung (wer bringt was?)
 | Gegenstand               | Wer bringt's mit |
 | ------------------------ | ---------------- |
@@ -30,6 +42,9 @@ erstellt: 2026-07-09
 | Wäscheleine/Klammern     |                  |
 | Spiele/Karten für Abende |                  |
 | Lautsprecher             | Moritz           |
+| Campingstühle/Picknickdecke |               |
+| Sonnenschirm/-segel      |                  |
+| Powerbank (Netz an der Strecke oft überlastet) |   |
 
 # Allgemein Jeder
 ## 4. Allgemein jeder 
@@ -59,6 +74,8 @@ erstellt: 2026-07-09
 - [ ] Frühstück/Lunchpakete fürs Radfahren einplanen
 - [ ] Getränke (Wasser, Elektrolyte) in ausreichender Menge
 - [ ] Snacks für unterwegs (Riegel, Bananen, Gels)
+- [ ] Verpflegung für die TdF-Tage separat/vorab einkaufen (Picknick – Läden an der Strecke an Renntagen oft überlaufen oder für den Verkehr geschlossen)
+- [ ] Genug Wasser für einen ganzen Tag draußen (Warten am Streckenrand oft mehrere Stunden)
 
 
 

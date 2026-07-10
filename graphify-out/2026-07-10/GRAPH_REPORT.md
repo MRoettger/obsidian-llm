@@ -1,16 +1,16 @@
-# Graph Report - obsidian-llm  (2026-07-10)
+# Graph Report - obsidian-llm  (2026-07-09)
 
 ## Corpus Check
-- 41 files · ~348,218 words
+- 40 files · ~347,714 words
 - Verdict: corpus is large enough that graph structure adds value.
 
 ## Summary
-- 2599 nodes · 6655 edges · 225 communities (111 shown, 114 thin omitted)
+- 2589 nodes · 6652 edges · 224 communities (110 shown, 114 thin omitted)
 - Extraction: 89% EXTRACTED · 11% INFERRED · 0% AMBIGUOUS · INFERRED: 706 edges (avg confidence: 0.6)
 - Token cost: 0 input · 0 output
 
 ## Graph Freshness
-- Built from commit: `97bff5f2`
+- Built from commit: `3cbea8a5`
 - Run `git rev-parse HEAD` and compare to check if the graph is stale.
 - Run `graphify update .` after code changes (no API cost).
 
@@ -234,7 +234,6 @@
 - [[_COMMUNITY_Slicing (a-1)|Slicing (a[::-1])]]
 - [[_COMMUNITY_Erweitertes Unpacking mit|Erweitertes Unpacking mit *]]
 - [[_COMMUNITY_Walrus-Operator =|Walrus-Operator :=]]
-- [[_COMMUNITY_finalizeIssue|finalizeIssue]]
 
 ## God Nodes (most connected - your core abstractions)
 1. `push()` - 168 edges
@@ -263,7 +262,7 @@
 ## Import Cycles
 - None detected.
 
-## Communities (225 total, 114 thin omitted)
+## Communities (224 total, 114 thin omitted)
 
 ### Community 0 - "MCP Test/Assert Helpers (JS)"
 Cohesion: 0.00
@@ -271,83 +270,83 @@ Nodes (11): indented(), k(), "node_modules/express/lib/router/layer.js"(), "node
 
 ### Community 1 - "Obsidian-Git Internals (JS)"
 Cohesion: 0.01
-Nodes (90): A2(), _addPattern(), AE(), AR(), BF(), C0(), C4(), C8() (+82 more)
+Nodes (96): _8(), A2(), _addPattern(), AR(), BF(), C0(), C4(), compare() (+88 more)
 
 ### Community 2 - "Plugin Code (minified) C2"
 Cohesion: 0.04
-Nodes (55): a8(), c3(), c6(), connect(), d6(), e(), e6(), Er() (+47 more)
+Nodes (61): c3(), c6(), connect(), d6(), e(), e6(), Er(), f6() (+53 more)
 
 ### Community 3 - "MCP Tool/Prompt Registration (JS)"
-Cohesion: 0.06
-Nodes (56): args(), assertCompleteRequestPrompt(), assertCompleteRequestResourceTemplate(), buildServer(), createCompletionResult(), _createRegisteredPrompt(), _createRegisteredResource(), _createRegisteredResourceTemplate() (+48 more)
+Cohesion: 0.18
+Nodes (14): args(), buildServer(), deleteVaultFile(), describe(), moveVaultFile(), "node_modules/call-bind-apply-helpers/index.js"(), "node_modules/function-bind/implementation.js"(), record() (+6 more)
 
 ### Community 4 - "Plugin Code (minified) C4"
-Cohesion: 0.09
-Nodes (46): add(), AP(), append(), bH(), bP(), clear(), constructor(), decrement() (+38 more)
+Cohesion: 0.12
+Nodes (28): activate(), add(), clear(), deactivate(), decrement(), ensure(), F0(), flush() (+20 more)
 
 ### Community 5 - "MCP Task & Capability Handling (JS)"
-Cohesion: 0.06
-Nodes (46): addResourceSpec(), assertCapabilityForMethod(), assertClientRequestTaskCapability(), assertNotificationCapability(), assertTaskCapability(), assertTaskHandlerCapability(), assertToolsCallTaskCapability(), cancelTask() (+38 more)
+Cohesion: 0.07
+Nodes (42): addResourceSpec(), assertCapabilityForMethod(), assertClientRequestTaskCapability(), assertNotificationCapability(), assertTaskCapability(), assertTaskHandlerCapability(), assertToolsCallTaskCapability(), cancelTask() (+34 more)
 
 ### Community 7 - "Plugin Code (minified) C7"
 Cohesion: 0.17
-Nodes (41): A(), ak(), C(), content(), Ea(), ek(), ev(), FP() (+33 more)
+Nodes (38): ak(), C(), content(), $D(), dI(), Ea(), ev(), ff() (+30 more)
 
 ### Community 8 - "Plugin Code (minified) C8"
-Cohesion: 0.07
-Nodes (36): activateCodeMirrorExtensions(), activateFeature(), C2(), changeToNewFilepath(), computeLineAuthorInfo(), computeSigns(), conditionallyActivateBySettings(), createCssRefreshHandler() (+28 more)
+Cohesion: 0.06
+Nodes (39): activateCodeMirrorExtensions(), activateFeature(), C2(), changeToNewFilepath(), computeLineAuthorInfo(), computeSigns(), conditionallyActivateBySettings(), createCssRefreshHandler() (+31 more)
 
 ### Community 9 - "Plugin Code (minified) C9"
-Cohesion: 0.10
-Nodes (45): aS(), $b(), ck(), CS(), deleteRef(), deleteRefs(), du(), entries() (+37 more)
+Cohesion: 0.15
+Nodes (27): aS(), $b(), ck(), deleteRef(), em(), exists(), expand(), ga() (+19 more)
 
 ### Community 10 - "Plugin Code (minified) C10"
-Cohesion: 0.14
-Nodes (36): acquire(), askpass(), Bg(), Db(), fn(), Fs(), Gg(), gk() (+28 more)
+Cohesion: 0.16
+Nodes (38): acquire(), askpass(), Bg(), Db(), delete(), deleteRefs(), dk(), et() (+30 more)
 
 ### Community 11 - "Plugin Code (minified) C11"
-Cohesion: 0.12
-Nodes (19): $0(), $2(), adaptTextForFakeCommit(), addEventListener(), c5(), computeDom(), createHtmlNode(), D2() (+11 more)
+Cohesion: 0.09
+Nodes (23): $0(), $2(), adaptTextForFakeCommit(), addEventListener(), c5(), computeDom(), createHtmlNode(), D2() (+15 more)
 
 ### Community 12 - "Zod Schema Core (JS)"
 Cohesion: 0.07
-Nodes (35): aborted(), brand(), _catch(), clone(), createZodEnum(), _default(), extend(), handleIntersectionResults() (+27 more)
+Nodes (35): aborted(), brand(), _catch(), clone(), createZodEnum(), _default(), extend(), extract() (+27 more)
 
 ### Community 13 - "Zod Validation Internals (JS)"
-Cohesion: 0.07
-Nodes (34): abort(), addIssueToContext(), assertNever(), compile(), datetimeRegex(), dirty(), discriminator(), floatSafeRemainder2() (+26 more)
+Cohesion: 0.06
+Nodes (35): abort(), addIssueToContext(), assertNever(), compile(), datetimeRegex(), dirty(), discriminator(), floatSafeRemainder2() (+27 more)
 
 ### Community 14 - "Plugin Code (minified) C14"
-Cohesion: 0.18
-Nodes (17): k2(), load(), v2(), _array(), cleanEnum(), element(), "node_modules/body-parser/node_modules/debug/src/browser.js"(), "node_modules/body-parser/node_modules/debug/src/node.js"() (+9 more)
+Cohesion: 0.06
+Nodes (50): AE(), B3(), bP(), constructor(), create(), cw(), dispatch(), dP() (+42 more)
 
 ### Community 15 - "REST API Server / SSE (JS)"
-Cohesion: 0.12
-Nodes (21): appendFileContent(), close(), closeSSEStream(), closeStandaloneSSEStream(), handleDeleteRequest(), handleGetRequest(), handlePostRequest(), handleRequest() (+13 more)
+Cohesion: 0.06
+Nodes (38): appendFileContent(), check(), cleanParams(), close(), closeSSEStream(), closeStandaloneSSEStream(), config(), custom2() (+30 more)
 
 ### Community 16 - "Zod JSON-Schema Parsing (JS)"
-Cohesion: 0.09
-Nodes (29): addErrorMessage(), addFormat(), addPattern(), decideAdditionalProperties(), emoji(), escapeLiteralCheckValue(), escapeNonAlphaNumeric(), parseAnyDef() (+21 more)
+Cohesion: 0.08
+Nodes (34): addErrorMessage(), addFormat(), addPattern(), decideAdditionalProperties(), emoji(), escapeLiteralCheckValue(), escapeNonAlphaNumeric(), isNullable() (+26 more)
 
 ### Community 17 - "Zod String Formats (JS)"
 Cohesion: 0.07
 Nodes (29): _cidrv4(), _cidrv6(), _custom(), discriminatedUnion(), duration2(), _e164(), _emoji2(), _guid() (+21 more)
 
 ### Community 18 - "Plugin Code (minified) C18"
-Cohesion: 0.22
-Nodes (13): f4(), g3(), getCursorHunk(), getHunk(), getHunkAtPos(), getHunks(), goToHunk(), join() (+5 more)
+Cohesion: 0.15
+Nodes (17): addTask(), f4(), getCursorHunk(), getHunk(), getHunkAtPos(), getHunks(), goToHunk(), handleTask() (+9 more)
 
 ### Community 19 - "Plugin Code (minified) C19"
-Cohesion: 0.12
-Nodes (34): beforeSaveSettings(), copy(), ct(), defer_effect(), f$(), ff(), fO(), ft() (+26 more)
+Cohesion: 0.18
+Nodes (30): A(), ct(), De(), eS(), f$(), fO(), ft(), GF() (+22 more)
 
 ### Community 20 - "Plugin Code (minified) C20"
-Cohesion: 0.29
-Nodes (9): bd(), headers(), jN(), justHeaders(), parseHeaders(), s3(), unwrap(), vC() (+1 more)
+Cohesion: 0.09
+Nodes (39): CS(), DL(), du(), eB(), expandAgainstMap(), Gb(), get(), getall() (+31 more)
 
 ### Community 21 - "Plugin Code (minified) C21"
-Cohesion: 0.18
-Nodes (19): branchInfo(), canPush(), getConfig(), getCurrentRemote(), getDiffString(), getLastCommitTime(), getPassword(), getRemoteBranches() (+11 more)
+Cohesion: 0.12
+Nodes (36): branchInfo(), canPush(), checkout(), deleteBranch(), discard(), discardAll(), getAvailableLocalBranchName(), getConfig() (+28 more)
 
 ### Community 22 - "Plugin Code (minified) C22"
 Cohesion: 0.07
@@ -358,48 +357,52 @@ Cohesion: 0.10
 Nodes (24): finite(), floatSafeRemainder(), _gt(), _gte(), _int(), jsonStringifyReplacer(), _length(), _lt() (+16 more)
 
 ### Community 24 - "Plugin Code (minified) C24"
-Cohesion: 0.25
-Nodes (9): B4(), cO(), Do(), Gx(), jx(), listTags(), pO(), Ux() (+1 more)
+Cohesion: 0.15
+Nodes (14): B4(), cO(), Do(), equals(), extractCommon(), Gx(), jx(), listTags() (+6 more)
 
 ### Community 25 - "Plugin Code (minified) C25"
-Cohesion: 0.13
-Nodes (30): addFileToGitignore(), addTask(), av(), checkout(), cloneNewRepo(), createBranch(), deleteBranch(), discard() (+22 more)
+Cohesion: 0.15
+Nodes (31): av(), checkAuthorInfo(), cloneNewRepo(), commit(), commitAll(), createBranch(), displayError(), displayMessage() (+23 more)
+
+### Community 26 - "Plugin Code (minified) C26"
+Cohesion: 0.09
+Nodes (28): a8(), bv(), eI(), EL(), fI(), h4(), hasTooBigFiles(), hE() (+20 more)
 
 ### Community 27 - "Plugin Code (minified) C27"
-Cohesion: 0.11
-Nodes (24): checkRequirements(), display(), getEnvVars(), getGitPath(), getHostname(), getPATHPaths(), getPluginDisabled(), getUsername() (+16 more)
+Cohesion: 0.10
+Nodes (25): checkRequirements(), display(), displayFromNow(), displayState(), getConflict(), getEnvVars(), getGitPath(), getHostname() (+17 more)
 
 ### Community 28 - "Plugin Code (minified) C28"
 Cohesion: 0.10
 Nodes (22): a5(), activateLineAuthoring(), addLineAuthorInfoSettings(), cA(), colorSettingPreviewDesc(), configureLineAuthorShowStatus(), createColorSetting(), createGutterContextMenuHandler() (+14 more)
 
 ### Community 29 - "Plugin Code (minified) C29"
-Cohesion: 0.15
-Nodes (22): aD(), CD(), Cx(), $D(), dx(), ED(), FD(), Fr() (+14 more)
+Cohesion: 0.14
+Nodes (22): aD(), Ax(), CD(), Cx(), dx(), ED(), FD(), Fr() (+14 more)
 
 ### Community 30 - "Plugin Code (minified) C30"
-Cohesion: 0.11
-Nodes (22): applyLineGroupping(), applyRematchMatching(), Bl(), dN(), generateEmptyDiff(), generateFileHtml(), generateLineHtml(), generateSingleHtml() (+14 more)
+Cohesion: 0.12
+Nodes (21): applyLineGroupping(), applyRematchMatching(), Bl(), dN(), generateEmptyDiff(), generateFileHtml(), generateLineHtml(), generateSingleHtml() (+13 more)
 
 ### Community 31 - "Plugin Code (minified) C31"
-Cohesion: 0.26
-Nodes (12): deleteSection(), fromPayloadSignature(), gpgsig(), isolateSignature(), justMessage(), message(), payload(), sign() (+4 more)
+Cohesion: 0.16
+Nodes (23): bd(), BR(), deleteSection(), fromPayloadSignature(), gpgsig(), headers(), isolateSignature(), justHeaders() (+15 more)
 
 ### Community 32 - "Plugin Code (minified) C32"
-Cohesion: 0.09
-Nodes (26): addToPath(), aO(), bs(), buildValues(), castInput(), diff(), diffWithOptionsObj(), Iw() (+18 more)
+Cohesion: 0.12
+Nodes (19): addToPath(), aO(), buildValues(), castInput(), diff(), diffWithOptionsObj(), Iw(), Kt() (+11 more)
 
 ### Community 33 - "Plugin Code (minified) C33"
-Cohesion: 0.13
-Nodes (3): jt(), k0(), O()
+Cohesion: 0.10
+Nodes (4): jt(), k0(), O(), $r()
 
 ### Community 34 - "Plugin Code (minified) C34"
 Cohesion: 0.10
 Nodes (22): _addCheck(), _base64(), _base64url(), cidr(), _cuid(), _cuid2(), date(), datetime() (+14 more)
 
 ### Community 35 - "Plugin Code (minified) C35"
-Cohesion: 0.10
-Nodes (22): _6(), B3(), create(), cw(), dT(), e4(), fA(), fH() (+14 more)
+Cohesion: 0.20
+Nodes (12): _6(), dT(), e4(), fH(), io(), J5(), lH(), mT() (+4 more)
 
 ### Community 36 - "Plugin Code (minified) C36"
 Cohesion: 0.14
@@ -414,43 +417,43 @@ Cohesion: 0.16
 Nodes (17): createMessage(), has(), isDate(), isFinite(), "node_modules/dunder-proto/get.js"(), "node_modules/get-intrinsic/index.js"(), "node_modules/object-inspect/index.js"(), "node_modules/qs/lib/formats.js"() (+9 more)
 
 ### Community 40 - "Plugin Code (minified) C40"
-Cohesion: 0.13
-Nodes (19): bC(), bT(), bv(), cH(), Eo(), gC(), i8(), jv() (+11 more)
+Cohesion: 0.16
+Nodes (15): bC(), bT(), cH(), Eo(), i8(), jv(), lI(), lr() (+7 more)
 
 ### Community 41 - "Plugin Code (minified) C41"
-Cohesion: 0.12
-Nodes (20): equals(), extractCommon(), F0(), h0(), increment(), is_rendered(), It(), m0() (+12 more)
+Cohesion: 0.43
+Nodes (8): clone(), commitAndSync(), convertErrors(), fetch(), getProgressText(), pull(), remotesAreSet(), showNotice()
 
 ### Community 42 - "Plugin Code (minified) C42"
-Cohesion: 0.14
-Nodes (15): add(), display(), emit(), getCertificateIsUptoStandards(), getCertificateValidityDays(), getEnumValues(), getMcpTools(), getRoutes() (+7 more)
+Cohesion: 0.13
+Nodes (17): add(), display(), emit(), getCertificateIsUptoStandards(), getCertificateValidityDays(), getEnumValues(), getMcpTools(), getRoutes() (+9 more)
 
 ### Community 43 - "Plugin Code (minified) C43"
-Cohesion: 0.11
-Nodes (22): Ax(), BR(), eH(), exec(), gv(), ID(), jA(), kH() (+14 more)
+Cohesion: 0.12
+Nodes (16): eH(), exec(), getViewType(), gv(), jA(), kH(), LL(), NL() (+8 more)
 
 ### Community 44 - "Plugin Code (minified) C44"
-Cohesion: 0.16
-Nodes (23): capture(), DD(), P2(), create(), errors(), exclude(), extract(), "node_modules/express/lib/middleware/query.js"() (+15 more)
+Cohesion: 0.20
+Nodes (18): capture(), DD(), end(), P2(), errors(), "node_modules/express/lib/middleware/query.js"(), "node_modules/iconv-lite/lib/extend-node.js"(), "node_modules/json-logic-js/logic.js"() (+10 more)
 
 ### Community 45 - "Plugin Code (minified) C45"
-Cohesion: 0.18
-Nodes (17): assertRequestHandlerCapability(), description(), getLiteralValue(), getMethodLiteral(), getObjectShape(), getSchemaDescription(), isNullable(), isOptional() (+9 more)
+Cohesion: 0.33
+Nodes (9): assertRequestHandlerCapability(), getLiteralValue(), getMethodLiteral(), getMethodValue(), getObjectShape(), parseWithCompat(), safeParse3(), setNotificationHandler() (+1 more)
 
 ### Community 47 - "Plugin Code (minified) C47"
-Cohesion: 0.08
-Nodes (32): _8(), addAskPassScriptToExclude(), applyPatch(), Aw(), blame(), calcSigns(), changeEnd(), createPatch() (+24 more)
+Cohesion: 0.22
+Nodes (9): addAskPassScriptToExclude(), calcSigns(), changeEnd(), error(), PE(), update_pending_count(), xi(), yi() (+1 more)
 
 ### Community 48 - "Plugin Code (minified) C48"
 Cohesion: 0.13
-Nodes (19): bShouldBeEditable(), createMergeView(), formatPath(), getFileStatusResult(), getRelativeVaultPath(), getStagedFiles(), getUntrackedPaths(), gitShow() (+11 more)
+Nodes (21): blame(), bShouldBeEditable(), createMergeView(), formatPath(), getDiffString(), getDisplayText(), getFileStatusResult(), getRelativeVaultPath() (+13 more)
 
 ### Community 49 - "Plugin Code (minified) C49"
-Cohesion: 0.13
-Nodes (17): lD(), oD(), sD(), clear(), isEmpty(), "node_modules/node-forge/lib/aes.js"(), "node_modules/node-forge/lib/des.js"(), "node_modules/node-forge/lib/md5.js"() (+9 more)
+Cohesion: 0.14
+Nodes (18): _init(), lD(), oD(), sD(), clear(), isEmpty(), "node_modules/node-forge/lib/aes.js"(), "node_modules/node-forge/lib/des.js"() (+10 more)
 
 ### Community 50 - "Plugin Code (minified) C50"
-Cohesion: 0.17
+Cohesion: 0.18
 Nodes (11): 🎯 Abgleich mit Plan & Zielen, 🗓️ Die Einheiten im Überblick, 🔑 Erkenntnisse, 📊 Formverlauf (CTL / ATL / TSB), Intensitätsverteilung (80/20), ✅ Konsequenzen für die nächste Planung, Rad — **Plan-Soll verfehlt (klein)**, Struktur — **lehrbuchmäßig getroffen** (+3 more)
 
 ### Community 51 - "Plugin Code (minified) C51"
@@ -466,8 +469,8 @@ Cohesion: 0.14
 Nodes (14): 1. Langer Lauf — die wichtigste Einheit, 2. Renntempo-Dauerlauf (Marathon/HM-Pace-Lauf), 3. Schwellenlauf — bleibt zentral, 4. VO2max-Intervalle — reduziert, aber nicht streichen, 🔑 Die Schlüsseleinheiten (rangiert nach Wirkung), 🧩 Ergänzende Elemente (aus dem Vault übernommen), 🧭 Grundprinzip: Polarisiertes Training bleibt, Laufspezifisches Krafttraining (+6 more)
 
 ### Community 54 - "Plugin Code (minified) C54"
-Cohesion: 0.32
-Nodes (12): aN(), Bb(), bk(), CB(), cu(), fu(), Or(), rS() (+4 more)
+Cohesion: 0.19
+Nodes (21): aN(), Bb(), bH(), bk(), CB(), copy(), cu(), fromPack() (+13 more)
 
 ### Community 55 - "Plugin Code (minified) C55"
 Cohesion: 0.14
@@ -479,15 +482,15 @@ Nodes (8): apply(), B1(), H1(), iI(), L1(), N1(), qx(), uO()
 
 ### Community 58 - "Plugin Code (minified) C58"
 Cohesion: 0.21
-Nodes (12): getAuthor(), getStashSHA(), kB(), readStashCommit(), readStashReflogs(), Vg(), writeStashCommit(), writeStashRef() (+4 more)
+Nodes (14): ek(), getAuthor(), getStashSHA(), kB(), readStashCommit(), readStashReflogs(), Vg(), writeStashCommit() (+6 more)
 
 ### Community 59 - "Plugin Code (minified) C59"
 Cohesion: 0.50
 Nodes (4): attributeChangedCallback(), connectedCallback(), $$g_p(), tF()
 
 ### Community 60 - "Plugin Code (minified) C60"
-Cohesion: 0.33
-Nodes (6): isIP(), "node_modules/express/lib/request.js"(), "node_modules/node-forge/lib/cipherModes.js"(), "node_modules/safe-buffer/index.js"(), "node_modules/safer-buffer/safer.js"(), size()
+Cohesion: 0.18
+Nodes (11): offset(), wrap(), isIP(), "node_modules/express/lib/request.js"(), "node_modules/express/lib/router/index.js"(), "node_modules/@modelcontextprotocol/sdk/node_modules/iconv-lite/encodings/utf32.js"(), "node_modules/node-forge/lib/cipherModes.js"(), "node_modules/safe-buffer/index.js"() (+3 more)
 
 ### Community 61 - "Plugin Code (minified) C61"
 Cohesion: 0.40
@@ -498,28 +501,28 @@ Cohesion: 0.20
 Nodes (10): D3(), E3(), gl(), j3(), k3(), P3(), T3(), u3() (+2 more)
 
 ### Community 63 - "Plugin Code (minified) C63"
-Cohesion: 0.07
-Nodes (51): aB(), Ag(), De(), demux(), discover(), DL(), dS(), eB() (+43 more)
+Cohesion: 0.12
+Nodes (25): aB(), Ag(), bs(), demux(), discover(), dS(), encode(), fk() (+17 more)
 
 ### Community 64 - "Plugin Code (minified) C64"
-Cohesion: 0.15
-Nodes (14): end(), offset(), wrap(), en_default(), error(), "node_modules/express/lib/router/index.js"(), "node_modules/iconv-lite/lib/extend-node.js"(), "node_modules/iconv-lite/lib/index.js"() (+6 more)
+Cohesion: 0.23
+Nodes (14): createToolError(), executeToolHandler(), getParseErrorMessage(), handleAutomaticTaskPolling(), isZ4Schema(), mapMiniTarget(), normalizeObjectSchema(), object2() (+6 more)
 
 ### Community 65 - "Plugin Code (minified) C65"
 Cohesion: 0.15
 Nodes (13): 1. Periodisierung: pyramidal → polarisiert, 2. Intensitätsverteilung, 3. Schwellentraining, 4. VO2max-Intervalle (5-km-Ziel), 5. Long Run, 6. Umfang & Progression, 7. Rad / Crosstraining, 8. Tapering (+5 more)
 
 ### Community 67 - "Plugin Code (minified) C67"
-Cohesion: 0.25
-Nodes (9): A6(), CP(), f2(), lP(), n0(), oP(), s5(), "src/lib/responses/TagList.ts"() (+1 more)
+Cohesion: 0.16
+Nodes (15): A6(), AP(), applyPatch(), Aw(), CP(), f2(), H5(), kw() (+7 more)
 
 ### Community 68 - "Plugin Code (minified) C68"
-Cohesion: 0.15
-Nodes (20): e5(), EL(), EP(), g2(), getDisplayText(), getViewType(), gw(), j6() (+12 more)
+Cohesion: 0.18
+Nodes (16): e5(), EP(), g2(), gw(), j6(), mA(), MD(), s3() (+8 more)
 
 ### Community 69 - "Plugin Code (minified) C69"
-Cohesion: 0.16
-Nodes (28): clone(), commitAndSync(), convertErrors(), createNewRepo(), displayError(), displayMessage(), fetch(), getFileChangesCount() (+20 more)
+Cohesion: 0.19
+Nodes (12): beforeSaveSettings(), createNewRepo(), Ec(), loadSettings(), log(), migrateSettings(), onExternalSettingsChange(), onload() (+4 more)
 
 ### Community 70 - "Plugin Code (minified) C70"
 Cohesion: 0.22
@@ -542,12 +545,12 @@ Cohesion: 0.18
 Nodes (11): 1. Tageszeit & Temperatur < 18 °C, 2. TSB positiv (Form +5 bis +15), 3. Keine großen Radausfahrten 3 Tage vorher, 📍 Checkliste am Renntag, 📋 Checkliste vor dem Rennen (1 Woche davor), 🔴 Die 3 MUST-HAVES (müssen alle erfüllt sein), 🟢 Konkrete Fehler vom 24.06.2026 (nie wiederholen), 🟡 NICE-TO-HAVE (sollte erfüllt sein) (+3 more)
 
 ### Community 77 - "Plugin Code (minified) C77"
-Cohesion: 0.27
-Nodes (10): eN(), getSubsections(), JL(), kP(), Lt(), NF(), Nt(), QL() (+2 more)
+Cohesion: 0.19
+Nodes (13): addFileToGitignore(), append(), eN(), getSubsections(), JL(), kP(), Lt(), NF() (+5 more)
 
 ### Community 78 - "Plugin Code (minified) C78"
-Cohesion: 0.40
-Nodes (5): j2(), "node_modules/iconv-lite/encodings/utf16.js"(), "node_modules/@modelcontextprotocol/sdk/node_modules/iconv-lite/encodings/utf16.js"(), "node_modules/node-forge/lib/pkcs1.js"(), "node_modules/qs/lib/utils.js"()
+Cohesion: 0.15
+Nodes (13): increment(), j2(), create(), exclude(), "node_modules/iconv-lite/encodings/utf16.js"(), "node_modules/@modelcontextprotocol/sdk/node_modules/iconv-lite/encodings/utf16.js"(), "node_modules/node-forge/lib/hmac.js"(), "node_modules/node-forge/lib/pbkdf2.js"() (+5 more)
 
 ### Community 79 - "🏃 Trainingsbausteine 5 km"
 Cohesion: 0.18
@@ -574,12 +577,12 @@ Cohesion: 0.40
 Nodes (5): _normalize(), _overwrite(), _toLowerCase(), _toUpperCase(), _trim()
 
 ### Community 86 - "Bn"
-Cohesion: 0.40
-Nodes (6): Bn(), consider(), Fb(), Qp(), tm(), zF()
+Cohesion: 0.25
+Nodes (9): advance(), Bn(), consider(), Fb(), reset(), tm(), x5(), y5() (+1 more)
 
 ### Community 87 - "_createRegisteredTool"
-Cohesion: 0.20
-Nodes (11): checkAuthorInfo(), commit(), commitAll(), displayFromNow(), displayState(), getConflict(), getPausedAutomatics(), getSubmodulePaths() (+3 more)
+Cohesion: 0.25
+Nodes (9): _createRegisteredTool(), getZodSchemaObject(), issueToolNameWarning(), isZodRawShapeCompat(), isZodSchemaInstance(), isZodTypeLike(), registerToolTask(), validateAndWarnToolName() (+1 more)
 
 ### Community 88 - "Plugin Code (minified) C88"
 Cohesion: 0.50
@@ -594,12 +597,12 @@ Cohesion: 0.50
 Nodes (4): handleArrayResult(), handleObjectResult(), handleOptionalObjectResult(), prefixIssues()
 
 ### Community 91 - "setCompletionRequestHandler"
-Cohesion: 0.18
-Nodes (9): dI(), em(), Jp(), ln(), o0(), Pf(), qF(), RR() (+1 more)
+Cohesion: 0.29
+Nodes (8): assertCompleteRequestPrompt(), assertCompleteRequestResourceTemplate(), createCompletionResult(), getCompleter(), handlePromptCompletion(), handleResourceCompletion(), isCompletable(), setCompletionRequestHandler()
 
 ### Community 92 - "setPromptRequestHandlers"
-Cohesion: 0.20
-Nodes (10): advance(), deactivate(), G0(), q$(), Qw(), reset(), tU(), x5() (+2 more)
+Cohesion: 0.36
+Nodes (8): _createRegisteredPrompt(), description(), getSchemaDescription(), prompt(), promptArgumentsFromSchema(), registerPrompt(), sendPromptListChanged(), setPromptRequestHandlers()
 
 ### Community 94 - "Plugin Code (minified) C94"
 Cohesion: 0.67
@@ -610,8 +613,8 @@ Cohesion: 0.67
 Nodes (3): isPlainObject2(), mergeCapabilities(), registerCapabilities()
 
 ### Community 104 - "sendResourceListChanged"
-Cohesion: 0.20
-Nodes (9): 1. Eckdaten, 2. Tour de France vor Ort, 3. Die 3 Autos, 4. Allgemein jeder, 5. Gemeinsame Ausrüstung (wer bringt was?), 6. Verpflegung & Selbstversorgung, 8. Dokumente & Wichtiges, Allgemein Jeder (+1 more)
+Cohesion: 0.43
+Nodes (8): _createRegisteredResource(), _createRegisteredResourceTemplate(), isConnected(), registerResource(), resource(), sendResourceListChanged(), sendToolListChanged(), setResourceRequestHandlers()
 
 ### Community 105 - "🐍 Python – Funktionen und OOP"
 Cohesion: 0.25
@@ -670,8 +673,8 @@ Cohesion: 0.40
 Nodes (5): 🔁 Anpassung des Trainingsplans, 🚴 Empfehlung für die Urlaubswoche, 🚴 Rennrad-Urlaub 13.–19.07.2026 (KW 29), 🧠 Trainingsphysiologische Einordnung, Verknüpfte Notizen
 
 ### Community 121 - ""src/lib/simple-git-api.ts""
-Cohesion: 0.33
-Nodes (6): check(), cleanParams(), custom2(), handleRefineResult(), issue(), superRefine()
+Cohesion: 0.40
+Nodes (5): C8(), dH(), j8(), "src/lib/simple-git-api.ts"(), xH()
 
 ### Community 122 - "🐍 Python – Datenstrukturen und Komplexität"
 Cohesion: 0.40
@@ -681,33 +684,25 @@ Nodes (4): Erfasste Anki-Karten, heapq, Membership-Komplexität, 🐍 Python –
 Cohesion: 0.67
 Nodes (3): Feste Wochenstruktur, ⚙️ Trainingspräferenzen, Verknüpfte Notizen
 
-### Community 124 - ".digest"
-Cohesion: 0.18
-Nodes (3): activate(), Ec(), $r()
-
-### Community 224 - "finalizeIssue"
-Cohesion: 0.50
-Nodes (4): config(), finalizeIssue(), handleUnionResults(), unwrapMessage()
-
 ## Knowledge Gaps
-- **275 isolated node(s):** `🗓️ Die Einheiten im Überblick`, `📊 Formverlauf (CTL / ATL / TSB)`, `Umfang — **klar übererfüllt**`, `Struktur — **lehrbuchmäßig getroffen**`, `Intensitätsverteilung (80/20)` (+270 more)
+- **268 isolated node(s):** `obsidian`, `author`, `authorUrl`, `id`, `name` (+263 more)
   These have ≤1 connection - possible missing edges or undocumented components.
 - **114 thin communities (<3 nodes) omitted from report** — run `graphify query` to explore isolated nodes.
 
 ## Suggested Questions
 _Questions this graph is uniquely positioned to answer:_
 
-- **Why does `i()` connect `Plugin Code (minified) C4` to `MCP Test/Assert Helpers (JS)`, `Obsidian-Git Internals (JS)`, `Plugin Code (minified) C2`, `Plugin Code (minified) C7`, `Plugin Code (minified) C9`, `Plugin Code (minified) C10`, `Plugin Code (minified) C11`, `Zod Validation Internals (JS)`, `Plugin Code (minified) C19`, `Plugin Code (minified) C21`, `Plugin Code (minified) C23`, `Plugin Code (minified) C25`, `Plugin Code (minified) C27`, `Plugin Code (minified) C30`, `Plugin Code (minified) C31`, `Plugin Code (minified) C35`, `Plugin Code (minified) C38`, `Plugin Code (minified) C40`, `Plugin Code (minified) C41`, `Plugin Code (minified) C42`, `Plugin Code (minified) C43`, `Plugin Code (minified) C44`, `Plugin Code (minified) C47`, `Plugin Code (minified) C48`, `Plugin Code (minified) C49`, `Plugin Code (minified) C52`, `Plugin Code (minified) C54`, `Plugin Code (minified) C57`, `Plugin Code (minified) C58`, `Plugin Code (minified) C63`, `Plugin Code (minified) C64`, `Plugin Code (minified) C67`, `Plugin Code (minified) C68`, `Plugin Code (minified) C69`, `Plugin Code (minified) C72`, `fromBuffer`, `Plugin Code (minified) C78`, `Plugin Code (minified) C80`, `Bn`, `_createRegisteredTool`, `na`?**
-  _High betweenness centrality (0.054) - this node is a cross-community bridge._
-- **Why does `e()` connect `Plugin Code (minified) C2` to `Obsidian-Git Internals (JS)`, `Plugin Code (minified) C4`, `MCP Task & Capability Handling (JS)`, `Plugin Code (minified) C7`, `Plugin Code (minified) C8`, `Plugin Code (minified) C9`, `Plugin Code (minified) C10`, `Plugin Code (minified) C11`, `Zod Validation Internals (JS)`, `Plugin Code (minified) C22`, `Plugin Code (minified) C26`, `Plugin Code (minified) C29`, `Plugin Code (minified) C30`, `Plugin Code (minified) C32`, `Plugin Code (minified) C36`, `Plugin Code (minified) C39`, `Plugin Code (minified) C40`, `Plugin Code (minified) C41`, `Plugin Code (minified) C43`, `Plugin Code (minified) C44`, `Plugin Code (minified) C52`, `Plugin Code (minified) C54`, `Plugin Code (minified) C59`, `Plugin Code (minified) C63`, `Plugin Code (minified) C64`, `Plugin Code (minified) C67`, `Plugin Code (minified) C68`, `Plugin Code (minified) C80`, `Bn`, `setPromptRequestHandlers`?**
-  _High betweenness centrality (0.029) - this node is a cross-community bridge._
-- **Why does `p()` connect `Plugin Code (minified) C7` to `Obsidian-Git Internals (JS)`, `Plugin Code (minified) C4`, `Plugin Code (minified) C69`, `Plugin Code (minified) C9`, `Plugin Code (minified) C10`, `Plugin Code (minified) C44`, `Plugin Code (minified) C14`, `Plugin Code (minified) C19`, `Plugin Code (minified) C54`, `Plugin Code (minified) C22`, `Plugin Code (minified) C31`, `Plugin Code (minified) C29`, `Plugin Code (minified) C63`?**
-  _High betweenness centrality (0.022) - this node is a cross-community bridge._
+- **Why does `i()` connect `Plugin Code (minified) C54` to `MCP Test/Assert Helpers (JS)`, `Obsidian-Git Internals (JS)`, `Plugin Code (minified) C2`, `Plugin Code (minified) C4`, `Plugin Code (minified) C7`, `Plugin Code (minified) C9`, `Plugin Code (minified) C10`, `Plugin Code (minified) C11`, `Zod Validation Internals (JS)`, `Plugin Code (minified) C14`, `Plugin Code (minified) C18`, `Plugin Code (minified) C19`, `Plugin Code (minified) C20`, `Plugin Code (minified) C21`, `Plugin Code (minified) C23`, `Plugin Code (minified) C24`, `Plugin Code (minified) C25`, `Plugin Code (minified) C26`, `Plugin Code (minified) C27`, `Plugin Code (minified) C30`, `Plugin Code (minified) C31`, `Plugin Code (minified) C35`, `Plugin Code (minified) C38`, `Plugin Code (minified) C40`, `Plugin Code (minified) C41`, `Plugin Code (minified) C42`, `Plugin Code (minified) C43`, `Plugin Code (minified) C44`, `Plugin Code (minified) C48`, `Plugin Code (minified) C49`, `Plugin Code (minified) C52`, `Plugin Code (minified) C57`, `Plugin Code (minified) C58`, `Plugin Code (minified) C60`, `Plugin Code (minified) C63`, `Plugin Code (minified) C67`, `Plugin Code (minified) C68`, `Plugin Code (minified) C69`, `Plugin Code (minified) C72`, `fromBuffer`, `Plugin Code (minified) C78`, `Plugin Code (minified) C80`, `na`, `.digest`?**
+  _High betweenness centrality (0.064) - this node is a cross-community bridge._
+- **Why does `e()` connect `Plugin Code (minified) C2` to `Obsidian-Git Internals (JS)`, `Plugin Code (minified) C4`, `MCP Task & Capability Handling (JS)`, `Plugin Code (minified) C7`, `Plugin Code (minified) C8`, `Plugin Code (minified) C9`, `Plugin Code (minified) C10`, `Plugin Code (minified) C11`, `Zod Validation Internals (JS)`, `Plugin Code (minified) C14`, `Plugin Code (minified) C18`, `Plugin Code (minified) C19`, `Plugin Code (minified) C20`, `Plugin Code (minified) C22`, `Plugin Code (minified) C26`, `Plugin Code (minified) C29`, `Plugin Code (minified) C30`, `Plugin Code (minified) C32`, `Plugin Code (minified) C36`, `Plugin Code (minified) C39`, `Plugin Code (minified) C40`, `Plugin Code (minified) C43`, `Plugin Code (minified) C44`, `Plugin Code (minified) C52`, `Plugin Code (minified) C54`, `Plugin Code (minified) C59`, `Plugin Code (minified) C63`, `Plugin Code (minified) C67`, `Plugin Code (minified) C68`, `Plugin Code (minified) C78`, `Plugin Code (minified) C80`, `Bn`?**
+  _High betweenness centrality (0.028) - this node is a cross-community bridge._
+- **Why does `p()` connect `Plugin Code (minified) C7` to `Obsidian-Git Internals (JS)`, `Plugin Code (minified) C26`, `Plugin Code (minified) C4`, `Plugin Code (minified) C41`, `Plugin Code (minified) C10`, `Plugin Code (minified) C44`, `Plugin Code (minified) C14`, `Plugin Code (minified) C78`, `Plugin Code (minified) C19`, `Plugin Code (minified) C20`, `Plugin Code (minified) C54`, `Plugin Code (minified) C22`, `Plugin Code (minified) C58`, `Plugin Code (minified) C31`, `Plugin Code (minified) C29`, `Plugin Code (minified) C63`?**
+  _High betweenness centrality (0.023) - this node is a cross-community bridge._
 - **Are the 121 inferred relationships involving `i()` (e.g. with `main.js` and `_6()`) actually correct?**
   _`i()` has 121 INFERRED edges - model-reasoned connections that need verification._
 - **Are the 72 inferred relationships involving `e()` (e.g. with `$b()` and `c3()`) actually correct?**
   _`e()` has 72 INFERRED edges - model-reasoned connections that need verification._
-- **What connects `🗓️ Die Einheiten im Überblick`, `📊 Formverlauf (CTL / ATL / TSB)`, `Umfang — **klar übererfüllt**` to the rest of the system?**
-  _285 weakly-connected nodes found - possible documentation gaps or missing edges._
+- **What connects `obsidian`, `author`, `authorUrl` to the rest of the system?**
+  _278 weakly-connected nodes found - possible documentation gaps or missing edges._
 - **Should `MCP Test/Assert Helpers (JS)` be split into smaller, more focused modules?**
   _Cohesion score 0.004357298474945534 - nodes in this community are weakly interconnected._
