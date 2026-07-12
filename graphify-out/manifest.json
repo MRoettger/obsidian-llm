@@ -5,27 +5,27 @@
     "semantic_hash": "b62aacd39b97f261d1b6126e5a68cbef"
   },
   ".claude/settings.local.json": {
-    "mtime": 1783628380.8566532,
-    "ast_hash": "e9f735772d2de880ac456ca64fa4442c",
+    "mtime": 1783807846.6563256,
+    "ast_hash": "16163629deb8c8cffdcfe3d4c84d2117",
     "semantic_hash": ""
   },
   "llm-knowledge/.obsidian/app.json": {
-    "mtime": 1783674939.463042,
+    "mtime": 1783859470.5129628,
     "ast_hash": "99914b932bd37a50b983c5e7c90ae93b",
     "semantic_hash": "99914b932bd37a50b983c5e7c90ae93b"
   },
   "llm-knowledge/.obsidian/appearance.json": {
-    "mtime": 1783674939.463845,
+    "mtime": 1783859470.5133543,
     "ast_hash": "99914b932bd37a50b983c5e7c90ae93b",
     "semantic_hash": "99914b932bd37a50b983c5e7c90ae93b"
   },
   "llm-knowledge/.obsidian/community-plugins.json": {
-    "mtime": 1783674939.7049642,
+    "mtime": 1783859470.7213938,
     "ast_hash": "f9be9806580ef086175cdaf7cac7c6fb",
     "semantic_hash": "f9be9806580ef086175cdaf7cac7c6fb"
   },
   "llm-knowledge/.obsidian/core-plugins.json": {
-    "mtime": 1783674939.056012,
+    "mtime": 1783859470.0738797,
     "ast_hash": "7c877bea49eaeabb100563bd157b9051",
     "semantic_hash": "7c877bea49eaeabb100563bd157b9051"
   },
@@ -45,7 +45,7 @@
     "semantic_hash": "78daa9ee41f019d8766f19925b34c1f7"
   },
   "llm-knowledge/.obsidian/plugins/obsidian-git/obsidian_askpass.sh": {
-    "mtime": 1783674938.9633842,
+    "mtime": 1783859469.8591735,
     "ast_hash": "f662d5f216d371e86d1b108ba5d22a5f",
     "semantic_hash": "f662d5f216d371e86d1b108ba5d22a5f"
   },
@@ -65,8 +65,8 @@
     "semantic_hash": "65ae45c2a7c68e5df3c8f9ea534cbf3a"
   },
   "llm-knowledge/.obsidian/workspace.json": {
-    "mtime": 1783674939.7189114,
-    "ast_hash": "6ace42348eb32b37b8823e46d01318e2",
+    "mtime": 1783859470.734604,
+    "ast_hash": "0b5bebdc625ddead7f53820f3e38f2da",
     "semantic_hash": ""
   },
   "llm-knowledge/Laufen/HM-Aufbau Forschungsgrundlagen 2026.md": {
