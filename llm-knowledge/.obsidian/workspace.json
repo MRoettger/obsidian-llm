@@ -11,14 +11,14 @@
             "id": "ae83501426a7c20c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Radurlaub/Übersicht Radurlaub.md",
-                "mode": "source",
-                "source": false
+                "aFile": "llm-knowledge/.obsidian/workspace.json",
+                "bFile": "llm-knowledge/.obsidian/workspace.json",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Übersicht Radurlaub"
+              "icon": "diff",
+              "title": "Diff: workspace.json  (Working Tree)"
             }
           }
         ]
@@ -195,9 +195,10 @@
   },
   "active": "ae83501426a7c20c",
   "lastOpenFiles": [
+    "Laufen/Leistungsdiagnosti.pdf",
+    "Radurlaub/Übersicht Radurlaub.md",
     "Laufen/Rennvorbereitung-Checkliste.md",
     "Laufen/Wochenbericht 2026-06-29 bis 07-05.md",
-    "Radurlaub/Übersicht Radurlaub.md",
     "Radurlaub",
     "Laufen/Wochenbericht 2026-06-18 bis 06-25.md",
     "2026-07-09.md",
@@ -223,7 +224,6 @@
     "Python/Python - Data Science (numpy und pandas).md",
     "Python/Python - Async und Performance.md",
     "Python/Karten-Qualitaet.md",
-    "Python/Python - Datenstrukturen und Komplexität.md",
     "Python",
     "Laufen"
   ]
