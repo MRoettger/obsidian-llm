@@ -13,12 +13,12 @@
             "state": {
               "type": "split-diff-view",
               "state": {
-                "aFile": "llm-knowledge/.obsidian/workspace.json",
-                "bFile": "llm-knowledge/.obsidian/workspace.json",
+                "aFile": "llm-knowledge/Urlaub/Urlaub August.md",
+                "bFile": "llm-knowledge/Urlaub/Urlaub August.md",
                 "aRef": ""
               },
               "icon": "diff",
-              "title": "Diff: workspace.json  (Working Tree)"
+              "title": "Diff: Urlaub August  (Working Tree)"
             }
           }
         ]
@@ -195,6 +195,11 @@
   },
   "active": "ae83501426a7c20c",
   "lastOpenFiles": [
+    "Laufen/Wochenbericht 2026-07-13 bis 07-19.md",
+    "Urlaub/Urlaub August.md",
+    "Urlaub/Unbenannt.md",
+    "Urlaub August.md",
+    "Urlaub",
     "Laufen/Leistungsdiagnosti.pdf",
     "Radurlaub/Übersicht Radurlaub.md",
     "Laufen/Rennvorbereitung-Checkliste.md",
@@ -221,9 +226,6 @@
     "Laufen/5km-Test-Protokoll.md",
     "Laufen/Renntag-Erkenntnisse.md",
     "Laufen/12-Wochen-Plan HM-Aufbau 2026.md",
-    "Python/Python - Data Science (numpy und pandas).md",
-    "Python/Python - Async und Performance.md",
-    "Python/Karten-Qualitaet.md",
     "Python",
     "Laufen"
   ]
