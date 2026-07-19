@@ -65,8 +65,8 @@
     "semantic_hash": "65ae45c2a7c68e5df3c8f9ea534cbf3a"
   },
   "llm-knowledge/.obsidian/workspace.json": {
-    "mtime": 1783859470.734604,
-    "ast_hash": "0b5bebdc625ddead7f53820f3e38f2da",
+    "mtime": 1784495026.3167346,
+    "ast_hash": "ce97cd943901c1cadf7dc4b85c9ed1eb",
     "semantic_hash": ""
   },
   "llm-knowledge/Laufen/HM-Aufbau Forschungsgrundlagen 2026.md": {
@@ -207,6 +207,16 @@
   "llm-knowledge/Laufen/Leistungsdiagnosti.pdf": {
     "mtime": 1740238132.932169,
     "ast_hash": "54a215c00011c3cb76cf20a69a2ae1de",
+    "semantic_hash": ""
+  },
+  "llm-knowledge/Laufen/Wochenbericht 2026-07-13 bis 07-19.md": {
+    "mtime": 1784495025.2969089,
+    "ast_hash": "a6354b30574ff9ea82e80f3add5f2b03",
+    "semantic_hash": ""
+  },
+  "llm-knowledge/Urlaub/Urlaub August.md": {
+    "mtime": 1783863446.224226,
+    "ast_hash": "dcfc671a77dde5f92057114e1324e9c7",
     "semantic_hash": ""
   }
 }

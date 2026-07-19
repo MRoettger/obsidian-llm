@@ -114,6 +114,7 @@
   "112": "🐍 Python – Standardbibliothek",
   "113": "🏁 Renntag-Erkenntnisse",
   "114": "🏃 Trainingslog 02.07.2026 — Qualitätseinheit (Schwelle/Tempo)",
+  "115": "Ec",
   "116": "na",
   "117": "🟥 Karten-Qualität — was gute Python-Karten unterscheidet",
   "118": "🐍 Python – Data Science (numpy und pandas)",
@@ -220,6 +221,5 @@
   "220": "Slicing (a[::-1])",
   "221": "sorted() vs. list.sort",
   "222": "Erweitertes Unpacking mit *",
-  "223": "Walrus-Operator :=",
-  "224": "finalizeIssue"
+  "223": "Walrus-Operator :="
 }
