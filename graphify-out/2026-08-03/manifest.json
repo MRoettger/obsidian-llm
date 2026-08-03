@@ -5,27 +5,27 @@
     "semantic_hash": "b62aacd39b97f261d1b6126e5a68cbef"
   },
   ".claude/settings.local.json": {
-    "mtime": 1785743425.3738217,
-    "ast_hash": "99f8725941a13b69be4995aec205f78a",
+    "mtime": 1784843569.5548127,
+    "ast_hash": "da21052681522f31ec8f05c8429327ca",
     "semantic_hash": ""
   },
   "llm-knowledge/.obsidian/app.json": {
-    "mtime": 1785737734.9679053,
+    "mtime": 1784710900.9301164,
     "ast_hash": "99914b932bd37a50b983c5e7c90ae93b",
     "semantic_hash": "99914b932bd37a50b983c5e7c90ae93b"
   },
   "llm-knowledge/.obsidian/appearance.json": {
-    "mtime": 1785737734.969514,
+    "mtime": 1784710900.9307225,
     "ast_hash": "99914b932bd37a50b983c5e7c90ae93b",
     "semantic_hash": "99914b932bd37a50b983c5e7c90ae93b"
   },
   "llm-knowledge/.obsidian/community-plugins.json": {
-    "mtime": 1785737735.2445612,
+    "mtime": 1784710901.0891724,
     "ast_hash": "f9be9806580ef086175cdaf7cac7c6fb",
     "semantic_hash": "f9be9806580ef086175cdaf7cac7c6fb"
   },
   "llm-knowledge/.obsidian/core-plugins.json": {
-    "mtime": 1785737734.54928,
+    "mtime": 1784710900.447548,
     "ast_hash": "7c877bea49eaeabb100563bd157b9051",
     "semantic_hash": "7c877bea49eaeabb100563bd157b9051"
   },
@@ -45,7 +45,7 @@
     "semantic_hash": "78daa9ee41f019d8766f19925b34c1f7"
   },
   "llm-knowledge/.obsidian/plugins/obsidian-git/obsidian_askpass.sh": {
-    "mtime": 1785737734.707363,
+    "mtime": 1784710900.309257,
     "ast_hash": "f662d5f216d371e86d1b108ba5d22a5f",
     "semantic_hash": "f662d5f216d371e86d1b108ba5d22a5f"
   },
@@ -65,8 +65,8 @@
     "semantic_hash": "65ae45c2a7c68e5df3c8f9ea534cbf3a"
   },
   "llm-knowledge/.obsidian/workspace.json": {
-    "mtime": 1785743414.0133011,
-    "ast_hash": "f163446995a37494ed1516d183e3557f",
+    "mtime": 1784870202.2909155,
+    "ast_hash": "b098a50f748f0704b4e30ffd06fc2742",
     "semantic_hash": ""
   },
   "llm-knowledge/Laufen/HM-Aufbau Forschungsgrundlagen 2026.md": {
@@ -135,9 +135,9 @@
     "semantic_hash": "b7b044cad1174c9013cb8f5e6be6d847"
   },
   "llm-knowledge/Laufen/_Index.md": {
-    "mtime": 1785743417.2284997,
-    "ast_hash": "d8b6a7fa9f1de8b11ba5ff17ca9975b5",
-    "semantic_hash": ""
+    "mtime": 1783017713.6454349,
+    "ast_hash": "35490c93b331645c731fb3fa32c3fb61",
+    "semantic_hash": "35490c93b331645c731fb3fa32c3fb61"
   },
   "llm-knowledge/Python/Karten-Qualitaet.md": {
     "mtime": 1782682659.8745365,
@@ -217,11 +217,6 @@
   "llm-knowledge/Urlaub/Urlaub August.md": {
     "mtime": 1783863446.224226,
     "ast_hash": "dcfc671a77dde5f92057114e1324e9c7",
-    "semantic_hash": ""
-  },
-  "llm-knowledge/Laufen/Wettkampf 2027-03-21 Venloop.md": {
-    "mtime": 1785743412.9887311,
-    "ast_hash": "aaa072685473efb6ea17a2a71be51c85",
     "semantic_hash": ""
   }
 }

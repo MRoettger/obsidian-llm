@@ -56,7 +56,7 @@
       "source_location": "L6",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_sb",
-      "community": 9,
+      "community": 68,
       "norm_label": "sb()"
     },
     {
@@ -66,7 +66,7 @@
       "source_location": "L6",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_nf",
-      "community": 9,
+      "community": 68,
       "norm_label": "nf()"
     },
     {
@@ -96,7 +96,7 @@
       "source_location": "L6",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_uf",
-      "community": 47,
+      "community": 19,
       "norm_label": "uf()"
     },
     {
@@ -106,7 +106,7 @@
       "source_location": "L6",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_gf",
-      "community": 47,
+      "community": 19,
       "norm_label": "gf()"
     },
     {
@@ -116,7 +116,7 @@
       "source_location": "L6",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_jf",
-      "community": 91,
+      "community": 69,
       "norm_label": "jf()"
     },
     {
@@ -126,7 +126,7 @@
       "source_location": "L6",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_vf",
-      "community": 47,
+      "community": 19,
       "norm_label": "vf()"
     },
     {
@@ -196,7 +196,7 @@
       "source_location": "L6",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_wf",
-      "community": 9,
+      "community": 63,
       "norm_label": "wf()"
     },
     {
@@ -206,7 +206,7 @@
       "source_location": "L6",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_qp",
-      "community": 92,
+      "community": 9,
       "norm_label": "qp()"
     },
     {
@@ -236,7 +236,7 @@
       "source_location": "L6",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_yf",
-      "community": 47,
+      "community": 19,
       "norm_label": "yf()"
     },
     {
@@ -246,7 +246,7 @@
       "source_location": "L6",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_rm",
-      "community": 9,
+      "community": 10,
       "norm_label": "rm()"
     },
     {
@@ -266,7 +266,7 @@
       "source_location": "L6",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_kf",
-      "community": 78,
+      "community": 1,
       "norm_label": "kf()"
     },
     {
@@ -276,7 +276,7 @@
       "source_location": "L6",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_na",
-      "community": 33,
+      "community": 116,
       "norm_label": "na()"
     },
     {
@@ -286,7 +286,7 @@
       "source_location": "L6",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_o_swap16",
-      "community": 33,
+      "community": 116,
       "norm_label": ".swap16()"
     },
     {
@@ -296,7 +296,7 @@
       "source_location": "L6",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_o_swap32",
-      "community": 33,
+      "community": 116,
       "norm_label": ".swap32()"
     },
     {
@@ -306,7 +306,7 @@
       "source_location": "L6",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_o_swap64",
-      "community": 33,
+      "community": 116,
       "norm_label": ".swap64()"
     },
     {
@@ -356,7 +356,7 @@
       "source_location": "L6",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_mb",
-      "community": 41,
+      "community": 68,
       "norm_label": "mb()"
     },
     {
@@ -366,7 +366,7 @@
       "source_location": "L6",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_tb",
-      "community": 47,
+      "community": 19,
       "norm_label": "tb()"
     },
     {
@@ -396,7 +396,7 @@
       "source_location": "L6",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_o_lastindexof",
-      "community": 58,
+      "community": 68,
       "norm_label": ".lastindexof()"
     },
     {
@@ -406,7 +406,7 @@
       "source_location": "L6",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_xf",
-      "community": 47,
+      "community": 19,
       "norm_label": "xf()"
     },
     {
@@ -456,7 +456,7 @@
       "source_location": "L6",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_ri",
-      "community": 78,
+      "community": 1,
       "norm_label": "ri()"
     },
     {
@@ -466,7 +466,7 @@
       "source_location": "L6",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_db",
-      "community": 68,
+      "community": 63,
       "norm_label": "db()"
     },
     {
@@ -476,7 +476,7 @@
       "source_location": "L6",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_ii",
-      "community": 68,
+      "community": 63,
       "norm_label": "ii()"
     },
     {
@@ -486,7 +486,7 @@
       "source_location": "L6",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_ni",
-      "community": 78,
+      "community": 1,
       "norm_label": "ni()"
     },
     {
@@ -496,7 +496,7 @@
       "source_location": "L6",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_si",
-      "community": 78,
+      "community": 1,
       "norm_label": "si()"
     },
     {
@@ -506,7 +506,7 @@
       "source_location": "L6",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_ai",
-      "community": 78,
+      "community": 1,
       "norm_label": "ai()"
     },
     {
@@ -516,7 +516,7 @@
       "source_location": "L6",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_oi",
-      "community": 78,
+      "community": 1,
       "norm_label": "oi()"
     },
     {
@@ -656,7 +656,7 @@
       "source_location": "L6",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_r",
-      "community": 33,
+      "community": 124,
       "norm_label": "$r()"
     },
     {
@@ -666,7 +666,7 @@
       "source_location": "L6",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_ob",
-      "community": 41,
+      "community": 4,
       "norm_label": "ob()"
     },
     {
@@ -686,7 +686,7 @@
       "source_location": "L6",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_o_writeintle",
-      "community": 33,
+      "community": 124,
       "norm_label": ".writeintle()"
     },
     {
@@ -696,7 +696,7 @@
       "source_location": "L6",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_o_writeintbe",
-      "community": 33,
+      "community": 124,
       "norm_label": ".writeintbe()"
     },
     {
@@ -706,7 +706,7 @@
       "source_location": "L6",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_o_writeint8",
-      "community": 33,
+      "community": 124,
       "norm_label": ".writeint8()"
     },
     {
@@ -716,7 +716,7 @@
       "source_location": "L6",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_o_writeint16le",
-      "community": 33,
+      "community": 124,
       "norm_label": ".writeint16le()"
     },
     {
@@ -726,7 +726,7 @@
       "source_location": "L6",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_o_writeint16be",
-      "community": 33,
+      "community": 124,
       "norm_label": ".writeint16be()"
     },
     {
@@ -736,7 +736,7 @@
       "source_location": "L6",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_o_writeint32le",
-      "community": 33,
+      "community": 124,
       "norm_label": ".writeint32le()"
     },
     {
@@ -746,7 +746,7 @@
       "source_location": "L6",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_o_writeint32be",
-      "community": 33,
+      "community": 124,
       "norm_label": ".writeint32be()"
     },
     {
@@ -756,7 +756,7 @@
       "source_location": "L6",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_nb",
-      "community": 47,
+      "community": 19,
       "norm_label": "nb()"
     },
     {
@@ -796,7 +796,7 @@
       "source_location": "L6",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_hb",
-      "community": 33,
+      "community": 10,
       "norm_label": "hb()"
     },
     {
@@ -836,7 +836,7 @@
       "source_location": "L6",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_o_fill",
-      "community": 64,
+      "community": 72,
       "norm_label": ".fill()"
     },
     {
@@ -906,7 +906,7 @@
       "source_location": "L6",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_ui",
-      "community": 63,
+      "community": 1,
       "norm_label": "ui()"
     },
     {
@@ -926,7 +926,7 @@
       "source_location": "L6",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_fi",
-      "community": 91,
+      "community": 69,
       "norm_label": "fi()"
     },
     {
@@ -976,7 +976,7 @@
       "source_location": "L6",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_nm",
-      "community": 47,
+      "community": 19,
       "norm_label": "nm()"
     },
     {
@@ -1116,7 +1116,7 @@
       "source_location": "L6",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_wf_digest",
-      "community": 41,
+      "community": 63,
       "norm_label": ".digest()"
     },
     {
@@ -1126,7 +1126,7 @@
       "source_location": "L6",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_ec",
-      "community": 33,
+      "community": 124,
       "norm_label": "ec()"
     },
     {
@@ -1136,7 +1136,7 @@
       "source_location": "L6",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_ec_init",
-      "community": 25,
+      "community": 36,
       "norm_label": ".init()"
     },
     {
@@ -1196,7 +1196,7 @@
       "source_location": "L6",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_ec_hash",
-      "community": 33,
+      "community": 124,
       "norm_label": "._hash()"
     },
     {
@@ -1216,7 +1216,7 @@
       "source_location": "L6",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_i",
-      "community": 41,
+      "community": 63,
       "norm_label": "i()"
     },
     {
@@ -1286,7 +1286,7 @@
       "source_location": "L6",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_ax",
-      "community": 43,
+      "community": 29,
       "norm_label": "ax()"
     },
     {
@@ -1516,7 +1516,7 @@
       "source_location": "L6",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_md",
-      "community": 58,
+      "community": 68,
       "norm_label": "md()"
     },
     {
@@ -1526,7 +1526,7 @@
       "source_location": "L6",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_dd",
-      "community": 44,
+      "community": 64,
       "norm_label": "dd()"
     },
     {
@@ -1546,7 +1546,7 @@
       "source_location": "L6",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_nx",
-      "community": 47,
+      "community": 19,
       "norm_label": "nx()"
     },
     {
@@ -1586,7 +1586,7 @@
       "source_location": "L6",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_oe",
-      "community": 60,
+      "community": 4,
       "norm_label": "oe()"
     },
     {
@@ -1596,7 +1596,7 @@
       "source_location": "L6",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_rc",
-      "community": 47,
+      "community": 19,
       "norm_label": "rc()"
     },
     {
@@ -1716,7 +1716,7 @@
       "source_location": "L6",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_fo",
-      "community": 47,
+      "community": 19,
       "norm_label": "fo()"
     },
     {
@@ -1736,7 +1736,7 @@
       "source_location": "L6",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_ho",
-      "community": 47,
+      "community": 19,
       "norm_label": "ho()"
     },
     {
@@ -1766,7 +1766,7 @@
       "source_location": "L6",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_qx",
-      "community": 60,
+      "community": 63,
       "norm_label": "qx()"
     },
     {
@@ -2036,7 +2036,7 @@
       "source_location": "L6",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_initcache",
-      "community": 52,
+      "community": 4,
       "norm_label": "_initcache()"
     },
     {
@@ -2046,7 +2046,7 @@
       "source_location": "L6",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_addpattern",
-      "community": 52,
+      "community": 4,
       "norm_label": "_addpattern()"
     },
     {
@@ -2056,7 +2056,7 @@
       "source_location": "L6",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_add",
-      "community": 52,
+      "community": 4,
       "norm_label": "add()"
     },
     {
@@ -2126,7 +2126,7 @@
       "source_location": "L6",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_wl",
-      "community": 74,
+      "community": 7,
       "norm_label": "wl()"
     },
     {
@@ -2136,7 +2136,7 @@
       "source_location": "L6",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_mn",
-      "community": 74,
+      "community": 7,
       "norm_label": "mn()"
     },
     {
@@ -2176,7 +2176,7 @@
       "source_location": "L6",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_el",
-      "community": 19,
+      "community": 68,
       "norm_label": "el()"
     },
     {
@@ -2226,7 +2226,7 @@
       "source_location": "L10",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_eof",
-      "community": 54,
+      "community": 29,
       "norm_label": "eof()"
     },
     {
@@ -2236,7 +2236,7 @@
       "source_location": "L10",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_tell",
-      "community": 54,
+      "community": 29,
       "norm_label": "tell()"
     },
     {
@@ -2246,7 +2246,7 @@
       "source_location": "L10",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_seek",
-      "community": 1,
+      "community": 29,
       "norm_label": "seek()"
     },
     {
@@ -2266,7 +2266,7 @@
       "source_location": "L10",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_tostring",
-      "community": 41,
+      "community": 63,
       "norm_label": "tostring()"
     },
     {
@@ -2276,7 +2276,7 @@
       "source_location": "L10",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_write",
-      "community": 9,
+      "community": 10,
       "norm_label": "write()"
     },
     {
@@ -2286,7 +2286,7 @@
       "source_location": "L10",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_copy",
-      "community": 47,
+      "community": 9,
       "norm_label": "copy()"
     },
     {
@@ -2296,7 +2296,7 @@
       "source_location": "L10",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_readuint8",
-      "community": 54,
+      "community": 68,
       "norm_label": "readuint8()"
     },
     {
@@ -2316,7 +2316,7 @@
       "source_location": "L10",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_readuint16be",
-      "community": 1,
+      "community": 68,
       "norm_label": "readuint16be()"
     },
     {
@@ -2326,7 +2326,7 @@
       "source_location": "L10",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_writeuint16be",
-      "community": 101,
+      "community": 1,
       "norm_label": "writeuint16be()"
     },
     {
@@ -2336,7 +2336,7 @@
       "source_location": "L10",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_readuint32be",
-      "community": 54,
+      "community": 29,
       "norm_label": "readuint32be()"
     },
     {
@@ -2346,7 +2346,7 @@
       "source_location": "L10",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_writeuint32be",
-      "community": 101,
+      "community": 1,
       "norm_label": "writeuint32be()"
     },
     {
@@ -2386,7 +2386,7 @@
       "source_location": "L10",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_wn",
-      "community": 10,
+      "community": 9,
       "norm_label": "wn()"
     },
     {
@@ -2396,7 +2396,7 @@
       "source_location": "L10",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_tl",
-      "community": 41,
+      "community": 63,
       "norm_label": "tl()"
     },
     {
@@ -2416,7 +2416,7 @@
       "source_location": "L10",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_rl",
-      "community": 10,
+      "community": 68,
       "norm_label": "rl()"
     },
     {
@@ -2426,7 +2426,7 @@
       "source_location": "L10",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_l",
-      "community": 101,
+      "community": 1,
       "norm_label": "$l()"
     },
     {
@@ -2446,7 +2446,7 @@
       "source_location": "L10",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_from",
-      "community": 9,
+      "community": 10,
       "norm_label": "from()"
     },
     {
@@ -2476,7 +2476,7 @@
       "source_location": "L10",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_entries",
-      "community": 10,
+      "community": 63,
       "norm_label": "entries()"
     },
     {
@@ -2526,7 +2526,7 @@
       "source_location": "L10",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_delete",
-      "community": 41,
+      "community": 4,
       "norm_label": "delete()"
     },
     {
@@ -2546,7 +2546,7 @@
       "source_location": "L10",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_has",
-      "community": 63,
+      "community": 4,
       "norm_label": "has()"
     },
     {
@@ -2566,7 +2566,7 @@
       "source_location": "L11",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_entrytobuffer",
-      "community": 101,
+      "community": 1,
       "norm_label": "_entrytobuffer()"
     },
     {
@@ -2576,7 +2576,7 @@
       "source_location": "L11",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_toobject",
-      "community": 58,
+      "community": 9,
       "norm_label": "toobject()"
     },
     {
@@ -2626,7 +2626,7 @@
       "source_location": "L11",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_va",
-      "community": 58,
+      "community": 10,
       "norm_label": "va()"
     },
     {
@@ -2636,7 +2636,7 @@
       "source_location": "L11",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_je",
-      "community": 63,
+      "community": 10,
       "norm_label": "je()"
     },
     {
@@ -2646,7 +2646,7 @@
       "source_location": "L11",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_dl",
-      "community": 41,
+      "community": 7,
       "norm_label": "dl()"
     },
     {
@@ -2716,7 +2716,7 @@
       "source_location": "L11",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_ea",
-      "community": 19,
+      "community": 7,
       "norm_label": "ea()"
     },
     {
@@ -2726,7 +2726,7 @@
       "source_location": "L17",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_translate",
-      "community": 9,
+      "community": 1,
       "norm_label": "translate()"
     },
     {
@@ -2746,7 +2746,7 @@
       "source_location": "L17",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_translateone",
-      "community": 9,
+      "community": 1,
       "norm_label": "translateone()"
     },
     {
@@ -2766,7 +2766,7 @@
       "source_location": "L17",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_ol",
-      "community": 24,
+      "community": 1,
       "norm_label": "ol()"
     },
     {
@@ -2776,7 +2776,7 @@
       "source_location": "L17",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_ll",
-      "community": 41,
+      "community": 68,
       "norm_label": "ll()"
     },
     {
@@ -2786,7 +2786,7 @@
       "source_location": "L17",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_nl",
-      "community": 41,
+      "community": 68,
       "norm_label": "nl()"
     },
     {
@@ -2806,7 +2806,7 @@
       "source_location": "L18",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_get",
-      "community": 7,
+      "community": 4,
       "norm_label": "get()"
     },
     {
@@ -2816,7 +2816,7 @@
       "source_location": "L18",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_getall",
-      "community": 7,
+      "community": 4,
       "norm_label": "getall()"
     },
     {
@@ -2826,7 +2826,7 @@
       "source_location": "L18",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_getsubsections",
-      "community": 9,
+      "community": 68,
       "norm_label": "getsubsections()"
     },
     {
@@ -2846,7 +2846,7 @@
       "source_location": "L18",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_append",
-      "community": 58,
+      "community": 57,
       "norm_label": "append()"
     },
     {
@@ -2856,7 +2856,7 @@
       "source_location": "L18",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_set",
-      "community": 19,
+      "community": 1,
       "norm_label": "set()"
     },
     {
@@ -2886,7 +2886,7 @@
       "source_location": "L19",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_updateremoterefs",
-      "community": 9,
+      "community": 10,
       "norm_label": "updateremoterefs()"
     },
     {
@@ -2926,7 +2926,7 @@
       "source_location": "L22",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_deleterefs",
-      "community": 9,
+      "community": 10,
       "norm_label": "deleterefs()"
     },
     {
@@ -2966,7 +2966,7 @@
       "source_location": "L22",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_expandagainstmap",
-      "community": 63,
+      "community": 4,
       "norm_label": "expandagainstmap()"
     },
     {
@@ -2996,7 +2996,7 @@
       "source_location": "L22",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_listrefs",
-      "community": 24,
+      "community": 9,
       "norm_label": "listrefs()"
     },
     {
@@ -3056,7 +3056,7 @@
       "source_location": "L22",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_jl",
-      "community": 68,
+      "community": 4,
       "norm_label": "jl()"
     },
     {
@@ -3066,7 +3066,7 @@
       "source_location": "L22",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_en",
-      "community": 68,
+      "community": 10,
       "norm_label": "en()"
     },
     {
@@ -3106,7 +3106,7 @@
       "source_location": "L23",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_tn",
-      "community": 54,
+      "community": 9,
       "norm_label": "tn()"
     },
     {
@@ -3116,7 +3116,7 @@
       "source_location": "L23",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_xe",
-      "community": 54,
+      "community": 4,
       "norm_label": "xe()"
     },
     {
@@ -3126,7 +3126,7 @@
       "source_location": "L23",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_se",
-      "community": 54,
+      "community": 68,
       "norm_label": "se()"
     },
     {
@@ -3136,7 +3136,7 @@
       "source_location": "L23",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_rn",
-      "community": 19,
+      "community": 7,
       "norm_label": "rn()"
     },
     {
@@ -3156,7 +3156,7 @@
       "source_location": "L23",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_byte",
-      "community": 54,
+      "community": 29,
       "norm_label": "byte()"
     },
     {
@@ -3186,7 +3186,7 @@
       "source_location": "L23",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_skip",
-      "community": 54,
+      "community": 29,
       "norm_label": "skip()"
     },
     {
@@ -3196,7 +3196,7 @@
       "source_location": "L23",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_undo",
-      "community": 1,
+      "community": 29,
       "norm_label": "undo()"
     },
     {
@@ -3216,7 +3216,7 @@
       "source_location": "L23",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_trim",
-      "community": 54,
+      "community": 29,
       "norm_label": "_trim()"
     },
     {
@@ -3226,7 +3226,7 @@
       "source_location": "L23",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_movecursor",
-      "community": 54,
+      "community": 29,
       "norm_label": "_movecursor()"
     },
     {
@@ -3276,7 +3276,7 @@
       "source_location": "L23",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_nn",
-      "community": 54,
+      "community": 29,
       "norm_label": "nn()"
     },
     {
@@ -3286,7 +3286,7 @@
       "source_location": "L23",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_sn",
-      "community": 54,
+      "community": 29,
       "norm_label": "sn()"
     },
     {
@@ -3296,7 +3296,7 @@
       "source_location": "L23",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_qe",
-      "community": 10,
+      "community": 68,
       "norm_label": "qe()"
     },
     {
@@ -3306,7 +3306,7 @@
       "source_location": "L23",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_an",
-      "community": 10,
+      "community": 9,
       "norm_label": "an()"
     },
     {
@@ -3326,7 +3326,7 @@
       "source_location": "L23",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_cn",
-      "community": 54,
+      "community": 68,
       "norm_label": "cn()"
     },
     {
@@ -3336,7 +3336,7 @@
       "source_location": "L23",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_fromidx",
-      "community": 54,
+      "community": 29,
       "norm_label": "fromidx()"
     },
     {
@@ -3346,7 +3346,7 @@
       "source_location": "L23",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_frompack",
-      "community": 10,
+      "community": 63,
       "norm_label": "frompack()"
     },
     {
@@ -3386,7 +3386,7 @@
       "source_location": "L23",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_readslice",
-      "community": 54,
+      "community": 68,
       "norm_label": "readslice()"
     },
     {
@@ -3636,7 +3636,7 @@
       "source_location": "L65",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_xr",
-      "community": 19,
+      "community": 7,
       "norm_label": "xr()"
     },
     {
@@ -3696,7 +3696,7 @@
       "source_location": "L65",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_n",
-      "community": 41,
+      "community": 7,
       "norm_label": "_n()"
     },
     {
@@ -3746,7 +3746,7 @@
       "source_location": "L66",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_mkdir",
-      "community": 9,
+      "community": 10,
       "norm_label": "mkdir()"
     },
     {
@@ -3756,7 +3756,7 @@
       "source_location": "L66",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_rmdir",
-      "community": 25,
+      "community": 10,
       "norm_label": "rmdir()"
     },
     {
@@ -3766,7 +3766,7 @@
       "source_location": "L66",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_readdirdeep",
-      "community": 24,
+      "community": 1,
       "norm_label": "readdirdeep()"
     },
     {
@@ -3796,7 +3796,7 @@
       "source_location": "L66",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_writelink",
-      "community": 10,
+      "community": 63,
       "norm_label": "writelink()"
     },
     {
@@ -3806,7 +3806,7 @@
       "source_location": "L66",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_xn",
-      "community": 58,
+      "community": 9,
       "norm_label": "xn()"
     },
     {
@@ -3816,7 +3816,7 @@
       "source_location": "L66",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_ie",
-      "community": 58,
+      "community": 9,
       "norm_label": "ie()"
     },
     {
@@ -3836,7 +3836,7 @@
       "source_location": "L66",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_kn",
-      "community": 54,
+      "community": 4,
       "norm_label": "kn()"
     },
     {
@@ -3846,7 +3846,7 @@
       "source_location": "L66",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_or",
-      "community": 10,
+      "community": 9,
       "norm_label": "or()"
     },
     {
@@ -3866,7 +3866,7 @@
       "source_location": "L66",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_ou",
-      "community": 7,
+      "community": 4,
       "norm_label": "ou()"
     },
     {
@@ -3906,7 +3906,7 @@
       "source_location": "L66",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_rs",
-      "community": 58,
+      "community": 9,
       "norm_label": "rs()"
     },
     {
@@ -3916,7 +3916,7 @@
       "source_location": "L66",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_uu",
-      "community": 10,
+      "community": 9,
       "norm_label": "uu()"
     },
     {
@@ -3936,7 +3936,7 @@
       "source_location": "L66",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_fu",
-      "community": 58,
+      "community": 9,
       "norm_label": "fu()"
     },
     {
@@ -3976,7 +3976,7 @@
       "source_location": "L67",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_os",
-      "community": 41,
+      "community": 4,
       "norm_label": "os()"
     },
     {
@@ -3996,7 +3996,7 @@
       "source_location": "L67",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_jg",
-      "community": 9,
+      "community": 10,
       "norm_label": "jg()"
     },
     {
@@ -4006,7 +4006,7 @@
       "source_location": "L67",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_pe",
-      "community": 68,
+      "community": 47,
       "norm_label": "pe()"
     },
     {
@@ -4106,7 +4106,7 @@
       "source_location": "L70",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_hg",
-      "community": 41,
+      "community": 4,
       "norm_label": "hg()"
     },
     {
@@ -4116,7 +4116,7 @@
       "source_location": "L70",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_flush",
-      "community": 41,
+      "community": 4,
       "norm_label": "flush()"
     },
     {
@@ -4136,7 +4136,7 @@
       "source_location": "L70",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_encode",
-      "community": 41,
+      "community": 4,
       "norm_label": "encode()"
     },
     {
@@ -4146,7 +4146,7 @@
       "source_location": "L70",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_streamreader",
-      "community": 41,
+      "community": 63,
       "norm_label": "streamreader()"
     },
     {
@@ -4156,7 +4156,7 @@
       "source_location": "L70",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_me",
-      "community": 41,
+      "community": 63,
       "norm_label": "me()"
     },
     {
@@ -4166,7 +4166,7 @@
       "source_location": "L70",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_ag",
-      "community": 41,
+      "community": 63,
       "norm_label": "ag()"
     },
     {
@@ -4236,7 +4236,7 @@
       "source_location": "L73",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_end",
-      "community": 86,
+      "community": 64,
       "norm_label": "end()"
     },
     {
@@ -4266,7 +4266,7 @@
       "source_location": "L74",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_demux",
-      "community": 41,
+      "community": 63,
       "norm_label": "demux()"
     },
     {
@@ -4286,7 +4286,7 @@
       "source_location": "L81",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_gs",
-      "community": 9,
+      "community": 10,
       "norm_label": "gs()"
     },
     {
@@ -4316,7 +4316,7 @@
       "source_location": "L89",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_ys",
-      "community": 24,
+      "community": 9,
       "norm_label": "ys()"
     },
     {
@@ -4326,7 +4326,7 @@
       "source_location": "L89",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_ks",
-      "community": 58,
+      "community": 9,
       "norm_label": "ks()"
     },
     {
@@ -4336,7 +4336,7 @@
       "source_location": "L89",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_wg",
-      "community": 58,
+      "community": 4,
       "norm_label": "wg()"
     },
     {
@@ -4356,7 +4356,7 @@
       "source_location": "L89",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_eb",
-      "community": 7,
+      "community": 4,
       "norm_label": "eb()"
     },
     {
@@ -4376,7 +4376,7 @@
       "source_location": "L89",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_qs",
-      "community": 10,
+      "community": 63,
       "norm_label": "qs()"
     },
     {
@@ -4386,7 +4386,7 @@
       "source_location": "L89",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_ab",
-      "community": 41,
+      "community": 63,
       "norm_label": "ab()"
     },
     {
@@ -4426,7 +4426,7 @@
       "source_location": "L91",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_rk",
-      "community": 58,
+      "community": 9,
       "norm_label": "rk()"
     },
     {
@@ -4456,7 +4456,7 @@
       "source_location": "L91",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_pb",
-      "community": 41,
+      "community": 63,
       "norm_label": "pb()"
     },
     {
@@ -4486,7 +4486,7 @@
       "source_location": "L95",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_ak",
-      "community": 19,
+      "community": 7,
       "norm_label": "ak()"
     },
     {
@@ -4496,7 +4496,7 @@
       "source_location": "L95",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_ok",
-      "community": 58,
+      "community": 9,
       "norm_label": "ok()"
     },
     {
@@ -4506,7 +4506,7 @@
       "source_location": "L95",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_qg",
-      "community": 58,
+      "community": 9,
       "norm_label": "qg()"
     },
     {
@@ -4536,7 +4536,7 @@
       "source_location": "L95",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_ck",
-      "community": 10,
+      "community": 9,
       "norm_label": "ck()"
     },
     {
@@ -4566,7 +4566,7 @@
       "source_location": "L95",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_fk",
-      "community": 58,
+      "community": 9,
       "norm_label": "fk()"
     },
     {
@@ -4576,7 +4576,7 @@
       "source_location": "L95",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_dk",
-      "community": 58,
+      "community": 9,
       "norm_label": "dk()"
     },
     {
@@ -4596,7 +4596,7 @@
       "source_location": "L96",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_pk",
-      "community": 58,
+      "community": 9,
       "norm_label": "pk()"
     },
     {
@@ -4626,7 +4626,7 @@
       "source_location": "L96",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_vk",
-      "community": 58,
+      "community": 9,
       "norm_label": "vk()"
     },
     {
@@ -4636,7 +4636,7 @@
       "source_location": "L96",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_wk",
-      "community": 58,
+      "community": 4,
       "norm_label": "wk()"
     },
     {
@@ -4646,7 +4646,7 @@
       "source_location": "L96",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_bk",
-      "community": 58,
+      "community": 9,
       "norm_label": "bk()"
     },
     {
@@ -4726,7 +4726,7 @@
       "source_location": "L98",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_getauthor",
-      "community": 19,
+      "community": 58,
       "norm_label": "getauthor()"
     },
     {
@@ -4736,7 +4736,7 @@
       "source_location": "L98",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_getstashsha",
-      "community": 9,
+      "community": 58,
       "norm_label": "getstashsha()"
     },
     {
@@ -4746,7 +4746,7 @@
       "source_location": "L98",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_writestashcommit",
-      "community": 19,
+      "community": 58,
       "norm_label": "writestashcommit()"
     },
     {
@@ -4756,7 +4756,7 @@
       "source_location": "L98",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_readstashcommit",
-      "community": 9,
+      "community": 58,
       "norm_label": "readstashcommit()"
     },
     {
@@ -4766,7 +4766,7 @@
       "source_location": "L98",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_writestashref",
-      "community": 9,
+      "community": 58,
       "norm_label": "writestashref()"
     },
     {
@@ -4776,7 +4776,7 @@
       "source_location": "L98",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_writestashreflogentry",
-      "community": 19,
+      "community": 58,
       "norm_label": "writestashreflogentry()"
     },
     {
@@ -4786,7 +4786,7 @@
       "source_location": "L98",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_readstashreflogs",
-      "community": 9,
+      "community": 58,
       "norm_label": "readstashreflogs()"
     },
     {
@@ -4806,7 +4806,7 @@
       "source_location": "L98",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_xb",
-      "community": 19,
+      "community": 68,
       "norm_label": "xb()"
     },
     {
@@ -4826,7 +4826,7 @@
       "source_location": "L98",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_xk",
-      "community": 9,
+      "community": 58,
       "norm_label": "xk()"
     },
     {
@@ -4846,7 +4846,7 @@
       "source_location": "L100",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_kk",
-      "community": 7,
+      "community": 10,
       "norm_label": "kk()"
     },
     {
@@ -4856,7 +4856,7 @@
       "source_location": "L100",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_cb",
-      "community": 58,
+      "community": 9,
       "norm_label": "cb()"
     },
     {
@@ -4876,7 +4876,7 @@
       "source_location": "L101",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_zk",
-      "community": 47,
+      "community": 19,
       "norm_label": "zk()"
     },
     {
@@ -4916,7 +4916,7 @@
       "source_location": "L101",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_r3",
-      "community": 43,
+      "community": 61,
       "norm_label": "r3()"
     },
     {
@@ -4926,7 +4926,7 @@
       "source_location": "L101",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_i3",
-      "community": 1,
+      "community": 63,
       "norm_label": "i3()"
     },
     {
@@ -4966,7 +4966,7 @@
       "source_location": "L101",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_o3",
-      "community": 26,
+      "community": 69,
       "norm_label": "o3()"
     },
     {
@@ -5006,7 +5006,7 @@
       "source_location": "L101",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_m3",
-      "community": 7,
+      "community": 4,
       "norm_label": "m3()"
     },
     {
@@ -5056,7 +5056,7 @@
       "source_location": "L102",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_de",
-      "community": 60,
+      "community": 63,
       "norm_label": "de()"
     },
     {
@@ -5126,7 +5126,7 @@
       "source_location": "L128",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_diff",
-      "community": 11,
+      "community": 32,
       "norm_label": "diff()"
     },
     {
@@ -5136,7 +5136,7 @@
       "source_location": "L128",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_diffwithoptionsobj",
-      "community": 19,
+      "community": 32,
       "norm_label": "diffwithoptionsobj()"
     },
     {
@@ -5146,7 +5146,7 @@
       "source_location": "L128",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_addtopath",
-      "community": 19,
+      "community": 32,
       "norm_label": "addtopath()"
     },
     {
@@ -5156,7 +5156,7 @@
       "source_location": "L128",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_extractcommon",
-      "community": 24,
+      "community": 32,
       "norm_label": "extractcommon()"
     },
     {
@@ -5166,7 +5166,7 @@
       "source_location": "L128",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_equals",
-      "community": 24,
+      "community": 4,
       "norm_label": "equals()"
     },
     {
@@ -5176,7 +5176,7 @@
       "source_location": "L128",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_removeempty",
-      "community": 11,
+      "community": 32,
       "norm_label": "removeempty()"
     },
     {
@@ -5186,7 +5186,7 @@
       "source_location": "L128",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_castinput",
-      "community": 11,
+      "community": 32,
       "norm_label": "castinput()"
     },
     {
@@ -5196,7 +5196,7 @@
       "source_location": "L128",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_tokenize",
-      "community": 11,
+      "community": 32,
       "norm_label": "tokenize()"
     },
     {
@@ -5206,7 +5206,7 @@
       "source_location": "L128",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_join",
-      "community": 7,
+      "community": 54,
       "norm_label": "join()"
     },
     {
@@ -5236,7 +5236,7 @@
       "source_location": "L128",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_buildvalues",
-      "community": 7,
+      "community": 32,
       "norm_label": "buildvalues()"
     },
     {
@@ -5266,7 +5266,7 @@
       "source_location": "L140",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_gu",
-      "community": 48,
+      "community": 1,
       "norm_label": "gu()"
     },
     {
@@ -5316,7 +5316,7 @@
       "source_location": "L140",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_vu",
-      "community": 47,
+      "community": 19,
       "norm_label": "vu()"
     },
     {
@@ -5326,7 +5326,7 @@
       "source_location": "L140",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_ha",
-      "community": 64,
+      "community": 11,
       "norm_label": "ha()"
     },
     {
@@ -5376,7 +5376,7 @@
       "source_location": "L140",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_wu",
-      "community": 41,
+      "community": 63,
       "norm_label": "wu()"
     },
     {
@@ -5436,7 +5436,7 @@
       "source_location": "L144",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_stage",
-      "community": 21,
+      "community": 47,
       "norm_label": "stage()"
     },
     {
@@ -5456,7 +5456,7 @@
       "source_location": "L144",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_unstage",
-      "community": 21,
+      "community": 47,
       "norm_label": "unstage()"
     },
     {
@@ -5466,7 +5466,7 @@
       "source_location": "L144",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_unstageall",
-      "community": 21,
+      "community": 87,
       "norm_label": "unstageall()"
     },
     {
@@ -5486,7 +5486,7 @@
       "source_location": "L144",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_discardall",
-      "community": 25,
+      "community": 21,
       "norm_label": "discardall()"
     },
     {
@@ -5536,7 +5536,7 @@
       "source_location": "L144",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_push",
-      "community": 26,
+      "community": 69,
       "norm_label": "push()"
     },
     {
@@ -5726,7 +5726,7 @@
       "source_location": "L144",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_log",
-      "community": 36,
+      "community": 69,
       "norm_label": "log()"
     },
     {
@@ -5766,7 +5766,7 @@
       "source_location": "L148",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_getfilechangescount",
-      "community": 36,
+      "community": 69,
       "norm_label": "getfilechangescount()"
     },
     {
@@ -5776,7 +5776,7 @@
       "source_location": "L148",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_walkdifference",
-      "community": 36,
+      "community": 69,
       "norm_label": "walkdifference()"
     },
     {
@@ -5786,7 +5786,7 @@
       "source_location": "L148",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_getstagedfiles",
-      "community": 21,
+      "community": 87,
       "norm_label": "getstagedfiles()"
     },
     {
@@ -5946,7 +5946,7 @@
       "source_location": "L148",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_xi",
-      "community": 1,
+      "community": 47,
       "norm_label": "xi()"
     },
     {
@@ -5956,7 +5956,7 @@
       "source_location": "L148",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_yi",
-      "community": 1,
+      "community": 47,
       "norm_label": "yi()"
     },
     {
@@ -6186,7 +6186,7 @@
       "source_location": "L149",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_wv",
-      "community": 43,
+      "community": 61,
       "norm_label": "wv()"
     },
     {
@@ -6236,7 +6236,7 @@
       "source_location": "L149",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_src_lib_utils_argument_filters_ts",
-      "community": 1,
+      "community": 7,
       "norm_label": "\"src/lib/utils/argument-filters.ts\"()"
     },
     {
@@ -6456,7 +6456,7 @@
       "source_location": "L149",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_nr",
-      "community": 40,
+      "community": 52,
       "norm_label": "nr()"
     },
     {
@@ -6506,7 +6506,7 @@
       "source_location": "L149",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_u8",
-      "community": 40,
+      "community": 52,
       "norm_label": "u8()"
     },
     {
@@ -6526,7 +6526,7 @@
       "source_location": "L149",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_d8",
-      "community": 40,
+      "community": 52,
       "norm_label": "d8()"
     },
     {
@@ -6536,7 +6536,7 @@
       "source_location": "L149",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_h8",
-      "community": 40,
+      "community": 52,
       "norm_label": "h8()"
     },
     {
@@ -6546,7 +6546,7 @@
       "source_location": "L149",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_p8",
-      "community": 40,
+      "community": 52,
       "norm_label": "p8()"
     },
     {
@@ -6556,7 +6556,7 @@
       "source_location": "L149",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_m8",
-      "community": 40,
+      "community": 52,
       "norm_label": "m8()"
     },
     {
@@ -6586,7 +6586,7 @@
       "source_location": "L149",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_v8",
-      "community": 63,
+      "community": 4,
       "norm_label": "v8()"
     },
     {
@@ -6626,7 +6626,7 @@
       "source_location": "L151",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_8",
-      "community": 26,
+      "community": 69,
       "norm_label": "_8()"
     },
     {
@@ -6646,7 +6646,7 @@
       "source_location": "L151",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_x8",
-      "community": 26,
+      "community": 69,
       "norm_label": "x8()"
     },
     {
@@ -6666,7 +6666,7 @@
       "source_location": "L151",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_s8",
-      "community": 43,
+      "community": 61,
       "norm_label": "s8()"
     },
     {
@@ -6696,7 +6696,7 @@
       "source_location": "L151",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_c8",
-      "community": 1,
+      "community": 60,
       "norm_label": "c8()"
     },
     {
@@ -6716,7 +6716,7 @@
       "source_location": "L151",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_t8",
-      "community": 40,
+      "community": 52,
       "norm_label": "t8()"
     },
     {
@@ -6726,7 +6726,7 @@
       "source_location": "L151",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_jc",
-      "community": 40,
+      "community": 52,
       "norm_label": "jc()"
     },
     {
@@ -6876,7 +6876,7 @@
       "source_location": "L151",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_j8",
-      "community": 1,
+      "community": 60,
       "norm_label": "j8()"
     },
     {
@@ -6896,7 +6896,7 @@
       "source_location": "L151",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_z8",
-      "community": 2,
+      "community": 38,
       "norm_label": "z8()"
     },
     {
@@ -6916,7 +6916,7 @@
       "source_location": "L151",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_q8",
-      "community": 2,
+      "community": 38,
       "norm_label": "q8()"
     },
     {
@@ -6956,7 +6956,7 @@
       "source_location": "L151",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_eh",
-      "community": 43,
+      "community": 61,
       "norm_label": "eh()"
     },
     {
@@ -6976,7 +6976,7 @@
       "source_location": "L151",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_rh",
-      "community": 7,
+      "community": 52,
       "norm_label": "rh()"
     },
     {
@@ -6986,7 +6986,7 @@
       "source_location": "L151",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_ih",
-      "community": 7,
+      "community": 68,
       "norm_label": "ih()"
     },
     {
@@ -7016,7 +7016,7 @@
       "source_location": "L151",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_sh",
-      "community": 1,
+      "community": 52,
       "norm_label": "sh()"
     },
     {
@@ -7056,7 +7056,7 @@
       "source_location": "L151",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_src_lib_parsers_parse_diff_summary_ts",
-      "community": 43,
+      "community": 61,
       "norm_label": "\"src/lib/parsers/parse-diff-summary.ts\"()"
     },
     {
@@ -7156,7 +7156,7 @@
       "source_location": "L151",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_dh",
-      "community": 1,
+      "community": 60,
       "norm_label": "dh()"
     },
     {
@@ -7196,7 +7196,7 @@
       "source_location": "L151",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_ja",
-      "community": 43,
+      "community": 61,
       "norm_label": "ja()"
     },
     {
@@ -7206,7 +7206,7 @@
       "source_location": "L151",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_src_lib_parsers_parse_remote_objects_ts",
-      "community": 43,
+      "community": 61,
       "norm_label": "\"src/lib/parsers/parse-remote-objects.ts\"()"
     },
     {
@@ -7256,7 +7256,7 @@
       "source_location": "L151",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_xa",
-      "community": 40,
+      "community": 52,
       "norm_label": "xa()"
     },
     {
@@ -7276,7 +7276,7 @@
       "source_location": "L151",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_bh",
-      "community": 7,
+      "community": 2,
       "norm_label": "bh()"
     },
     {
@@ -7326,7 +7326,7 @@
       "source_location": "L151",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_xh",
-      "community": 1,
+      "community": 60,
       "norm_label": "xh()"
     },
     {
@@ -7356,7 +7356,7 @@
       "source_location": "L151",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_gv",
-      "community": 40,
+      "community": 61,
       "norm_label": "gv()"
     },
     {
@@ -7366,7 +7366,7 @@
       "source_location": "L151",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_kh",
-      "community": 41,
+      "community": 68,
       "norm_label": "kh()"
     },
     {
@@ -7376,7 +7376,7 @@
       "source_location": "L151",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_src_lib_responses_statussummary_ts",
-      "community": 40,
+      "community": 61,
       "norm_label": "\"src/lib/responses/statussummary.ts\"()"
     },
     {
@@ -7416,7 +7416,7 @@
       "source_location": "L151",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_ic",
-      "community": 40,
+      "community": 52,
       "norm_label": "ic()"
     },
     {
@@ -7436,7 +7436,7 @@
       "source_location": "L151",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_src_lib_simple_git_api_ts",
-      "community": 1,
+      "community": 60,
       "norm_label": "\"src/lib/simple-git-api.ts\"()"
     },
     {
@@ -7466,7 +7466,7 @@
       "source_location": "L151",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_hh",
-      "community": 2,
+      "community": 30,
       "norm_label": "hh()"
     },
     {
@@ -7496,7 +7496,7 @@
       "source_location": "L151",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_src_lib_parsers_parse_branch_delete_ts",
-      "community": 2,
+      "community": 30,
       "norm_label": "\"src/lib/parsers/parse-branch-delete.ts\"()"
     },
     {
@@ -7776,7 +7776,7 @@
       "source_location": "L151",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_m6",
-      "community": 26,
+      "community": 69,
       "norm_label": "m6()"
     },
     {
@@ -7916,7 +7916,7 @@
       "source_location": "L152",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_src_git_js",
-      "community": 60,
+      "community": 19,
       "norm_label": "\"src/git.js\"()"
     },
     {
@@ -7976,7 +7976,7 @@
       "source_location": "L152",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_j6",
-      "community": 7,
+      "community": 68,
       "norm_label": "j6()"
     },
     {
@@ -8006,7 +8006,7 @@
       "source_location": "L152",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_exec",
-      "community": 43,
+      "community": 61,
       "norm_label": "exec()"
     },
     {
@@ -8086,7 +8086,7 @@
       "source_location": "L152",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_getrelativerepopath",
-      "community": 21,
+      "community": 47,
       "norm_label": "getrelativerepopath()"
     },
     {
@@ -8116,7 +8116,7 @@
       "source_location": "L152",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_askpass",
-      "community": 9,
+      "community": 10,
       "norm_label": "askpass()"
     },
     {
@@ -8126,7 +8126,7 @@
       "source_location": "L152",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_addaskpassscripttoexclude",
-      "community": 4,
+      "community": 47,
       "norm_label": "addaskpassscripttoexclude()"
     },
     {
@@ -8146,7 +8146,7 @@
       "source_location": "L154",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_getsubmodulepaths",
-      "community": 87,
+      "community": 63,
       "norm_label": "getsubmodulepaths()"
     },
     {
@@ -8166,7 +8166,7 @@
       "source_location": "L155",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_blame",
-      "community": 26,
+      "community": 47,
       "norm_label": "blame()"
     },
     {
@@ -8176,7 +8176,7 @@
       "source_location": "L155",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_istracked",
-      "community": 26,
+      "community": 47,
       "norm_label": "istracked()"
     },
     {
@@ -8196,7 +8196,7 @@
       "source_location": "L155",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_hashobject",
-      "community": 26,
+      "community": 47,
       "norm_label": "hashobject()"
     },
     {
@@ -8226,7 +8226,7 @@
       "source_location": "L155",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_getavailablelocalbranchname",
-      "community": 21,
+      "community": 7,
       "norm_label": "getavailablelocalbranchname()"
     },
     {
@@ -8246,7 +8246,7 @@
       "source_location": "L156",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_getsubmoduleoffile",
-      "community": 26,
+      "community": 47,
       "norm_label": "getsubmoduleoffile()"
     },
     {
@@ -8266,7 +8266,7 @@
       "source_location": "L156",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_converterrors",
-      "community": 26,
+      "community": 69,
       "norm_label": "converterrors()"
     },
     {
@@ -8296,7 +8296,7 @@
       "source_location": "L159",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_t5",
-      "community": 7,
+      "community": 68,
       "norm_label": "t5()"
     },
     {
@@ -8416,7 +8416,7 @@
       "source_location": "L159",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_i5",
-      "community": 52,
+      "community": 4,
       "norm_label": "i5()"
     },
     {
@@ -8456,7 +8456,7 @@
       "source_location": "L159",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_r2",
-      "community": 1,
+      "community": 41,
       "norm_label": "r2()"
     },
     {
@@ -8626,7 +8626,7 @@
       "source_location": "L159",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_rendernonzerocommit",
-      "community": 11,
+      "community": 32,
       "norm_label": "rendernonzerocommit()"
     },
     {
@@ -8636,7 +8636,7 @@
       "source_location": "L159",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_renderhash",
-      "community": 11,
+      "community": 32,
       "norm_label": "renderhash()"
     },
     {
@@ -8646,7 +8646,7 @@
       "source_location": "L159",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_renderauthorname",
-      "community": 11,
+      "community": 32,
       "norm_label": "renderauthorname()"
     },
     {
@@ -8656,7 +8656,7 @@
       "source_location": "L159",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_renderauthoringdate",
-      "community": 11,
+      "community": 32,
       "norm_label": "renderauthoringdate()"
     },
     {
@@ -8666,7 +8666,7 @@
       "source_location": "L159",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_adapttextforfakecommit",
-      "community": 64,
+      "community": 11,
       "norm_label": "adapttextforfakecommit()"
     },
     {
@@ -8676,7 +8676,7 @@
       "source_location": "L159",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_lw",
-      "community": 64,
+      "community": 11,
       "norm_label": "lw()"
     },
     {
@@ -8686,7 +8686,7 @@
       "source_location": "L159",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_cw",
-      "community": 1,
+      "community": 41,
       "norm_label": "cw()"
     },
     {
@@ -8696,7 +8696,7 @@
       "source_location": "L159",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_m5",
-      "community": 1,
+      "community": 41,
       "norm_label": "m5()"
     },
     {
@@ -8706,7 +8706,7 @@
       "source_location": "L159",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_markers",
-      "community": 1,
+      "community": 41,
       "norm_label": "markers()"
     },
     {
@@ -8726,7 +8726,7 @@
       "source_location": "L159",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_g5",
-      "community": 7,
+      "community": 41,
       "norm_label": "g5()"
     },
     {
@@ -8746,7 +8746,7 @@
       "source_location": "L159",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_w5",
-      "community": 19,
+      "community": 4,
       "norm_label": "w5()"
     },
     {
@@ -8806,7 +8806,7 @@
       "source_location": "L159",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_settings",
-      "community": 86,
+      "community": 22,
       "norm_label": "settings()"
     },
     {
@@ -9066,7 +9066,7 @@
       "source_location": "L174",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_patchlines",
-      "community": 26,
+      "community": 69,
       "norm_label": "patchlines()"
     },
     {
@@ -9086,7 +9086,7 @@
       "source_location": "L174",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_changeend",
-      "community": 1,
+      "community": 47,
       "norm_label": "changeend()"
     },
     {
@@ -9096,7 +9096,7 @@
       "source_location": "L174",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_calcsigns",
-      "community": 1,
+      "community": 47,
       "norm_label": "calcsigns()"
     },
     {
@@ -9106,7 +9106,7 @@
       "source_location": "L174",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_createpatch",
-      "community": 26,
+      "community": 69,
       "norm_label": "createpatch()"
     },
     {
@@ -9366,7 +9366,7 @@
       "source_location": "L176",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_k5",
-      "community": 80,
+      "community": 1,
       "norm_label": "k5()"
     },
     {
@@ -9376,7 +9376,7 @@
       "source_location": "L176",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_fp",
-      "community": 124,
+      "community": 63,
       "norm_label": "fp()"
     },
     {
@@ -9386,7 +9386,7 @@
       "source_location": "L176",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_ip",
-      "community": 80,
+      "community": 1,
       "norm_label": "ip()"
     },
     {
@@ -9446,7 +9446,7 @@
       "source_location": "L176",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_build",
-      "community": 80,
+      "community": 63,
       "norm_label": "build()"
     },
     {
@@ -9456,7 +9456,7 @@
       "source_location": "L176",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_updatea",
-      "community": 124,
+      "community": 41,
       "norm_label": "updatea()"
     },
     {
@@ -9466,7 +9466,7 @@
       "source_location": "L176",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_updateb",
-      "community": 124,
+      "community": 41,
       "norm_label": "updateb()"
     },
     {
@@ -9476,7 +9476,7 @@
       "source_location": "L176",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_up",
-      "community": 80,
+      "community": 1,
       "norm_label": "up()"
     },
     {
@@ -9486,7 +9486,7 @@
       "source_location": "L176",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_mp",
-      "community": 80,
+      "community": 1,
       "norm_label": "mp()"
     },
     {
@@ -9496,7 +9496,7 @@
       "source_location": "L176",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_dp",
-      "community": 124,
+      "community": 41,
       "norm_label": "dp()"
     },
     {
@@ -9506,7 +9506,7 @@
       "source_location": "L176",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_hp",
-      "community": 124,
+      "community": 41,
       "norm_label": "hp()"
     },
     {
@@ -9516,7 +9516,7 @@
       "source_location": "L176",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_pp",
-      "community": 124,
+      "community": 19,
       "norm_label": "pp()"
     },
     {
@@ -9526,7 +9526,7 @@
       "source_location": "L176",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_p5",
-      "community": 1,
+      "community": 41,
       "norm_label": "p5()"
     },
     {
@@ -9576,7 +9576,7 @@
       "source_location": "L176",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_wp",
-      "community": 1,
+      "community": 41,
       "norm_label": "wp()"
     },
     {
@@ -9596,7 +9596,7 @@
       "source_location": "L176",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_bp",
-      "community": 41,
+      "community": 63,
       "norm_label": "bp()"
     },
     {
@@ -9636,7 +9636,7 @@
       "source_location": "L176",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_measure",
-      "community": 1,
+      "community": 41,
       "norm_label": "measure()"
     },
     {
@@ -9726,7 +9726,7 @@
       "source_location": "L180",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_gethunks",
-      "community": 40,
+      "community": 54,
       "norm_label": "gethunks()"
     },
     {
@@ -9736,7 +9736,7 @@
       "source_location": "L180",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_gethunkatpos",
-      "community": 40,
+      "community": 54,
       "norm_label": "gethunkatpos()"
     },
     {
@@ -9746,7 +9746,7 @@
       "source_location": "L180",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_getcursorhunk",
-      "community": 40,
+      "community": 54,
       "norm_label": "getcursorhunk()"
     },
     {
@@ -9756,7 +9756,7 @@
       "source_location": "L180",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_gethunk",
-      "community": 40,
+      "community": 54,
       "norm_label": "gethunk()"
     },
     {
@@ -9786,7 +9786,7 @@
       "source_location": "L187",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_tw",
-      "community": 33,
+      "community": 116,
       "norm_label": "tw()"
     },
     {
@@ -9796,7 +9796,7 @@
       "source_location": "L187",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_zp",
-      "community": 60,
+      "community": 19,
       "norm_label": "zp()"
     },
     {
@@ -9806,7 +9806,7 @@
       "source_location": "L187",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_z5",
-      "community": 60,
+      "community": 19,
       "norm_label": "z5()"
     },
     {
@@ -9846,7 +9846,7 @@
       "source_location": "L189",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_mw",
-      "community": 11,
+      "community": 32,
       "norm_label": "mw()"
     },
     {
@@ -9876,7 +9876,7 @@
       "source_location": "L189",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_bw",
-      "community": 33,
+      "community": 116,
       "norm_label": "bw()"
     },
     {
@@ -9916,7 +9916,7 @@
       "source_location": "L189",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_ki",
-      "community": 30,
+      "community": 24,
       "norm_label": "ki()"
     },
     {
@@ -9956,7 +9956,7 @@
       "source_location": "L191",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_generatefilehtml",
-      "community": 30,
+      "community": 24,
       "norm_label": "generatefilehtml()"
     },
     {
@@ -9966,7 +9966,7 @@
       "source_location": "L192",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_applylinegroupping",
-      "community": 30,
+      "community": 24,
       "norm_label": "applylinegroupping()"
     },
     {
@@ -9976,7 +9976,7 @@
       "source_location": "L192",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_applyrematchmatching",
-      "community": 30,
+      "community": 24,
       "norm_label": "applyrematchmatching()"
     },
     {
@@ -9986,7 +9986,7 @@
       "source_location": "L192",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_processchangedlines",
-      "community": 30,
+      "community": 24,
       "norm_label": "processchangedlines()"
     },
     {
@@ -9996,7 +9996,7 @@
       "source_location": "L192",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_generatelinehtml",
-      "community": 30,
+      "community": 24,
       "norm_label": "generatelinehtml()"
     },
     {
@@ -10006,7 +10006,7 @@
       "source_location": "L192",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_generatesinglelinehtml",
-      "community": 30,
+      "community": 24,
       "norm_label": "generatesinglelinehtml()"
     },
     {
@@ -10016,7 +10016,7 @@
       "source_location": "L193",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_makeheaderhtml",
-      "community": 30,
+      "community": 24,
       "norm_label": "makeheaderhtml()"
     },
     {
@@ -10026,7 +10026,7 @@
       "source_location": "L193",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_generatesinglehtml",
-      "community": 30,
+      "community": 24,
       "norm_label": "generatesinglehtml()"
     },
     {
@@ -10066,7 +10066,7 @@
       "source_location": "L293",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_f4",
-      "community": 40,
+      "community": 54,
       "norm_label": "f4()"
     },
     {
@@ -10266,7 +10266,7 @@
       "source_location": "L295",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_setpathpaths",
-      "community": 27,
+      "community": 54,
       "norm_label": "setpathpaths()"
     },
     {
@@ -10336,7 +10336,7 @@
       "source_location": "L295",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_getgutterspacingfallbacklength",
-      "community": 64,
+      "community": 11,
       "norm_label": "getgutterspacingfallbacklength()"
     },
     {
@@ -10356,7 +10356,7 @@
       "source_location": "L295",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_hastoobigfiles",
-      "community": 7,
+      "community": 21,
       "norm_label": "hastoobigfiles()"
     },
     {
@@ -10366,7 +10366,7 @@
       "source_location": "L298",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_writeandopenfile",
-      "community": 68,
+      "community": 1,
       "norm_label": "writeandopenfile()"
     },
     {
@@ -10406,7 +10406,7 @@
       "source_location": "L298",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_getdisplaytext",
-      "community": 68,
+      "community": 1,
       "norm_label": "getdisplaytext()"
     },
     {
@@ -10536,7 +10536,7 @@
       "source_location": "L307",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_qw",
-      "community": 52,
+      "community": 92,
       "norm_label": "qw()"
     },
     {
@@ -10606,7 +10606,7 @@
       "source_location": "L321",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_tr",
-      "community": 52,
+      "community": 4,
       "norm_label": "tr()"
     },
     {
@@ -10616,7 +10616,7 @@
       "source_location": "L323",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_pr",
-      "community": 124,
+      "community": 4,
       "norm_label": "pr()"
     },
     {
@@ -10646,7 +10646,7 @@
       "source_location": "L329",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_mr",
-      "community": 60,
+      "community": 4,
       "norm_label": "mr()"
     },
     {
@@ -10696,7 +10696,7 @@
       "source_location": "L345",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_jr",
-      "community": 1,
+      "community": 29,
       "norm_label": "jr()"
     },
     {
@@ -10706,7 +10706,7 @@
       "source_location": "L347",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_it",
-      "community": 124,
+      "community": 4,
       "norm_label": "it()"
     },
     {
@@ -10716,7 +10716,7 @@
       "source_location": "L347",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_v",
-      "community": 47,
+      "community": 19,
       "norm_label": "v()"
     },
     {
@@ -10746,7 +10746,7 @@
       "source_location": "L349",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_h4",
-      "community": 1,
+      "community": 47,
       "norm_label": "h4()"
     },
     {
@@ -10766,7 +10766,7 @@
       "source_location": "L350",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_ct",
-      "community": 47,
+      "community": 19,
       "norm_label": "ct()"
     },
     {
@@ -10776,7 +10776,7 @@
       "source_location": "L350",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_ut",
-      "community": 47,
+      "community": 19,
       "norm_label": "ut()"
     },
     {
@@ -10806,7 +10806,7 @@
       "source_location": "L350",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_p4",
-      "community": 7,
+      "community": 68,
       "norm_label": "p4()"
     },
     {
@@ -10846,7 +10846,7 @@
       "source_location": "L356",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_defer_effect",
-      "community": 74,
+      "community": 19,
       "norm_label": "defer_effect()"
     },
     {
@@ -10856,7 +10856,7 @@
       "source_location": "L356",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_is_rendered",
-      "community": 124,
+      "community": 4,
       "norm_label": "is_rendered()"
     },
     {
@@ -10876,7 +10876,7 @@
       "source_location": "L356",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_update_pending_count",
-      "community": 4,
+      "community": 41,
       "norm_label": "update_pending_count()"
     },
     {
@@ -10896,7 +10896,7 @@
       "source_location": "L356",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_error",
-      "community": 4,
+      "community": 47,
       "norm_label": "error()"
     },
     {
@@ -10906,7 +10906,7 @@
       "source_location": "L356",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_h0",
-      "community": 124,
+      "community": 4,
       "norm_label": "h0()"
     },
     {
@@ -10916,7 +10916,7 @@
       "source_location": "L356",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_p0",
-      "community": 33,
+      "community": 4,
       "norm_label": "p0()"
     },
     {
@@ -10926,7 +10926,7 @@
       "source_location": "L356",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_m0",
-      "community": 124,
+      "community": 4,
       "norm_label": "m0()"
     },
     {
@@ -10936,7 +10936,7 @@
       "source_location": "L356",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_ft",
-      "community": 47,
+      "community": 19,
       "norm_label": "ft()"
     },
     {
@@ -11016,7 +11016,7 @@
       "source_location": "L356",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_deactivate",
-      "community": 52,
+      "community": 4,
       "norm_label": "deactivate()"
     },
     {
@@ -11026,7 +11026,7 @@
       "source_location": "L356",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_register_created_effect",
-      "community": 74,
+      "community": 7,
       "norm_label": "register_created_effect()"
     },
     {
@@ -11036,7 +11036,7 @@
       "source_location": "L356",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_increment",
-      "community": 44,
+      "community": 89,
       "norm_label": "increment()"
     },
     {
@@ -11046,7 +11046,7 @@
       "source_location": "L356",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_decrement",
-      "community": 41,
+      "community": 4,
       "norm_label": "decrement()"
     },
     {
@@ -11106,7 +11106,7 @@
       "source_location": "L356",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_apply",
-      "community": 60,
+      "community": 63,
       "norm_label": "apply()"
     },
     {
@@ -11116,7 +11116,7 @@
       "source_location": "L356",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_schedule",
-      "community": 74,
+      "community": 19,
       "norm_label": "schedule()"
     },
     {
@@ -11126,7 +11126,7 @@
       "source_location": "L356",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_io",
-      "community": 41,
+      "community": 4,
       "norm_label": "io()"
     },
     {
@@ -11136,7 +11136,7 @@
       "source_location": "L356",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_y4",
-      "community": 52,
+      "community": 4,
       "norm_label": "y4()"
     },
     {
@@ -11146,7 +11146,7 @@
       "source_location": "L356",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_f",
-      "community": 47,
+      "community": 19,
       "norm_label": "f$()"
     },
     {
@@ -11166,7 +11166,7 @@
       "source_location": "L356",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_ff",
-      "community": 74,
+      "community": 19,
       "norm_label": "ff()"
     },
     {
@@ -11196,7 +11196,7 @@
       "source_location": "L356",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_za",
-      "community": 19,
+      "community": 1,
       "norm_label": "za()"
     },
     {
@@ -11216,7 +11216,7 @@
       "source_location": "L356",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_k4",
-      "community": 63,
+      "community": 4,
       "norm_label": "k4()"
     },
     {
@@ -11226,7 +11226,7 @@
       "source_location": "L356",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_mi",
-      "community": 47,
+      "community": 19,
       "norm_label": "mi()"
     },
     {
@@ -11246,7 +11246,7 @@
       "source_location": "L356",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_c4",
-      "community": 74,
+      "community": 7,
       "norm_label": "c4()"
     },
     {
@@ -11266,7 +11266,7 @@
       "source_location": "L356",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_sf",
-      "community": 4,
+      "community": 7,
       "norm_label": "sf()"
     },
     {
@@ -11276,7 +11276,7 @@
       "source_location": "L356",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_vt",
-      "community": 4,
+      "community": 7,
       "norm_label": "vt()"
     },
     {
@@ -11296,7 +11296,7 @@
       "source_location": "L356",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_f0",
-      "community": 124,
+      "community": 4,
       "norm_label": "f0()"
     },
     {
@@ -11306,7 +11306,7 @@
       "source_location": "L356",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_lt",
-      "community": 68,
+      "community": 10,
       "norm_label": "lt()"
     },
     {
@@ -11346,7 +11346,7 @@
       "source_location": "L356",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_l0",
-      "community": 54,
+      "community": 4,
       "norm_label": "l0()"
     },
     {
@@ -11366,7 +11366,7 @@
       "source_location": "L357",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_q4",
-      "community": 52,
+      "community": 4,
       "norm_label": "q4()"
     },
     {
@@ -11376,7 +11376,7 @@
       "source_location": "L357",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_u0",
-      "community": 52,
+      "community": 4,
       "norm_label": "u0()"
     },
     {
@@ -11406,7 +11406,7 @@
       "source_location": "L357",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_mf",
-      "community": 52,
+      "community": 4,
       "norm_label": "mf()"
     },
     {
@@ -11416,7 +11416,7 @@
       "source_location": "L357",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_q",
-      "community": 52,
+      "community": 92,
       "norm_label": "q$()"
     },
     {
@@ -11426,7 +11426,7 @@
       "source_location": "L357",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_tu",
-      "community": 7,
+      "community": 92,
       "norm_label": "tu()"
     },
     {
@@ -11436,7 +11436,7 @@
       "source_location": "L357",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_y",
-      "community": 52,
+      "community": 92,
       "norm_label": "y$()"
     },
     {
@@ -11446,7 +11446,7 @@
       "source_location": "L357",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_g0",
-      "community": 52,
+      "community": 92,
       "norm_label": "g0()"
     },
     {
@@ -11466,7 +11466,7 @@
       "source_location": "L358",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_j0",
-      "community": 47,
+      "community": 19,
       "norm_label": "j0()"
     },
     {
@@ -11476,7 +11476,7 @@
       "source_location": "L358",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_j",
-      "community": 48,
+      "community": 1,
       "norm_label": "j$()"
     },
     {
@@ -11526,7 +11526,7 @@
       "source_location": "L358",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_removeeventlistener",
-      "community": 63,
+      "community": 1,
       "norm_label": "removeeventlistener()"
     },
     {
@@ -11616,7 +11616,7 @@
       "source_location": "L361",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_resethunk",
-      "community": 40,
+      "community": 54,
       "norm_label": "resethunk()"
     },
     {
@@ -11626,7 +11626,7 @@
       "source_location": "L363",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_stagehunk",
-      "community": 40,
+      "community": 54,
       "norm_label": "stagehunk()"
     },
     {
@@ -11636,7 +11636,7 @@
       "source_location": "L365",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_gotohunk",
-      "community": 40,
+      "community": 54,
       "norm_label": "gotohunk()"
     },
     {
@@ -11826,7 +11826,7 @@
       "source_location": "L365",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_lf",
-      "community": 52,
+      "community": 4,
       "norm_label": "lf()"
     },
     {
@@ -11956,7 +11956,7 @@
       "source_location": "L365",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_view",
-      "community": 86,
+      "community": 22,
       "norm_label": "view()"
     },
     {
@@ -12126,7 +12126,7 @@
       "source_location": "L366",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_unloadplugin",
-      "community": 36,
+      "community": 26,
       "norm_label": "unloadplugin()"
     },
     {
@@ -12136,7 +12136,7 @@
       "source_location": "L366",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_onunload",
-      "community": 36,
+      "community": 26,
       "norm_label": "onunload()"
     },
     {
@@ -12176,7 +12176,7 @@
       "source_location": "L366",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_git_main_createnewrepo",
-      "community": 25,
+      "community": 36,
       "norm_label": "createnewrepo()"
     },
     {
@@ -12518,7 +12518,7 @@
       "source_location": "L170",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_local_rest_api_main_node_modules_node_forge_lib_util_js",
-      "community": 49,
+      "community": 42,
       "norm_label": "\"node_modules/node-forge/lib/util.js\"()"
     },
     {
@@ -12528,7 +12528,7 @@
       "source_location": "L1551",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_local_rest_api_main_node_modules_node_forge_lib_cipher_js",
-      "community": 44,
+      "community": 64,
       "norm_label": "\"node_modules/node-forge/lib/cipher.js\"()"
     },
     {
@@ -12538,7 +12538,7 @@
       "source_location": "L1668",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_local_rest_api_main_node_modules_node_forge_lib_ciphermodes_js",
-      "community": 64,
+      "community": 86,
       "norm_label": "\"node_modules/node-forge/lib/ciphermodes.js\"()"
     },
     {
@@ -12568,7 +12568,7 @@
       "source_location": "L2737",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_local_rest_api_main_node_modules_node_forge_lib_asn1_js",
-      "community": 44,
+      "community": 64,
       "norm_label": "\"node_modules/node-forge/lib/asn1.js\"()"
     },
     {
@@ -12588,7 +12588,7 @@
       "source_location": "L3531",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_local_rest_api_main_node_modules_node_forge_lib_hmac_js",
-      "community": 44,
+      "community": 89,
       "norm_label": "\"node_modules/node-forge/lib/hmac.js\"()"
     },
     {
@@ -12628,7 +12628,7 @@
       "source_location": "L4294",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_local_rest_api_main_node_modules_node_forge_lib_pbkdf2_js",
-      "community": 44,
+      "community": 89,
       "norm_label": "\"node_modules/node-forge/lib/pbkdf2.js\"()"
     },
     {
@@ -12648,7 +12648,7 @@
       "source_location": "L4642",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_local_rest_api_main_node_modules_node_forge_lib_prng_js",
-      "community": 44,
+      "community": 89,
       "norm_label": "\"node_modules/node-forge/lib/prng.js\"()"
     },
     {
@@ -12808,7 +12808,7 @@
       "source_location": "L12610",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_local_rest_api_main_node_modules_node_forge_lib_tls_js",
-      "community": 49,
+      "community": 225,
       "norm_label": "\"node_modules/node-forge/lib/tls.js\"()"
     },
     {
@@ -12898,7 +12898,7 @@
       "source_location": "L17623",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_local_rest_api_main_node_modules_node_forge_lib_ssh_js",
-      "community": 44,
+      "community": 89,
       "norm_label": "\"node_modules/node-forge/lib/ssh.js\"()"
     },
     {
@@ -13078,7 +13078,7 @@
       "source_location": "L19186",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_local_rest_api_main_node_modules_safer_buffer_safer_js",
-      "community": 64,
+      "community": 86,
       "norm_label": "\"node_modules/safer-buffer/safer.js\"()"
     },
     {
@@ -13278,7 +13278,7 @@
       "source_location": "L22349",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_local_rest_api_main_node_modules_iconv_lite_lib_extend_node_js",
-      "community": 86,
+      "community": 64,
       "norm_label": "\"node_modules/iconv-lite/lib/extend-node.js\"()"
     },
     {
@@ -13288,7 +13288,7 @@
       "source_location": "L22511",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_local_rest_api_main_node_modules_iconv_lite_lib_index_js",
-      "community": 15,
+      "community": 64,
       "norm_label": "\"node_modules/iconv-lite/lib/index.js\"()"
     },
     {
@@ -13858,7 +13858,7 @@
       "source_location": "L34092",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_local_rest_api_main_node_modules_qs_lib_stringify_js",
-      "community": 22,
+      "community": 39,
       "norm_label": "\"node_modules/qs/lib/stringify.js\"()"
     },
     {
@@ -14098,7 +14098,7 @@
       "source_location": "L36319",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_local_rest_api_main_node_modules_express_lib_router_route_js",
-      "community": 86,
+      "community": 22,
       "norm_label": "\"node_modules/express/lib/router/route.js\"()"
     },
     {
@@ -14138,7 +14138,7 @@
       "source_location": "L36848",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_local_rest_api_main_node_modules_express_lib_middleware_query_js",
-      "community": 44,
+      "community": 64,
       "norm_label": "\"node_modules/express/lib/middleware/query.js\"()"
     },
     {
@@ -14148,7 +14148,7 @@
       "source_location": "L36876",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_local_rest_api_main_node_modules_express_lib_view_js",
-      "community": 225,
+      "community": 39,
       "norm_label": "\"node_modules/express/lib/view.js\"()"
     },
     {
@@ -14158,7 +14158,7 @@
       "source_location": "L36956",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_local_rest_api_main_node_modules_safe_buffer_index_js",
-      "community": 64,
+      "community": 72,
       "norm_label": "\"node_modules/safe-buffer/index.js\"()"
     },
     {
@@ -14298,7 +14298,7 @@
       "source_location": "L37988",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_local_rest_api_main_node_modules_send_index_js",
-      "community": 225,
+      "community": 64,
       "norm_label": "\"node_modules/send/index.js\"()"
     },
     {
@@ -14338,7 +14338,7 @@
       "source_location": "L39361",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_local_rest_api_main_node_modules_express_lib_utils_js",
-      "community": 13,
+      "community": 39,
       "norm_label": "\"node_modules/express/lib/utils.js\"()"
     },
     {
@@ -14348,7 +14348,7 @@
       "source_location": "L39498",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_local_rest_api_main_node_modules_express_lib_application_js",
-      "community": 86,
+      "community": 22,
       "norm_label": "\"node_modules/express/lib/application.js\"()"
     },
     {
@@ -14498,7 +14498,7 @@
       "source_location": "L41499",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_local_rest_api_main_node_modules_object_assign_index_js",
-      "community": 58,
+      "community": 9,
       "norm_label": "\"node_modules/object-assign/index.js\"()"
     },
     {
@@ -14588,7 +14588,7 @@
       "source_location": "L42373",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_local_rest_api_main_m",
-      "community": 60,
+      "community": 19,
       "norm_label": "m()"
     },
     {
@@ -14598,7 +14598,7 @@
       "source_location": "L42376",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_local_rest_api_main_g",
-      "community": 60,
+      "community": 63,
       "norm_label": "g()"
     },
     {
@@ -14608,7 +14608,7 @@
       "source_location": "L42379",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_local_rest_api_main_k",
-      "community": 60,
+      "community": 63,
       "norm_label": "k()"
     },
     {
@@ -14628,7 +14628,7 @@
       "source_location": "L42392",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_local_rest_api_main_x",
-      "community": 60,
+      "community": 19,
       "norm_label": "x()"
     },
     {
@@ -14638,7 +14638,7 @@
       "source_location": "L42400",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_local_rest_api_main_j",
-      "community": 60,
+      "community": 19,
       "norm_label": "j()"
     },
     {
@@ -14658,7 +14658,7 @@
       "source_location": "L42423",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_local_rest_api_main_ge",
-      "community": 0,
+      "community": 41,
       "norm_label": "ge()"
     },
     {
@@ -14668,7 +14668,7 @@
       "source_location": "L42431",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_local_rest_api_main_fe",
-      "community": 47,
+      "community": 19,
       "norm_label": "fe()"
     },
     {
@@ -14688,7 +14688,7 @@
       "source_location": "L42445",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_local_rest_api_main_it",
-      "community": 4,
+      "community": 41,
       "norm_label": "it()"
     },
     {
@@ -14698,7 +14698,7 @@
       "source_location": "L42463",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_local_rest_api_main_node_modules_marked_lib_marked_esm_js",
-      "community": 60,
+      "community": 63,
       "norm_label": "\"node_modules/marked/lib/marked.esm.js\"()"
     },
     {
@@ -15498,7 +15498,7 @@
       "source_location": "L52212",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_local_rest_api_main_node_modules_json_logic_js_logic_js",
-      "community": 86,
+      "community": 64,
       "norm_label": "\"node_modules/json-logic-js/logic.js\"()"
     },
     {
@@ -16198,7 +16198,7 @@
       "source_location": "L59219",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_local_rest_api_main_node_modules_ajv_formats_dist_formats_js",
-      "community": 54,
+      "community": 29,
       "norm_label": "\"node_modules/ajv-formats/dist/formats.js\"()"
     },
     {
@@ -17108,7 +17108,7 @@
       "source_location": "L69119",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_local_rest_api_main_node_modules_modelcontextprotocol_sdk_node_modules_iconv_lite_lib_index_js",
-      "community": 15,
+      "community": 64,
       "norm_label": "\"node_modules/@modelcontextprotocol/sdk/node_modules/iconv-lite/lib/index.js\"()"
     },
     {
@@ -17138,7 +17138,7 @@
       "source_location": "L69516",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_local_rest_api_main_config",
-      "community": 15,
+      "community": 229,
       "norm_label": "config()"
     },
     {
@@ -17498,7 +17498,7 @@
       "source_location": "L69989",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_local_rest_api_main_unwrapmessage",
-      "community": 15,
+      "community": 229,
       "norm_label": "unwrapmessage()"
     },
     {
@@ -17508,7 +17508,7 @@
       "source_location": "L69992",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_local_rest_api_main_finalizeissue",
-      "community": 15,
+      "community": 229,
       "norm_label": "finalizeissue()"
     },
     {
@@ -17648,7 +17648,7 @@
       "source_location": "L70640",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_local_rest_api_main_compile",
-      "community": 13,
+      "community": 39,
       "norm_label": "compile()"
     },
     {
@@ -17718,7 +17718,7 @@
       "source_location": "L71347",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_local_rest_api_main_handleunionresults",
-      "community": 15,
+      "community": 229,
       "norm_label": "handleunionresults()"
     },
     {
@@ -17808,7 +17808,7 @@
       "source_location": "L72006",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_local_rest_api_main_en_default",
-      "community": 15,
+      "community": 64,
       "norm_label": "en_default()"
     },
     {
@@ -17818,7 +17818,7 @@
       "source_location": "L72018",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_local_rest_api_main_add",
-      "community": 225,
+      "community": 44,
       "norm_label": "add()"
     },
     {
@@ -17828,7 +17828,7 @@
       "source_location": "L72029",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_local_rest_api_main_clear",
-      "community": 49,
+      "community": 42,
       "norm_label": "clear()"
     },
     {
@@ -18098,7 +18098,7 @@
       "source_location": "L72268",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_local_rest_api_main_isodatetime",
-      "community": 106,
+      "community": 17,
       "norm_label": "_isodatetime()"
     },
     {
@@ -18128,7 +18128,7 @@
       "source_location": "L72296",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_local_rest_api_main_isoduration",
-      "community": 17,
+      "community": 74,
       "norm_label": "_isoduration()"
     },
     {
@@ -18138,7 +18138,7 @@
       "source_location": "L72304",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_local_rest_api_main_number",
-      "community": 17,
+      "community": 236,
       "norm_label": "_number()"
     },
     {
@@ -18308,7 +18308,7 @@
       "source_location": "L72426",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_local_rest_api_main_includes",
-      "community": 34,
+      "community": 7,
       "norm_label": "_includes()"
     },
     {
@@ -18428,7 +18428,7 @@
       "source_location": "L72979",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_local_rest_api_main_emit",
-      "community": 225,
+      "community": 64,
       "norm_label": "emit()"
     },
     {
@@ -18458,7 +18458,7 @@
       "source_location": "L73282",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_local_rest_api_main_datetime2",
-      "community": 106,
+      "community": 17,
       "norm_label": "datetime2()"
     },
     {
@@ -18488,7 +18488,7 @@
       "source_location": "L73303",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_local_rest_api_main_duration2",
-      "community": 17,
+      "community": 74,
       "norm_label": "duration2()"
     },
     {
@@ -18508,7 +18508,7 @@
       "source_location": "L73575",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_local_rest_api_main_number2",
-      "community": 17,
+      "community": 236,
       "norm_label": "number2()"
     },
     {
@@ -18598,7 +18598,7 @@
       "source_location": "L73753",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_local_rest_api_main_enum",
-      "community": 14,
+      "community": 63,
       "norm_label": "_enum()"
     },
     {
@@ -18618,7 +18618,7 @@
       "source_location": "L73810",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_local_rest_api_main_transform",
-      "community": 225,
+      "community": 12,
       "norm_label": "transform()"
     },
     {
@@ -18688,7 +18688,7 @@
       "source_location": "L73898",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_local_rest_api_main_pipe",
-      "community": 225,
+      "community": 12,
       "norm_label": "pipe()"
     },
     {
@@ -18728,7 +18728,7 @@
       "source_location": "L73954",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_local_rest_api_main_preprocess",
-      "community": 225,
+      "community": 12,
       "norm_label": "preprocess()"
     },
     {
@@ -18738,7 +18738,7 @@
       "source_location": "L75274",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_local_rest_api_main_assertcompleterequestprompt",
-      "community": 45,
+      "community": 101,
       "norm_label": "assertcompleterequestprompt()"
     },
     {
@@ -18748,7 +18748,7 @@
       "source_location": "L75280",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_local_rest_api_main_assertcompleterequestresourcetemplate",
-      "community": 45,
+      "community": 101,
       "norm_label": "assertcompleterequestresourcetemplate()"
     },
     {
@@ -18788,7 +18788,7 @@
       "source_location": "L75448",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_local_rest_api_main_getcertificatevaliditydays",
-      "community": 225,
+      "community": 39,
       "norm_label": "getcertificatevaliditydays()"
     },
     {
@@ -18798,7 +18798,7 @@
       "source_location": "L75451",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_local_rest_api_main_getcertificateisuptostandards",
-      "community": 225,
+      "community": 39,
       "norm_label": "getcertificateisuptostandards()"
     },
     {
@@ -18858,7 +18858,7 @@
       "source_location": "L75551",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_local_rest_api_main_getroutes",
-      "community": 225,
+      "community": 39,
       "norm_label": "getroutes()"
     },
     {
@@ -18898,7 +18898,7 @@
       "source_location": "L75578",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_local_rest_api_main_getmcptools",
-      "community": 225,
+      "community": 39,
       "norm_label": "getmcptools()"
     },
     {
@@ -18918,7 +18918,7 @@
       "source_location": "L75625",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_local_rest_api_main_waitforfilecache",
-      "community": 22,
+      "community": 39,
       "norm_label": "waitforfilecache()"
     },
     {
@@ -18948,7 +18948,7 @@
       "source_location": "L75685",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_local_rest_api_main_buildbacklinksindex",
-      "community": 22,
+      "community": 39,
       "norm_label": "buildbacklinksindex()"
     },
     {
@@ -18958,7 +18958,7 @@
       "source_location": "L75696",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_local_rest_api_main_getfilemetadataobject",
-      "community": 22,
+      "community": 39,
       "norm_label": "getfilemetadataobject()"
     },
     {
@@ -19098,7 +19098,7 @@
       "source_location": "L75985",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_local_rest_api_main_searchjsonlogic",
-      "community": 22,
+      "community": 39,
       "norm_label": "searchjsonlogic()"
     },
     {
@@ -19108,7 +19108,7 @@
       "source_location": "L76003",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_local_rest_api_main_istruthy",
-      "community": 22,
+      "community": 39,
       "norm_label": "istruthy()"
     },
     {
@@ -19218,7 +19218,7 @@
       "source_location": "L76346",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_local_rest_api_main_format",
-      "community": 22,
+      "community": 39,
       "norm_label": "format()"
     },
     {
@@ -19248,7 +19248,7 @@
       "source_location": "L76393",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_local_rest_api_main_isempty",
-      "community": 49,
+      "community": 225,
       "norm_label": "isempty()"
     },
     {
@@ -19258,7 +19258,7 @@
       "source_location": "L76396",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_local_rest_api_main_flatten",
-      "community": 86,
+      "community": 22,
       "norm_label": "flatten()"
     },
     {
@@ -19268,7 +19268,7 @@
       "source_location": "L76410",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_local_rest_api_main_formerrors",
-      "community": 86,
+      "community": 22,
       "norm_label": "formerrors()"
     },
     {
@@ -19368,7 +19368,7 @@
       "source_location": "L76677",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_local_rest_api_main_error",
-      "community": 15,
+      "community": 64,
       "norm_label": "error()"
     },
     {
@@ -19458,7 +19458,7 @@
       "source_location": "L76757",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_local_rest_api_main_safeparse",
-      "community": 45,
+      "community": 13,
       "norm_label": "safeparse()"
     },
     {
@@ -19508,7 +19508,7 @@
       "source_location": "L76934",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_local_rest_api_main_or",
-      "community": 124,
+      "community": 4,
       "norm_label": "or()"
     },
     {
@@ -19558,7 +19558,7 @@
       "source_location": "L76989",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_local_rest_api_main_isnullable",
-      "community": 45,
+      "community": 16,
       "norm_label": "isnullable()"
     },
     {
@@ -19638,7 +19638,7 @@
       "source_location": "L77424",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_local_rest_api_main_ip",
-      "community": 60,
+      "community": 42,
       "norm_label": "ip()"
     },
     {
@@ -19938,7 +19938,7 @@
       "source_location": "L77798",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_local_rest_api_main_safe",
-      "community": 23,
+      "community": 44,
       "norm_label": "safe()"
     },
     {
@@ -20128,7 +20128,7 @@
       "source_location": "L78841",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_local_rest_api_main_options",
-      "community": 44,
+      "community": 64,
       "norm_label": "options()"
     },
     {
@@ -20138,7 +20138,7 @@
       "source_location": "L78919",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_local_rest_api_main_discriminator",
-      "community": 13,
+      "community": 89,
       "norm_label": "discriminator()"
     },
     {
@@ -20148,7 +20148,7 @@
       "source_location": "L78925",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_local_rest_api_main_optionsmap",
-      "community": 44,
+      "community": 89,
       "norm_label": "optionsmap()"
     },
     {
@@ -20158,7 +20158,7 @@
       "source_location": "L78936",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_local_rest_api_main_create",
-      "community": 44,
+      "community": 89,
       "norm_label": "create()"
     },
     {
@@ -20218,7 +20218,7 @@
       "source_location": "L79305",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_local_rest_api_main_size",
-      "community": 64,
+      "community": 86,
       "norm_label": "size()"
     },
     {
@@ -20338,7 +20338,7 @@
       "source_location": "L79531",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_local_rest_api_main_exclude",
-      "community": 44,
+      "community": 89,
       "norm_label": "exclude()"
     },
     {
@@ -20418,7 +20418,7 @@
       "source_location": "L80130",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_local_rest_api_main_object2",
-      "community": 3,
+      "community": 78,
       "norm_label": "object2()"
     },
     {
@@ -20438,7 +20438,7 @@
       "source_location": "L80147",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_local_rest_api_main_objectfromshape",
-      "community": 3,
+      "community": 78,
       "norm_label": "objectfromshape()"
     },
     {
@@ -20458,7 +20458,7 @@
       "source_location": "L80168",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_local_rest_api_main_safeparseasync3",
-      "community": 45,
+      "community": 80,
       "norm_label": "safeparseasync3()"
     },
     {
@@ -20478,7 +20478,7 @@
       "source_location": "L80200",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_local_rest_api_main_normalizeobjectschema",
-      "community": 45,
+      "community": 80,
       "norm_label": "normalizeobjectschema()"
     },
     {
@@ -20488,7 +20488,7 @@
       "source_location": "L80228",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_local_rest_api_main_getparseerrormessage",
-      "community": 45,
+      "community": 80,
       "norm_label": "getparseerrormessage()"
     },
     {
@@ -20648,7 +20648,7 @@
       "source_location": "L80571",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_local_rest_api_main_parseintersectiondef",
-      "community": 16,
+      "community": 12,
       "norm_label": "parseintersectiondef()"
     },
     {
@@ -20808,7 +20808,7 @@
       "source_location": "L81213",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_local_rest_api_main_parseobjectdef",
-      "community": 45,
+      "community": 16,
       "norm_label": "parseobjectdef()"
     },
     {
@@ -20818,7 +20818,7 @@
       "source_location": "L81258",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_local_rest_api_main_decideadditionalproperties",
-      "community": 45,
+      "community": 16,
       "norm_label": "decideadditionalproperties()"
     },
     {
@@ -20898,7 +20898,7 @@
       "source_location": "L81586",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_local_rest_api_main_mapminitarget",
-      "community": 45,
+      "community": 225,
       "norm_label": "mapminitarget()"
     },
     {
@@ -20908,7 +20908,7 @@
       "source_location": "L81595",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_local_rest_api_main_tojsonschemacompat",
-      "community": 45,
+      "community": 225,
       "norm_label": "tojsonschemacompat()"
     },
     {
@@ -21428,7 +21428,7 @@
       "source_location": "L83018",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_local_rest_api_main_createmessage",
-      "community": 39,
+      "community": 5,
       "norm_label": "createmessage()"
     },
     {
@@ -21488,7 +21488,7 @@
       "source_location": "L83138",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_local_rest_api_main_sendresourcelistchanged",
-      "community": 3,
+      "community": 226,
       "norm_label": "sendresourcelistchanged()"
     },
     {
@@ -21498,7 +21498,7 @@
       "source_location": "L83143",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_local_rest_api_main_sendtoollistchanged",
-      "community": 3,
+      "community": 121,
       "norm_label": "sendtoollistchanged()"
     },
     {
@@ -21508,7 +21508,7 @@
       "source_location": "L83146",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_local_rest_api_main_sendpromptlistchanged",
-      "community": 45,
+      "community": 121,
       "norm_label": "sendpromptlistchanged()"
     },
     {
@@ -21518,7 +21518,7 @@
       "source_location": "L83153",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_local_rest_api_main_iscompletable",
-      "community": 45,
+      "community": 101,
       "norm_label": "iscompletable()"
     },
     {
@@ -21528,7 +21528,7 @@
       "source_location": "L83156",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_local_rest_api_main_getcompleter",
-      "community": 45,
+      "community": 101,
       "norm_label": "getcompleter()"
     },
     {
@@ -21538,7 +21538,7 @@
       "source_location": "L83167",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_local_rest_api_main_validatetoolname",
-      "community": 3,
+      "community": 78,
       "norm_label": "validatetoolname()"
     },
     {
@@ -21548,7 +21548,7 @@
       "source_location": "L83206",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_local_rest_api_main_issuetoolnamewarning",
-      "community": 3,
+      "community": 78,
       "norm_label": "issuetoolnamewarning()"
     },
     {
@@ -21558,7 +21558,7 @@
       "source_location": "L83217",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_local_rest_api_main_validateandwarntoolname",
-      "community": 3,
+      "community": 78,
       "norm_label": "validateandwarntoolname()"
     },
     {
@@ -21568,7 +21568,7 @@
       "source_location": "L83228",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_local_rest_api_main_registertooltask",
-      "community": 3,
+      "community": 78,
       "norm_label": "registertooltask()"
     },
     {
@@ -21578,7 +21578,7 @@
       "source_location": "L83280",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_local_rest_api_main_settoolrequesthandlers",
-      "community": 45,
+      "community": 80,
       "norm_label": "settoolrequesthandlers()"
     },
     {
@@ -21588,7 +21588,7 @@
       "source_location": "L83366",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_local_rest_api_main_createtoolerror",
-      "community": 45,
+      "community": 80,
       "norm_label": "createtoolerror()"
     },
     {
@@ -21598,7 +21598,7 @@
       "source_location": "L83380",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_local_rest_api_main_validatetoolinput",
-      "community": 45,
+      "community": 80,
       "norm_label": "validatetoolinput()"
     },
     {
@@ -21608,7 +21608,7 @@
       "source_location": "L83397",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_local_rest_api_main_validatetooloutput",
-      "community": 45,
+      "community": 80,
       "norm_label": "validatetooloutput()"
     },
     {
@@ -21618,7 +21618,7 @@
       "source_location": "L83421",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_local_rest_api_main_executetoolhandler",
-      "community": 45,
+      "community": 80,
       "norm_label": "executetoolhandler()"
     },
     {
@@ -21628,7 +21628,7 @@
       "source_location": "L83448",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_local_rest_api_main_handleautomatictaskpolling",
-      "community": 45,
+      "community": 80,
       "norm_label": "handleautomatictaskpolling()"
     },
     {
@@ -21638,7 +21638,7 @@
       "source_location": "L83473",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_local_rest_api_main_setcompletionrequesthandler",
-      "community": 45,
+      "community": 101,
       "norm_label": "setcompletionrequesthandler()"
     },
     {
@@ -21648,7 +21648,7 @@
       "source_location": "L83495",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_local_rest_api_main_handlepromptcompletion",
-      "community": 45,
+      "community": 101,
       "norm_label": "handlepromptcompletion()"
     },
     {
@@ -21658,7 +21658,7 @@
       "source_location": "L83518",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_local_rest_api_main_handleresourcecompletion",
-      "community": 45,
+      "community": 101,
       "norm_label": "handleresourcecompletion()"
     },
     {
@@ -21668,7 +21668,7 @@
       "source_location": "L83533",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_local_rest_api_main_setresourcerequesthandlers",
-      "community": 3,
+      "community": 101,
       "norm_label": "setresourcerequesthandlers()"
     },
     {
@@ -21678,7 +21678,7 @@
       "source_location": "L83595",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_local_rest_api_main_setpromptrequesthandlers",
-      "community": 45,
+      "community": 80,
       "norm_label": "setpromptrequesthandlers()"
     },
     {
@@ -21688,7 +21688,7 @@
       "source_location": "L83643",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_local_rest_api_main_resource",
-      "community": 3,
+      "community": 226,
       "norm_label": "resource()"
     },
     {
@@ -21698,7 +21698,7 @@
       "source_location": "L83667",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_local_rest_api_main_registerresource",
-      "community": 3,
+      "community": 226,
       "norm_label": "registerresource()"
     },
     {
@@ -21708,7 +21708,7 @@
       "source_location": "L83686",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_local_rest_api_main_createregisteredresource",
-      "community": 3,
+      "community": 226,
       "norm_label": "_createregisteredresource()"
     },
     {
@@ -21718,7 +21718,7 @@
       "source_location": "L83718",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_local_rest_api_main_createregisteredresourcetemplate",
-      "community": 3,
+      "community": 226,
       "norm_label": "_createregisteredresourcetemplate()"
     },
     {
@@ -21728,7 +21728,7 @@
       "source_location": "L83750",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_local_rest_api_main_createregisteredprompt",
-      "community": 45,
+      "community": 121,
       "norm_label": "_createregisteredprompt()"
     },
     {
@@ -21738,7 +21738,7 @@
       "source_location": "L83782",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_local_rest_api_main_createregisteredtool",
-      "community": 3,
+      "community": 78,
       "norm_label": "_createregisteredtool()"
     },
     {
@@ -21768,7 +21768,7 @@
       "source_location": "L83866",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_local_rest_api_main_prompt",
-      "community": 45,
+      "community": 121,
       "norm_label": "prompt()"
     },
     {
@@ -21778,7 +21778,7 @@
       "source_location": "L83887",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_local_rest_api_main_registerprompt",
-      "community": 45,
+      "community": 121,
       "norm_label": "registerprompt()"
     },
     {
@@ -21788,7 +21788,7 @@
       "source_location": "L83901",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_local_rest_api_main_isconnected",
-      "community": 3,
+      "community": 121,
       "norm_label": "isconnected()"
     },
     {
@@ -21798,7 +21798,7 @@
       "source_location": "L83943",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_local_rest_api_main_iszodtypelike",
-      "community": 3,
+      "community": 78,
       "norm_label": "iszodtypelike()"
     },
     {
@@ -21808,7 +21808,7 @@
       "source_location": "L83946",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_local_rest_api_main_iszodschemainstance",
-      "community": 3,
+      "community": 78,
       "norm_label": "iszodschemainstance()"
     },
     {
@@ -21818,7 +21818,7 @@
       "source_location": "L83949",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_local_rest_api_main_iszodrawshapecompat",
-      "community": 3,
+      "community": 78,
       "norm_label": "iszodrawshapecompat()"
     },
     {
@@ -21828,7 +21828,7 @@
       "source_location": "L83961",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_local_rest_api_main_getzodschemaobject",
-      "community": 3,
+      "community": 78,
       "norm_label": "getzodschemaobject()"
     },
     {
@@ -21848,7 +21848,7 @@
       "source_location": "L83984",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_local_rest_api_main_getmethodvalue",
-      "community": 45,
+      "community": 101,
       "norm_label": "getmethodvalue()"
     },
     {
@@ -21858,7 +21858,7 @@
       "source_location": "L83996",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_local_rest_api_main_createcompletionresult",
-      "community": 45,
+      "community": 101,
       "norm_label": "createcompletionresult()"
     },
     {
@@ -22018,7 +22018,7 @@
       "source_location": "L84641",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_local_rest_api_main_buildserver",
-      "community": 3,
+      "community": 15,
       "norm_label": "buildserver()"
     },
     {
@@ -22138,7 +22138,7 @@
       "source_location": "L85143",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_local_rest_api_main_root",
-      "community": 225,
+      "community": 39,
       "norm_label": "root()"
     },
     {
@@ -22468,7 +22468,7 @@
       "source_location": "L86133",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_local_rest_api_main_handle",
-      "community": 86,
+      "community": 22,
       "norm_label": "handle()"
     },
     {
@@ -22568,7 +22568,7 @@
       "source_location": "L86439",
       "_origin": "ast",
       "id": "llm_knowledge_obsidian_plugins_obsidian_local_rest_api_main_display",
-      "community": 225,
+      "community": 39,
       "norm_label": "display()"
     },
     {
@@ -23972,116 +23972,6 @@
       "norm_label": "verknupfte notizen"
     },
     {
-      "label": "Wettkampf 2027-03-21 Venloop.md",
-      "file_type": "document",
-      "source_file": "llm-knowledge/Laufen/Wettkampf 2027-03-21 Venloop.md",
-      "source_location": "L1",
-      "_origin": "ast",
-      "id": "llm_knowledge_laufen_wettkampf_2027_03_21_venloop",
-      "community": 6,
-      "norm_label": "wettkampf 2027-03-21 venloop.md"
-    },
-    {
-      "label": "\ud83c\udfc1 Arrow Venloop 2027 \u2014 Halbmarathon",
-      "file_type": "document",
-      "source_file": "llm-knowledge/Laufen/Wettkampf 2027-03-21 Venloop.md",
-      "source_location": "L11",
-      "_origin": "ast",
-      "id": "llm_knowledge_laufen_wettkampf_2027_03_21_venloop_arrow_venloop_2027_halbmarathon",
-      "community": 61,
-      "norm_label": "\ud83c\udfc1 arrow venloop 2027 \u2014 halbmarathon"
-    },
-    {
-      "label": "Eckdaten",
-      "file_type": "document",
-      "source_file": "llm-knowledge/Laufen/Wettkampf 2027-03-21 Venloop.md",
-      "source_location": "L16",
-      "_origin": "ast",
-      "id": "llm_knowledge_laufen_wettkampf_2027_03_21_venloop_eckdaten",
-      "community": 61,
-      "norm_label": "eckdaten"
-    },
-    {
-      "label": "\u26a0\ufe0f Startplatz-Status \u2014 offen",
-      "file_type": "document",
-      "source_file": "llm-knowledge/Laufen/Wettkampf 2027-03-21 Venloop.md",
-      "source_location": "L31",
-      "_origin": "ast",
-      "id": "llm_knowledge_laufen_wettkampf_2027_03_21_venloop_startplatz_status_offen",
-      "community": 61,
-      "norm_label": "\u26a0\ufe0f startplatz-status \u2014 offen"
-    },
-    {
-      "label": "Zielsetzung",
-      "file_type": "document",
-      "source_file": "llm-knowledge/Laufen/Wettkampf 2027-03-21 Venloop.md",
-      "source_location": "L41",
-      "_origin": "ast",
-      "id": "llm_knowledge_laufen_wettkampf_2027_03_21_venloop_zielsetzung",
-      "community": 61,
-      "norm_label": "zielsetzung"
-    },
-    {
-      "label": "Besonderheit: Start um 14:00 Uhr",
-      "file_type": "document",
-      "source_file": "llm-knowledge/Laufen/Wettkampf 2027-03-21 Venloop.md",
-      "source_location": "L51",
-      "_origin": "ast",
-      "id": "llm_knowledge_laufen_wettkampf_2027_03_21_venloop_besonderheit_start_um_14_00_uhr",
-      "community": 61,
-      "norm_label": "besonderheit: start um 14:00 uhr"
-    },
-    {
-      "label": "Programm des Wochenendes",
-      "file_type": "document",
-      "source_file": "llm-knowledge/Laufen/Wettkampf 2027-03-21 Venloop.md",
-      "source_location": "L62",
-      "_origin": "ast",
-      "id": "llm_knowledge_laufen_wettkampf_2027_03_21_venloop_programm_des_wochenendes",
-      "community": 61,
-      "norm_label": "programm des wochenendes"
-    },
-    {
-      "label": "Planungs-R\u00fcckrechnung",
-      "file_type": "document",
-      "source_file": "llm-knowledge/Laufen/Wettkampf 2027-03-21 Venloop.md",
-      "source_location": "L77",
-      "_origin": "ast",
-      "id": "llm_knowledge_laufen_wettkampf_2027_03_21_venloop_planungs_r\u00fcckrechnung",
-      "community": 61,
-      "norm_label": "planungs-ruckrechnung"
-    },
-    {
-      "label": "Status & Offene Punkte",
-      "file_type": "document",
-      "source_file": "llm-knowledge/Laufen/Wettkampf 2027-03-21 Venloop.md",
-      "source_location": "L81",
-      "_origin": "ast",
-      "id": "llm_knowledge_laufen_wettkampf_2027_03_21_venloop_status_offene_punkte",
-      "community": 61,
-      "norm_label": "status & offene punkte"
-    },
-    {
-      "label": "Quellen",
-      "file_type": "document",
-      "source_file": "llm-knowledge/Laufen/Wettkampf 2027-03-21 Venloop.md",
-      "source_location": "L88",
-      "_origin": "ast",
-      "id": "llm_knowledge_laufen_wettkampf_2027_03_21_venloop_quellen",
-      "community": 61,
-      "norm_label": "quellen"
-    },
-    {
-      "label": "Verwandte Notizen",
-      "file_type": "document",
-      "source_file": "llm-knowledge/Laufen/Wettkampf 2027-03-21 Venloop.md",
-      "source_location": "L94",
-      "_origin": "ast",
-      "id": "llm_knowledge_laufen_wettkampf_2027_03_21_venloop_verwandte_notizen",
-      "community": 61,
-      "norm_label": "verwandte notizen"
-    },
-    {
       "label": "Wochenbericht 2026-06-18 bis 06-25.md",
       "file_type": "document",
       "source_file": "llm-knowledge/Laufen/Wochenbericht 2026-06-18 bis 06-25.md",
@@ -24485,7 +24375,7 @@
       "label": "Wochenberichte & Trainingslogs",
       "file_type": "document",
       "source_file": "llm-knowledge/Laufen/_Index.md",
-      "source_location": "L28",
+      "source_location": "L27",
       "_origin": "ast",
       "id": "llm_knowledge_laufen_index_wochenberichte_trainingslogs",
       "community": 108,
@@ -24495,7 +24385,7 @@
       "label": "Urlaub & Pausen",
       "file_type": "document",
       "source_file": "llm-knowledge/Laufen/_Index.md",
-      "source_location": "L32",
+      "source_location": "L31",
       "_origin": "ast",
       "id": "llm_knowledge_laufen_index_urlaub_pausen",
       "community": 108,
@@ -24505,7 +24395,7 @@
       "label": "Prinzip f\u00fcr neue Notizen",
       "file_type": "document",
       "source_file": "llm-knowledge/Laufen/_Index.md",
-      "source_location": "L35",
+      "source_location": "L34",
       "_origin": "ast",
       "id": "llm_knowledge_laufen_index_prinzip_f\u00fcr_neue_notizen",
       "community": 108,
@@ -95065,16 +94955,6 @@
     {
       "relation": "references",
       "confidence": "EXTRACTED",
-      "source_file": "llm-knowledge/Laufen/Wettkampf 2027-03-21 Venloop.md",
-      "source_location": "L47",
-      "weight": 1.0,
-      "source": "llm_knowledge_laufen_wettkampf_2027_03_21_venloop",
-      "target": "llm_knowledge_laufen_herzfrequenzzonen",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "references",
-      "confidence": "EXTRACTED",
       "source_file": "llm-knowledge/Laufen/Wochenbericht 2026-06-18 bis 06-25.md",
       "source_location": "L83",
       "weight": 1.0,
@@ -95219,16 +95099,6 @@
       "source_location": "L19",
       "weight": 1.0,
       "source": "llm_knowledge_laufen_urlaub_2026_07_13_bis_07_19",
-      "target": "llm_knowledge_laufen_laufziele",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "references",
-      "confidence": "EXTRACTED",
-      "source_file": "llm-knowledge/Laufen/Wettkampf 2027-03-21 Venloop.md",
-      "source_location": "L14",
-      "weight": 1.0,
-      "source": "llm_knowledge_laufen_wettkampf_2027_03_21_venloop",
       "target": "llm_knowledge_laufen_laufziele",
       "confidence_score": 1.0
     },
@@ -95533,16 +95403,6 @@
       "confidence_score": 1.0
     },
     {
-      "relation": "references",
-      "confidence": "EXTRACTED",
-      "source_file": "llm-knowledge/Laufen/Wettkampf 2027-03-21 Venloop.md",
-      "source_location": "L60",
-      "weight": 1.0,
-      "source": "llm_knowledge_laufen_wettkampf_2027_03_21_venloop",
-      "target": "llm_knowledge_laufen_renntag_erkenntnisse",
-      "confidence_score": 1.0
-    },
-    {
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "llm-knowledge/Laufen/Renntag-Erkenntnisse.md",
@@ -95610,16 +95470,6 @@
       "weight": 1.0,
       "source": "llm_knowledge_laufen_rennvorbereitung_checkliste",
       "target": "llm_knowledge_laufen_rennvorbereitung_checkliste_rennvorbereitung_checkliste",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "references",
-      "confidence": "EXTRACTED",
-      "source_file": "llm-knowledge/Laufen/Wettkampf 2027-03-21 Venloop.md",
-      "source_location": "L53",
-      "weight": 1.0,
-      "source": "llm_knowledge_laufen_wettkampf_2027_03_21_venloop",
-      "target": "llm_knowledge_laufen_rennvorbereitung_checkliste",
       "confidence_score": 1.0
     },
     {
@@ -95866,7 +95716,7 @@
       "relation": "references",
       "confidence": "EXTRACTED",
       "source_file": "llm-knowledge/Laufen/_Index.md",
-      "source_location": "L30",
+      "source_location": "L29",
       "weight": 1.0,
       "source": "llm_knowledge_laufen_index",
       "target": "llm_knowledge_laufen_trainingslog_2026_07_02_schwelle",
@@ -96335,16 +96185,6 @@
     {
       "relation": "references",
       "confidence": "EXTRACTED",
-      "source_file": "llm-knowledge/Laufen/Wettkampf 2027-03-21 Venloop.md",
-      "source_location": "L79",
-      "weight": 1.0,
-      "source": "llm_knowledge_laufen_wettkampf_2027_03_21_venloop",
-      "target": "llm_knowledge_laufen_trainingsplan_hm_sub_120_2026",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "references",
-      "confidence": "EXTRACTED",
       "source_file": "llm-knowledge/Laufen/Wochenbericht 2026-06-29 bis 07-05.md",
       "source_location": "L10",
       "weight": 1.0,
@@ -96476,7 +96316,7 @@
       "relation": "references",
       "confidence": "EXTRACTED",
       "source_file": "llm-knowledge/Laufen/_Index.md",
-      "source_location": "L33",
+      "source_location": "L32",
       "weight": 1.0,
       "source": "llm_knowledge_laufen_index",
       "target": "llm_knowledge_laufen_urlaub_2026_07_13_bis_07_19",
@@ -96556,117 +96396,7 @@
       "relation": "references",
       "confidence": "EXTRACTED",
       "source_file": "llm-knowledge/Laufen/_Index.md",
-      "source_location": "L26",
-      "weight": 1.0,
-      "source": "llm_knowledge_laufen_index",
-      "target": "llm_knowledge_laufen_wettkampf_2027_03_21_venloop",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "llm-knowledge/Laufen/Wettkampf 2027-03-21 Venloop.md",
-      "source_location": "L11",
-      "weight": 1.0,
-      "source": "llm_knowledge_laufen_wettkampf_2027_03_21_venloop",
-      "target": "llm_knowledge_laufen_wettkampf_2027_03_21_venloop_arrow_venloop_2027_halbmarathon",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "llm-knowledge/Laufen/Wettkampf 2027-03-21 Venloop.md",
-      "source_location": "L51",
-      "weight": 1.0,
-      "source": "llm_knowledge_laufen_wettkampf_2027_03_21_venloop_arrow_venloop_2027_halbmarathon",
-      "target": "llm_knowledge_laufen_wettkampf_2027_03_21_venloop_besonderheit_start_um_14_00_uhr",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "llm-knowledge/Laufen/Wettkampf 2027-03-21 Venloop.md",
-      "source_location": "L16",
-      "weight": 1.0,
-      "source": "llm_knowledge_laufen_wettkampf_2027_03_21_venloop_arrow_venloop_2027_halbmarathon",
-      "target": "llm_knowledge_laufen_wettkampf_2027_03_21_venloop_eckdaten",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "llm-knowledge/Laufen/Wettkampf 2027-03-21 Venloop.md",
-      "source_location": "L77",
-      "weight": 1.0,
-      "source": "llm_knowledge_laufen_wettkampf_2027_03_21_venloop_arrow_venloop_2027_halbmarathon",
-      "target": "llm_knowledge_laufen_wettkampf_2027_03_21_venloop_planungs_r\u00fcckrechnung",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "llm-knowledge/Laufen/Wettkampf 2027-03-21 Venloop.md",
-      "source_location": "L62",
-      "weight": 1.0,
-      "source": "llm_knowledge_laufen_wettkampf_2027_03_21_venloop_arrow_venloop_2027_halbmarathon",
-      "target": "llm_knowledge_laufen_wettkampf_2027_03_21_venloop_programm_des_wochenendes",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "llm-knowledge/Laufen/Wettkampf 2027-03-21 Venloop.md",
-      "source_location": "L88",
-      "weight": 1.0,
-      "source": "llm_knowledge_laufen_wettkampf_2027_03_21_venloop_arrow_venloop_2027_halbmarathon",
-      "target": "llm_knowledge_laufen_wettkampf_2027_03_21_venloop_quellen",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "llm-knowledge/Laufen/Wettkampf 2027-03-21 Venloop.md",
-      "source_location": "L31",
-      "weight": 1.0,
-      "source": "llm_knowledge_laufen_wettkampf_2027_03_21_venloop_arrow_venloop_2027_halbmarathon",
-      "target": "llm_knowledge_laufen_wettkampf_2027_03_21_venloop_startplatz_status_offen",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "llm-knowledge/Laufen/Wettkampf 2027-03-21 Venloop.md",
-      "source_location": "L81",
-      "weight": 1.0,
-      "source": "llm_knowledge_laufen_wettkampf_2027_03_21_venloop_arrow_venloop_2027_halbmarathon",
-      "target": "llm_knowledge_laufen_wettkampf_2027_03_21_venloop_status_offene_punkte",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "llm-knowledge/Laufen/Wettkampf 2027-03-21 Venloop.md",
-      "source_location": "L94",
-      "weight": 1.0,
-      "source": "llm_knowledge_laufen_wettkampf_2027_03_21_venloop_arrow_venloop_2027_halbmarathon",
-      "target": "llm_knowledge_laufen_wettkampf_2027_03_21_venloop_verwandte_notizen",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "llm-knowledge/Laufen/Wettkampf 2027-03-21 Venloop.md",
-      "source_location": "L41",
-      "weight": 1.0,
-      "source": "llm_knowledge_laufen_wettkampf_2027_03_21_venloop_arrow_venloop_2027_halbmarathon",
-      "target": "llm_knowledge_laufen_wettkampf_2027_03_21_venloop_zielsetzung",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "references",
-      "confidence": "EXTRACTED",
-      "source_file": "llm-knowledge/Laufen/_Index.md",
-      "source_location": "L29",
+      "source_location": "L28",
       "weight": 1.0,
       "source": "llm_knowledge_laufen_index",
       "target": "llm_knowledge_laufen_wochenbericht_2026_06_18_bis_06_25",
@@ -97026,7 +96756,7 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "llm-knowledge/Laufen/_Index.md",
-      "source_location": "L35",
+      "source_location": "L34",
       "weight": 1.0,
       "source": "llm_knowledge_laufen_index_laufen_\u00fcbersicht",
       "target": "llm_knowledge_laufen_index_prinzip_f\u00fcr_neue_notizen",
@@ -97046,7 +96776,7 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "llm-knowledge/Laufen/_Index.md",
-      "source_location": "L32",
+      "source_location": "L31",
       "weight": 1.0,
       "source": "llm_knowledge_laufen_index_laufen_\u00fcbersicht",
       "target": "llm_knowledge_laufen_index_urlaub_pausen",
@@ -97056,7 +96786,7 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "llm-knowledge/Laufen/_Index.md",
-      "source_location": "L28",
+      "source_location": "L27",
       "weight": 1.0,
       "source": "llm_knowledge_laufen_index_laufen_\u00fcbersicht",
       "target": "llm_knowledge_laufen_index_wochenberichte_trainingslogs",
@@ -97864,5 +97594,5 @@
     }
   ],
   "hyperedges": [],
-  "built_at_commit": "b82baf29479a919ecbcf3c213ebfe20e503fab79"
+  "built_at_commit": "4885c5988b33e7ac1174781ab044b4bdac1d0f05"
 }
