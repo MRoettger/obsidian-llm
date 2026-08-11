@@ -25,14 +25,14 @@
             "id": "c588cc16f9d623f6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Laufen/Wettkampf 2027-03-21 Venloop.md",
-                "mode": "source",
-                "source": true
+                "aFile": "llm-knowledge/Laufen/Wettkampf 2026-09-13 Münster 28.md",
+                "bFile": "llm-knowledge/Laufen/Wettkampf 2026-09-13 Münster 28.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Wettkampf 2027-03-21 Venloop"
+              "icon": "diff",
+              "title": "Diff: Wettkampf 2026-09-13 Münster 28  (Working Tree)"
             }
           }
         ],
@@ -213,6 +213,8 @@
   "active": "c588cc16f9d623f6",
   "lastOpenFiles": [
     "Laufen/Wettkampf 2027-03-21 Venloop.md",
+    "Laufen/Intervalltraining Forschungsstand 2026.md",
+    "Laufen/Wettkampf 2026-09-13 Münster 28.md",
     "Umzug/Projektplan Umzug.md",
     "Umzug",
     "Laufen/Wochenbericht 2026-07-13 bis 07-19.md",
@@ -242,8 +244,6 @@
     "Laufen/HM-Aufbau Forschungsgrundlagen 2026.md",
     "Laufen/Herzfrequenzzonen.md",
     "Laufen/_Index.md",
-    "Laufen/Aktueller Fitnessstatus.md",
-    "Laufen/5km-Test-Protokoll.md",
     "Python",
     "Laufen"
   ]

@@ -5,27 +5,27 @@
     "semantic_hash": "b62aacd39b97f261d1b6126e5a68cbef"
   },
   ".claude/settings.local.json": {
-    "mtime": 1786306572.0949106,
-    "ast_hash": "05073e314e6757318f386911ec29f6e5",
+    "mtime": 1785743425.3738217,
+    "ast_hash": "99f8725941a13b69be4995aec205f78a",
     "semantic_hash": ""
   },
   "llm-knowledge/.obsidian/app.json": {
-    "mtime": 1786085536.2997603,
+    "mtime": 1785737734.9679053,
     "ast_hash": "99914b932bd37a50b983c5e7c90ae93b",
     "semantic_hash": "99914b932bd37a50b983c5e7c90ae93b"
   },
   "llm-knowledge/.obsidian/appearance.json": {
-    "mtime": 1786085536.300119,
+    "mtime": 1785737734.969514,
     "ast_hash": "99914b932bd37a50b983c5e7c90ae93b",
     "semantic_hash": "99914b932bd37a50b983c5e7c90ae93b"
   },
   "llm-knowledge/.obsidian/community-plugins.json": {
-    "mtime": 1786085536.5412083,
+    "mtime": 1785737735.2445612,
     "ast_hash": "f9be9806580ef086175cdaf7cac7c6fb",
     "semantic_hash": "f9be9806580ef086175cdaf7cac7c6fb"
   },
   "llm-knowledge/.obsidian/core-plugins.json": {
-    "mtime": 1786085535.8336163,
+    "mtime": 1785737734.54928,
     "ast_hash": "7c877bea49eaeabb100563bd157b9051",
     "semantic_hash": "7c877bea49eaeabb100563bd157b9051"
   },
@@ -45,7 +45,7 @@
     "semantic_hash": "78daa9ee41f019d8766f19925b34c1f7"
   },
   "llm-knowledge/.obsidian/plugins/obsidian-git/obsidian_askpass.sh": {
-    "mtime": 1786085535.9304695,
+    "mtime": 1785737734.707363,
     "ast_hash": "f662d5f216d371e86d1b108ba5d22a5f",
     "semantic_hash": "f662d5f216d371e86d1b108ba5d22a5f"
   },
@@ -65,14 +65,14 @@
     "semantic_hash": "65ae45c2a7c68e5df3c8f9ea534cbf3a"
   },
   "llm-knowledge/.obsidian/workspace.json": {
-    "mtime": 1786480440.722262,
-    "ast_hash": "29fbbfc7c8c5743b2c8d0cc3b5a3f0ff",
+    "mtime": 1785743589.1228664,
+    "ast_hash": "18bfcf228fd7aefdd8c603074f0f7629",
     "semantic_hash": ""
   },
   "llm-knowledge/Laufen/HM-Aufbau Forschungsgrundlagen 2026.md": {
-    "mtime": 1786480308.5601163,
-    "ast_hash": "c2de1ce7a85f49b59aa58efd77eb4177",
-    "semantic_hash": ""
+    "mtime": 1782682659.8706493,
+    "ast_hash": "845cf96bd521a3d49755c781fbc1edbc",
+    "semantic_hash": "845cf96bd521a3d49755c781fbc1edbc"
   },
   "llm-knowledge/Laufen/Herzfrequenzzonen.md": {
     "mtime": 1782682659.8703282,
@@ -110,19 +110,19 @@
     "semantic_hash": "4e59d9c433a9ec42b07a5b6eb0bfc370"
   },
   "llm-knowledge/Laufen/Trainingsmethoden Halbmarathon Marathon.md": {
-    "mtime": 1786480270.288855,
-    "ast_hash": "4ad1badc43403005db80c5a8f049477d",
-    "semantic_hash": ""
+    "mtime": 1782682659.8718035,
+    "ast_hash": "9d48a4f182b53f1f249589fbd2a02a52",
+    "semantic_hash": "9d48a4f182b53f1f249589fbd2a02a52"
   },
   "llm-knowledge/Laufen/Trainingsplan HM Sub-120 2026.md": {
-    "mtime": 1786480267.4682355,
-    "ast_hash": "b836f5f0e37c511532eb168c5d05b823",
-    "semantic_hash": ""
+    "mtime": 1783017877.0550563,
+    "ast_hash": "7a925d59c17dd8ad19e1a425021f4ba8",
+    "semantic_hash": "7a925d59c17dd8ad19e1a425021f4ba8"
   },
   "llm-knowledge/Laufen/Trainingspr\u00e4ferenzen.md": {
-    "mtime": 1786480465.4245915,
-    "ast_hash": "fca92696c37d3b17576233f63049e870",
-    "semantic_hash": ""
+    "mtime": 1782682659.8725657,
+    "ast_hash": "7e0f4bc47199cf39dabecf17e7c416ac",
+    "semantic_hash": "7e0f4bc47199cf39dabecf17e7c416ac"
   },
   "llm-knowledge/Laufen/Urlaub 2026-07-13 bis 07-19.md": {
     "mtime": 1782933138.5592315,
@@ -222,16 +222,6 @@
   "llm-knowledge/Laufen/Wettkampf 2027-03-21 Venloop.md": {
     "mtime": 1785743412.9887311,
     "ast_hash": "aaa072685473efb6ea17a2a71be51c85",
-    "semantic_hash": ""
-  },
-  "llm-knowledge/Laufen/Intervalltraining Forschungsstand 2026.md": {
-    "mtime": 1786480405.9513512,
-    "ast_hash": "6a2378fd4d4b9681d310f042fea2be5a",
-    "semantic_hash": ""
-  },
-  "llm-knowledge/Laufen/Wettkampf 2026-09-13 M\u00fcnster 28.md": {
-    "mtime": 1786479611.0725975,
-    "ast_hash": "2edf802d5d247f0cdd88a92173d0a05a",
     "semantic_hash": ""
   }
 }

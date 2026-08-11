@@ -91,7 +91,7 @@ Beim 5 km irrelevant, bei HM/Marathon erfolgsentscheidend:
 
 - **Doppeltage (Rad + Lauf):** Bei HM/Marathon noch kritischer — große Radeinheiten **nicht** vor den langen Lauf oder Schlüsseleinheiten legen. Long Run hat Priorität.
 - **Schlechter Schlaf** (z. B. < 6 h, Score < 50) → harte Einheiten verschieben, Zone 1–2 laufen.
-- **Gewicht 84 kg:** Bei steigendem Umfang auf Gelenkbelastung achten; Umfang lieber über Frequenz als über brutale Einzeldistanzen aufbauen.
+- **Gewicht 74 kg:** Bei steigendem Umfang auf Gelenkbelastung achten; Umfang lieber über Frequenz als über brutale Einzeldistanzen aufbauen.
 - **TSB/Form beachten:** Vor Schlüsseleinheiten nicht dauerhaft tief ermüdet (TSB stark negativ) starten.
 
 ---
@@ -201,7 +201,7 @@ Beim 5 km irrelevant, bei HM/Marathon erfolgsentscheidend:
 
 - **Doppeltage (Rad + Lauf):** Bei HM/Marathon noch kritischer — große Radeinheiten **nicht** vor den langen Lauf oder Schlüsseleinheiten legen. Long Run hat Priorität.
 - **Schlechter Schlaf** (z. B. < 6 h, Score < 50) → harte Einheiten verschieben, Zone 1–2 laufen.
-- **Gewicht 84 kg:** Bei steigendem Umfang auf Gelenkbelastung achten; Umfang lieber über Frequenz als über brutale Einzeldistanzen aufbauen.
+- **Gewicht 74 kg:** Bei steigendem Umfang auf Gelenkbelastung achten; Umfang lieber über Frequenz als über brutale Einzeldistanzen aufbauen.
 - **TSB/Form beachten:** Vor Schlüsseleinheiten nicht dauerhaft tief ermüdet (TSB stark negativ) starten.
 
 ---

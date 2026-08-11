@@ -57,13 +57,13 @@ Beste Formate für dich (Di): **5–6×1000 m @ 5-km-Pace** (1:1–1:1,5 Pause),
 
 → **Wichtigste praktische Regel:** Umfang graduell (≈5–8 km/Woche, Down-Week alle 3–4 Wochen), aber **keine plötzlichen Einzellauf-Sprünge**, v. a. Long Run. Mehrkilometer über Easy-Läufe/Frequenz/Doppel verteilen. Genau deshalb wird der Aufbau auf Peak ~80 km über **16 Wochen** gestreckt (statt 12) und Zusatzvolumen über Doppeleinheiten statt längere Einzelläufe geholt.
 
-**84 kg / Knochenlast:** **Matijevich et al. (2019)**: tibiale Kompressionskräfte bis **~14× Körpergewicht** — Zusatzmasse erhöht innere Knochenlast deutlich. Maßnahmen: **Kadenz erhöhen** (Kliethermes et al. 2021: +1 spm ≈ −5 % Knochenstress-Risiko → Vault-Ziel >80 spm passt), Progression konservativ (Knochen adaptiert langsamer als Herz-Kreislauf, **Warden et al. 2021**), Rad statt Lauf für Zusatzvolumen. **Vorverletzung = stärkster Einzelfaktor** → Wehwehchen früh managen.
+**Körpergewicht / Knochenlast (74 kg):** **Matijevich et al. (2019)**: tibiale Kompressionskräfte bis **~14× Körpergewicht** — Zusatzmasse erhöht innere Knochenlast deutlich. Maßnahmen: **Kadenz erhöhen** (Kliethermes et al. 2021: +1 spm ≈ −5 % Knochenstress-Risiko → Vault-Ziel >80 spm passt), Progression konservativ (Knochen adaptiert langsamer als Herz-Kreislauf, **Warden et al. 2021**), Rad statt Lauf für Zusatzvolumen. **Vorverletzung = stärkster Einzelfaktor** → Wehwehchen früh managen.
 
 ## 7. Rad / Crosstraining
 
 **Systematic Review 2026, *Front Sports Act Living* 8:1843803**: Rad-Training **erhält VO2max und Laufleistung** ohne signifikante Einbußen über 4–10 Wochen — gut zum Fitness-Erhalt bei reduziertem Impact. Rad-VO2max liegt ~5–15 % unter Lauf-VO2max (weniger Muskelmasse) → Rad **ergänzt**, ersetzt Laufvolumen nicht voll. Interferenz mit Lauf bei lockerem aeroben Rad **vernachlässigbar**.
 
-→ **Übertragung:** Radeinheit auf Easy-/Erholungstag (Fr), überwiegend locker, nicht neben Di-VO2max oder Do-Schwelle. Bei 84 kg ein effizienter Weg, aeroben Reiz ohne Knochenlast zu sammeln.
+→ **Übertragung:** Radeinheit auf Easy-/Erholungstag (Fr), überwiegend locker, nicht neben Di-VO2max oder Do-Schwelle. Ein effizienter Weg, aeroben Reiz ohne Knochenlast zu sammeln.
 
 ## 8. Tapering
 

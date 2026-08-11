@@ -27,7 +27,7 @@ Pyramidal → polarisiert (Filipas et al. 2022): erst breite Grundlage mit orden
 - **1 Schwelleneinheit/Woche** (Do); in Aufbau/Spitze zusätzlich HM-Pace-Anteil im Long Run bzw. dedizierter HM-Pace-Lauf.
 - **HM-Zielpace 3:45–3:50/km (Z3–4, ~155–164 bpm)** für alle Renntempo-Anteile.
 - **Long Run** ~25–33 % des Wochenumfangs, Progression moderat (max. 22 km), keine Einzeldistanz-Sprünge.
-- **1 Radeinheit/Woche** (Fr, ~90 min locker) — aerober Reiz ohne Impact, schont bei 84 kg, zählt zusätzlich.
+- **1 Radeinheit/Woche** (Fr, ~90 min locker) — aerober Reiz ohne Impact, zählt zusätzlich.
 - **Zusatzvolumen über Frequenz/lockere Doppel** (ab KW 33), nicht über längere Einzelläufe.
 - **Entlastungswoche alle 3–4 Wochen** (−25 bis −30 %).
 
@@ -77,7 +77,7 @@ Pyramidal → polarisiert (Filipas et al. 2022): erst breite Grundlage mit orden
 - **HRV deutlich unter Baseline ODER Ruhepuls +5–7 bpm** → Qualitätstag verschieben.
 - **TSB stark negativ vor Schlüsseleinheit/Wettkampf** → Erholungstag einschieben (nur geplante Peak-Wochen dürfen tief negativ laufen).
 - **Einzellauf > 10 % länger als längster Lauf der letzten 30 Tage** → vermeiden (stärkster Verletzungs-Risikofaktor, Garmin-RUNSAFE 2025).
-- **Knochen-/lokaler Schmerz (Priorität bei 84 kg)** → Lauf durch Rad ersetzen, früh abklären. Vorverletzung = Top-Risikofaktor.
+- **Knochen-/lokaler Schmerz** → Lauf durch Rad ersetzen, früh abklären. Vorverletzung = Top-Risikofaktor.
 - **Doppeltage Rad+Lauf** nicht vor Long Run/Schlüsseleinheit; Long Run hat Priorität.
 
 ---
