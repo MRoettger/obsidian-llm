@@ -10,22 +10,22 @@
     "semantic_hash": ""
   },
   "llm-knowledge/.obsidian/app.json": {
-    "mtime": 1786825203.548167,
+    "mtime": 1786085536.2997603,
     "ast_hash": "99914b932bd37a50b983c5e7c90ae93b",
     "semantic_hash": "99914b932bd37a50b983c5e7c90ae93b"
   },
   "llm-knowledge/.obsidian/appearance.json": {
-    "mtime": 1786825203.5494986,
+    "mtime": 1786085536.300119,
     "ast_hash": "99914b932bd37a50b983c5e7c90ae93b",
     "semantic_hash": "99914b932bd37a50b983c5e7c90ae93b"
   },
   "llm-knowledge/.obsidian/community-plugins.json": {
-    "mtime": 1786825203.7376385,
+    "mtime": 1786085536.5412083,
     "ast_hash": "f9be9806580ef086175cdaf7cac7c6fb",
     "semantic_hash": "f9be9806580ef086175cdaf7cac7c6fb"
   },
   "llm-knowledge/.obsidian/core-plugins.json": {
-    "mtime": 1786825203.099605,
+    "mtime": 1786085535.8336163,
     "ast_hash": "7c877bea49eaeabb100563bd157b9051",
     "semantic_hash": "7c877bea49eaeabb100563bd157b9051"
   },
@@ -45,7 +45,7 @@
     "semantic_hash": "78daa9ee41f019d8766f19925b34c1f7"
   },
   "llm-knowledge/.obsidian/plugins/obsidian-git/obsidian_askpass.sh": {
-    "mtime": 1786825202.8632748,
+    "mtime": 1786085535.9304695,
     "ast_hash": "f662d5f216d371e86d1b108ba5d22a5f",
     "semantic_hash": "f662d5f216d371e86d1b108ba5d22a5f"
   },
@@ -65,8 +65,8 @@
     "semantic_hash": "65ae45c2a7c68e5df3c8f9ea534cbf3a"
   },
   "llm-knowledge/.obsidian/workspace.json": {
-    "mtime": 1787400302.6576009,
-    "ast_hash": "e6e1baa94738bc9e0d3aaac803f9de62",
+    "mtime": 1786480440.722262,
+    "ast_hash": "29fbbfc7c8c5743b2c8d0cc3b5a3f0ff",
     "semantic_hash": ""
   },
   "llm-knowledge/Laufen/HM-Aufbau Forschungsgrundlagen 2026.md": {
@@ -194,6 +194,11 @@
     "ast_hash": "82efb97a359f5c7290bf2513d14686be",
     "semantic_hash": ""
   },
+  "llm-knowledge/2026-07-09.md": {
+    "mtime": 1783596108.5903854,
+    "ast_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "semantic_hash": ""
+  },
   "llm-knowledge/Radurlaub/\u00dcbersicht Radurlaub.md": {
     "mtime": 1783630233.1446517,
     "ast_hash": "657a9e0093438e68be9ccada402d7dc1",
@@ -227,31 +232,6 @@
   "llm-knowledge/Laufen/Wettkampf 2026-09-13 M\u00fcnster 28.md": {
     "mtime": 1786479611.0725975,
     "ast_hash": "2edf802d5d247f0cdd88a92173d0a05a",
-    "semantic_hash": ""
-  },
-  "llm-knowledge/Radsport/Vuelta 2026 Etappen.md": {
-    "mtime": 1787400245.1138153,
-    "ast_hash": "75cf616896943aa24b3b62ad17b6833f",
-    "semantic_hash": ""
-  },
-  "llm-knowledge/Radsport/Vuelta 2026 Favoriten.md": {
-    "mtime": 1787400281.9165998,
-    "ast_hash": "bdb9195ef3ef1e085b20fff151dbe7ce",
-    "semantic_hash": ""
-  },
-  "llm-knowledge/Radsport/Vuelta 2026 Teams.md": {
-    "mtime": 1787400297.2588716,
-    "ast_hash": "8a88ed12d3ea6ef590265a977c0647de",
-    "semantic_hash": ""
-  },
-  "llm-knowledge/Radsport/Vuelta 2026 \u00dcbersicht.md": {
-    "mtime": 1787400210.4618378,
-    "ast_hash": "6f68a17dda690ace2de6d25d858748cc",
-    "semantic_hash": ""
-  },
-  "llm-knowledge/Radsport/_Index.md": {
-    "mtime": 1787400301.640067,
-    "ast_hash": "3e4086bc1563edb195cf513bf6bfa997",
     "semantic_hash": ""
   }
 }
