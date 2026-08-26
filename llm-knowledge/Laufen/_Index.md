@@ -2,7 +2,7 @@
 type: moc
 tags: [laufen, uebersicht]
 status: lebend
-updated: 2026-06-28
+updated: 2026-08-26
 ---
 
 # Laufen — Übersicht
@@ -28,6 +28,9 @@ Map of Content für alle Laufen-Notizen. Flache Ordnerstruktur, Filterung läuft
 ## Wochenberichte & Trainingslogs
 - [[Wochenbericht 2026-06-18 bis 06-25]]
 - [[Trainingslog 2026-07-02 Schwelle]] — Qualitätseinheit KW 27, Plan-Abgleich
+
+## Analysen
+- [[Umfangshistorie 2025-2026]] — 64 Wochen Wochenumfänge, Belastbarkeit und Konstanz
 
 ## Urlaub & Pausen
 - [[Urlaub 2026-07-13 bis 07-19]] — Rennrad-Urlaub (KW 29), Plan-Anpassung KW 29–31
