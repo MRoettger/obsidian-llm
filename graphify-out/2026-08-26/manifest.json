@@ -10,22 +10,22 @@
     "semantic_hash": ""
   },
   "llm-knowledge/.obsidian/app.json": {
-    "mtime": 1787710507.504263,
+    "mtime": 1786825203.548167,
     "ast_hash": "99914b932bd37a50b983c5e7c90ae93b",
     "semantic_hash": "99914b932bd37a50b983c5e7c90ae93b"
   },
   "llm-knowledge/.obsidian/appearance.json": {
-    "mtime": 1787710507.5051332,
+    "mtime": 1786825203.5494986,
     "ast_hash": "99914b932bd37a50b983c5e7c90ae93b",
     "semantic_hash": "99914b932bd37a50b983c5e7c90ae93b"
   },
   "llm-knowledge/.obsidian/community-plugins.json": {
-    "mtime": 1787710507.74779,
+    "mtime": 1786825203.7376385,
     "ast_hash": "f9be9806580ef086175cdaf7cac7c6fb",
     "semantic_hash": "f9be9806580ef086175cdaf7cac7c6fb"
   },
   "llm-knowledge/.obsidian/core-plugins.json": {
-    "mtime": 1787710507.0435333,
+    "mtime": 1786825203.099605,
     "ast_hash": "7c877bea49eaeabb100563bd157b9051",
     "semantic_hash": "7c877bea49eaeabb100563bd157b9051"
   },
@@ -45,7 +45,7 @@
     "semantic_hash": "78daa9ee41f019d8766f19925b34c1f7"
   },
   "llm-knowledge/.obsidian/plugins/obsidian-git/obsidian_askpass.sh": {
-    "mtime": 1787710507.0386481,
+    "mtime": 1786825202.8632748,
     "ast_hash": "f662d5f216d371e86d1b108ba5d22a5f",
     "semantic_hash": "f662d5f216d371e86d1b108ba5d22a5f"
   },
@@ -65,8 +65,8 @@
     "semantic_hash": "65ae45c2a7c68e5df3c8f9ea534cbf3a"
   },
   "llm-knowledge/.obsidian/workspace.json": {
-    "mtime": 1787710507.7603168,
-    "ast_hash": "b3b40bb16ad8e03d91415a06b006c76f",
+    "mtime": 1787400469.720302,
+    "ast_hash": "ca0f5604c7eced555f8044b2c37eda95",
     "semantic_hash": ""
   },
   "llm-knowledge/Laufen/HM-Aufbau Forschungsgrundlagen 2026.md": {
@@ -252,11 +252,6 @@
   "llm-knowledge/Radsport/_Index.md": {
     "mtime": 1787400301.640067,
     "ast_hash": "3e4086bc1563edb195cf513bf6bfa997",
-    "semantic_hash": ""
-  },
-  "llm-knowledge/Urlaub/USA Ostk\u00fcste 2026-10-25 bis 11-15.md": {
-    "mtime": 1787504535.4845014,
-    "ast_hash": "f886642d298621047ba7974ddad2e1b3",
     "semantic_hash": ""
   }
 }
