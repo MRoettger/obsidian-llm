@@ -65,8 +65,8 @@
     "semantic_hash": "65ae45c2a7c68e5df3c8f9ea534cbf3a"
   },
   "llm-knowledge/.obsidian/workspace.json": {
-    "mtime": 1787710507.7603168,
-    "ast_hash": "b3b40bb16ad8e03d91415a06b006c76f",
+    "mtime": 1787710580.65108,
+    "ast_hash": "9cebbdeb73fb3770f9afdcca8524f07e",
     "semantic_hash": ""
   },
   "llm-knowledge/Laufen/HM-Aufbau Forschungsgrundlagen 2026.md": {
@@ -135,8 +135,8 @@
     "semantic_hash": "b7b044cad1174c9013cb8f5e6be6d847"
   },
   "llm-knowledge/Laufen/_Index.md": {
-    "mtime": 1785743417.2284997,
-    "ast_hash": "d8b6a7fa9f1de8b11ba5ff17ca9975b5",
+    "mtime": 1787710567.8033261,
+    "ast_hash": "c98bcc434fedd6faae35b3e2fbbf3d18",
     "semantic_hash": ""
   },
   "llm-knowledge/Python/Karten-Qualitaet.md": {
@@ -257,6 +257,11 @@
   "llm-knowledge/Urlaub/USA Ostk\u00fcste 2026-10-25 bis 11-15.md": {
     "mtime": 1787504535.4845014,
     "ast_hash": "f886642d298621047ba7974ddad2e1b3",
+    "semantic_hash": ""
+  },
+  "llm-knowledge/Laufen/Umfangshistorie 2025-2026.md": {
+    "mtime": 1787710567.782836,
+    "ast_hash": "7c20b93b99b756bb77e12c7049d3e83f",
     "semantic_hash": ""
   }
 }
