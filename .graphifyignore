@@ -1,0 +1,14 @@
+# graphify: only index the Obsidian vault content, nothing else in this repo.
+# Note: graphify's matcher uses fnmatch, where `*` also matches `/`, so a
+# single trailing `**` behaves like a recursive glob here.
+
+# Ignore everything by default
+/*
+
+# Un-ignore the vault directory itself (so the scan descends into it)...
+!/llm-knowledge
+# ...and everything inside it
+!/llm-knowledge/**
+
+# ...except Obsidian's own app/plugin state, which isn't vault content
+/llm-knowledge/.obsidian
