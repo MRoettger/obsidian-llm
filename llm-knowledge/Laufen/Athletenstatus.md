@@ -26,11 +26,11 @@ geholt. Methodik und Prinzipien stehen im Coach-Prompt, nicht hier.
 | Zielzeit dort | 1:58–2:02 bei 4:10–4:20/km, HF 152–158 |
 | Charakter | kontrollierter Wettkampf + Datenpunkt, keine Zeitjagd |
 | **Saisonziel** | HM unter 1:20:00 → Arrow Venloop, So 21.03.2027, 14:00 Uhr |
-| Startplatz Venloop | **offen** — Kontingent ausverkauft, nur Sponsorcode oder Resale 13.–27.03.2027 |
+| Startplatz Venloop | **gesichert** (Stand 03.09.2026) |
 | Nebenziel | 5-km-Zeit, läuft als Schärfung mit |
 
-> Der Venloop-Startplatz ist ein ungelöstes Risiko. Spätestens nach dem 13.09. klären,
-> sonst trainiert der ganze Winterblock auf ein Rennen ohne Startnummer.
+> Startplatz steht — das Zielrennen ist damit fix. Der 16-Wochen-Block startet
+> ca. KW 48/49 2026. Kein Alternativrennen mehr nötig.
 
 ---
 
@@ -116,6 +116,11 @@ ambitioniert angesetzt.
 **Limitierend ist nicht das Herz-Kreislauf-System**, sondern Knochen, Sehnen und
 Bindegewebe. Radfahren baut aerob auf, aber nicht strukturell.
 
+**Verfügbarkeit ab dem Venloop-Block (bestätigt 03.09.2026): 6 Lauftage/Woche.**
+Bisher wurden 4–5 Tage gelaufen, also 12–14 km pro Einheit. Der Aufbau läuft daher
+**über Frequenz, nicht über längere Bestandsläufe** — gleiche Wochenkilometer bei
+niedrigerer Spitzenbelastung je Einheit. Blockziel: vier Wochen ≥ 60 km am Stück.
+
 ---
 
 ## 📉 Formtrend
@@ -131,8 +136,11 @@ schrumpfenden Basis aufgebaut. Diesen Punkt beim Blockreview nach dem Rennen pr�
 
 ## 🚴 Nebensportarten
 
-- **Rennrad:** min. 1 Einheit/Woche vorgesehen, ~90 min locker, impactfrei. Zuletzt real
-  gefahren am 12.08. — die Vorgabe wird derzeit nicht eingehalten.
+- **Rennrad:** Vorgabe 1 Einheit/Woche, ~90 min locker, impactfrei. Zuletzt real gefahren
+  **12.08.** — bewusst zugunsten der Laufspezifik in der Rennvorbereitung ausgesetzt.
+  Ab KW 38 wieder verbindlich, feste Wochenlage beim Blockreview festlegen. Ohne Rad
+  ist CTL 55 rechnerisch nicht erreichbar: bei 3,5–4,0 Load/Laufkilometer bräuchte es
+  ~100 km/Woche nur aus dem Laufen — das gibt die Umfangstoleranz nicht her.
 - **Krafttraining:** unregelmäßig, ca. 35 min Rumpf/Oberkörper.
 - **Badminton:** gelegentlich, erzeugt unkontrollierte HF-Spitzen. Nicht in Wettkampfwochen.
 
@@ -143,6 +151,8 @@ schrumpfenden Basis aufgebaut. Diesen Punkt beim Blockreview nach dem Rennen pr�
 | Datum | Was geändert |
 |---|---|
 | 03.09.2026 | Datei angelegt. Konsolidiert aus [[Laufziele]], [[Herzfrequenzzonen]], [[Umfangshistorie 2025-2026]], [[Wettkampf 2026-09-13 Münster 28]] und Intervals.icu-Daten. |
+| 03.09.2026 | Venloop-Startplatz gesichert. Risikohinweis entfernt, Zielrennen ist fix. |
+| 03.09.2026 | 6 Lauftage/Woche ab Venloop-Block bestätigt. Aufbau über Frequenz statt Lauflänge, Blockziel 4× ≥ 60 km. Radvorgabe präzisiert. |
 
 > **Pflegeregel:** Bei jeder Änderung `updated` im Frontmatter setzen, `naechste_revision`
 > fortschreiben und hier eine Zeile ergänzen. Alte Werte werden ersetzt, nicht gelöscht —

@@ -24,7 +24,7 @@ Map of Content für alle Laufen-Notizen. Flache Ordnerstruktur, Filterung läuft
 ## Rennen & Tests
 - [[Rennvorbereitung-Checkliste]] — Checkliste vor jedem Test/Rennen
 - [[Renntag-Erkenntnisse]] — laufend gepflegte Fehler-Datenbank
-- [[Wettkampf 2027-03-21 Venloop]] — HM-Zielrennen-Kandidat, Startplatz noch offen
+- [[Wettkampf 2027-03-21 Venloop]] — HM-Zielrennen Sub-1:20, Startplatz gesichert
 
 ## Wochenberichte & Trainingslogs
 - [[Wochenbericht 2026-06-18 bis 06-25]]

@@ -1,17 +1,17 @@
 ---
 type: wettkampf
 tags: [laufen, wettkampf, halbmarathon, venloop]
-status: geplant
-updated: 2026-08-03
+status: fix
+updated: 2026-09-03
 datum: 2027-03-21
 distanz: halbmarathon
-startplatz: offen
+startplatz: gesichert
 ---
 
 # 🏁 Arrow Venloop 2027 — Halbmarathon
 
 **Sonntag, 21. März 2027, 14:00 Uhr · Venlo (NL)** — 20. Auflage.
-Kandidat für den bisher offenen Zieltermin aus [[Laufziele]] (Sub-1:20:00).
+**Zielrennen der Saison** (Sub-1:20:00), Startplatz gesichert. → [[Laufziele]]
 
 ## Eckdaten
 
@@ -28,15 +28,13 @@ Kandidat für den bisher offenen Zieltermin aus [[Laufziele]] (Sub-1:20:00).
 | Anreise | ~ Auto, Venlo direkt hinter der Grenze |
 | Inklusive | Zeitmessung, Verpflegung, Medaille, Fotos, kostenloses Parken + Bus-Shuttle |
 
-## ⚠️ Startplatz-Status — offen
+## ✅ Startplatz — gesichert (03.09.2026)
 
-Anmeldung geöffnet seit **01.08.2026, 00:00**. Der **HM ist für die reguläre Anmeldung bereits ausverkauft** (Stand 03.08.2026). Verbleibende Wege:
+Startplatz liegt vor. Die Suche nach einem Alternativrennen entfällt, der 16-Wochen-Block
+kann verbindlich auf den 21.03.2027 geplant werden.
 
-1. **Sponsorcode / Newtone Business Run** — Teams über Arbeitgeber können noch nachmelden.
-2. **Charity-Startplatz KWF** (Niederländische Krebshilfe) — 500 € Sponsorengelder bis **01.02.2027** → freier Start + Shirt.
-3. **Offizielle Resale-Plattform** — **13.–27.03.2027**, also erst gut eine Woche vor dem Rennen. Zu spät, um darauf die ganze Saisonplanung zu stützen.
-
-→ **Nächster Schritt:** Weg 1 oder 2 zeitnah klären. Wenn bis ca. Ende November 2026 (Start des 16-Wochen-Blocks) kein Startplatz gesichert ist, Alternativrennen suchen und Venloop als Ersatzoption über die Resale-Plattform behalten.
+Startunterlagen/Bestätigung an einem auffindbaren Ort ablegen — bis zum Rennen sind es
+noch gut sechs Monate.
 
 ## Zielsetzung
 
@@ -80,9 +78,10 @@ Der 16-Wochen-Block aus [[Trainingsplan HM Sub-120 2026]] müsste bei Zieldatum 
 
 ## Status & Offene Punkte
 
-- [ ] Startplatz sichern (Sponsorcode, Charity oder Resale)
-- [ ] Zieltermin in [[Laufziele]] eintragen, sobald Startplatz steht
-- [ ] Trainingsblock-Start terminieren (~KW 48/49 2026)
+- [x] Startplatz sichern — erledigt 03.09.2026
+- [x] Zieltermin in [[Laufziele]] eingetragen
+- [ ] Trainingsblock-Start terminieren (~KW 48/49 2026) — beim Blockreview nach dem 13.09.
+- [ ] Aufbauweg zum 80-km-Peak klären — Zielhöhe steht, aber die längste Serie ≥ 60 km liegt bei 3 Wochen ([[Athletenstatus]]). Entscheidung des Athleten beim Blockreview.
 - [x] Termin in Intervals.icu angelegt (Event-ID 126962712)
 
 ## Quellen
