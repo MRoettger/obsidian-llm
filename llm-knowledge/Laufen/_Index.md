@@ -10,6 +10,7 @@ updated: 2026-08-26
 Map of Content für alle Laufen-Notizen. Flache Ordnerstruktur, Filterung läuft über `type` und `tags` im Frontmatter statt über Unterordner — leichter für ein LLM zu durchsuchen als verschachtelte Ordner.
 
 ## Ziele & Status
+- **[[Athletenstatus]]** — ⭐ maßgebliche Quelle für aktuellen Zustand: Zonen, LTHR, Zielpaces, Umfangstoleranz, aktives Ziel. Schlägt bei Widerspruch alle anderen Notizen.
 - [[Laufziele]] — Saisonziele, aktueller Hauptfokus
 - [[Herzfrequenzzonen]] — Zonen-Referenz aus dem Stufentest
 
@@ -39,3 +40,9 @@ Map of Content für alle Laufen-Notizen. Flache Ordnerstruktur, Filterung läuft
 1. Immer Frontmatter mit `type`, `tags`, `status`, `updated` setzen.
 2. Diese Index-Datei bei jeder neuen Notiz um einen Link ergänzen.
 3. Keine neuen Unterordner anlegen — Auffindbarkeit läuft über Frontmatter + Links, nicht über Ordnertiefe.
+
+## Hinweis zur Aktualität
+
+Notizen in diesem Ordner altern unterschiedlich schnell. [[Athletenstatus]] wird laufend gepflegt und gilt bei Widersprüchen. Planungsdokumente wie [[Trainingsplan HM Sub-120 2026]] halten den Stand ihrer Erstellung fest — sie werden nicht rückwirkend korrigiert, sondern durch den Athletenstatus überschrieben.
+
+Der Laufcoach-Agent (`.opencode/agent/laufcoach.md`) liest den Athletenstatus zu Beginn jeder Session. Der Befehl `/wochencheck` fährt den wöchentlichen Soll-Ist-Abgleich und aktualisiert den Status bei Bedarf.
