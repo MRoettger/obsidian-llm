@@ -1,16 +1,16 @@
-# Graph Report - obsidian-llm  (2026-09-06)
+# Graph Report - obsidian-llm  (2026-09-03)
 
 ## Corpus Check
 - 37 files · ~26,882 words
 - Verdict: corpus is large enough that graph structure adds value.
 
 ## Summary
-- 445 nodes · 428 edges · 107 communities (33 shown, 74 thin omitted)
+- 445 nodes · 445 edges · 107 communities (33 shown, 74 thin omitted)
 - Extraction: 100% EXTRACTED · 0% INFERRED · 0% AMBIGUOUS
 - Token cost: 0 input · 0 output
 
 ## Graph Freshness
-- Built from commit: `d280bdb4`
+- Built from commit: `da672fe2`
 - Run `git rev-parse HEAD` and compare to check if the graph is stale.
 - Run `graphify update .` after code changes (no API cost).
 
@@ -129,8 +129,8 @@
 6. `🏁 Arrow Venloop 2027 — Halbmarathon` - 10 edges
 7. `📍 Athletenstatus` - 9 edges
 8. `Laufen — Übersicht` - 9 edges
-9. `🏃‍♂️ Trainingsmethoden Halbmarathon & Marathon` - 8 edges
-10. `✅ Rennvorbereitung-Checkliste` - 8 edges
+9. `✅ Rennvorbereitung-Checkliste` - 8 edges
+10. `🏃‍♂️ Trainingsmethoden Halbmarathon & Marathon` - 8 edges
 
 ## Surprising Connections (you probably didn't know these)
 - None detected - all connections are within the same source files.
