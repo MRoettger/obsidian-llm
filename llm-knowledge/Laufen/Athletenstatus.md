@@ -86,6 +86,11 @@ was aktuell über 8 km sauber abrufbar ist. Der Abstand ist real und wird nicht 
 kleiner, dass er in [[Laufziele]] als Zielpace steht. Nach dem 13.09. gehört die
 HM-Prognose aus dem 28er-Ergebnis neu gerechnet und dieser Eintrag ersetzt.
 
+**Resilienz-Datenpunkt (offen, ab 13.09.):** Beim 28er nicht nur die Endzeit, sondern die
+**Drift von Pace und HF über die letzten 8 km** festhalten. Das ist die erste Messung der
+Ermüdungsresistenz (Jones 2024/2025, siehe [[HM-Aufbau Forschungsgrundlagen 2026]]
+Abschnitt 10) und der Vergleichswert für die HM-Pace-Long-Runs im Venloop-Block.
+
 ---
 
 ## 🏃 Umfangstoleranz
@@ -153,6 +158,7 @@ schrumpfenden Basis aufgebaut. Diesen Punkt beim Blockreview nach dem Rennen pr�
 | 03.09.2026 | Datei angelegt. Konsolidiert aus [[Laufziele]], [[Herzfrequenzzonen]], [[Umfangshistorie 2025-2026]], [[Wettkampf 2026-09-13 Münster 28]] und Intervals.icu-Daten. |
 | 03.09.2026 | Venloop-Startplatz gesichert. Risikohinweis entfernt, Zielrennen ist fix. |
 | 03.09.2026 | 6 Lauftage/Woche ab Venloop-Block bestätigt. Aufbau über Frequenz statt Lauflänge, Blockziel 4× ≥ 60 km. Radvorgabe präzisiert. |
+| 03.09.2026 | Resilienz-Datenpunkt für den 28er als offene Messung ergänzt (Drift letzte 8 km). Steigerungsreihenfolge und zweite Sub-Schwellen-Einheit stehen in [[HM-Aufbau Forschungsgrundlagen 2026]] (Update 03.09.) und [[Trainingsplan HM Sub-120 2026]] (Steuerungsregeln). |
 
 > **Pflegeregel:** Bei jeder Änderung `updated` im Frontmatter setzen, `naechste_revision`
 > fortschreiben und hier eine Zeile ergänzen. Alte Werte werden ersetzt, nicht gelöscht —

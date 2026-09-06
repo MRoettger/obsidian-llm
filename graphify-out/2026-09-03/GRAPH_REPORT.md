@@ -1,22 +1,24 @@
-# Graph Report - obsidian-llm  (2026-09-02)
+# Graph Report - obsidian-llm  (2026-09-03)
 
 ## Corpus Check
-- 36 files · ~25,201 words
+- 37 files · ~26,454 words
 - Verdict: corpus is large enough that graph structure adds value.
 
 ## Summary
-- 448 nodes · 436 edges · 109 communities (33 shown, 76 thin omitted)
+- 458 nodes · 431 edges · 107 communities (33 shown, 74 thin omitted)
 - Extraction: 100% EXTRACTED · 0% INFERRED · 0% AMBIGUOUS
 - Token cost: 0 input · 0 output
 
 ## Graph Freshness
-- Built from commit: `8f29ec5d`
+- Built from commit: `da672fe2`
 - Run `git rev-parse HEAD` and compare to check if the graph is stale.
 - Run `graphify update .` after code changes (no API cost).
 
 ## Community Hubs (Navigation)
 - [[_COMMUNITY_MCP TestAssert Helpers (JS)|MCP Test/Assert Helpers (JS)]]
 - [[_COMMUNITY_Obsidian-Git Internals (JS)|Obsidian-Git Internals (JS)]]
+- [[_COMMUNITY_🐍 Python – Async und Performance|🐍 Python – Async und Performance]]
+- [[_COMMUNITY_Laufen — Übersicht|Laufen — Übersicht]]
 - [[_COMMUNITY_Plugin Code (minified) C8|Plugin Code (minified) C8]]
 - [[_COMMUNITY_Plugin Code (minified) C14|Plugin Code (minified) C14]]
 - [[_COMMUNITY_Plugin Code (minified) C31|Plugin Code (minified) C31]]
@@ -36,7 +38,6 @@
 - [[_COMMUNITY_fromBuffer|fromBuffer]]
 - [[_COMMUNITY_Plugin Code (minified) C76|Plugin Code (minified) C76]]
 - [[_COMMUNITY_🏃 Trainingsbausteine 5 km|🏃 Trainingsbausteine 5 km]]
-- [[_COMMUNITY_Plugin Code (minified) C81|Plugin Code (minified) C81]]
 - [[_COMMUNITY_Python Data Science (numpypandas)|Python Data Science (numpy/pandas)]]
 - [[_COMMUNITY_Python Data Structures & Complexity|Python Data Structures & Complexity]]
 - [[_COMMUNITY_📅 Wochenbericht 18.–25. Juni 2026|📅 Wochenbericht 18.–25. Juni 2026]]
@@ -44,7 +45,6 @@
 - [[_COMMUNITY_sendResourceListChanged|sendResourceListChanged]]
 - [[_COMMUNITY_🎯 Laufziele|🎯 Laufziele]]
 - [[_COMMUNITY_🗓️ Trainingsplan Halbmarathon Sub-120 (16 Wochen)|🗓️ Trainingsplan Halbmarathon Sub-1:20 (16 Wochen)]]
-- [[_COMMUNITY_🐍 Python – Standardbibliothek|🐍 Python – Standardbibliothek]]
 - [[_COMMUNITY_🏁 Renntag-Erkenntnisse|🏁 Renntag-Erkenntnisse]]
 - [[_COMMUNITY_🏃 Trainingslog 02.07.2026 — Qualitätseinheit (SchwelleTempo)|🏃 Trainingslog 02.07.2026 — Qualitätseinheit (Schwelle/Tempo)]]
 - [[_COMMUNITY_🟥 Karten-Qualität — was gute Python-Karten unterscheidet|🟥 Karten-Qualität — was gute Python-Karten unterscheidet]]
@@ -53,8 +53,6 @@
 - [[_COMMUNITY_⚙️ Trainingspräferenzen|⚙️ Trainingspräferenzen]]
 - [[_COMMUNITY_5-Zonen-HF-Modell (Laufen)|5-Zonen-HF-Modell (Laufen)]]
 - [[_COMMUNITY_LTHR-Doppelwert (165 vs. 172 bpm)|LTHR-Doppelwert (165 vs. 172 bpm)]]
-- [[_COMMUNITY_Aerober Unterbau als limitierender Faktor|Aerober Unterbau als limitierender Faktor]]
-- [[_COMMUNITY_Halbmarathon Sub-120 Ziel|Halbmarathon Sub-1:20 Ziel]]
 - [[_COMMUNITY_Flache Vault-Struktur mit YAML-Frontmatter statt Ordnertiefe|Flache Vault-Struktur mit YAML-Frontmatter statt Ordnertiefe]]
 - [[_COMMUNITY_Hitze + kein Taper + zu schnell raus = Einbruch|Hitze + kein Taper + zu schnell raus = Einbruch]]
 - [[_COMMUNITY_3 MUST-HAVES (Temp 18°C, TSB +5..+15, keine großen Radausfahrten)|3 MUST-HAVES (Temp <18°C, TSB +5..+15, keine großen Radausfahrten)]]
@@ -127,12 +125,12 @@
 2. `🔬 Intervalltraining — Forschungsstand 2026` - 12 edges
 3. `USA Ostküste 2026 – New York, Charleston, Key West, Miami` - 12 edges
 4. `🐍 Python – Syntax und Datentypen` - 11 edges
-5. `🏁 Wecker-28 Münster 2026 — 28 km` - 10 edges
-6. `🏁 Arrow Venloop 2027 — Halbmarathon` - 10 edges
-7. `✅ Rennvorbereitung-Checkliste` - 8 edges
-8. `🏃‍♂️ Trainingsmethoden Halbmarathon & Marathon` - 8 edges
-9. `🏃‍♂️ Trainingsmethoden Halbmarathon & Marathon` - 8 edges
-10. `Laufen — Übersicht` - 8 edges
+5. `🏁 Arrow Venloop 2027 — Halbmarathon` - 10 edges
+6. `🏁 Wecker-28 Münster 2026 — 28 km` - 10 edges
+7. `📍 Athletenstatus` - 9 edges
+8. `Laufen — Übersicht` - 9 edges
+9. `✅ Rennvorbereitung-Checkliste` - 8 edges
+10. `🏃‍♂️ Trainingsmethoden Halbmarathon & Marathon` - 8 edges
 
 ## Surprising Connections (you probably didn't know these)
 - None detected - all connections are within the same source files.
@@ -140,7 +138,7 @@
 ## Import Cycles
 - None detected.
 
-## Communities (109 total, 76 thin omitted)
+## Communities (107 total, 74 thin omitted)
 
 ### Community 0 - "MCP Test/Assert Helpers (JS)"
 Cohesion: 0.14
@@ -149,6 +147,14 @@ Nodes (12): Kostenaufstellung Aarhus (2 Personen, eigenes Auto) — geprüft, 8 
 ### Community 1 - "Obsidian-Git Internals (JS)"
 Cohesion: 0.17
 Nodes (12): Aufbau der drei Wochen, Die spannendsten Etappen im Detail, Etappe 12 — Calar Alto (03.09.), Etappe 14 — Sierra de la Pandera (05.09.), Etappe 18 — EZF Jerez (10.09.), Etappe 19 — Peñas Blancas (11.09.), Etappe 20 — Collado del Alguacil (12.09.), Etappe 4 — Andorra-Rundkurs (25.08.) (+4 more)
+
+### Community 2 - "🐍 Python – Async und Performance"
+Cohesion: 0.18
+Nodes (11): Comprehensions & Generatoren, Datentypen & Hashbarkeit, Dicts, Erfasste Anki-Karten, Identität & Kopien, Listen-Methoden & Sortierung, Pattern Matching, 🐍 Python – Syntax und Datentypen (+3 more)
+
+### Community 3 - "Laufen — Übersicht"
+Cohesion: 0.22
+Nodes (9): Analysen, Hinweis zur Aktualität, Laufen — Übersicht, Pläne & Methodik, Prinzip für neue Notizen, Rennen & Tests, Urlaub & Pausen, Wochenberichte & Trainingslogs (+1 more)
 
 ### Community 8 - "Plugin Code (minified) C8"
 Cohesion: 0.09
@@ -179,8 +185,8 @@ Cohesion: 0.14
 Nodes (14): 1. Langer Lauf — die wichtigste Einheit, 2. Renntempo-Dauerlauf (Marathon/HM-Pace-Lauf), 3. Schwellenlauf — bleibt zentral, 4. VO2max-Intervalle — reduziert, aber nicht streichen, 🔑 Die Schlüsseleinheiten (rangiert nach Wirkung), 🧩 Ergänzende Elemente (aus dem Vault übernommen), 🧭 Grundprinzip: Polarisiertes Training bleibt, Laufspezifisches Krafttraining (+6 more)
 
 ### Community 54 - "Plugin Code (minified) C54"
-Cohesion: 0.25
-Nodes (8): Analysen, Laufen — Übersicht, Pläne & Methodik, Prinzip für neue Notizen, Rennen & Tests, Urlaub & Pausen, Wochenberichte & Trainingslogs, Ziele & Status
+Cohesion: 0.20
+Nodes (10): 🎯 Aktives Ziel, 📊 Aktuelle Leistungsdatenpunkte, 📍 Athletenstatus, 📉 Formtrend, 🚴 Nebensportarten, 🏃 Umfangstoleranz, Verknüpfte Notizen, Was das für die Ziele bedeutet (+2 more)
 
 ### Community 55 - "Plugin Code (minified) C55"
 Cohesion: 0.14
@@ -200,7 +206,7 @@ Nodes (6): 💡 Erkenntnisse, 🔑 Kennzahlen, ⚠️ Methodenhinweis für spät
 
 ### Community 74 - "fromBuffer"
 Cohesion: 0.20
-Nodes (10): 🏁 Arrow Venloop 2027 — Halbmarathon, Besonderheit: Start um 14:00 Uhr, Eckdaten, Planungs-Rückrechnung, Programm des Wochenendes, Quellen, ⚠️ Startplatz-Status — offen, Status & Offene Punkte (+2 more)
+Nodes (10): 🏁 Arrow Venloop 2027 — Halbmarathon, Besonderheit: Start um 14:00 Uhr, Eckdaten, Planungs-Rückrechnung, Programm des Wochenendes, Quellen, ✅ Startplatz — gesichert (03.09.2026), Status & Offene Punkte (+2 more)
 
 ### Community 76 - "Plugin Code (minified) C76"
 Cohesion: 0.18
@@ -210,13 +216,9 @@ Nodes (11): 1. Tageszeit & Temperatur < 18 °C, 2. TSB positiv (Form +5 bis +15)
 Cohesion: 0.18
 Nodes (11): 1. VO2max-Intervalle (Dienstag), 2. Schwellenlauf (Donnerstag), 3. Langer Lauf (Sonntag), Die drei Schlüsseleinheiten pro Woche, Ergänzende Elemente, Intensitätsverteilung (Ziel), Laufspezifisches Krafttraining, Strides / Steigerungsläufe (+3 more)
 
-### Community 81 - "Plugin Code (minified) C81"
-Cohesion: 0.18
-Nodes (11): Comprehensions & Generatoren, Datentypen & Hashbarkeit, Dicts, Erfasste Anki-Karten, Identität & Kopien, Listen-Methoden & Sortierung, Pattern Matching, 🐍 Python – Syntax und Datentypen (+3 more)
-
 ### Community 83 - "Python Data Structures & Complexity"
-Cohesion: 0.06
-Nodes (29): asyncio, Erfasste Anki-Karten, Grundbegriffe, Performance messen, 🐍 Python – Async und Performance, Threads vs. Prozesse, Erfasste Anki-Karten, Funktionen anwenden (pandas) (+21 more)
+Cohesion: 0.05
+Nodes (36): asyncio, Erfasste Anki-Karten, Grundbegriffe, Performance messen, 🐍 Python – Async und Performance, Threads vs. Prozesse, Erfasste Anki-Karten, Funktionen anwenden (pandas) (+28 more)
 
 ### Community 84 - "📅 Wochenbericht 18.–25. Juni 2026"
 Cohesion: 0.20
@@ -233,10 +235,6 @@ Nodes (7): Hauptziel (Stand 28.06.2026), 🎯 Laufziele, Nebenziel, Realismus-Ei
 ### Community 110 - "🗓️ Trainingsplan Halbmarathon Sub-1:20 (16 Wochen)"
 Cohesion: 0.29
 Nodes (7): 📌 Offene Punkte, 🧭 Periodisierungslogik, 🔑 Schlüsseleinheiten je Phase, ⚙️ Steuerungsregeln (Autoregulation), 🗓️ Trainingsplan Halbmarathon Sub-1:20 (16 Wochen), Verknüpfte Notizen, 📊 Wochenübersicht (16 Wochen)
-
-### Community 112 - "🐍 Python – Standardbibliothek"
-Cohesion: 0.29
-Nodes (7): collections, Dateien, Zeit, Daten, Erfasste Anki-Karten, functools, itertools, 🐍 Python – Standardbibliothek, Sonstiges
 
 ### Community 113 - "🏁 Renntag-Erkenntnisse"
 Cohesion: 0.33
@@ -263,21 +261,21 @@ Cohesion: 0.40
 Nodes (5): Drei Regeln, die dabei gelten, Feste Wochenstruktur, ⚙️ Trainingspräferenzen, Variantenreiche Intervalle (wichtig für die Planung), Verknüpfte Notizen
 
 ## Knowledge Gaps
-- **341 isolated node(s):** `1. Periodisierung: pyramidal → polarisiert`, `2. Intensitätsverteilung`, `3. Schwellentraining`, `4. VO2max-Intervalle (5-km-Ziel)`, `5. Long Run` (+336 more)
+- **349 isolated node(s):** `🎯 Aktives Ziel`, `💓 Zonen & Schwellen`, `Was das für die Ziele bedeutet`, `🏃 Umfangstoleranz`, `📉 Formtrend` (+344 more)
   These have ≤1 connection - possible missing edges or undocumented components.
-- **76 thin communities (<3 nodes) omitted from report** — run `graphify query` to explore isolated nodes.
+- **74 thin communities (<3 nodes) omitted from report** — run `graphify query` to explore isolated nodes.
 
 ## Suggested Questions
 _Questions this graph is uniquely positioned to answer:_
 
 - **Why does `🏃‍♂️ Trainingsmethoden Halbmarathon & Marathon` connect `Plugin Code (minified) C53` to `Running Training & HR Science`?**
-  _High betweenness centrality (0.027) - this node is a cross-community bridge._
+  _High betweenness centrality (0.028) - this node is a cross-community bridge._
 - **Why does `🏃‍♂️ Trainingsmethoden Halbmarathon & Marathon` connect `Plugin Code (minified) C55` to `Running Training & HR Science`?**
-  _High betweenness centrality (0.027) - this node is a cross-community bridge._
+  _High betweenness centrality (0.028) - this node is a cross-community bridge._
 - **Why does `🏗️ Obsidian-Struktur für Laufen — Analyse & Verbesserungen (überholt)` connect `Plugin Code (minified) C51` to `Running Training & HR Science`?**
   _High betweenness centrality (0.027) - this node is a cross-community bridge._
-- **What connects `1. Periodisierung: pyramidal → polarisiert`, `2. Intensitätsverteilung`, `3. Schwellentraining` to the rest of the system?**
-  _348 weakly-connected nodes found - possible documentation gaps or missing edges._
+- **What connects `🎯 Aktives Ziel`, `💓 Zonen & Schwellen`, `Was das für die Ziele bedeutet` to the rest of the system?**
+  _355 weakly-connected nodes found - possible documentation gaps or missing edges._
 - **Should `MCP Test/Assert Helpers (JS)` be split into smaller, more focused modules?**
   _Cohesion score 0.14285714285714285 - nodes in this community are weakly interconnected._
 - **Should `Plugin Code (minified) C8` be split into smaller, more focused modules?**

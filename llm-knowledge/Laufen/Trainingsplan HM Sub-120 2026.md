@@ -2,7 +2,7 @@
 type: plan
 tags: [laufen, halbmarathon, trainingsplan]
 status: aktiv
-updated: 2026-07-02
+updated: 2026-09-03
 ---
 
 # 🗓️ Trainingsplan Halbmarathon Sub-1:20 (16 Wochen)
@@ -77,6 +77,7 @@ Pyramidal → polarisiert (Filipas et al. 2022): erst breite Grundlage mit orden
 - **HRV deutlich unter Baseline ODER Ruhepuls +5–7 bpm** → Qualitätstag verschieben.
 - **TSB stark negativ vor Schlüsseleinheit/Wettkampf** → Erholungstag einschieben (nur geplante Peak-Wochen dürfen tief negativ laufen).
 - **Einzellauf > 10 % länger als längster Lauf der letzten 30 Tage** → vermeiden (stärkster Verletzungs-Risikofaktor, Garmin-RUNSAFE 2025).
+- **Nur eine Steigerungsgröße pro Woche** (Warden 2021, ergänzt 03.09.2026): Reihenfolge (1) sechster Lauftag stabil, (2) Bestandsläufe verlängern, (3) zweite Sub-Schwellen-Einheit. Nie zwei Schritte in derselben Woche; Wochensteigerung < 20 % (Damsted 2018), praktisch 5–8 km. Entlastung alle 4 Wochen −25 bis −30 % ist knochenphysiologisch begründet (Wochen 3–6 nach einem Laststep = verletzbares Fenster) und wird nicht gestrichen. Details: [[HM-Aufbau Forschungsgrundlagen 2026]] Abschnitte 3, 6, 10.
 - **Knochen-/lokaler Schmerz** → Lauf durch Rad ersetzen, früh abklären. Vorverletzung = Top-Risikofaktor.
 - **Doppeltage Rad+Lauf** nicht vor Long Run/Schlüsseleinheit; Long Run hat Priorität.
 
