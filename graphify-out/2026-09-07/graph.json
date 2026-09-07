@@ -10,7 +10,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "llm_knowledge_laufen_athletenstatus",
-      "community": 54,
+      "community": 6,
       "norm_label": "athletenstatus.md"
     },
     {
@@ -37,7 +37,7 @@
       "label": "\ud83d\udc93 Zonen & Schwellen",
       "file_type": "document",
       "source_file": "llm-knowledge/Laufen/Athletenstatus.md",
-      "source_location": "L38",
+      "source_location": "L37",
       "_origin": "ast",
       "id": "llm_knowledge_laufen_athletenstatus_zonen_schwellen",
       "community": 54,
@@ -47,7 +47,7 @@
       "label": "\ud83d\udcca Aktuelle Leistungsdatenpunkte",
       "file_type": "document",
       "source_file": "llm-knowledge/Laufen/Athletenstatus.md",
-      "source_location": "L67",
+      "source_location": "L66",
       "_origin": "ast",
       "id": "llm_knowledge_laufen_athletenstatus_aktuelle_leistungsdatenpunkte",
       "community": 54,
@@ -57,7 +57,7 @@
       "label": "Was das f\u00fcr die Ziele bedeutet",
       "file_type": "document",
       "source_file": "llm-knowledge/Laufen/Athletenstatus.md",
-      "source_location": "L79",
+      "source_location": "L78",
       "_origin": "ast",
       "id": "llm_knowledge_laufen_athletenstatus_was_das_f\u00fcr_die_ziele_bedeutet",
       "community": 54,
@@ -67,7 +67,7 @@
       "label": "\ud83c\udfc3 Umfangstoleranz",
       "file_type": "document",
       "source_file": "llm-knowledge/Laufen/Athletenstatus.md",
-      "source_location": "L97",
+      "source_location": "L96",
       "_origin": "ast",
       "id": "llm_knowledge_laufen_athletenstatus_umfangstoleranz",
       "community": 54,
@@ -77,7 +77,7 @@
       "label": "\ud83d\udcc9 Formtrend",
       "file_type": "document",
       "source_file": "llm-knowledge/Laufen/Athletenstatus.md",
-      "source_location": "L132",
+      "source_location": "L131",
       "_origin": "ast",
       "id": "llm_knowledge_laufen_athletenstatus_formtrend",
       "community": 54,
@@ -87,7 +87,7 @@
       "label": "\ud83d\udeb4 Nebensportarten",
       "file_type": "document",
       "source_file": "llm-knowledge/Laufen/Athletenstatus.md",
-      "source_location": "L143",
+      "source_location": "L142",
       "_origin": "ast",
       "id": "llm_knowledge_laufen_athletenstatus_nebensportarten",
       "community": 54,
@@ -97,7 +97,7 @@
       "label": "\ud83d\udd04 \u00c4nderungshistorie",
       "file_type": "document",
       "source_file": "llm-knowledge/Laufen/Athletenstatus.md",
-      "source_location": "L155",
+      "source_location": "L154",
       "_origin": "ast",
       "id": "llm_knowledge_laufen_athletenstatus_\u00e4nderungshistorie",
       "community": 54,
@@ -107,161 +107,11 @@
       "label": "Verkn\u00fcpfte Notizen",
       "file_type": "document",
       "source_file": "llm-knowledge/Laufen/Athletenstatus.md",
-      "source_location": "L172",
+      "source_location": "L170",
       "_origin": "ast",
       "id": "llm_knowledge_laufen_athletenstatus_verkn\u00fcpfte_notizen",
       "community": 54,
       "norm_label": "verknupfte notizen"
-    },
-    {
-      "label": "Wettkampf 2026-11-29 Advents-Aaseelauf.md",
-      "file_type": "document",
-      "source_file": "llm-knowledge/Laufen/Wettkampf 2026-11-29 Advents-Aaseelauf.md",
-      "source_location": "L1",
-      "_origin": "ast",
-      "id": "llm_knowledge_laufen_wettkampf_2026_11_29_advents_aaseelauf",
-      "community": 54,
-      "norm_label": "wettkampf 2026-11-29 advents-aaseelauf.md"
-    },
-    {
-      "label": "36. AOK Advents-Aaseelauf 2026 \u2014 10 km",
-      "file_type": "document",
-      "source_file": "llm-knowledge/Laufen/Wettkampf 2026-11-29 Advents-Aaseelauf.md",
-      "source_location": "L11",
-      "_origin": "ast",
-      "id": "llm_knowledge_laufen_wettkampf_2026_11_29_advents_aaseelauf_36_aok_advents_aaseelauf_2026_10_km",
-      "community": 54,
-      "norm_label": "36. aok advents-aaseelauf 2026 \u2014 10 km"
-    },
-    {
-      "label": "Eckdaten",
-      "file_type": "document",
-      "source_file": "llm-knowledge/Laufen/Wettkampf 2026-11-29 Advents-Aaseelauf.md",
-      "source_location": "L16",
-      "_origin": "ast",
-      "id": "llm_knowledge_laufen_wettkampf_2026_11_29_advents_aaseelauf_eckdaten",
-      "community": 54,
-      "norm_label": "eckdaten"
-    },
-    {
-      "label": "Umgang",
-      "file_type": "document",
-      "source_file": "llm-knowledge/Laufen/Wettkampf 2026-11-29 Advents-Aaseelauf.md",
-      "source_location": "L27",
-      "_origin": "ast",
-      "id": "llm_knowledge_laufen_wettkampf_2026_11_29_advents_aaseelauf_umgang",
-      "community": 54,
-      "norm_label": "umgang"
-    },
-    {
-      "label": "Verwandte Notizen",
-      "file_type": "document",
-      "source_file": "llm-knowledge/Laufen/Wettkampf 2026-11-29 Advents-Aaseelauf.md",
-      "source_location": "L39",
-      "_origin": "ast",
-      "id": "llm_knowledge_laufen_wettkampf_2026_11_29_advents_aaseelauf_verwandte_notizen",
-      "community": 54,
-      "norm_label": "verwandte notizen"
-    },
-    {
-      "label": "_Index.md",
-      "file_type": "document",
-      "source_file": "llm-knowledge/Laufen/_Index.md",
-      "source_location": "L1",
-      "_origin": "ast",
-      "id": "llm_knowledge_laufen_index",
-      "community": 54,
-      "norm_label": "_index.md"
-    },
-    {
-      "label": "Laufen \u2014 \u00dcbersicht",
-      "file_type": "document",
-      "source_file": "llm-knowledge/Laufen/_Index.md",
-      "source_location": "L8",
-      "_origin": "ast",
-      "id": "llm_knowledge_laufen_index_laufen_\u00fcbersicht",
-      "community": 54,
-      "norm_label": "laufen \u2014 ubersicht"
-    },
-    {
-      "label": "Ziele & Status",
-      "file_type": "document",
-      "source_file": "llm-knowledge/Laufen/_Index.md",
-      "source_location": "L12",
-      "_origin": "ast",
-      "id": "llm_knowledge_laufen_index_ziele_status",
-      "community": 54,
-      "norm_label": "ziele & status"
-    },
-    {
-      "label": "Pl\u00e4ne & Methodik",
-      "file_type": "document",
-      "source_file": "llm-knowledge/Laufen/_Index.md",
-      "source_location": "L17",
-      "_origin": "ast",
-      "id": "llm_knowledge_laufen_index_pl\u00e4ne_methodik",
-      "community": 54,
-      "norm_label": "plane & methodik"
-    },
-    {
-      "label": "Rennen & Tests",
-      "file_type": "document",
-      "source_file": "llm-knowledge/Laufen/_Index.md",
-      "source_location": "L24",
-      "_origin": "ast",
-      "id": "llm_knowledge_laufen_index_rennen_tests",
-      "community": 54,
-      "norm_label": "rennen & tests"
-    },
-    {
-      "label": "Wochenberichte & Trainingslogs",
-      "file_type": "document",
-      "source_file": "llm-knowledge/Laufen/_Index.md",
-      "source_location": "L31",
-      "_origin": "ast",
-      "id": "llm_knowledge_laufen_index_wochenberichte_trainingslogs",
-      "community": 54,
-      "norm_label": "wochenberichte & trainingslogs"
-    },
-    {
-      "label": "Analysen",
-      "file_type": "document",
-      "source_file": "llm-knowledge/Laufen/_Index.md",
-      "source_location": "L35",
-      "_origin": "ast",
-      "id": "llm_knowledge_laufen_index_analysen",
-      "community": 54,
-      "norm_label": "analysen"
-    },
-    {
-      "label": "Urlaub & Pausen",
-      "file_type": "document",
-      "source_file": "llm-knowledge/Laufen/_Index.md",
-      "source_location": "L38",
-      "_origin": "ast",
-      "id": "llm_knowledge_laufen_index_urlaub_pausen",
-      "community": 54,
-      "norm_label": "urlaub & pausen"
-    },
-    {
-      "label": "Prinzip f\u00fcr neue Notizen",
-      "file_type": "document",
-      "source_file": "llm-knowledge/Laufen/_Index.md",
-      "source_location": "L41",
-      "_origin": "ast",
-      "id": "llm_knowledge_laufen_index_prinzip_f\u00fcr_neue_notizen",
-      "community": 54,
-      "norm_label": "prinzip fur neue notizen"
-    },
-    {
-      "label": "Hinweis zur Aktualit\u00e4t",
-      "file_type": "document",
-      "source_file": "llm-knowledge/Laufen/_Index.md",
-      "source_location": "L46",
-      "_origin": "ast",
-      "id": "llm_knowledge_laufen_index_hinweis_zur_aktualit\u00e4t",
-      "community": 54,
-      "norm_label": "hinweis zur aktualitat"
     },
     {
       "label": "HM-Aufbau Forschungsgrundlagen 2026.md",
@@ -269,9 +119,9 @@
       "source_file": "llm-knowledge/Laufen/HM-Aufbau Forschungsgrundlagen 2026.md",
       "source_location": "L1",
       "_origin": "ast",
+      "id": "llm_knowledge_laufen_hm_aufbau_forschungsgrundlagen_2026",
       "community": 6,
-      "norm_label": "hm-aufbau forschungsgrundlagen 2026.md",
-      "id": "llm_knowledge_laufen_hm_aufbau_forschungsgrundlagen_2026"
+      "norm_label": "hm-aufbau forschungsgrundlagen 2026.md"
     },
     {
       "label": "\ud83d\udcda HM-Aufbau \u2014 Forschungsgrundlagen 2026",
@@ -279,9 +129,9 @@
       "source_file": "llm-knowledge/Laufen/HM-Aufbau Forschungsgrundlagen 2026.md",
       "source_location": "L8",
       "_origin": "ast",
+      "id": "llm_knowledge_laufen_hm_aufbau_forschungsgrundlagen_2026_hm_aufbau_forschungsgrundlagen_2026",
       "community": 65,
-      "norm_label": "\ud83d\udcda hm-aufbau \u2014 forschungsgrundlagen 2026",
-      "id": "llm_knowledge_laufen_hm_aufbau_forschungsgrundlagen_2026_hm_aufbau_forschungsgrundlagen_2026"
+      "norm_label": "\ud83d\udcda hm-aufbau \u2014 forschungsgrundlagen 2026"
     },
     {
       "label": "1. Periodisierung: pyramidal \u2192 polarisiert",
@@ -289,9 +139,9 @@
       "source_file": "llm-knowledge/Laufen/HM-Aufbau Forschungsgrundlagen 2026.md",
       "source_location": "L18",
       "_origin": "ast",
+      "id": "llm_knowledge_laufen_hm_aufbau_forschungsgrundlagen_2026_1_periodisierung_pyramidal_polarisiert",
       "community": 65,
-      "norm_label": "1. periodisierung: pyramidal \u2192 polarisiert",
-      "id": "llm_knowledge_laufen_hm_aufbau_forschungsgrundlagen_2026_1_periodisierung_pyramidal_polarisiert"
+      "norm_label": "1. periodisierung: pyramidal \u2192 polarisiert"
     },
     {
       "label": "2. Intensit\u00e4tsverteilung",
@@ -299,9 +149,9 @@
       "source_file": "llm-knowledge/Laufen/HM-Aufbau Forschungsgrundlagen 2026.md",
       "source_location": "L26",
       "_origin": "ast",
+      "id": "llm_knowledge_laufen_hm_aufbau_forschungsgrundlagen_2026_2_intensit\u00e4tsverteilung",
       "community": 65,
-      "norm_label": "2. intensitatsverteilung",
-      "id": "llm_knowledge_laufen_hm_aufbau_forschungsgrundlagen_2026_2_intensit\u00e4tsverteilung"
+      "norm_label": "2. intensitatsverteilung"
     },
     {
       "label": "3. Schwellentraining",
@@ -309,9 +159,9 @@
       "source_file": "llm-knowledge/Laufen/HM-Aufbau Forschungsgrundlagen 2026.md",
       "source_location": "L38",
       "_origin": "ast",
+      "id": "llm_knowledge_laufen_hm_aufbau_forschungsgrundlagen_2026_3_schwellentraining",
       "community": 65,
-      "norm_label": "3. schwellentraining",
-      "id": "llm_knowledge_laufen_hm_aufbau_forschungsgrundlagen_2026_3_schwellentraining"
+      "norm_label": "3. schwellentraining"
     },
     {
       "label": "4. VO2max-Intervalle (5-km-Ziel)",
@@ -319,9 +169,9 @@
       "source_file": "llm-knowledge/Laufen/HM-Aufbau Forschungsgrundlagen 2026.md",
       "source_location": "L50",
       "_origin": "ast",
+      "id": "llm_knowledge_laufen_hm_aufbau_forschungsgrundlagen_2026_4_vo2max_intervalle_5_km_ziel",
       "community": 65,
-      "norm_label": "4. vo2max-intervalle (5-km-ziel)",
-      "id": "llm_knowledge_laufen_hm_aufbau_forschungsgrundlagen_2026_4_vo2max_intervalle_5_km_ziel"
+      "norm_label": "4. vo2max-intervalle (5-km-ziel)"
     },
     {
       "label": "5. Long Run",
@@ -329,9 +179,9 @@
       "source_file": "llm-knowledge/Laufen/HM-Aufbau Forschungsgrundlagen 2026.md",
       "source_location": "L58",
       "_origin": "ast",
+      "id": "llm_knowledge_laufen_hm_aufbau_forschungsgrundlagen_2026_5_long_run",
       "community": 65,
-      "norm_label": "5. long run",
-      "id": "llm_knowledge_laufen_hm_aufbau_forschungsgrundlagen_2026_5_long_run"
+      "norm_label": "5. long run"
     },
     {
       "label": "6. Umfang & Progression",
@@ -339,9 +189,9 @@
       "source_file": "llm-knowledge/Laufen/HM-Aufbau Forschungsgrundlagen 2026.md",
       "source_location": "L64",
       "_origin": "ast",
+      "id": "llm_knowledge_laufen_hm_aufbau_forschungsgrundlagen_2026_6_umfang_progression",
       "community": 65,
-      "norm_label": "6. umfang & progression",
-      "id": "llm_knowledge_laufen_hm_aufbau_forschungsgrundlagen_2026_6_umfang_progression"
+      "norm_label": "6. umfang & progression"
     },
     {
       "label": "7. Rad / Crosstraining",
@@ -349,9 +199,9 @@
       "source_file": "llm-knowledge/Laufen/HM-Aufbau Forschungsgrundlagen 2026.md",
       "source_location": "L80",
       "_origin": "ast",
+      "id": "llm_knowledge_laufen_hm_aufbau_forschungsgrundlagen_2026_7_rad_crosstraining",
       "community": 65,
-      "norm_label": "7. rad / crosstraining",
-      "id": "llm_knowledge_laufen_hm_aufbau_forschungsgrundlagen_2026_7_rad_crosstraining"
+      "norm_label": "7. rad / crosstraining"
     },
     {
       "label": "8. Tapering",
@@ -359,9 +209,9 @@
       "source_file": "llm-knowledge/Laufen/HM-Aufbau Forschungsgrundlagen 2026.md",
       "source_location": "L86",
       "_origin": "ast",
+      "id": "llm_knowledge_laufen_hm_aufbau_forschungsgrundlagen_2026_8_tapering",
       "community": 65,
-      "norm_label": "8. tapering",
-      "id": "llm_knowledge_laufen_hm_aufbau_forschungsgrundlagen_2026_8_tapering"
+      "norm_label": "8. tapering"
     },
     {
       "label": "9. Erholungs-Monitoring",
@@ -369,9 +219,9 @@
       "source_file": "llm-knowledge/Laufen/HM-Aufbau Forschungsgrundlagen 2026.md",
       "source_location": "L92",
       "_origin": "ast",
+      "id": "llm_knowledge_laufen_hm_aufbau_forschungsgrundlagen_2026_9_erholungs_monitoring",
       "community": 65,
-      "norm_label": "9. erholungs-monitoring",
-      "id": "llm_knowledge_laufen_hm_aufbau_forschungsgrundlagen_2026_9_erholungs_monitoring"
+      "norm_label": "9. erholungs-monitoring"
     },
     {
       "label": "10. Physiologische Resilienz (neu 03.09.2026)",
@@ -379,9 +229,9 @@
       "source_file": "llm-knowledge/Laufen/HM-Aufbau Forschungsgrundlagen 2026.md",
       "source_location": "L99",
       "_origin": "ast",
+      "id": "llm_knowledge_laufen_hm_aufbau_forschungsgrundlagen_2026_10_physiologische_resilienz_neu_03_09_2026",
       "community": 65,
-      "norm_label": "10. physiologische resilienz (neu 03.09.2026)",
-      "id": "llm_knowledge_laufen_hm_aufbau_forschungsgrundlagen_2026_10_physiologische_resilienz_neu_03_09_2026"
+      "norm_label": "10. physiologische resilienz (neu 03.09.2026)"
     },
     {
       "label": "\u26a0\ufe0f Vorbehalte",
@@ -389,9 +239,9 @@
       "source_file": "llm-knowledge/Laufen/HM-Aufbau Forschungsgrundlagen 2026.md",
       "source_location": "L107",
       "_origin": "ast",
+      "id": "llm_knowledge_laufen_hm_aufbau_forschungsgrundlagen_2026_vorbehalte",
       "community": 65,
-      "norm_label": "\u26a0\ufe0f vorbehalte",
-      "id": "llm_knowledge_laufen_hm_aufbau_forschungsgrundlagen_2026_vorbehalte"
+      "norm_label": "\u26a0\ufe0f vorbehalte"
     },
     {
       "label": "\ud83d\udd17 Quellen (Auswahl)",
@@ -399,9 +249,9 @@
       "source_file": "llm-knowledge/Laufen/HM-Aufbau Forschungsgrundlagen 2026.md",
       "source_location": "L118",
       "_origin": "ast",
+      "id": "llm_knowledge_laufen_hm_aufbau_forschungsgrundlagen_2026_quellen_auswahl",
       "community": 65,
-      "norm_label": "\ud83d\udd17 quellen (auswahl)",
-      "id": "llm_knowledge_laufen_hm_aufbau_forschungsgrundlagen_2026_quellen_auswahl"
+      "norm_label": "\ud83d\udd17 quellen (auswahl)"
     },
     {
       "label": "Verkn\u00fcpfte Notizen",
@@ -409,9 +259,9 @@
       "source_file": "llm-knowledge/Laufen/HM-Aufbau Forschungsgrundlagen 2026.md",
       "source_location": "L149",
       "_origin": "ast",
+      "id": "llm_knowledge_laufen_hm_aufbau_forschungsgrundlagen_2026_verkn\u00fcpfte_notizen",
       "community": 65,
-      "norm_label": "verknupfte notizen",
-      "id": "llm_knowledge_laufen_hm_aufbau_forschungsgrundlagen_2026_verkn\u00fcpfte_notizen"
+      "norm_label": "verknupfte notizen"
     },
     {
       "label": "Trainingsmethoden Halbmarathon Marathon.md",
@@ -419,9 +269,9 @@
       "source_file": "llm-knowledge/Laufen/Trainingsmethoden Halbmarathon Marathon.md",
       "source_location": "L1",
       "_origin": "ast",
+      "id": "llm_knowledge_laufen_trainingsmethoden_halbmarathon_marathon",
       "community": 6,
-      "norm_label": "trainingsmethoden halbmarathon marathon.md",
-      "id": "llm_knowledge_laufen_trainingsmethoden_halbmarathon_marathon"
+      "norm_label": "trainingsmethoden halbmarathon marathon.md"
     },
     {
       "label": "\ud83c\udfc3\u200d\u2642\ufe0f Trainingsmethoden Halbmarathon & Marathon",
@@ -429,9 +279,9 @@
       "source_file": "llm-knowledge/Laufen/Trainingsmethoden Halbmarathon Marathon.md",
       "source_location": "L8",
       "_origin": "ast",
+      "id": "llm_knowledge_laufen_trainingsmethoden_halbmarathon_marathon_trainingsmethoden_halbmarathon_marathon",
       "community": 53,
-      "norm_label": "\ud83c\udfc3\u200d\u2642\ufe0f trainingsmethoden halbmarathon & marathon",
-      "id": "llm_knowledge_laufen_trainingsmethoden_halbmarathon_marathon_trainingsmethoden_halbmarathon_marathon"
+      "norm_label": "\ud83c\udfc3\u200d\u2642\ufe0f trainingsmethoden halbmarathon & marathon"
     },
     {
       "label": "\ud83e\udded Grundprinzip: Polarisiertes Training bleibt",
@@ -439,9 +289,9 @@
       "source_file": "llm-knowledge/Laufen/Trainingsmethoden Halbmarathon Marathon.md",
       "source_location": "L16",
       "_origin": "ast",
+      "id": "llm_knowledge_laufen_trainingsmethoden_halbmarathon_marathon_grundprinzip_polarisiertes_training_bleibt",
       "community": 53,
-      "norm_label": "\ud83e\udded grundprinzip: polarisiertes training bleibt",
-      "id": "llm_knowledge_laufen_trainingsmethoden_halbmarathon_marathon_grundprinzip_polarisiertes_training_bleibt"
+      "norm_label": "\ud83e\udded grundprinzip: polarisiertes training bleibt"
     },
     {
       "label": "\ud83d\udd11 Die Schl\u00fcsseleinheiten (rangiert nach Wirkung)",
@@ -449,9 +299,9 @@
       "source_file": "llm-knowledge/Laufen/Trainingsmethoden Halbmarathon Marathon.md",
       "source_location": "L27",
       "_origin": "ast",
+      "id": "llm_knowledge_laufen_trainingsmethoden_halbmarathon_marathon_die_schl\u00fcsseleinheiten_rangiert_nach_wirkung",
       "community": 53,
-      "norm_label": "\ud83d\udd11 die schlusseleinheiten (rangiert nach wirkung)",
-      "id": "llm_knowledge_laufen_trainingsmethoden_halbmarathon_marathon_die_schl\u00fcsseleinheiten_rangiert_nach_wirkung"
+      "norm_label": "\ud83d\udd11 die schlusseleinheiten (rangiert nach wirkung)"
     },
     {
       "label": "1. Langer Lauf \u2014 die wichtigste Einheit",
@@ -459,9 +309,9 @@
       "source_file": "llm-knowledge/Laufen/Trainingsmethoden Halbmarathon Marathon.md",
       "source_location": "L29",
       "_origin": "ast",
+      "id": "llm_knowledge_laufen_trainingsmethoden_halbmarathon_marathon_1_langer_lauf_die_wichtigste_einheit",
       "community": 53,
-      "norm_label": "1. langer lauf \u2014 die wichtigste einheit",
-      "id": "llm_knowledge_laufen_trainingsmethoden_halbmarathon_marathon_1_langer_lauf_die_wichtigste_einheit"
+      "norm_label": "1. langer lauf \u2014 die wichtigste einheit"
     },
     {
       "label": "2. Renntempo-Dauerlauf (Marathon/HM-Pace-Lauf)",
@@ -469,9 +319,9 @@
       "source_file": "llm-knowledge/Laufen/Trainingsmethoden Halbmarathon Marathon.md",
       "source_location": "L42",
       "_origin": "ast",
+      "id": "llm_knowledge_laufen_trainingsmethoden_halbmarathon_marathon_2_renntempo_dauerlauf_marathon_hm_pace_lauf",
       "community": 53,
-      "norm_label": "2. renntempo-dauerlauf (marathon/hm-pace-lauf)",
-      "id": "llm_knowledge_laufen_trainingsmethoden_halbmarathon_marathon_2_renntempo_dauerlauf_marathon_hm_pace_lauf"
+      "norm_label": "2. renntempo-dauerlauf (marathon/hm-pace-lauf)"
     },
     {
       "label": "3. Schwellenlauf \u2014 bleibt zentral",
@@ -479,9 +329,9 @@
       "source_file": "llm-knowledge/Laufen/Trainingsmethoden Halbmarathon Marathon.md",
       "source_location": "L50",
       "_origin": "ast",
+      "id": "llm_knowledge_laufen_trainingsmethoden_halbmarathon_marathon_3_schwellenlauf_bleibt_zentral",
       "community": 53,
-      "norm_label": "3. schwellenlauf \u2014 bleibt zentral",
-      "id": "llm_knowledge_laufen_trainingsmethoden_halbmarathon_marathon_3_schwellenlauf_bleibt_zentral"
+      "norm_label": "3. schwellenlauf \u2014 bleibt zentral"
     },
     {
       "label": "4. VO2max-Intervalle \u2014 reduziert, aber nicht streichen",
@@ -489,9 +339,9 @@
       "source_file": "llm-knowledge/Laufen/Trainingsmethoden Halbmarathon Marathon.md",
       "source_location": "L58",
       "_origin": "ast",
+      "id": "llm_knowledge_laufen_trainingsmethoden_halbmarathon_marathon_4_vo2max_intervalle_reduziert_aber_nicht_streichen",
       "community": 53,
-      "norm_label": "4. vo2max-intervalle \u2014 reduziert, aber nicht streichen",
-      "id": "llm_knowledge_laufen_trainingsmethoden_halbmarathon_marathon_4_vo2max_intervalle_reduziert_aber_nicht_streichen"
+      "norm_label": "4. vo2max-intervalle \u2014 reduziert, aber nicht streichen"
     },
     {
       "label": "\ud83e\udde9 Erg\u00e4nzende Elemente (aus dem Vault \u00fcbernommen)",
@@ -499,9 +349,9 @@
       "source_file": "llm-knowledge/Laufen/Trainingsmethoden Halbmarathon Marathon.md",
       "source_location": "L67",
       "_origin": "ast",
+      "id": "llm_knowledge_laufen_trainingsmethoden_halbmarathon_marathon_erg\u00e4nzende_elemente_aus_dem_vault_\u00fcbernommen",
       "community": 53,
-      "norm_label": "\ud83e\udde9 erganzende elemente (aus dem vault ubernommen)",
-      "id": "llm_knowledge_laufen_trainingsmethoden_halbmarathon_marathon_erg\u00e4nzende_elemente_aus_dem_vault_\u00fcbernommen"
+      "norm_label": "\ud83e\udde9 erganzende elemente (aus dem vault ubernommen)"
     },
     {
       "label": "Strides / Steigerungsl\u00e4ufe",
@@ -509,9 +359,9 @@
       "source_file": "llm-knowledge/Laufen/Trainingsmethoden Halbmarathon Marathon.md",
       "source_location": "L69",
       "_origin": "ast",
+      "id": "llm_knowledge_laufen_trainingsmethoden_halbmarathon_marathon_strides_steigerungsl\u00e4ufe",
       "community": 53,
-      "norm_label": "strides / steigerungslaufe",
-      "id": "llm_knowledge_laufen_trainingsmethoden_halbmarathon_marathon_strides_steigerungsl\u00e4ufe"
+      "norm_label": "strides / steigerungslaufe"
     },
     {
       "label": "Laufspezifisches Krafttraining",
@@ -519,9 +369,9 @@
       "source_file": "llm-knowledge/Laufen/Trainingsmethoden Halbmarathon Marathon.md",
       "source_location": "L73",
       "_origin": "ast",
+      "id": "llm_knowledge_laufen_trainingsmethoden_halbmarathon_marathon_laufspezifisches_krafttraining",
       "community": 53,
-      "norm_label": "laufspezifisches krafttraining",
-      "id": "llm_knowledge_laufen_trainingsmethoden_halbmarathon_marathon_laufspezifisches_krafttraining"
+      "norm_label": "laufspezifisches krafttraining"
     },
     {
       "label": "\ud83c\udf4c Neu f\u00fcr die langen Distanzen: Verpflegung & Pacing",
@@ -529,9 +379,9 @@
       "source_file": "llm-knowledge/Laufen/Trainingsmethoden Halbmarathon Marathon.md",
       "source_location": "L80",
       "_origin": "ast",
+      "id": "llm_knowledge_laufen_trainingsmethoden_halbmarathon_marathon_neu_f\u00fcr_die_langen_distanzen_verpflegung_pacing",
       "community": 53,
-      "norm_label": "\ud83c\udf4c neu fur die langen distanzen: verpflegung & pacing",
-      "id": "llm_knowledge_laufen_trainingsmethoden_halbmarathon_marathon_neu_f\u00fcr_die_langen_distanzen_verpflegung_pacing"
+      "norm_label": "\ud83c\udf4c neu fur die langen distanzen: verpflegung & pacing"
     },
     {
       "label": "\u26a0\ufe0f Pers\u00f6nliche Stolperfallen (aus [[Aktueller Fitnessstatus]])",
@@ -539,9 +389,9 @@
       "source_file": "llm-knowledge/Laufen/Trainingsmethoden Halbmarathon Marathon.md",
       "source_location": "L90",
       "_origin": "ast",
+      "id": "llm_knowledge_laufen_trainingsmethoden_halbmarathon_marathon_pers\u00f6nliche_stolperfallen_aus_aktueller_fitnessstatus",
       "community": 53,
-      "norm_label": "\u26a0\ufe0f personliche stolperfallen (aus [[aktueller fitnessstatus]])",
-      "id": "llm_knowledge_laufen_trainingsmethoden_halbmarathon_marathon_pers\u00f6nliche_stolperfallen_aus_aktueller_fitnessstatus"
+      "norm_label": "\u26a0\ufe0f personliche stolperfallen (aus [[aktueller fitnessstatus]])"
     },
     {
       "label": "\ud83d\udcc8 Periodisierung (grobes Ger\u00fcst)",
@@ -549,9 +399,9 @@
       "source_file": "llm-knowledge/Laufen/Trainingsmethoden Halbmarathon Marathon.md",
       "source_location": "L99",
       "_origin": "ast",
+      "id": "llm_knowledge_laufen_trainingsmethoden_halbmarathon_marathon_periodisierung_grobes_ger\u00fcst",
       "community": 53,
-      "norm_label": "\ud83d\udcc8 periodisierung (grobes gerust)",
-      "id": "llm_knowledge_laufen_trainingsmethoden_halbmarathon_marathon_periodisierung_grobes_ger\u00fcst"
+      "norm_label": "\ud83d\udcc8 periodisierung (grobes gerust)"
     },
     {
       "label": "Verkn\u00fcpfte Notizen",
@@ -559,9 +409,9 @@
       "source_file": "llm-knowledge/Laufen/Trainingsmethoden Halbmarathon Marathon.md",
       "source_location": "L110",
       "_origin": "ast",
+      "id": "llm_knowledge_laufen_trainingsmethoden_halbmarathon_marathon_verkn\u00fcpfte_notizen",
       "community": 53,
-      "norm_label": "verknupfte notizen",
-      "id": "llm_knowledge_laufen_trainingsmethoden_halbmarathon_marathon_verkn\u00fcpfte_notizen"
+      "norm_label": "verknupfte notizen"
     },
     {
       "label": "Trainingsplan HM Sub-120 2026.md",
@@ -569,9 +419,9 @@
       "source_file": "llm-knowledge/Laufen/Trainingsplan HM Sub-120 2026.md",
       "source_location": "L1",
       "_origin": "ast",
+      "id": "llm_knowledge_laufen_trainingsplan_hm_sub_120_2026",
       "community": 6,
-      "norm_label": "trainingsplan hm sub-120 2026.md",
-      "id": "llm_knowledge_laufen_trainingsplan_hm_sub_120_2026"
+      "norm_label": "trainingsplan hm sub-120 2026.md"
     },
     {
       "label": "\ud83d\uddd3\ufe0f Trainingsplan Halbmarathon Sub-1:20 (16 Wochen)",
@@ -579,9 +429,9 @@
       "source_file": "llm-knowledge/Laufen/Trainingsplan HM Sub-120 2026.md",
       "source_location": "L8",
       "_origin": "ast",
+      "id": "llm_knowledge_laufen_trainingsplan_hm_sub_120_2026_trainingsplan_halbmarathon_sub_1_20_16_wochen",
       "community": 110,
-      "norm_label": "\ud83d\uddd3\ufe0f trainingsplan halbmarathon sub-1:20 (16 wochen)",
-      "id": "llm_knowledge_laufen_trainingsplan_hm_sub_120_2026_trainingsplan_halbmarathon_sub_1_20_16_wochen"
+      "norm_label": "\ud83d\uddd3\ufe0f trainingsplan halbmarathon sub-1:20 (16 wochen)"
     },
     {
       "label": "\ud83e\udded Periodisierungslogik",
@@ -589,9 +439,9 @@
       "source_file": "llm-knowledge/Laufen/Trainingsplan HM Sub-120 2026.md",
       "source_location": "L21",
       "_origin": "ast",
+      "id": "llm_knowledge_laufen_trainingsplan_hm_sub_120_2026_periodisierungslogik",
       "community": 110,
-      "norm_label": "\ud83e\udded periodisierungslogik",
-      "id": "llm_knowledge_laufen_trainingsplan_hm_sub_120_2026_periodisierungslogik"
+      "norm_label": "\ud83e\udded periodisierungslogik"
     },
     {
       "label": "\ud83d\udcca Wochen\u00fcbersicht (16 Wochen)",
@@ -599,9 +449,9 @@
       "source_file": "llm-knowledge/Laufen/Trainingsplan HM Sub-120 2026.md",
       "source_location": "L36",
       "_origin": "ast",
+      "id": "llm_knowledge_laufen_trainingsplan_hm_sub_120_2026_wochen\u00fcbersicht_16_wochen",
       "community": 110,
-      "norm_label": "\ud83d\udcca wochenubersicht (16 wochen)",
-      "id": "llm_knowledge_laufen_trainingsplan_hm_sub_120_2026_wochen\u00fcbersicht_16_wochen"
+      "norm_label": "\ud83d\udcca wochenubersicht (16 wochen)"
     },
     {
       "label": "\ud83d\udd11 Schl\u00fcsseleinheiten je Phase",
@@ -609,9 +459,9 @@
       "source_file": "llm-knowledge/Laufen/Trainingsplan HM Sub-120 2026.md",
       "source_location": "L62",
       "_origin": "ast",
+      "id": "llm_knowledge_laufen_trainingsplan_hm_sub_120_2026_schl\u00fcsseleinheiten_je_phase",
       "community": 110,
-      "norm_label": "\ud83d\udd11 schlusseleinheiten je phase",
-      "id": "llm_knowledge_laufen_trainingsplan_hm_sub_120_2026_schl\u00fcsseleinheiten_je_phase"
+      "norm_label": "\ud83d\udd11 schlusseleinheiten je phase"
     },
     {
       "label": "\u2699\ufe0f Steuerungsregeln (Autoregulation)",
@@ -619,9 +469,9 @@
       "source_file": "llm-knowledge/Laufen/Trainingsplan HM Sub-120 2026.md",
       "source_location": "L74",
       "_origin": "ast",
+      "id": "llm_knowledge_laufen_trainingsplan_hm_sub_120_2026_steuerungsregeln_autoregulation",
       "community": 110,
-      "norm_label": "\u2699\ufe0f steuerungsregeln (autoregulation)",
-      "id": "llm_knowledge_laufen_trainingsplan_hm_sub_120_2026_steuerungsregeln_autoregulation"
+      "norm_label": "\u2699\ufe0f steuerungsregeln (autoregulation)"
     },
     {
       "label": "\ud83d\udccc Offene Punkte",
@@ -629,9 +479,9 @@
       "source_file": "llm-knowledge/Laufen/Trainingsplan HM Sub-120 2026.md",
       "source_location": "L86",
       "_origin": "ast",
+      "id": "llm_knowledge_laufen_trainingsplan_hm_sub_120_2026_offene_punkte",
       "community": 110,
-      "norm_label": "\ud83d\udccc offene punkte",
-      "id": "llm_knowledge_laufen_trainingsplan_hm_sub_120_2026_offene_punkte"
+      "norm_label": "\ud83d\udccc offene punkte"
     },
     {
       "label": "Verkn\u00fcpfte Notizen",
@@ -639,9 +489,9 @@
       "source_file": "llm-knowledge/Laufen/Trainingsplan HM Sub-120 2026.md",
       "source_location": "L95",
       "_origin": "ast",
+      "id": "llm_knowledge_laufen_trainingsplan_hm_sub_120_2026_verkn\u00fcpfte_notizen",
       "community": 110,
-      "norm_label": "verknupfte notizen",
-      "id": "llm_knowledge_laufen_trainingsplan_hm_sub_120_2026_verkn\u00fcpfte_notizen"
+      "norm_label": "verknupfte notizen"
     },
     {
       "label": "Herzfrequenzzonen.md",
@@ -919,7 +769,7 @@
       "source_file": "llm-knowledge/Laufen/Obsidian-Struktur-Analyse 25.06.2026.md",
       "source_location": "L1",
       "_origin": "ast",
-      "community": 51,
+      "community": 6,
       "norm_label": "obsidian-struktur-analyse 25.06.2026.md",
       "id": "llm_knowledge_laufen_obsidian_struktur_analyse_25_06_2026"
     },
@@ -2224,6 +2074,106 @@
       "id": "llm_knowledge_laufen_wochenbericht_2026_07_13_bis_07_19_verkn\u00fcpfte_notizen"
     },
     {
+      "label": "_Index.md",
+      "file_type": "document",
+      "source_file": "llm-knowledge/Laufen/_Index.md",
+      "source_location": "L1",
+      "_origin": "ast",
+      "community": 6,
+      "norm_label": "_index.md",
+      "id": "llm_knowledge_laufen_index"
+    },
+    {
+      "label": "Laufen \u2014 \u00dcbersicht",
+      "file_type": "document",
+      "source_file": "llm-knowledge/Laufen/_Index.md",
+      "source_location": "L8",
+      "_origin": "ast",
+      "community": 3,
+      "norm_label": "laufen \u2014 ubersicht",
+      "id": "llm_knowledge_laufen_index_laufen_\u00fcbersicht"
+    },
+    {
+      "label": "Ziele & Status",
+      "file_type": "document",
+      "source_file": "llm-knowledge/Laufen/_Index.md",
+      "source_location": "L12",
+      "_origin": "ast",
+      "community": 3,
+      "norm_label": "ziele & status",
+      "id": "llm_knowledge_laufen_index_ziele_status"
+    },
+    {
+      "label": "Pl\u00e4ne & Methodik",
+      "file_type": "document",
+      "source_file": "llm-knowledge/Laufen/_Index.md",
+      "source_location": "L17",
+      "_origin": "ast",
+      "community": 3,
+      "norm_label": "plane & methodik",
+      "id": "llm_knowledge_laufen_index_pl\u00e4ne_methodik"
+    },
+    {
+      "label": "Rennen & Tests",
+      "file_type": "document",
+      "source_file": "llm-knowledge/Laufen/_Index.md",
+      "source_location": "L24",
+      "_origin": "ast",
+      "community": 3,
+      "norm_label": "rennen & tests",
+      "id": "llm_knowledge_laufen_index_rennen_tests"
+    },
+    {
+      "label": "Wochenberichte & Trainingslogs",
+      "file_type": "document",
+      "source_file": "llm-knowledge/Laufen/_Index.md",
+      "source_location": "L29",
+      "_origin": "ast",
+      "community": 3,
+      "norm_label": "wochenberichte & trainingslogs",
+      "id": "llm_knowledge_laufen_index_wochenberichte_trainingslogs"
+    },
+    {
+      "label": "Analysen",
+      "file_type": "document",
+      "source_file": "llm-knowledge/Laufen/_Index.md",
+      "source_location": "L33",
+      "_origin": "ast",
+      "community": 3,
+      "norm_label": "analysen",
+      "id": "llm_knowledge_laufen_index_analysen"
+    },
+    {
+      "label": "Urlaub & Pausen",
+      "file_type": "document",
+      "source_file": "llm-knowledge/Laufen/_Index.md",
+      "source_location": "L36",
+      "_origin": "ast",
+      "community": 3,
+      "norm_label": "urlaub & pausen",
+      "id": "llm_knowledge_laufen_index_urlaub_pausen"
+    },
+    {
+      "label": "Prinzip f\u00fcr neue Notizen",
+      "file_type": "document",
+      "source_file": "llm-knowledge/Laufen/_Index.md",
+      "source_location": "L39",
+      "_origin": "ast",
+      "community": 3,
+      "norm_label": "prinzip fur neue notizen",
+      "id": "llm_knowledge_laufen_index_prinzip_f\u00fcr_neue_notizen"
+    },
+    {
+      "label": "Hinweis zur Aktualit\u00e4t",
+      "file_type": "document",
+      "source_file": "llm-knowledge/Laufen/_Index.md",
+      "source_location": "L44",
+      "_origin": "ast",
+      "community": 3,
+      "norm_label": "hinweis zur aktualitat",
+      "id": "llm_knowledge_laufen_index_hinweis_zur_aktualit\u00e4t"
+    },
+    {
       "label": "Karten-Qualitaet.md",
       "file_type": "document",
       "source_file": "llm-knowledge/Python/Karten-Qualitaet.md",
@@ -2289,7 +2239,7 @@
       "source_file": "llm-knowledge/Python/Python - Async und Performance.md",
       "source_location": "L1",
       "_origin": "ast",
-      "community": 83,
+      "community": 4,
       "norm_label": "python - async und performance.md",
       "id": "llm_knowledge_python_python_async_und_performance"
     },
@@ -2299,7 +2249,7 @@
       "source_file": "llm-knowledge/Python/Python - Async und Performance.md",
       "source_location": "L8",
       "_origin": "ast",
-      "community": 83,
+      "community": 4,
       "norm_label": "\ud83d\udc0d python \u2013 async und performance",
       "id": "llm_knowledge_python_python_async_und_performance_python_async_und_performance"
     },
@@ -2309,7 +2259,7 @@
       "source_file": "llm-knowledge/Python/Python - Async und Performance.md",
       "source_location": "L14",
       "_origin": "ast",
-      "community": 83,
+      "community": 4,
       "norm_label": "grundbegriffe",
       "id": "llm_knowledge_python_python_async_und_performance_grundbegriffe"
     },
@@ -2319,7 +2269,7 @@
       "source_file": "llm-knowledge/Python/Python - Async und Performance.md",
       "source_location": "L18",
       "_origin": "ast",
-      "community": 83,
+      "community": 4,
       "norm_label": "asyncio",
       "id": "llm_knowledge_python_python_async_und_performance_asyncio"
     },
@@ -2329,7 +2279,7 @@
       "source_file": "llm-knowledge/Python/Python - Async und Performance.md",
       "source_location": "L24",
       "_origin": "ast",
-      "community": 83,
+      "community": 4,
       "norm_label": "threads vs. prozesse",
       "id": "llm_knowledge_python_python_async_und_performance_threads_vs_prozesse"
     },
@@ -2339,7 +2289,7 @@
       "source_file": "llm-knowledge/Python/Python - Async und Performance.md",
       "source_location": "L27",
       "_origin": "ast",
-      "community": 83,
+      "community": 4,
       "norm_label": "performance messen",
       "id": "llm_knowledge_python_python_async_und_performance_performance_messen"
     },
@@ -2349,7 +2299,7 @@
       "source_file": "llm-knowledge/Python/Python - Async und Performance.md",
       "source_location": "L32",
       "_origin": "ast",
-      "community": 83,
+      "community": 4,
       "norm_label": "erfasste anki-karten",
       "id": "llm_knowledge_python_python_async_und_performance_erfasste_anki_karten"
     },
@@ -2479,7 +2429,7 @@
       "source_file": "llm-knowledge/Python/Python - Funktionen und OOP.md",
       "source_location": "L8",
       "_origin": "ast",
-      "community": 2,
+      "community": 83,
       "norm_label": "\ud83d\udc0d python \u2013 funktionen und oop",
       "id": "llm_knowledge_python_python_funktionen_und_oop_python_funktionen_und_oop"
     },
@@ -2489,7 +2439,7 @@
       "source_file": "llm-knowledge/Python/Python - Funktionen und OOP.md",
       "source_location": "L14",
       "_origin": "ast",
-      "community": 2,
+      "community": 83,
       "norm_label": "funktionen",
       "id": "llm_knowledge_python_python_funktionen_und_oop_funktionen"
     },
@@ -2499,7 +2449,7 @@
       "source_file": "llm-knowledge/Python/Python - Funktionen und OOP.md",
       "source_location": "L20",
       "_origin": "ast",
-      "community": 2,
+      "community": 83,
       "norm_label": "methodentypen",
       "id": "llm_knowledge_python_python_funktionen_und_oop_methodentypen"
     },
@@ -2509,7 +2459,7 @@
       "source_file": "llm-knowledge/Python/Python - Funktionen und OOP.md",
       "source_location": "L24",
       "_origin": "ast",
-      "community": 2,
+      "community": 83,
       "norm_label": "vererbung",
       "id": "llm_knowledge_python_python_funktionen_und_oop_vererbung"
     },
@@ -2519,7 +2469,7 @@
       "source_file": "llm-knowledge/Python/Python - Funktionen und OOP.md",
       "source_location": "L30",
       "_origin": "ast",
-      "community": 2,
+      "community": 83,
       "norm_label": "objekterzeugung & datenklassen",
       "id": "llm_knowledge_python_python_funktionen_und_oop_objekterzeugung_datenklassen"
     },
@@ -2529,7 +2479,7 @@
       "source_file": "llm-knowledge/Python/Python - Funktionen und OOP.md",
       "source_location": "L35",
       "_origin": "ast",
-      "community": 2,
+      "community": 83,
       "norm_label": "dunder-methoden (protokolle)",
       "id": "llm_knowledge_python_python_funktionen_und_oop_dunder_methoden_protokolle"
     },
@@ -2539,7 +2489,7 @@
       "source_file": "llm-knowledge/Python/Python - Funktionen und OOP.md",
       "source_location": "L44",
       "_origin": "ast",
-      "community": 2,
+      "community": 83,
       "norm_label": "generatoren",
       "id": "llm_knowledge_python_python_funktionen_und_oop_generatoren"
     },
@@ -2549,7 +2499,7 @@
       "source_file": "llm-knowledge/Python/Python - Funktionen und OOP.md",
       "source_location": "L49",
       "_origin": "ast",
-      "community": 2,
+      "community": 83,
       "norm_label": "erfasste anki-karten",
       "id": "llm_knowledge_python_python_funktionen_und_oop_erfasste_anki_karten"
     },
@@ -2649,7 +2599,7 @@
       "source_file": "llm-knowledge/Python/Python - Syntax und Datentypen.md",
       "source_location": "L8",
       "_origin": "ast",
-      "community": 83,
+      "community": 2,
       "norm_label": "\ud83d\udc0d python \u2013 syntax und datentypen",
       "id": "llm_knowledge_python_python_syntax_und_datentypen_python_syntax_und_datentypen"
     },
@@ -2659,7 +2609,7 @@
       "source_file": "llm-knowledge/Python/Python - Syntax und Datentypen.md",
       "source_location": "L14",
       "_origin": "ast",
-      "community": 83,
+      "community": 2,
       "norm_label": "datentypen & hashbarkeit",
       "id": "llm_knowledge_python_python_syntax_und_datentypen_datentypen_hashbarkeit"
     },
@@ -2669,7 +2619,7 @@
       "source_file": "llm-knowledge/Python/Python - Syntax und Datentypen.md",
       "source_location": "L19",
       "_origin": "ast",
-      "community": 83,
+      "community": 2,
       "norm_label": "slicing & unpacking",
       "id": "llm_knowledge_python_python_syntax_und_datentypen_slicing_unpacking"
     },
@@ -2679,7 +2629,7 @@
       "source_file": "llm-knowledge/Python/Python - Syntax und Datentypen.md",
       "source_location": "L24",
       "_origin": "ast",
-      "community": 83,
+      "community": 2,
       "norm_label": "comprehensions & generatoren",
       "id": "llm_knowledge_python_python_syntax_und_datentypen_comprehensions_generatoren"
     },
@@ -2689,7 +2639,7 @@
       "source_file": "llm-knowledge/Python/Python - Syntax und Datentypen.md",
       "source_location": "L29",
       "_origin": "ast",
-      "community": 83,
+      "community": 2,
       "norm_label": "strings & formatierung",
       "id": "llm_knowledge_python_python_syntax_und_datentypen_strings_formatierung"
     },
@@ -2699,7 +2649,7 @@
       "source_file": "llm-knowledge/Python/Python - Syntax und Datentypen.md",
       "source_location": "L33",
       "_origin": "ast",
-      "community": 83,
+      "community": 2,
       "norm_label": "sets",
       "id": "llm_knowledge_python_python_syntax_und_datentypen_sets"
     },
@@ -2709,7 +2659,7 @@
       "source_file": "llm-knowledge/Python/Python - Syntax und Datentypen.md",
       "source_location": "L36",
       "_origin": "ast",
-      "community": 83,
+      "community": 2,
       "norm_label": "dicts",
       "id": "llm_knowledge_python_python_syntax_und_datentypen_dicts"
     },
@@ -2719,7 +2669,7 @@
       "source_file": "llm-knowledge/Python/Python - Syntax und Datentypen.md",
       "source_location": "L39",
       "_origin": "ast",
-      "community": 83,
+      "community": 2,
       "norm_label": "listen-methoden & sortierung",
       "id": "llm_knowledge_python_python_syntax_und_datentypen_listen_methoden_sortierung"
     },
@@ -2729,7 +2679,7 @@
       "source_file": "llm-knowledge/Python/Python - Syntax und Datentypen.md",
       "source_location": "L45",
       "_origin": "ast",
-      "community": 83,
+      "community": 2,
       "norm_label": "identitat & kopien",
       "id": "llm_knowledge_python_python_syntax_und_datentypen_identit\u00e4t_kopien"
     },
@@ -2739,7 +2689,7 @@
       "source_file": "llm-knowledge/Python/Python - Syntax und Datentypen.md",
       "source_location": "L50",
       "_origin": "ast",
-      "community": 83,
+      "community": 2,
       "norm_label": "pattern matching",
       "id": "llm_knowledge_python_python_syntax_und_datentypen_pattern_matching"
     },
@@ -2749,7 +2699,7 @@
       "source_file": "llm-knowledge/Python/Python - Syntax und Datentypen.md",
       "source_location": "L54",
       "_origin": "ast",
-      "community": 83,
+      "community": 2,
       "norm_label": "erfasste anki-karten",
       "id": "llm_knowledge_python_python_syntax_und_datentypen_erfasste_anki_karten"
     },
@@ -4747,10 +4697,20 @@
       "relation": "references",
       "confidence": "EXTRACTED",
       "source_file": "llm-knowledge/Laufen/Athletenstatus.md",
-      "source_location": "L28",
+      "source_location": "L91",
       "weight": 1.0,
       "source": "llm_knowledge_laufen_athletenstatus",
-      "target": "llm_knowledge_laufen_wettkampf_2026_11_29_advents_aaseelauf",
+      "target": "llm_knowledge_laufen_hm_aufbau_forschungsgrundlagen_2026",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "llm-knowledge/Laufen/Athletenstatus.md",
+      "source_location": "L118",
+      "weight": 1.0,
+      "source": "llm_knowledge_laufen_athletenstatus",
+      "target": "llm_knowledge_laufen_trainingsplan_hm_sub_120_2026",
       "confidence_score": 1.0
     },
     {
@@ -4759,9 +4719,9 @@
       "source_file": "llm-knowledge/Laufen/_Index.md",
       "source_location": "L13",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "llm_knowledge_laufen_index",
-      "target": "llm_knowledge_laufen_athletenstatus",
-      "confidence_score": 1.0
+      "target": "llm_knowledge_laufen_athletenstatus"
     },
     {
       "relation": "contains",
@@ -4777,7 +4737,7 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "llm-knowledge/Laufen/Athletenstatus.md",
-      "source_location": "L67",
+      "source_location": "L66",
       "weight": 1.0,
       "source": "llm_knowledge_laufen_athletenstatus_athletenstatus",
       "target": "llm_knowledge_laufen_athletenstatus_aktuelle_leistungsdatenpunkte",
@@ -4787,7 +4747,7 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "llm-knowledge/Laufen/Athletenstatus.md",
-      "source_location": "L132",
+      "source_location": "L131",
       "weight": 1.0,
       "source": "llm_knowledge_laufen_athletenstatus_athletenstatus",
       "target": "llm_knowledge_laufen_athletenstatus_formtrend",
@@ -4797,7 +4757,7 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "llm-knowledge/Laufen/Athletenstatus.md",
-      "source_location": "L143",
+      "source_location": "L142",
       "weight": 1.0,
       "source": "llm_knowledge_laufen_athletenstatus_athletenstatus",
       "target": "llm_knowledge_laufen_athletenstatus_nebensportarten",
@@ -4807,7 +4767,7 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "llm-knowledge/Laufen/Athletenstatus.md",
-      "source_location": "L97",
+      "source_location": "L96",
       "weight": 1.0,
       "source": "llm_knowledge_laufen_athletenstatus_athletenstatus",
       "target": "llm_knowledge_laufen_athletenstatus_umfangstoleranz",
@@ -4817,7 +4777,7 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "llm-knowledge/Laufen/Athletenstatus.md",
-      "source_location": "L172",
+      "source_location": "L170",
       "weight": 1.0,
       "source": "llm_knowledge_laufen_athletenstatus_athletenstatus",
       "target": "llm_knowledge_laufen_athletenstatus_verkn\u00fcpfte_notizen",
@@ -4827,7 +4787,7 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "llm-knowledge/Laufen/Athletenstatus.md",
-      "source_location": "L38",
+      "source_location": "L37",
       "weight": 1.0,
       "source": "llm_knowledge_laufen_athletenstatus_athletenstatus",
       "target": "llm_knowledge_laufen_athletenstatus_zonen_schwellen",
@@ -4837,7 +4797,7 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "llm-knowledge/Laufen/Athletenstatus.md",
-      "source_location": "L155",
+      "source_location": "L154",
       "weight": 1.0,
       "source": "llm_knowledge_laufen_athletenstatus_athletenstatus",
       "target": "llm_knowledge_laufen_athletenstatus_\u00e4nderungshistorie",
@@ -4847,171 +4807,21 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "llm-knowledge/Laufen/Athletenstatus.md",
-      "source_location": "L79",
+      "source_location": "L78",
       "weight": 1.0,
       "source": "llm_knowledge_laufen_athletenstatus_aktuelle_leistungsdatenpunkte",
       "target": "llm_knowledge_laufen_athletenstatus_was_das_f\u00fcr_die_ziele_bedeutet",
       "confidence_score": 1.0
     },
     {
-      "relation": "references",
-      "confidence": "EXTRACTED",
-      "source_file": "llm-knowledge/Laufen/_Index.md",
-      "source_location": "L28",
-      "weight": 1.0,
-      "source": "llm_knowledge_laufen_index",
-      "target": "llm_knowledge_laufen_wettkampf_2026_11_29_advents_aaseelauf",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "llm-knowledge/Laufen/Wettkampf 2026-11-29 Advents-Aaseelauf.md",
-      "source_location": "L11",
-      "weight": 1.0,
-      "source": "llm_knowledge_laufen_wettkampf_2026_11_29_advents_aaseelauf",
-      "target": "llm_knowledge_laufen_wettkampf_2026_11_29_advents_aaseelauf_36_aok_advents_aaseelauf_2026_10_km",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "llm-knowledge/Laufen/Wettkampf 2026-11-29 Advents-Aaseelauf.md",
-      "source_location": "L16",
-      "weight": 1.0,
-      "source": "llm_knowledge_laufen_wettkampf_2026_11_29_advents_aaseelauf_36_aok_advents_aaseelauf_2026_10_km",
-      "target": "llm_knowledge_laufen_wettkampf_2026_11_29_advents_aaseelauf_eckdaten",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "llm-knowledge/Laufen/Wettkampf 2026-11-29 Advents-Aaseelauf.md",
-      "source_location": "L27",
-      "weight": 1.0,
-      "source": "llm_knowledge_laufen_wettkampf_2026_11_29_advents_aaseelauf_36_aok_advents_aaseelauf_2026_10_km",
-      "target": "llm_knowledge_laufen_wettkampf_2026_11_29_advents_aaseelauf_umgang",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "llm-knowledge/Laufen/Wettkampf 2026-11-29 Advents-Aaseelauf.md",
-      "source_location": "L39",
-      "weight": 1.0,
-      "source": "llm_knowledge_laufen_wettkampf_2026_11_29_advents_aaseelauf_36_aok_advents_aaseelauf_2026_10_km",
-      "target": "llm_knowledge_laufen_wettkampf_2026_11_29_advents_aaseelauf_verwandte_notizen",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "llm-knowledge/Laufen/_Index.md",
-      "source_location": "L8",
-      "weight": 1.0,
-      "source": "llm_knowledge_laufen_index",
-      "target": "llm_knowledge_laufen_index_laufen_\u00fcbersicht",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "references",
-      "confidence": "EXTRACTED",
-      "source_file": "llm-knowledge/Laufen/Obsidian-Struktur-Analyse 25.06.2026.md",
-      "source_location": "L10",
-      "weight": 1.0,
-      "confidence_score": 1.0,
-      "source": "llm_knowledge_laufen_obsidian_struktur_analyse_25_06_2026",
-      "target": "llm_knowledge_laufen_index"
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "llm-knowledge/Laufen/_Index.md",
-      "source_location": "L35",
-      "weight": 1.0,
-      "source": "llm_knowledge_laufen_index_laufen_\u00fcbersicht",
-      "target": "llm_knowledge_laufen_index_analysen",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "llm-knowledge/Laufen/_Index.md",
-      "source_location": "L46",
-      "weight": 1.0,
-      "source": "llm_knowledge_laufen_index_laufen_\u00fcbersicht",
-      "target": "llm_knowledge_laufen_index_hinweis_zur_aktualit\u00e4t",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "llm-knowledge/Laufen/_Index.md",
-      "source_location": "L17",
-      "weight": 1.0,
-      "source": "llm_knowledge_laufen_index_laufen_\u00fcbersicht",
-      "target": "llm_knowledge_laufen_index_pl\u00e4ne_methodik",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "llm-knowledge/Laufen/_Index.md",
-      "source_location": "L41",
-      "weight": 1.0,
-      "source": "llm_knowledge_laufen_index_laufen_\u00fcbersicht",
-      "target": "llm_knowledge_laufen_index_prinzip_f\u00fcr_neue_notizen",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "llm-knowledge/Laufen/_Index.md",
-      "source_location": "L24",
-      "weight": 1.0,
-      "source": "llm_knowledge_laufen_index_laufen_\u00fcbersicht",
-      "target": "llm_knowledge_laufen_index_rennen_tests",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "llm-knowledge/Laufen/_Index.md",
-      "source_location": "L38",
-      "weight": 1.0,
-      "source": "llm_knowledge_laufen_index_laufen_\u00fcbersicht",
-      "target": "llm_knowledge_laufen_index_urlaub_pausen",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "llm-knowledge/Laufen/_Index.md",
-      "source_location": "L31",
-      "weight": 1.0,
-      "source": "llm_knowledge_laufen_index_laufen_\u00fcbersicht",
-      "target": "llm_knowledge_laufen_index_wochenberichte_trainingslogs",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "llm-knowledge/Laufen/_Index.md",
-      "source_location": "L12",
-      "weight": 1.0,
-      "source": "llm_knowledge_laufen_index_laufen_\u00fcbersicht",
-      "target": "llm_knowledge_laufen_index_ziele_status",
-      "confidence_score": 1.0
-    },
-    {
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "llm-knowledge/Laufen/HM-Aufbau Forschungsgrundlagen 2026.md",
       "source_location": "L8",
       "weight": 1.0,
-      "confidence_score": 1.0,
       "source": "llm_knowledge_laufen_hm_aufbau_forschungsgrundlagen_2026",
-      "target": "llm_knowledge_laufen_hm_aufbau_forschungsgrundlagen_2026_hm_aufbau_forschungsgrundlagen_2026"
+      "target": "llm_knowledge_laufen_hm_aufbau_forschungsgrundlagen_2026_hm_aufbau_forschungsgrundlagen_2026",
+      "confidence_score": 1.0
     },
     {
       "relation": "references",
@@ -5019,9 +4829,9 @@
       "source_file": "llm-knowledge/Laufen/HM-Aufbau Forschungsgrundlagen 2026.md",
       "source_location": "L10",
       "weight": 1.0,
-      "confidence_score": 1.0,
       "source": "llm_knowledge_laufen_hm_aufbau_forschungsgrundlagen_2026",
-      "target": "llm_knowledge_laufen_trainingsmethoden_halbmarathon_marathon"
+      "target": "llm_knowledge_laufen_trainingsmethoden_halbmarathon_marathon",
+      "confidence_score": 1.0
     },
     {
       "relation": "references",
@@ -5029,9 +4839,19 @@
       "source_file": "llm-knowledge/Laufen/HM-Aufbau Forschungsgrundlagen 2026.md",
       "source_location": "L10",
       "weight": 1.0,
-      "confidence_score": 1.0,
       "source": "llm_knowledge_laufen_hm_aufbau_forschungsgrundlagen_2026",
-      "target": "llm_knowledge_laufen_trainingsplan_hm_sub_120_2026"
+      "target": "llm_knowledge_laufen_trainingsplan_hm_sub_120_2026",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "llm-knowledge/Laufen/_Index.md",
+      "source_location": "L19",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "llm_knowledge_laufen_index",
+      "target": "llm_knowledge_laufen_hm_aufbau_forschungsgrundlagen_2026"
     },
     {
       "relation": "references",
@@ -5049,9 +4869,9 @@
       "source_file": "llm-knowledge/Laufen/HM-Aufbau Forschungsgrundlagen 2026.md",
       "source_location": "L99",
       "weight": 1.0,
-      "confidence_score": 1.0,
       "source": "llm_knowledge_laufen_hm_aufbau_forschungsgrundlagen_2026_hm_aufbau_forschungsgrundlagen_2026",
-      "target": "llm_knowledge_laufen_hm_aufbau_forschungsgrundlagen_2026_10_physiologische_resilienz_neu_03_09_2026"
+      "target": "llm_knowledge_laufen_hm_aufbau_forschungsgrundlagen_2026_10_physiologische_resilienz_neu_03_09_2026",
+      "confidence_score": 1.0
     },
     {
       "relation": "contains",
@@ -5059,9 +4879,9 @@
       "source_file": "llm-knowledge/Laufen/HM-Aufbau Forschungsgrundlagen 2026.md",
       "source_location": "L18",
       "weight": 1.0,
-      "confidence_score": 1.0,
       "source": "llm_knowledge_laufen_hm_aufbau_forschungsgrundlagen_2026_hm_aufbau_forschungsgrundlagen_2026",
-      "target": "llm_knowledge_laufen_hm_aufbau_forschungsgrundlagen_2026_1_periodisierung_pyramidal_polarisiert"
+      "target": "llm_knowledge_laufen_hm_aufbau_forschungsgrundlagen_2026_1_periodisierung_pyramidal_polarisiert",
+      "confidence_score": 1.0
     },
     {
       "relation": "contains",
@@ -5069,9 +4889,9 @@
       "source_file": "llm-knowledge/Laufen/HM-Aufbau Forschungsgrundlagen 2026.md",
       "source_location": "L26",
       "weight": 1.0,
-      "confidence_score": 1.0,
       "source": "llm_knowledge_laufen_hm_aufbau_forschungsgrundlagen_2026_hm_aufbau_forschungsgrundlagen_2026",
-      "target": "llm_knowledge_laufen_hm_aufbau_forschungsgrundlagen_2026_2_intensit\u00e4tsverteilung"
+      "target": "llm_knowledge_laufen_hm_aufbau_forschungsgrundlagen_2026_2_intensit\u00e4tsverteilung",
+      "confidence_score": 1.0
     },
     {
       "relation": "contains",
@@ -5079,9 +4899,9 @@
       "source_file": "llm-knowledge/Laufen/HM-Aufbau Forschungsgrundlagen 2026.md",
       "source_location": "L38",
       "weight": 1.0,
-      "confidence_score": 1.0,
       "source": "llm_knowledge_laufen_hm_aufbau_forschungsgrundlagen_2026_hm_aufbau_forschungsgrundlagen_2026",
-      "target": "llm_knowledge_laufen_hm_aufbau_forschungsgrundlagen_2026_3_schwellentraining"
+      "target": "llm_knowledge_laufen_hm_aufbau_forschungsgrundlagen_2026_3_schwellentraining",
+      "confidence_score": 1.0
     },
     {
       "relation": "contains",
@@ -5089,9 +4909,9 @@
       "source_file": "llm-knowledge/Laufen/HM-Aufbau Forschungsgrundlagen 2026.md",
       "source_location": "L50",
       "weight": 1.0,
-      "confidence_score": 1.0,
       "source": "llm_knowledge_laufen_hm_aufbau_forschungsgrundlagen_2026_hm_aufbau_forschungsgrundlagen_2026",
-      "target": "llm_knowledge_laufen_hm_aufbau_forschungsgrundlagen_2026_4_vo2max_intervalle_5_km_ziel"
+      "target": "llm_knowledge_laufen_hm_aufbau_forschungsgrundlagen_2026_4_vo2max_intervalle_5_km_ziel",
+      "confidence_score": 1.0
     },
     {
       "relation": "contains",
@@ -5099,9 +4919,9 @@
       "source_file": "llm-knowledge/Laufen/HM-Aufbau Forschungsgrundlagen 2026.md",
       "source_location": "L58",
       "weight": 1.0,
-      "confidence_score": 1.0,
       "source": "llm_knowledge_laufen_hm_aufbau_forschungsgrundlagen_2026_hm_aufbau_forschungsgrundlagen_2026",
-      "target": "llm_knowledge_laufen_hm_aufbau_forschungsgrundlagen_2026_5_long_run"
+      "target": "llm_knowledge_laufen_hm_aufbau_forschungsgrundlagen_2026_5_long_run",
+      "confidence_score": 1.0
     },
     {
       "relation": "contains",
@@ -5109,9 +4929,9 @@
       "source_file": "llm-knowledge/Laufen/HM-Aufbau Forschungsgrundlagen 2026.md",
       "source_location": "L64",
       "weight": 1.0,
-      "confidence_score": 1.0,
       "source": "llm_knowledge_laufen_hm_aufbau_forschungsgrundlagen_2026_hm_aufbau_forschungsgrundlagen_2026",
-      "target": "llm_knowledge_laufen_hm_aufbau_forschungsgrundlagen_2026_6_umfang_progression"
+      "target": "llm_knowledge_laufen_hm_aufbau_forschungsgrundlagen_2026_6_umfang_progression",
+      "confidence_score": 1.0
     },
     {
       "relation": "contains",
@@ -5119,9 +4939,9 @@
       "source_file": "llm-knowledge/Laufen/HM-Aufbau Forschungsgrundlagen 2026.md",
       "source_location": "L80",
       "weight": 1.0,
-      "confidence_score": 1.0,
       "source": "llm_knowledge_laufen_hm_aufbau_forschungsgrundlagen_2026_hm_aufbau_forschungsgrundlagen_2026",
-      "target": "llm_knowledge_laufen_hm_aufbau_forschungsgrundlagen_2026_7_rad_crosstraining"
+      "target": "llm_knowledge_laufen_hm_aufbau_forschungsgrundlagen_2026_7_rad_crosstraining",
+      "confidence_score": 1.0
     },
     {
       "relation": "contains",
@@ -5129,9 +4949,9 @@
       "source_file": "llm-knowledge/Laufen/HM-Aufbau Forschungsgrundlagen 2026.md",
       "source_location": "L86",
       "weight": 1.0,
-      "confidence_score": 1.0,
       "source": "llm_knowledge_laufen_hm_aufbau_forschungsgrundlagen_2026_hm_aufbau_forschungsgrundlagen_2026",
-      "target": "llm_knowledge_laufen_hm_aufbau_forschungsgrundlagen_2026_8_tapering"
+      "target": "llm_knowledge_laufen_hm_aufbau_forschungsgrundlagen_2026_8_tapering",
+      "confidence_score": 1.0
     },
     {
       "relation": "contains",
@@ -5139,9 +4959,9 @@
       "source_file": "llm-knowledge/Laufen/HM-Aufbau Forschungsgrundlagen 2026.md",
       "source_location": "L92",
       "weight": 1.0,
-      "confidence_score": 1.0,
       "source": "llm_knowledge_laufen_hm_aufbau_forschungsgrundlagen_2026_hm_aufbau_forschungsgrundlagen_2026",
-      "target": "llm_knowledge_laufen_hm_aufbau_forschungsgrundlagen_2026_9_erholungs_monitoring"
+      "target": "llm_knowledge_laufen_hm_aufbau_forschungsgrundlagen_2026_9_erholungs_monitoring",
+      "confidence_score": 1.0
     },
     {
       "relation": "contains",
@@ -5149,9 +4969,9 @@
       "source_file": "llm-knowledge/Laufen/HM-Aufbau Forschungsgrundlagen 2026.md",
       "source_location": "L118",
       "weight": 1.0,
-      "confidence_score": 1.0,
       "source": "llm_knowledge_laufen_hm_aufbau_forschungsgrundlagen_2026_hm_aufbau_forschungsgrundlagen_2026",
-      "target": "llm_knowledge_laufen_hm_aufbau_forschungsgrundlagen_2026_quellen_auswahl"
+      "target": "llm_knowledge_laufen_hm_aufbau_forschungsgrundlagen_2026_quellen_auswahl",
+      "confidence_score": 1.0
     },
     {
       "relation": "contains",
@@ -5159,9 +4979,9 @@
       "source_file": "llm-knowledge/Laufen/HM-Aufbau Forschungsgrundlagen 2026.md",
       "source_location": "L149",
       "weight": 1.0,
-      "confidence_score": 1.0,
       "source": "llm_knowledge_laufen_hm_aufbau_forschungsgrundlagen_2026_hm_aufbau_forschungsgrundlagen_2026",
-      "target": "llm_knowledge_laufen_hm_aufbau_forschungsgrundlagen_2026_verkn\u00fcpfte_notizen"
+      "target": "llm_knowledge_laufen_hm_aufbau_forschungsgrundlagen_2026_verkn\u00fcpfte_notizen",
+      "confidence_score": 1.0
     },
     {
       "relation": "contains",
@@ -5169,9 +4989,19 @@
       "source_file": "llm-knowledge/Laufen/HM-Aufbau Forschungsgrundlagen 2026.md",
       "source_location": "L107",
       "weight": 1.0,
-      "confidence_score": 1.0,
       "source": "llm_knowledge_laufen_hm_aufbau_forschungsgrundlagen_2026_hm_aufbau_forschungsgrundlagen_2026",
-      "target": "llm_knowledge_laufen_hm_aufbau_forschungsgrundlagen_2026_vorbehalte"
+      "target": "llm_knowledge_laufen_hm_aufbau_forschungsgrundlagen_2026_vorbehalte",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "llm-knowledge/Laufen/_Index.md",
+      "source_location": "L20",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "llm_knowledge_laufen_index",
+      "target": "llm_knowledge_laufen_trainingsmethoden_halbmarathon_marathon"
     },
     {
       "relation": "references",
@@ -5199,9 +5029,9 @@
       "source_file": "llm-knowledge/Laufen/Trainingsmethoden Halbmarathon Marathon.md",
       "source_location": "L8",
       "weight": 1.0,
-      "confidence_score": 1.0,
       "source": "llm_knowledge_laufen_trainingsmethoden_halbmarathon_marathon",
-      "target": "llm_knowledge_laufen_trainingsmethoden_halbmarathon_marathon_trainingsmethoden_halbmarathon_marathon"
+      "target": "llm_knowledge_laufen_trainingsmethoden_halbmarathon_marathon_trainingsmethoden_halbmarathon_marathon",
+      "confidence_score": 1.0
     },
     {
       "relation": "references",
@@ -5209,9 +5039,9 @@
       "source_file": "llm-knowledge/Laufen/Trainingsmethoden Halbmarathon Marathon.md",
       "source_location": "L106",
       "weight": 1.0,
-      "confidence_score": 1.0,
       "source": "llm_knowledge_laufen_trainingsmethoden_halbmarathon_marathon",
-      "target": "llm_knowledge_laufen_trainingsplan_hm_sub_120_2026"
+      "target": "llm_knowledge_laufen_trainingsplan_hm_sub_120_2026",
+      "confidence_score": 1.0
     },
     {
       "relation": "references",
@@ -5249,9 +5079,9 @@
       "source_file": "llm-knowledge/Laufen/Trainingsmethoden Halbmarathon Marathon.md",
       "source_location": "L27",
       "weight": 1.0,
-      "confidence_score": 1.0,
       "source": "llm_knowledge_laufen_trainingsmethoden_halbmarathon_marathon_trainingsmethoden_halbmarathon_marathon",
-      "target": "llm_knowledge_laufen_trainingsmethoden_halbmarathon_marathon_die_schl\u00fcsseleinheiten_rangiert_nach_wirkung"
+      "target": "llm_knowledge_laufen_trainingsmethoden_halbmarathon_marathon_die_schl\u00fcsseleinheiten_rangiert_nach_wirkung",
+      "confidence_score": 1.0
     },
     {
       "relation": "contains",
@@ -5259,9 +5089,9 @@
       "source_file": "llm-knowledge/Laufen/Trainingsmethoden Halbmarathon Marathon.md",
       "source_location": "L67",
       "weight": 1.0,
-      "confidence_score": 1.0,
       "source": "llm_knowledge_laufen_trainingsmethoden_halbmarathon_marathon_trainingsmethoden_halbmarathon_marathon",
-      "target": "llm_knowledge_laufen_trainingsmethoden_halbmarathon_marathon_erg\u00e4nzende_elemente_aus_dem_vault_\u00fcbernommen"
+      "target": "llm_knowledge_laufen_trainingsmethoden_halbmarathon_marathon_erg\u00e4nzende_elemente_aus_dem_vault_\u00fcbernommen",
+      "confidence_score": 1.0
     },
     {
       "relation": "contains",
@@ -5269,9 +5099,9 @@
       "source_file": "llm-knowledge/Laufen/Trainingsmethoden Halbmarathon Marathon.md",
       "source_location": "L16",
       "weight": 1.0,
-      "confidence_score": 1.0,
       "source": "llm_knowledge_laufen_trainingsmethoden_halbmarathon_marathon_trainingsmethoden_halbmarathon_marathon",
-      "target": "llm_knowledge_laufen_trainingsmethoden_halbmarathon_marathon_grundprinzip_polarisiertes_training_bleibt"
+      "target": "llm_knowledge_laufen_trainingsmethoden_halbmarathon_marathon_grundprinzip_polarisiertes_training_bleibt",
+      "confidence_score": 1.0
     },
     {
       "relation": "contains",
@@ -5279,9 +5109,9 @@
       "source_file": "llm-knowledge/Laufen/Trainingsmethoden Halbmarathon Marathon.md",
       "source_location": "L80",
       "weight": 1.0,
-      "confidence_score": 1.0,
       "source": "llm_knowledge_laufen_trainingsmethoden_halbmarathon_marathon_trainingsmethoden_halbmarathon_marathon",
-      "target": "llm_knowledge_laufen_trainingsmethoden_halbmarathon_marathon_neu_f\u00fcr_die_langen_distanzen_verpflegung_pacing"
+      "target": "llm_knowledge_laufen_trainingsmethoden_halbmarathon_marathon_neu_f\u00fcr_die_langen_distanzen_verpflegung_pacing",
+      "confidence_score": 1.0
     },
     {
       "relation": "contains",
@@ -5289,9 +5119,9 @@
       "source_file": "llm-knowledge/Laufen/Trainingsmethoden Halbmarathon Marathon.md",
       "source_location": "L99",
       "weight": 1.0,
-      "confidence_score": 1.0,
       "source": "llm_knowledge_laufen_trainingsmethoden_halbmarathon_marathon_trainingsmethoden_halbmarathon_marathon",
-      "target": "llm_knowledge_laufen_trainingsmethoden_halbmarathon_marathon_periodisierung_grobes_ger\u00fcst"
+      "target": "llm_knowledge_laufen_trainingsmethoden_halbmarathon_marathon_periodisierung_grobes_ger\u00fcst",
+      "confidence_score": 1.0
     },
     {
       "relation": "contains",
@@ -5299,9 +5129,9 @@
       "source_file": "llm-knowledge/Laufen/Trainingsmethoden Halbmarathon Marathon.md",
       "source_location": "L90",
       "weight": 1.0,
-      "confidence_score": 1.0,
       "source": "llm_knowledge_laufen_trainingsmethoden_halbmarathon_marathon_trainingsmethoden_halbmarathon_marathon",
-      "target": "llm_knowledge_laufen_trainingsmethoden_halbmarathon_marathon_pers\u00f6nliche_stolperfallen_aus_aktueller_fitnessstatus"
+      "target": "llm_knowledge_laufen_trainingsmethoden_halbmarathon_marathon_pers\u00f6nliche_stolperfallen_aus_aktueller_fitnessstatus",
+      "confidence_score": 1.0
     },
     {
       "relation": "contains",
@@ -5309,9 +5139,9 @@
       "source_file": "llm-knowledge/Laufen/Trainingsmethoden Halbmarathon Marathon.md",
       "source_location": "L110",
       "weight": 1.0,
-      "confidence_score": 1.0,
       "source": "llm_knowledge_laufen_trainingsmethoden_halbmarathon_marathon_trainingsmethoden_halbmarathon_marathon",
-      "target": "llm_knowledge_laufen_trainingsmethoden_halbmarathon_marathon_verkn\u00fcpfte_notizen"
+      "target": "llm_knowledge_laufen_trainingsmethoden_halbmarathon_marathon_verkn\u00fcpfte_notizen",
+      "confidence_score": 1.0
     },
     {
       "relation": "contains",
@@ -5319,9 +5149,9 @@
       "source_file": "llm-knowledge/Laufen/Trainingsmethoden Halbmarathon Marathon.md",
       "source_location": "L29",
       "weight": 1.0,
-      "confidence_score": 1.0,
       "source": "llm_knowledge_laufen_trainingsmethoden_halbmarathon_marathon_die_schl\u00fcsseleinheiten_rangiert_nach_wirkung",
-      "target": "llm_knowledge_laufen_trainingsmethoden_halbmarathon_marathon_1_langer_lauf_die_wichtigste_einheit"
+      "target": "llm_knowledge_laufen_trainingsmethoden_halbmarathon_marathon_1_langer_lauf_die_wichtigste_einheit",
+      "confidence_score": 1.0
     },
     {
       "relation": "contains",
@@ -5329,9 +5159,9 @@
       "source_file": "llm-knowledge/Laufen/Trainingsmethoden Halbmarathon Marathon.md",
       "source_location": "L42",
       "weight": 1.0,
-      "confidence_score": 1.0,
       "source": "llm_knowledge_laufen_trainingsmethoden_halbmarathon_marathon_die_schl\u00fcsseleinheiten_rangiert_nach_wirkung",
-      "target": "llm_knowledge_laufen_trainingsmethoden_halbmarathon_marathon_2_renntempo_dauerlauf_marathon_hm_pace_lauf"
+      "target": "llm_knowledge_laufen_trainingsmethoden_halbmarathon_marathon_2_renntempo_dauerlauf_marathon_hm_pace_lauf",
+      "confidence_score": 1.0
     },
     {
       "relation": "contains",
@@ -5339,9 +5169,9 @@
       "source_file": "llm-knowledge/Laufen/Trainingsmethoden Halbmarathon Marathon.md",
       "source_location": "L50",
       "weight": 1.0,
-      "confidence_score": 1.0,
       "source": "llm_knowledge_laufen_trainingsmethoden_halbmarathon_marathon_die_schl\u00fcsseleinheiten_rangiert_nach_wirkung",
-      "target": "llm_knowledge_laufen_trainingsmethoden_halbmarathon_marathon_3_schwellenlauf_bleibt_zentral"
+      "target": "llm_knowledge_laufen_trainingsmethoden_halbmarathon_marathon_3_schwellenlauf_bleibt_zentral",
+      "confidence_score": 1.0
     },
     {
       "relation": "contains",
@@ -5349,9 +5179,9 @@
       "source_file": "llm-knowledge/Laufen/Trainingsmethoden Halbmarathon Marathon.md",
       "source_location": "L58",
       "weight": 1.0,
-      "confidence_score": 1.0,
       "source": "llm_knowledge_laufen_trainingsmethoden_halbmarathon_marathon_die_schl\u00fcsseleinheiten_rangiert_nach_wirkung",
-      "target": "llm_knowledge_laufen_trainingsmethoden_halbmarathon_marathon_4_vo2max_intervalle_reduziert_aber_nicht_streichen"
+      "target": "llm_knowledge_laufen_trainingsmethoden_halbmarathon_marathon_4_vo2max_intervalle_reduziert_aber_nicht_streichen",
+      "confidence_score": 1.0
     },
     {
       "relation": "contains",
@@ -5359,9 +5189,9 @@
       "source_file": "llm-knowledge/Laufen/Trainingsmethoden Halbmarathon Marathon.md",
       "source_location": "L73",
       "weight": 1.0,
-      "confidence_score": 1.0,
       "source": "llm_knowledge_laufen_trainingsmethoden_halbmarathon_marathon_erg\u00e4nzende_elemente_aus_dem_vault_\u00fcbernommen",
-      "target": "llm_knowledge_laufen_trainingsmethoden_halbmarathon_marathon_laufspezifisches_krafttraining"
+      "target": "llm_knowledge_laufen_trainingsmethoden_halbmarathon_marathon_laufspezifisches_krafttraining",
+      "confidence_score": 1.0
     },
     {
       "relation": "contains",
@@ -5369,9 +5199,19 @@
       "source_file": "llm-knowledge/Laufen/Trainingsmethoden Halbmarathon Marathon.md",
       "source_location": "L69",
       "weight": 1.0,
-      "confidence_score": 1.0,
       "source": "llm_knowledge_laufen_trainingsmethoden_halbmarathon_marathon_erg\u00e4nzende_elemente_aus_dem_vault_\u00fcbernommen",
-      "target": "llm_knowledge_laufen_trainingsmethoden_halbmarathon_marathon_strides_steigerungsl\u00e4ufe"
+      "target": "llm_knowledge_laufen_trainingsmethoden_halbmarathon_marathon_strides_steigerungsl\u00e4ufe",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "llm-knowledge/Laufen/_Index.md",
+      "source_location": "L18",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "llm_knowledge_laufen_index",
+      "target": "llm_knowledge_laufen_trainingsplan_hm_sub_120_2026"
     },
     {
       "relation": "references",
@@ -5409,9 +5249,9 @@
       "source_file": "llm-knowledge/Laufen/Trainingsplan HM Sub-120 2026.md",
       "source_location": "L8",
       "weight": 1.0,
-      "confidence_score": 1.0,
       "source": "llm_knowledge_laufen_trainingsplan_hm_sub_120_2026",
-      "target": "llm_knowledge_laufen_trainingsplan_hm_sub_120_2026_trainingsplan_halbmarathon_sub_1_20_16_wochen"
+      "target": "llm_knowledge_laufen_trainingsplan_hm_sub_120_2026_trainingsplan_halbmarathon_sub_1_20_16_wochen",
+      "confidence_score": 1.0
     },
     {
       "relation": "references",
@@ -5469,9 +5309,9 @@
       "source_file": "llm-knowledge/Laufen/Trainingsplan HM Sub-120 2026.md",
       "source_location": "L86",
       "weight": 1.0,
-      "confidence_score": 1.0,
       "source": "llm_knowledge_laufen_trainingsplan_hm_sub_120_2026_trainingsplan_halbmarathon_sub_1_20_16_wochen",
-      "target": "llm_knowledge_laufen_trainingsplan_hm_sub_120_2026_offene_punkte"
+      "target": "llm_knowledge_laufen_trainingsplan_hm_sub_120_2026_offene_punkte",
+      "confidence_score": 1.0
     },
     {
       "relation": "contains",
@@ -5479,9 +5319,9 @@
       "source_file": "llm-knowledge/Laufen/Trainingsplan HM Sub-120 2026.md",
       "source_location": "L21",
       "weight": 1.0,
-      "confidence_score": 1.0,
       "source": "llm_knowledge_laufen_trainingsplan_hm_sub_120_2026_trainingsplan_halbmarathon_sub_1_20_16_wochen",
-      "target": "llm_knowledge_laufen_trainingsplan_hm_sub_120_2026_periodisierungslogik"
+      "target": "llm_knowledge_laufen_trainingsplan_hm_sub_120_2026_periodisierungslogik",
+      "confidence_score": 1.0
     },
     {
       "relation": "contains",
@@ -5489,9 +5329,9 @@
       "source_file": "llm-knowledge/Laufen/Trainingsplan HM Sub-120 2026.md",
       "source_location": "L62",
       "weight": 1.0,
-      "confidence_score": 1.0,
       "source": "llm_knowledge_laufen_trainingsplan_hm_sub_120_2026_trainingsplan_halbmarathon_sub_1_20_16_wochen",
-      "target": "llm_knowledge_laufen_trainingsplan_hm_sub_120_2026_schl\u00fcsseleinheiten_je_phase"
+      "target": "llm_knowledge_laufen_trainingsplan_hm_sub_120_2026_schl\u00fcsseleinheiten_je_phase",
+      "confidence_score": 1.0
     },
     {
       "relation": "contains",
@@ -5499,9 +5339,9 @@
       "source_file": "llm-knowledge/Laufen/Trainingsplan HM Sub-120 2026.md",
       "source_location": "L74",
       "weight": 1.0,
-      "confidence_score": 1.0,
       "source": "llm_knowledge_laufen_trainingsplan_hm_sub_120_2026_trainingsplan_halbmarathon_sub_1_20_16_wochen",
-      "target": "llm_knowledge_laufen_trainingsplan_hm_sub_120_2026_steuerungsregeln_autoregulation"
+      "target": "llm_knowledge_laufen_trainingsplan_hm_sub_120_2026_steuerungsregeln_autoregulation",
+      "confidence_score": 1.0
     },
     {
       "relation": "contains",
@@ -5509,9 +5349,9 @@
       "source_file": "llm-knowledge/Laufen/Trainingsplan HM Sub-120 2026.md",
       "source_location": "L95",
       "weight": 1.0,
-      "confidence_score": 1.0,
       "source": "llm_knowledge_laufen_trainingsplan_hm_sub_120_2026_trainingsplan_halbmarathon_sub_1_20_16_wochen",
-      "target": "llm_knowledge_laufen_trainingsplan_hm_sub_120_2026_verkn\u00fcpfte_notizen"
+      "target": "llm_knowledge_laufen_trainingsplan_hm_sub_120_2026_verkn\u00fcpfte_notizen",
+      "confidence_score": 1.0
     },
     {
       "relation": "contains",
@@ -5519,9 +5359,9 @@
       "source_file": "llm-knowledge/Laufen/Trainingsplan HM Sub-120 2026.md",
       "source_location": "L36",
       "weight": 1.0,
-      "confidence_score": 1.0,
       "source": "llm_knowledge_laufen_trainingsplan_hm_sub_120_2026_trainingsplan_halbmarathon_sub_1_20_16_wochen",
-      "target": "llm_knowledge_laufen_trainingsplan_hm_sub_120_2026_wochen\u00fcbersicht_16_wochen"
+      "target": "llm_knowledge_laufen_trainingsplan_hm_sub_120_2026_wochen\u00fcbersicht_16_wochen",
+      "confidence_score": 1.0
     },
     {
       "relation": "contains",
@@ -5552,6 +5392,16 @@
       "confidence_score": 1.0,
       "source": "llm_knowledge_laufen_herzfrequenzzonen",
       "target": "llm_knowledge_laufen_trainingsbausteine_5km"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "llm-knowledge/Laufen/_Index.md",
+      "source_location": "L15",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "llm_knowledge_laufen_index",
+      "target": "llm_knowledge_laufen_herzfrequenzzonen"
     },
     {
       "relation": "references",
@@ -5844,6 +5694,16 @@
       "target": "llm_knowledge_laufen_intervalltraining_forschungsstand_2026_vorbehalte"
     },
     {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "llm-knowledge/Laufen/_Index.md",
+      "source_location": "L14",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "llm_knowledge_laufen_index",
+      "target": "llm_knowledge_laufen_laufziele"
+    },
+    {
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "llm-knowledge/Laufen/Laufziele.md",
@@ -6024,6 +5884,16 @@
       "target": "llm_knowledge_laufen_laufziele_wettk\u00e4mpfe"
     },
     {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "llm-knowledge/Laufen/Obsidian-Struktur-Analyse 25.06.2026.md",
+      "source_location": "L10",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "llm_knowledge_laufen_obsidian_struktur_analyse_25_06_2026",
+      "target": "llm_knowledge_laufen_index"
+    },
+    {
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "llm-knowledge/Laufen/Obsidian-Struktur-Analyse 25.06.2026.md",
@@ -6174,6 +6044,16 @@
       "target": "llm_knowledge_laufen_obsidian_struktur_analyse_25_06_2026_sofort_bis_26_06"
     },
     {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "llm-knowledge/Laufen/_Index.md",
+      "source_location": "L26",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "llm_knowledge_laufen_index",
+      "target": "llm_knowledge_laufen_renntag_erkenntnisse"
+    },
+    {
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "llm-knowledge/Laufen/Renntag-Erkenntnisse.md",
@@ -6282,6 +6162,16 @@
       "confidence_score": 1.0,
       "source": "llm_knowledge_laufen_renntag_erkenntnisse_5_km_test_24_06_2026_ziel_verfehlt_20_31_statt_18_00_18_15",
       "target": "llm_knowledge_laufen_renntag_erkenntnisse_was_die_zeit_gekostet_hat_mehrere_faktoren_zusammen"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "llm-knowledge/Laufen/_Index.md",
+      "source_location": "L25",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "llm_knowledge_laufen_index",
+      "target": "llm_knowledge_laufen_rennvorbereitung_checkliste"
     },
     {
       "relation": "contains",
@@ -6414,6 +6304,16 @@
       "target": "llm_knowledge_laufen_rennvorbereitung_checkliste_3_keine_grossen_radausfahrten_3_tage_vorher"
     },
     {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "llm-knowledge/Laufen/_Index.md",
+      "source_location": "L21",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "llm_knowledge_laufen_index",
+      "target": "llm_knowledge_laufen_trainingsbausteine_5km"
+    },
+    {
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "llm-knowledge/Laufen/Trainingsbausteine 5km.md",
@@ -6534,6 +6434,16 @@
       "target": "llm_knowledge_laufen_trainingsbausteine_5km_strides_steigerungsl\u00e4ufe"
     },
     {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "llm-knowledge/Laufen/_Index.md",
+      "source_location": "L31",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "llm_knowledge_laufen_index",
+      "target": "llm_knowledge_laufen_trainingslog_2026_07_02_schwelle"
+    },
+    {
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "llm-knowledge/Laufen/Trainingslog 2026-07-02 Schwelle.md",
@@ -6604,6 +6514,16 @@
       "target": "llm_knowledge_laufen_trainingslog_2026_07_02_schwelle_verkn\u00fcpfte_notizen"
     },
     {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "llm-knowledge/Laufen/_Index.md",
+      "source_location": "L22",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "llm_knowledge_laufen_index",
+      "target": "llm_knowledge_laufen_trainingspr\u00e4ferenzen"
+    },
+    {
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "llm-knowledge/Laufen/Trainingspr\u00e4ferenzen.md",
@@ -6672,6 +6592,16 @@
       "confidence_score": 1.0,
       "source": "llm_knowledge_laufen_trainingspr\u00e4ferenzen_variantenreiche_intervalle_wichtig_f\u00fcr_die_planung",
       "target": "llm_knowledge_laufen_trainingspr\u00e4ferenzen_drei_regeln_die_dabei_gelten"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "llm-knowledge/Laufen/_Index.md",
+      "source_location": "L34",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "llm_knowledge_laufen_index",
+      "target": "llm_knowledge_laufen_umfangshistorie_2025_2026"
     },
     {
       "relation": "contains",
@@ -6752,6 +6682,16 @@
       "confidence_score": 1.0,
       "source": "llm_knowledge_laufen_umfangshistorie_2025_2026_umfangshistorie_juni_2025_august_2026",
       "target": "llm_knowledge_laufen_umfangshistorie_2025_2026_wochenumf\u00e4nge_km_woche_ab_montag"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "llm-knowledge/Laufen/_Index.md",
+      "source_location": "L37",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "llm_knowledge_laufen_index",
+      "target": "llm_knowledge_laufen_urlaub_2026_07_13_bis_07_19"
     },
     {
       "relation": "contains",
@@ -6954,6 +6894,16 @@
       "target": "llm_knowledge_laufen_wettkampf_2026_09_13_m\u00fcnster_28_taktik"
     },
     {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "llm-knowledge/Laufen/_Index.md",
+      "source_location": "L27",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "llm_knowledge_laufen_index",
+      "target": "llm_knowledge_laufen_wettkampf_2027_03_21_venloop"
+    },
+    {
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "llm-knowledge/Laufen/Wettkampf 2027-03-21 Venloop.md",
@@ -7052,6 +7002,16 @@
       "confidence_score": 1.0,
       "source": "llm_knowledge_laufen_wettkampf_2027_03_21_venloop_arrow_venloop_2027_halbmarathon",
       "target": "llm_knowledge_laufen_wettkampf_2027_03_21_venloop_zielsetzung"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "llm-knowledge/Laufen/_Index.md",
+      "source_location": "L30",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "llm_knowledge_laufen_index",
+      "target": "llm_knowledge_laufen_wochenbericht_2026_06_18_bis_06_25"
     },
     {
       "relation": "contains",
@@ -7382,6 +7342,96 @@
       "confidence_score": 1.0,
       "source": "llm_knowledge_laufen_wochenbericht_2026_07_13_bis_07_19_abgleich_mit_plan_empfehlung",
       "target": "llm_knowledge_laufen_wochenbericht_2026_07_13_bis_07_19_umfang_reiz_plangem\u00e4ss_sogar_kr\u00e4ftiger_als_erwartet"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "llm-knowledge/Laufen/_Index.md",
+      "source_location": "L8",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "llm_knowledge_laufen_index",
+      "target": "llm_knowledge_laufen_index_laufen_\u00fcbersicht"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "llm-knowledge/Laufen/_Index.md",
+      "source_location": "L33",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "llm_knowledge_laufen_index_laufen_\u00fcbersicht",
+      "target": "llm_knowledge_laufen_index_analysen"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "llm-knowledge/Laufen/_Index.md",
+      "source_location": "L44",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "llm_knowledge_laufen_index_laufen_\u00fcbersicht",
+      "target": "llm_knowledge_laufen_index_hinweis_zur_aktualit\u00e4t"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "llm-knowledge/Laufen/_Index.md",
+      "source_location": "L17",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "llm_knowledge_laufen_index_laufen_\u00fcbersicht",
+      "target": "llm_knowledge_laufen_index_pl\u00e4ne_methodik"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "llm-knowledge/Laufen/_Index.md",
+      "source_location": "L39",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "llm_knowledge_laufen_index_laufen_\u00fcbersicht",
+      "target": "llm_knowledge_laufen_index_prinzip_f\u00fcr_neue_notizen"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "llm-knowledge/Laufen/_Index.md",
+      "source_location": "L24",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "llm_knowledge_laufen_index_laufen_\u00fcbersicht",
+      "target": "llm_knowledge_laufen_index_rennen_tests"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "llm-knowledge/Laufen/_Index.md",
+      "source_location": "L36",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "llm_knowledge_laufen_index_laufen_\u00fcbersicht",
+      "target": "llm_knowledge_laufen_index_urlaub_pausen"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "llm-knowledge/Laufen/_Index.md",
+      "source_location": "L29",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "llm_knowledge_laufen_index_laufen_\u00fcbersicht",
+      "target": "llm_knowledge_laufen_index_wochenberichte_trainingslogs"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "llm-knowledge/Laufen/_Index.md",
+      "source_location": "L12",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "llm_knowledge_laufen_index_laufen_\u00fcbersicht",
+      "target": "llm_knowledge_laufen_index_ziele_status"
     },
     {
       "relation": "contains",
@@ -8915,5 +8965,5 @@
     }
   ],
   "hyperedges": [],
-  "built_at_commit": "4a614395ba4038b03647a4637c740176b71445a2"
+  "built_at_commit": "d280bdb40fdf9b4d260219e3e74d821c3e82c18d"
 }
