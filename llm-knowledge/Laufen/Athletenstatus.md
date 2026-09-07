@@ -2,7 +2,7 @@
 type: status
 tags: [laufen, status, steuerung]
 status: lebend
-updated: 2026-09-03
+updated: 2026-09-07
 naechste_revision: 2026-09-14
 ---
 
@@ -25,6 +25,7 @@ geholt. Methodik und Prinzipien stehen im Coach-Prompt, nicht hier.
 | **Nächster Wettkampf** | Wecker-28 Münster, So 13.09.2026, 10:10 Uhr, 28 km |
 | Zielzeit dort | 1:58–2:02 bei 4:10–4:20/km, HF 152–158 |
 | Charakter | kontrollierter Wettkampf + Datenpunkt, keine Zeitjagd |
+| Nebenrennen | Advents-Aaseelauf Münster, So 29.11.2026, 10 km, angemeldet — **kein Fokus**, läuft als harte Einheit im Block mit → [[Wettkampf 2026-11-29 Advents-Aaseelauf]] |
 | **Saisonziel** | HM unter 1:20:00 → Arrow Venloop, So 21.03.2027, 14:00 Uhr |
 | Startplatz Venloop | **gesichert** (Stand 03.09.2026) |
 | Nebenziel | 5-km-Zeit, läuft als Schärfung mit |
@@ -159,6 +160,7 @@ schrumpfenden Basis aufgebaut. Diesen Punkt beim Blockreview nach dem Rennen pr�
 | 03.09.2026 | Venloop-Startplatz gesichert. Risikohinweis entfernt, Zielrennen ist fix. |
 | 03.09.2026 | 6 Lauftage/Woche ab Venloop-Block bestätigt. Aufbau über Frequenz statt Lauflänge, Blockziel 4× ≥ 60 km. Radvorgabe präzisiert. |
 | 03.09.2026 | Resilienz-Datenpunkt für den 28er als offene Messung ergänzt (Drift letzte 8 km). Steigerungsreihenfolge und zweite Sub-Schwellen-Einheit stehen in [[HM-Aufbau Forschungsgrundlagen 2026]] (Update 03.09.) und [[Trainingsplan HM Sub-120 2026]] (Steuerungsregeln). |
+| 07.09.2026 | Advents-Aaseelauf 29.11.2026 (10 km) eingetragen — angemeldet, aber als Nebenrennen ohne Fokus. Kein Taper, keine Zielzeit, keine Planänderung. |
 
 > **Pflegeregel:** Bei jeder Änderung `updated` im Frontmatter setzen, `naechste_revision`
 > fortschreiben und hier eine Zeile ergänzen. Alte Werte werden ersetzt, nicht gelöscht —

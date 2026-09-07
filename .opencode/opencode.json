@@ -8,6 +8,7 @@
     "perplexity": {
       "type": "remote",
       "url": "https://litellm.ai.viadee.cloud/mcp/websearch",
+      "oauth": false,
       "headers": {
         "x-litellm-api-key": "Bearer {env:LITE_LLM_API_KEY}"
       }
