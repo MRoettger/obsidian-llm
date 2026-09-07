@@ -63,7 +63,7 @@ Du steigst bei Marathon-km 14 ein. Alles um dich herum läuft Marathontempo und 
 | KW 33 (bis 16.08.) | 17 km + 5 km HM-Pace | ~54 km | unverändert |
 | KW 34 (17.–23.08.) | 20 km locker | ~58 km | Umfang aufbauen, neuer Freitagslauf |
 | KW 35 (24.–30.08.) | **24 km**, letzte 8 km @ 4:10–4:15 | ~64 km | Peak-Longrun, Renntempo-Test |
-| KW 36 (31.08.–06.09.) | 16 km locker | ~49 km | Entlastung, Intervalle reduziert |
+| KW 36 (31.08.–06.09.) | 16 km locker | ~41 km | Entlastung. Di: Schärfung statt VO2max. **Do (03.09.): Ersatz für die Wochenschwelle** — 8 km Renntempo-Kontakt (Ø 152 bpm, RPE 2/10) statt vollem Schwellenblock, bewusst kein neuer Reiz mehr |
 | KW 37 (07.–13.09.) | **RENNEN 28 km** | ~51 km | Taper |
 
 **Long-Run-Progression:** 17 → 20 → 24 → 16 → 28 (Rennen). Schritte von +18 % und +20 % — bewusst über der 10-%-Regel aus [[Trainingsplan HM Sub-120 2026]], begründet durch: lockeres Tempo der Aufbauläufe, etablierte 17,8 km im Juli, aerobe Substanz aus dem Radblock, positive Erholungslage.
