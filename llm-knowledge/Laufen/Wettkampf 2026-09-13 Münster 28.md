@@ -2,7 +2,7 @@
 type: wettkampf
 tags: [laufen, wettkampf, muenster, wecker28]
 status: geplant
-updated: 2026-08-11
+updated: 2026-09-12
 datum: 2026-09-13
 distanz: 28km
 startplatz: gesichert
@@ -23,6 +23,28 @@ startplatz: gesichert
 | Distanz | 28 km |
 | Startgeld | 45 € inkl. Medaille |
 | Teilnehmerlimit | 500 (ausverkauft, Warteliste geschlossen) |
+
+## Startunterlagenausgabe
+
+Die Startunterlagen werden nicht zugesandt. Ausgabe gegen Vorlage der Teilnahmebestätigung in der **Gesamtschule Münster-Mitte, Jüdefelderstraße 10, 48143 Münster**.
+
+| Tag | Öffnungszeit |
+|-----|--------------|
+| Freitag | 14:00–19:00 Uhr |
+| Samstag | 10:00–19:00 Uhr |
+| Sonntag | 07:00–08:30 Uhr |
+| Sonntag, nur Wecker-28 | bis 09:00 Uhr |
+
+**Wichtig:** Am Veranstaltungstag ist die Ausgabe grundsätzlich nur bis 08:30 Uhr möglich; bis 09:00 Uhr gilt die Verlängerung ausschließlich für den Wecker-28. Die Abholung am Vortag wird empfohlen, um am Wettkampftag unnötige Hektik zu vermeiden.
+
+## Weitere Startzeiten am Veranstaltungstag
+
+- 09:00 Uhr Volksbank-Münster-Marathon — Schlossplatz
+- 09:15 Uhr Atruvia Staffelmarathon — Schlossplatz
+- **10:10 Uhr Wecker-28 — Kardinal-von-Galen-Ring/Niels-Stensen-Straße**
+- ab 11:30 Uhr Stadtwerke Kids-Marathon — Musikschule Himmelreichallee
+- 12:00 Uhr Charitylauf — Roxeler Straße, Münster-Roxel
+- 13:00 Uhr Gesundheitslauf — Arnheimweg/Ecke Rüschhausweg, Münster-Gievenbeck
 
 ## Zielsetzung
 

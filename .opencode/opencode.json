@@ -10,7 +10,7 @@
       "enabled": true,
       "url": "https://litellm.ai.viadee.cloud/mcp/websearch",
       "headers": {
-        "Authorization": "Bearer {env:LITELLM_API_KEY}"
+        "x-litellm-api-key":"Bearer {env:LITE_LLM_API_KEY}"
       }
     }
   },

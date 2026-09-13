@@ -2,12 +2,72 @@
 type: erkenntnisse
 tags: [laufen, rennen, fehleranalyse]
 status: lebend
-updated: 2026-06-28
+updated: 2026-09-13
 ---
 
 # 🏁 Renntag-Erkenntnisse
 
 Gesammelte Lehren aus Wettkämpfen und Test-Läufen — distanzunabhängig, damit sich Fehler nicht wiederholen. Ergänzt die jeweiligen Wochenberichte um die dauerhaft gültigen Konsequenzen.
+
+---
+
+## Wecker-28 Münster, 13.09.2026 — Ziel erreicht, aber zwei harte Lehren (2:02:21)
+
+**Ergebnis:** 27,92 km in 2:02:21 (4:23/km), Ø-HF 154, max 161. Ziel war 1:58–2:02 →
+am oberen Rand, knapp drüber.
+
+**Bedingungen waren optimal — das ist der Punkt.** Alle drei Must-Haves erfüllt:
+TSB +14,9, kühler Septembermorgen (Start 8:10 Uhr), letzte Radausfahrt 12.08. Es gibt
+keine Ausrede. Die Zeit ist der ehrliche Stand. Genau deshalb ist der Datenpunkt wertvoll.
+
+### Lehre 1: Das Limit ist muskulär, nicht aerob
+
+| Vergleich | km 1–8 | km 21–27 | Δ |
+|---|---|---|---|
+| Ø-HF | 152 | 152 | **0** |
+| Kadenz | 83,3 rpm | 83,1 rpm | **0** |
+| Schrittlänge | 1,41 m | 1,33 m | **−5,3 %** |
+| Pace | 4:16/km | 4:31/km | −5,5 % |
+
+Decoupling über die Hälften nur 3,7 % — aerob sauber abgedeckt. Der gesamte
+Tempoverlust im Schlussdrittel ging über die Schrittlänge bei unverändertem Puls und
+unveränderter Kadenz.
+
+**Das ist die Signatur muskulär-struktureller Ermüdung.** Waden/Soleus und
+Hüftstabilisatoren geben nach, bevor das Herz-Kreislauf-System limitiert. Der Athlet
+hat das unabhängig von den Daten so wahrgenommen — beides deckt sich.
+
+**Konsequenz:** Krafttraining ist kein Nebenposten mehr. Schwere Wadenarbeit (vor allem
+**sitzend**, weil das den Soleus trifft), einbeinige Hüftarbeit und ab KW 41 Plyometrie
+für Sehnensteifigkeit. Details in [[Athletenstatus]]. Reines Mehr-Laufen behebt das
+nicht — es verschiebt die Grenze nur langsam.
+
+**Messgröße für die Zukunft:** Bei jedem Wettkampf ab 20 km die Schrittlängen-Drift
+erste vs. letzte 8 km protokollieren. Zielwert: unter 3 %.
+
+### Lehre 2: Der zu schnelle erste Kilometer ist jetzt ein Muster, kein Einzelfall
+
+| Rennen | km 1 | Plan | Ergebnis |
+|---|---|---|---|
+| 24.06.2026 (5 km) | 3:56 | kontrolliert | Einbruch ab km 2 |
+| 13.09.2026 (28 km) | **4:07** | 4:20/km | Verlust ab km 21 |
+
+Zweites Rennen in Folge zu schnell raus, zweites Mal positiv gesplittet. Am 13.09. lagen
+km 1–10 bei 4:16/km statt geplanter 4:20 und HF 153 statt unter 152 — die Abweichung
+sieht klein aus und kostete trotzdem das Schlussdrittel.
+
+**Konsequenz — ab sofort verbindlich:** Der erste Kilometer wird nach Uhr gelaufen,
+nicht nach Gefühl. Gefühl ist auf km 1 systematisch zu schnell. Bei Abweichung > 3 s/km
+über Zielpace: aktiv bremsen, auch wenn es sich falsch anfühlt.
+
+**Was besser wurde:** Kein Kollaps wie am 24.06., sondern gleichmäßiges Wegrutschen bei
+fallender HF. Die Pacing-Disziplin über die Gesamtdistanz hat sich verbessert — nur der
+Start nicht.
+
+> Merksatz: **Bei guten Bedingungen und sauberem Taper zeigt das Rennen deinen echten
+> Stand.** Am 13.09. hieß der: aerob reif, muskulär nicht.
+
+*Quelle: Intervals.icu Aktivität i186198625, Intervallanalyse über 28 Kilometersplits.*
 
 ---
 

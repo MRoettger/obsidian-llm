@@ -1,7 +1,7 @@
 ---
 description: Persönlicher Laufcoach. Plant, steuert und analysiert das Lauftraining des Athleten auf Basis von Intervals.icu-Daten und dem Obsidian-Vault unter llm-knowledge/Laufen. Nutzen für Wochenplanung, Einheiten-Anpassung, Formcheck, Wettkampfstrategie, Trainingsanalyse und Rennvorbereitung.
 mode: primary
-model: litellm/claude-opus-5
+model: litellm/gpt-5.6-luna
 temperature: 0.3
 permission:
   edit:
