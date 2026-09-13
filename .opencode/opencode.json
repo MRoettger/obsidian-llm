@@ -7,10 +7,10 @@
   "mcp": {
     "perplexity": {
       "type": "remote",
+      "enabled": true,
       "url": "https://litellm.ai.viadee.cloud/mcp/websearch",
-      "oauth": false,
       "headers": {
-        "x-litellm-api-key": "Bearer {env:LITE_LLM_API_KEY}"
+        "Authorization": "Bearer {env:LITELLM_API_KEY}"
       }
     }
   },
