@@ -63,7 +63,7 @@ Quelle: **Sportmedizinischer Stufentest**, Juni 2026. Maßgeblich.
 | **LTHR Laufen** | **165 bpm** | Sportmedizin — maßgeblich |
 | LTHR in Intervals.icu | 172 bpm | ⚠️ zu hoch, **nicht** verwenden |
 | LTHR Rad (Intervals.icu) | 162 bpm | plausibel |
-| Ruhepuls (Spanne 08–09/2026) | 44–50 bpm | Intervals.icu |
+| **Ruhepuls Normalbereich** | **44–49 bpm** | Intervals.icu 08–09/2026. Ab 52 über eine Woche: Abbruchkriterium |
 | VO2max (Garmin) | 61 ml/kg/min | Schätzwert, nicht gemessen |
 | FTP Rad | 300 W eingetragen / eFTP ~275 W | eFTP fällt seit dem Radurlaub |
 | Gewicht | 74 kg | ⚠️ Sprung 84 → 74 am 11.08. — sieht nach Profilkorrektur aus, nicht nach realem Verlust. Bei Gelegenheit verifizieren. |
@@ -198,29 +198,19 @@ Stufe. Einer nicht → Stufe wiederholen, nicht überspringen.
 
 ## 📉 Formtrend
 
-CTL fiel seit Mitte Juli: 53,8 (18.07.) → 45,9 (11.08.) → 35,5 (12.09.) → **42,2 nach
-dem Wettkampf**. Der Taper war gewollt, der Abfall ist damit abgeschlossen.
+**CTL ist Hilfsgröße, nicht Steuergröße.** Die HM-Leistung hängt an spezifischem
+Laufumfang und Ermüdungsresistenz, nicht an einer Zahl im Fitness-Chart. Ein
+niedriger CTL-Peak aus fast reinem Laufen ist laufspezifisch wertvoller als ein
+hoher mit großem Radanteil.
+
+Absolutwerte und Verlauf stehen **nicht** hier, sondern kommen live aus Intervals.icu.
+Der erreichbare Zielwert ergibt sich aus der Umfangsrampe oben und wird mit
+`scripts/laufcoach.py ctl` gerechnet, nicht geschätzt — frühere Festwerte in dieser
+Datei (70–72, später 56–60) waren dreimal zu hoch gegriffen.
 
 **Ab KW 39 muss der Trend drehen und positiv bleiben.** Drei Wochen ungeplant fallendes
-CTL löst eine sofortige Neubewertung aus (Prompt 4.3).
-
-### CTL-Zielkorridor — korrigiert 13.09.2026
-
-Nachgerechnet mit dem realen Load-Verhältnis: **~3,3 Load je lockerem Laufkilometer**,
-~4,8 im Renntempo. Die frühere Angabe 3,5–4,0 war zu hoch gegriffen.
-
-| Szenario | CTL erreichbar |
-|---|---|
-| 85 km Laufen + 1 Radeinheit | ~58–60 |
-| 85 km Laufen + 2 Radeinheiten | ~68–70 |
-| **85–88 km Laufen, Rad nur sporadisch** | **~56–60** ← gewählt |
-
-**Entscheidung des Athleten (13.09.2026): CTL ~60 wird akzeptiert.** Die früher genannten
-70–72 waren nie ohne zweite Radeinheit erreichbar und sind als Ziel gestrichen.
-
-CTL ist ohnehin nur eine Hilfsgröße — die HM-Leistung hängt an spezifischem Laufumfang
-und Ermüdungsresistenz, nicht an einer Zahl im Fitness-Chart. 60 aus fast reinem Laufen
-ist laufspezifisch wertvoller als 70 mit hohem Radanteil.
+CTL lösen eine sofortige Neubewertung aus (Prompt 4.3). Maßgeblich ist die Richtung,
+nicht das Niveau.
 
 ---
 
@@ -304,6 +294,10 @@ Größe, die im 28er weggebrochen ist. Reiner Kraftaufbau leistet das nicht.
 | 13.09.2026 | Freigabekriterien vor jeder Umfangsstufe ergänzt. Ausdrücklich klargestellt, dass eine gute Herzfrequenz **kein** Argument für mehr Umfang ist — der 28er hat gezeigt, dass die HF das Limit nicht abbildet. |
 | 13.09.2026 | **CTL-Ziel von 70–72 auf ~60 korrigiert.** Eigener Rechenfehler: mit realen ~3,3 Load/Laufkilometer sind 70 nur mit zwei Radeinheiten/Woche erreichbar. Athlet wählt stattdessen Laufspezifik. |
 | 13.09.2026 | **Rennrad aus der festen Wochenplanung gestrichen** (Athletenentscheidung). Läuft ab jetzt spontan nach Lust, wird nicht eingeplant und nicht als Ausfall gewertet. Einzige Grenze: nicht in den 3 Tagen vor einem Wettkampf. |
+| 13.09.2026 | **CTL-Absolutwerte und Zielkorridor aus der Datei entfernt.** Verstießen gegen die eigene Regel im Vorspann (Tagesdaten gehören nach Intervals.icu) und waren zusätzlich dreimal falsch: 70–72 → 56–60 → real 40–45. Ursache: abgeleiteter Wert stand neben seinen Eingangsgrößen und lief davon weg. Zielwert wird jetzt mit `scripts/laufcoach.py ctl` aus der Umfangsrampe gerechnet. Die Entscheidung dahinter (CTL ist Hilfsgröße, Laufspezifik vor Zahl) bleibt als Prinzip erhalten. |
+| 13.09.2026 | Load/km empirisch aus 20 echten Läufen neu bestimmt: **3,13 locker / 4,18 Qualität / 4,82 Renntempo** (vorher pauschal 3,3 bzw. 4,8). Gegenprobe KW 34: Modell 206 vs. real 213 Load bei 62 km. |
+| 13.09.2026 | Ruhepuls vereinheitlicht: Normalbereich **44–49**, Alarmschwelle 52. Vorher standen 44–50 und 44–49 nebeneinander in derselben Datei. |
+| 13.09.2026 | `scripts/laufcoach.py` angelegt — Rechenkern für Prognose, CTL/TSB, Decoupling, Schrittlängen-Drift, Must-Haves, Pacing und Intervalle. Selbsttest verifiziert die Formeln gegen echte Intervals.icu-Werte. Enthält einen **Snapshot** dieser Datei; bei Änderungen hier muss der Block dort nachgezogen werden. |
 
 > **Pflegeregel:** Bei jeder Änderung `updated` im Frontmatter setzen, `naechste_revision`
 > fortschreiben und hier eine Zeile ergänzen. Alte Werte werden ersetzt, nicht gelöscht —
