@@ -114,20 +114,10 @@
       "norm_label": "\ud83d\udcc9 formtrend"
     },
     {
-      "label": "CTL-Zielkorridor \u2014 korrigiert 13.09.2026",
-      "file_type": "document",
-      "source_file": "llm-knowledge/Laufen/Athletenstatus.md",
-      "source_location": "L207",
-      "_origin": "ast",
-      "id": "llm_knowledge_laufen_athletenstatus_ctl_zielkorridor_korrigiert_13_09_2026",
-      "community": 2,
-      "norm_label": "ctl-zielkorridor \u2014 korrigiert 13.09.2026"
-    },
-    {
       "label": "\ud83d\udeb4 Nebensportarten",
       "file_type": "document",
       "source_file": "llm-knowledge/Laufen/Athletenstatus.md",
-      "source_location": "L227",
+      "source_location": "L217",
       "_origin": "ast",
       "id": "llm_knowledge_laufen_athletenstatus_nebensportarten",
       "community": 2,
@@ -137,7 +127,7 @@
       "label": "\ud83c\udfcb\ufe0f Krafttraining \u2014 Pflichtbestandteil ab 13.09.2026",
       "file_type": "document",
       "source_file": "llm-knowledge/Laufen/Athletenstatus.md",
-      "source_location": "L248",
+      "source_location": "L238",
       "_origin": "ast",
       "id": "llm_knowledge_laufen_athletenstatus_krafttraining_pflichtbestandteil_ab_13_09_2026",
       "community": 2,
@@ -147,7 +137,7 @@
       "label": "\ud83d\udd04 \u00c4nderungshistorie",
       "file_type": "document",
       "source_file": "llm-knowledge/Laufen/Athletenstatus.md",
-      "source_location": "L289",
+      "source_location": "L279",
       "_origin": "ast",
       "id": "llm_knowledge_laufen_athletenstatus_\u00e4nderungshistorie",
       "community": 2,
@@ -157,7 +147,7 @@
       "label": "Verkn\u00fcpfte Notizen",
       "file_type": "document",
       "source_file": "llm-knowledge/Laufen/Athletenstatus.md",
-      "source_location": "L315",
+      "source_location": "L309",
       "_origin": "ast",
       "id": "llm_knowledge_laufen_athletenstatus_verkn\u00fcpfte_notizen",
       "community": 2,
@@ -169,9 +159,9 @@
       "source_file": "llm-knowledge/Laufen/Renntag-Erkenntnisse.md",
       "source_location": "L1",
       "_origin": "ast",
-      "id": "llm_knowledge_laufen_renntag_erkenntnisse",
-      "community": 54,
-      "norm_label": "renntag-erkenntnisse.md"
+      "community": 6,
+      "norm_label": "renntag-erkenntnisse.md",
+      "id": "llm_knowledge_laufen_renntag_erkenntnisse"
     },
     {
       "label": "\ud83c\udfc1 Renntag-Erkenntnisse",
@@ -179,9 +169,9 @@
       "source_file": "llm-knowledge/Laufen/Renntag-Erkenntnisse.md",
       "source_location": "L8",
       "_origin": "ast",
-      "id": "llm_knowledge_laufen_renntag_erkenntnisse_renntag_erkenntnisse",
-      "community": 54,
-      "norm_label": "\ud83c\udfc1 renntag-erkenntnisse"
+      "community": 3,
+      "norm_label": "\ud83c\udfc1 renntag-erkenntnisse",
+      "id": "llm_knowledge_laufen_renntag_erkenntnisse_renntag_erkenntnisse"
     },
     {
       "label": "Wecker-28 M\u00fcnster, 13.09.2026 \u2014 Ziel erreicht, aber zwei harte Lehren (2:02:21)",
@@ -189,9 +179,9 @@
       "source_file": "llm-knowledge/Laufen/Renntag-Erkenntnisse.md",
       "source_location": "L14",
       "_origin": "ast",
-      "id": "llm_knowledge_laufen_renntag_erkenntnisse_wecker_28_m\u00fcnster_13_09_2026_ziel_erreicht_aber_zwei_harte_lehren_2_02_21",
-      "community": 54,
-      "norm_label": "wecker-28 munster, 13.09.2026 \u2014 ziel erreicht, aber zwei harte lehren (2:02:21)"
+      "community": 3,
+      "norm_label": "wecker-28 munster, 13.09.2026 \u2014 ziel erreicht, aber zwei harte lehren (2:02:21)",
+      "id": "llm_knowledge_laufen_renntag_erkenntnisse_wecker_28_m\u00fcnster_13_09_2026_ziel_erreicht_aber_zwei_harte_lehren_2_02_21"
     },
     {
       "label": "Lehre 1: Das Limit ist muskul\u00e4r, nicht aerob",
@@ -199,9 +189,9 @@
       "source_file": "llm-knowledge/Laufen/Renntag-Erkenntnisse.md",
       "source_location": "L23",
       "_origin": "ast",
-      "id": "llm_knowledge_laufen_renntag_erkenntnisse_lehre_1_das_limit_ist_muskul\u00e4r_nicht_aerob",
-      "community": 54,
-      "norm_label": "lehre 1: das limit ist muskular, nicht aerob"
+      "community": 3,
+      "norm_label": "lehre 1: das limit ist muskular, nicht aerob",
+      "id": "llm_knowledge_laufen_renntag_erkenntnisse_lehre_1_das_limit_ist_muskul\u00e4r_nicht_aerob"
     },
     {
       "label": "Lehre 2: Der zu schnelle erste Kilometer ist jetzt ein Muster, kein Einzelfall",
@@ -209,9 +199,9 @@
       "source_file": "llm-knowledge/Laufen/Renntag-Erkenntnisse.md",
       "source_location": "L48",
       "_origin": "ast",
-      "id": "llm_knowledge_laufen_renntag_erkenntnisse_lehre_2_der_zu_schnelle_erste_kilometer_ist_jetzt_ein_muster_kein_einzelfall",
-      "community": 54,
-      "norm_label": "lehre 2: der zu schnelle erste kilometer ist jetzt ein muster, kein einzelfall"
+      "community": 3,
+      "norm_label": "lehre 2: der zu schnelle erste kilometer ist jetzt ein muster, kein einzelfall",
+      "id": "llm_knowledge_laufen_renntag_erkenntnisse_lehre_2_der_zu_schnelle_erste_kilometer_ist_jetzt_ein_muster_kein_einzelfall"
     },
     {
       "label": "5-km-Test, 24.06.2026 \u2014 Ziel verfehlt (20:31 statt 18:00\u201318:15)",
@@ -219,9 +209,9 @@
       "source_file": "llm-knowledge/Laufen/Renntag-Erkenntnisse.md",
       "source_location": "L74",
       "_origin": "ast",
-      "id": "llm_knowledge_laufen_renntag_erkenntnisse_5_km_test_24_06_2026_ziel_verfehlt_20_31_statt_18_00_18_15",
-      "community": 54,
-      "norm_label": "5-km-test, 24.06.2026 \u2014 ziel verfehlt (20:31 statt 18:00\u201318:15)"
+      "community": 3,
+      "norm_label": "5-km-test, 24.06.2026 \u2014 ziel verfehlt (20:31 statt 18:00\u201318:15)",
+      "id": "llm_knowledge_laufen_renntag_erkenntnisse_5_km_test_24_06_2026_ziel_verfehlt_20_31_statt_18_00_18_15"
     },
     {
       "label": "Was die Zeit gekostet hat (mehrere Faktoren zusammen)",
@@ -229,9 +219,9 @@
       "source_file": "llm-knowledge/Laufen/Renntag-Erkenntnisse.md",
       "source_location": "L78",
       "_origin": "ast",
-      "id": "llm_knowledge_laufen_renntag_erkenntnisse_was_die_zeit_gekostet_hat_mehrere_faktoren_zusammen",
-      "community": 54,
-      "norm_label": "was die zeit gekostet hat (mehrere faktoren zusammen)"
+      "community": 3,
+      "norm_label": "was die zeit gekostet hat (mehrere faktoren zusammen)",
+      "id": "llm_knowledge_laufen_renntag_erkenntnisse_was_die_zeit_gekostet_hat_mehrere_faktoren_zusammen"
     },
     {
       "label": "Konsequenzen f\u00fcr den n\u00e4chsten Versuch",
@@ -239,9 +229,9 @@
       "source_file": "llm-knowledge/Laufen/Renntag-Erkenntnisse.md",
       "source_location": "L95",
       "_origin": "ast",
-      "id": "llm_knowledge_laufen_renntag_erkenntnisse_konsequenzen_f\u00fcr_den_n\u00e4chsten_versuch",
-      "community": 54,
-      "norm_label": "konsequenzen fur den nachsten versuch"
+      "community": 3,
+      "norm_label": "konsequenzen fur den nachsten versuch",
+      "id": "llm_knowledge_laufen_renntag_erkenntnisse_konsequenzen_f\u00fcr_den_n\u00e4chsten_versuch"
     },
     {
       "label": "Verkn\u00fcpfte Notizen",
@@ -249,9 +239,9 @@
       "source_file": "llm-knowledge/Laufen/Renntag-Erkenntnisse.md",
       "source_location": "L106",
       "_origin": "ast",
-      "id": "llm_knowledge_laufen_renntag_erkenntnisse_verkn\u00fcpfte_notizen",
-      "community": 54,
-      "norm_label": "verknupfte notizen"
+      "community": 3,
+      "norm_label": "verknupfte notizen",
+      "id": "llm_knowledge_laufen_renntag_erkenntnisse_verkn\u00fcpfte_notizen"
     },
     {
       "label": "\ud83c\udd95 Neue Support-Dateien (25.06.2026)",
@@ -259,9 +249,9 @@
       "source_file": "llm-knowledge/Laufen/Renntag-Erkenntnisse.md",
       "source_location": "L118",
       "_origin": "ast",
-      "id": "llm_knowledge_laufen_renntag_erkenntnisse_neue_support_dateien_25_06_2026",
-      "community": 54,
-      "norm_label": "\ud83c\udd95 neue support-dateien (25.06.2026)"
+      "community": 3,
+      "norm_label": "\ud83c\udd95 neue support-dateien (25.06.2026)",
+      "id": "llm_knowledge_laufen_renntag_erkenntnisse_neue_support_dateien_25_06_2026"
     },
     {
       "label": "Wettkampf 2026-09-13 M\u00fcnster 28.md",
@@ -269,9 +259,9 @@
       "source_file": "llm-knowledge/Laufen/Wettkampf 2026-09-13 M\u00fcnster 28.md",
       "source_location": "L1",
       "_origin": "ast",
-      "id": "llm_knowledge_laufen_wettkampf_2026_09_13_m\u00fcnster_28",
-      "community": 54,
-      "norm_label": "wettkampf 2026-09-13 munster 28.md"
+      "community": 6,
+      "norm_label": "wettkampf 2026-09-13 munster 28.md",
+      "id": "llm_knowledge_laufen_wettkampf_2026_09_13_m\u00fcnster_28"
     },
     {
       "label": "\ud83c\udfc1 Wecker-28 M\u00fcnster 2026 \u2014 28 km",
@@ -279,9 +269,9 @@
       "source_file": "llm-knowledge/Laufen/Wettkampf 2026-09-13 M\u00fcnster 28.md",
       "source_location": "L11",
       "_origin": "ast",
-      "id": "llm_knowledge_laufen_wettkampf_2026_09_13_m\u00fcnster_28_wecker_28_m\u00fcnster_2026_28_km",
       "community": 59,
-      "norm_label": "\ud83c\udfc1 wecker-28 munster 2026 \u2014 28 km"
+      "norm_label": "\ud83c\udfc1 wecker-28 munster 2026 \u2014 28 km",
+      "id": "llm_knowledge_laufen_wettkampf_2026_09_13_m\u00fcnster_28_wecker_28_m\u00fcnster_2026_28_km"
     },
     {
       "label": "Eckdaten",
@@ -289,9 +279,9 @@
       "source_file": "llm-knowledge/Laufen/Wettkampf 2026-09-13 M\u00fcnster 28.md",
       "source_location": "L15",
       "_origin": "ast",
-      "id": "llm_knowledge_laufen_wettkampf_2026_09_13_m\u00fcnster_28_eckdaten",
       "community": 59,
-      "norm_label": "eckdaten"
+      "norm_label": "eckdaten",
+      "id": "llm_knowledge_laufen_wettkampf_2026_09_13_m\u00fcnster_28_eckdaten"
     },
     {
       "label": "Startunterlagenausgabe",
@@ -299,9 +289,9 @@
       "source_file": "llm-knowledge/Laufen/Wettkampf 2026-09-13 M\u00fcnster 28.md",
       "source_location": "L27",
       "_origin": "ast",
-      "id": "llm_knowledge_laufen_wettkampf_2026_09_13_m\u00fcnster_28_startunterlagenausgabe",
       "community": 59,
-      "norm_label": "startunterlagenausgabe"
+      "norm_label": "startunterlagenausgabe",
+      "id": "llm_knowledge_laufen_wettkampf_2026_09_13_m\u00fcnster_28_startunterlagenausgabe"
     },
     {
       "label": "Weitere Startzeiten am Veranstaltungstag",
@@ -309,9 +299,9 @@
       "source_file": "llm-knowledge/Laufen/Wettkampf 2026-09-13 M\u00fcnster 28.md",
       "source_location": "L40",
       "_origin": "ast",
-      "id": "llm_knowledge_laufen_wettkampf_2026_09_13_m\u00fcnster_28_weitere_startzeiten_am_veranstaltungstag",
       "community": 59,
-      "norm_label": "weitere startzeiten am veranstaltungstag"
+      "norm_label": "weitere startzeiten am veranstaltungstag",
+      "id": "llm_knowledge_laufen_wettkampf_2026_09_13_m\u00fcnster_28_weitere_startzeiten_am_veranstaltungstag"
     },
     {
       "label": "Zielsetzung",
@@ -319,9 +309,9 @@
       "source_file": "llm-knowledge/Laufen/Wettkampf 2026-09-13 M\u00fcnster 28.md",
       "source_location": "L49",
       "_origin": "ast",
-      "id": "llm_knowledge_laufen_wettkampf_2026_09_13_m\u00fcnster_28_zielsetzung",
       "community": 59,
-      "norm_label": "zielsetzung"
+      "norm_label": "zielsetzung",
+      "id": "llm_knowledge_laufen_wettkampf_2026_09_13_m\u00fcnster_28_zielsetzung"
     },
     {
       "label": "Pacing \u2014 negativ splitten",
@@ -329,9 +319,9 @@
       "source_file": "llm-knowledge/Laufen/Wettkampf 2026-09-13 M\u00fcnster 28.md",
       "source_location": "L59",
       "_origin": "ast",
-      "id": "llm_knowledge_laufen_wettkampf_2026_09_13_m\u00fcnster_28_pacing_negativ_splitten",
       "community": 59,
-      "norm_label": "pacing \u2014 negativ splitten"
+      "norm_label": "pacing \u2014 negativ splitten",
+      "id": "llm_knowledge_laufen_wettkampf_2026_09_13_m\u00fcnster_28_pacing_negativ_splitten"
     },
     {
       "label": "Taktik",
@@ -339,9 +329,9 @@
       "source_file": "llm-knowledge/Laufen/Wettkampf 2026-09-13 M\u00fcnster 28.md",
       "source_location": "L67",
       "_origin": "ast",
-      "id": "llm_knowledge_laufen_wettkampf_2026_09_13_m\u00fcnster_28_taktik",
       "community": 59,
-      "norm_label": "taktik"
+      "norm_label": "taktik",
+      "id": "llm_knowledge_laufen_wettkampf_2026_09_13_m\u00fcnster_28_taktik"
     },
     {
       "label": "Ausgangslage (Stand 11.08.2026)",
@@ -349,9 +339,9 @@
       "source_file": "llm-knowledge/Laufen/Wettkampf 2026-09-13 M\u00fcnster 28.md",
       "source_location": "L73",
       "_origin": "ast",
-      "id": "llm_knowledge_laufen_wettkampf_2026_09_13_m\u00fcnster_28_ausgangslage_stand_11_08_2026",
       "community": 59,
-      "norm_label": "ausgangslage (stand 11.08.2026)"
+      "norm_label": "ausgangslage (stand 11.08.2026)",
+      "id": "llm_knowledge_laufen_wettkampf_2026_09_13_m\u00fcnster_28_ausgangslage_stand_11_08_2026"
     },
     {
       "label": "Aufbau (4 Wochen, in Intervals.icu eingetragen)",
@@ -359,9 +349,9 @@
       "source_file": "llm-knowledge/Laufen/Wettkampf 2026-09-13 M\u00fcnster 28.md",
       "source_location": "L81",
       "_origin": "ast",
-      "id": "llm_knowledge_laufen_wettkampf_2026_09_13_m\u00fcnster_28_aufbau_4_wochen_in_intervals_icu_eingetragen",
       "community": 59,
-      "norm_label": "aufbau (4 wochen, in intervals.icu eingetragen)"
+      "norm_label": "aufbau (4 wochen, in intervals.icu eingetragen)",
+      "id": "llm_knowledge_laufen_wettkampf_2026_09_13_m\u00fcnster_28_aufbau_4_wochen_in_intervals_icu_eingetragen"
     },
     {
       "label": "Risiko & Abbruchkriterien",
@@ -369,9 +359,9 @@
       "source_file": "llm-knowledge/Laufen/Wettkampf 2026-09-13 M\u00fcnster 28.md",
       "source_location": "L95",
       "_origin": "ast",
-      "id": "llm_knowledge_laufen_wettkampf_2026_09_13_m\u00fcnster_28_risiko_abbruchkriterien",
       "community": 59,
-      "norm_label": "risiko & abbruchkriterien"
+      "norm_label": "risiko & abbruchkriterien",
+      "id": "llm_knowledge_laufen_wettkampf_2026_09_13_m\u00fcnster_28_risiko_abbruchkriterien"
     },
     {
       "label": "Einordnung in die Saison",
@@ -379,9 +369,9 @@
       "source_file": "llm-knowledge/Laufen/Wettkampf 2026-09-13 M\u00fcnster 28.md",
       "source_location": "L101",
       "_origin": "ast",
-      "id": "llm_knowledge_laufen_wettkampf_2026_09_13_m\u00fcnster_28_einordnung_in_die_saison",
       "community": 59,
-      "norm_label": "einordnung in die saison"
+      "norm_label": "einordnung in die saison",
+      "id": "llm_knowledge_laufen_wettkampf_2026_09_13_m\u00fcnster_28_einordnung_in_die_saison"
     },
     {
       "label": "Offene Punkte",
@@ -389,9 +379,9 @@
       "source_file": "llm-knowledge/Laufen/Wettkampf 2026-09-13 M\u00fcnster 28.md",
       "source_location": "L105",
       "_origin": "ast",
-      "id": "llm_knowledge_laufen_wettkampf_2026_09_13_m\u00fcnster_28_offene_punkte",
       "community": 59,
-      "norm_label": "offene punkte"
+      "norm_label": "offene punkte",
+      "id": "llm_knowledge_laufen_wettkampf_2026_09_13_m\u00fcnster_28_offene_punkte"
     },
     {
       "label": "Verwandte Notizen",
@@ -399,9 +389,9 @@
       "source_file": "llm-knowledge/Laufen/Wettkampf 2026-09-13 M\u00fcnster 28.md",
       "source_location": "L112",
       "_origin": "ast",
-      "id": "llm_knowledge_laufen_wettkampf_2026_09_13_m\u00fcnster_28_verwandte_notizen",
       "community": 59,
-      "norm_label": "verwandte notizen"
+      "norm_label": "verwandte notizen",
+      "id": "llm_knowledge_laufen_wettkampf_2026_09_13_m\u00fcnster_28_verwandte_notizen"
     },
     {
       "label": "Quellen",
@@ -409,9 +399,9 @@
       "source_file": "llm-knowledge/Laufen/Wettkampf 2026-09-13 M\u00fcnster 28.md",
       "source_location": "L116",
       "_origin": "ast",
-      "id": "llm_knowledge_laufen_wettkampf_2026_09_13_m\u00fcnster_28_quellen",
       "community": 59,
-      "norm_label": "quellen"
+      "norm_label": "quellen",
+      "id": "llm_knowledge_laufen_wettkampf_2026_09_13_m\u00fcnster_28_quellen"
     },
     {
       "label": "Wettkampf 2026-11-29 Advents-Aaseelauf.md",
@@ -419,9 +409,9 @@
       "source_file": "llm-knowledge/Laufen/Wettkampf 2026-11-29 Advents-Aaseelauf.md",
       "source_location": "L1",
       "_origin": "ast",
-      "id": "llm_knowledge_laufen_wettkampf_2026_11_29_advents_aaseelauf",
       "community": 54,
-      "norm_label": "wettkampf 2026-11-29 advents-aaseelauf.md"
+      "norm_label": "wettkampf 2026-11-29 advents-aaseelauf.md",
+      "id": "llm_knowledge_laufen_wettkampf_2026_11_29_advents_aaseelauf"
     },
     {
       "label": "36. AOK Advents-Aaseelauf 2026 \u2014 10 km",
@@ -429,9 +419,9 @@
       "source_file": "llm-knowledge/Laufen/Wettkampf 2026-11-29 Advents-Aaseelauf.md",
       "source_location": "L11",
       "_origin": "ast",
-      "id": "llm_knowledge_laufen_wettkampf_2026_11_29_advents_aaseelauf_36_aok_advents_aaseelauf_2026_10_km",
       "community": 54,
-      "norm_label": "36. aok advents-aaseelauf 2026 \u2014 10 km"
+      "norm_label": "36. aok advents-aaseelauf 2026 \u2014 10 km",
+      "id": "llm_knowledge_laufen_wettkampf_2026_11_29_advents_aaseelauf_36_aok_advents_aaseelauf_2026_10_km"
     },
     {
       "label": "Eckdaten",
@@ -439,9 +429,9 @@
       "source_file": "llm-knowledge/Laufen/Wettkampf 2026-11-29 Advents-Aaseelauf.md",
       "source_location": "L20",
       "_origin": "ast",
-      "id": "llm_knowledge_laufen_wettkampf_2026_11_29_advents_aaseelauf_eckdaten",
       "community": 54,
-      "norm_label": "eckdaten"
+      "norm_label": "eckdaten",
+      "id": "llm_knowledge_laufen_wettkampf_2026_11_29_advents_aaseelauf_eckdaten"
     },
     {
       "label": "Pr\u00fcfpunkt Sub-1:20",
@@ -449,9 +439,9 @@
       "source_file": "llm-knowledge/Laufen/Wettkampf 2026-11-29 Advents-Aaseelauf.md",
       "source_location": "L31",
       "_origin": "ast",
-      "id": "llm_knowledge_laufen_wettkampf_2026_11_29_advents_aaseelauf_pr\u00fcfpunkt_sub_1_20",
       "community": 54,
-      "norm_label": "prufpunkt sub-1:20"
+      "norm_label": "prufpunkt sub-1:20",
+      "id": "llm_knowledge_laufen_wettkampf_2026_11_29_advents_aaseelauf_pr\u00fcfpunkt_sub_1_20"
     },
     {
       "label": "Umgang",
@@ -459,9 +449,9 @@
       "source_file": "llm-knowledge/Laufen/Wettkampf 2026-11-29 Advents-Aaseelauf.md",
       "source_location": "L43",
       "_origin": "ast",
-      "id": "llm_knowledge_laufen_wettkampf_2026_11_29_advents_aaseelauf_umgang",
       "community": 54,
-      "norm_label": "umgang"
+      "norm_label": "umgang",
+      "id": "llm_knowledge_laufen_wettkampf_2026_11_29_advents_aaseelauf_umgang"
     },
     {
       "label": "Verwandte Notizen",
@@ -469,9 +459,9 @@
       "source_file": "llm-knowledge/Laufen/Wettkampf 2026-11-29 Advents-Aaseelauf.md",
       "source_location": "L60",
       "_origin": "ast",
-      "id": "llm_knowledge_laufen_wettkampf_2026_11_29_advents_aaseelauf_verwandte_notizen",
       "community": 54,
-      "norm_label": "verwandte notizen"
+      "norm_label": "verwandte notizen",
+      "id": "llm_knowledge_laufen_wettkampf_2026_11_29_advents_aaseelauf_verwandte_notizen"
     },
     {
       "label": "_Index.md",
@@ -1229,7 +1219,7 @@
       "source_file": "llm-knowledge/Laufen/Obsidian-Struktur-Analyse 25.06.2026.md",
       "source_location": "L1",
       "_origin": "ast",
-      "community": 51,
+      "community": 54,
       "norm_label": "obsidian-struktur-analyse 25.06.2026.md",
       "id": "llm_knowledge_laufen_obsidian_struktur_analyse_25_06_2026"
     },
@@ -1699,7 +1689,7 @@
       "source_file": "llm-knowledge/Laufen/Trainingspr\u00e4ferenzen.md",
       "source_location": "L8",
       "_origin": "ast",
-      "community": 123,
+      "community": 6,
       "norm_label": "\u2699\ufe0f trainingspraferenzen",
       "id": "llm_knowledge_laufen_trainingspr\u00e4ferenzen_trainingspr\u00e4ferenzen"
     },
@@ -1709,7 +1699,7 @@
       "source_file": "llm-knowledge/Laufen/Trainingspr\u00e4ferenzen.md",
       "source_location": "L12",
       "_origin": "ast",
-      "community": 123,
+      "community": 6,
       "norm_label": "feste wochenstruktur",
       "id": "llm_knowledge_laufen_trainingspr\u00e4ferenzen_feste_wochenstruktur"
     },
@@ -1719,7 +1709,7 @@
       "source_file": "llm-knowledge/Laufen/Trainingspr\u00e4ferenzen.md",
       "source_location": "L17",
       "_origin": "ast",
-      "community": 123,
+      "community": 6,
       "norm_label": "variantenreiche intervalle (wichtig fur die planung)",
       "id": "llm_knowledge_laufen_trainingspr\u00e4ferenzen_variantenreiche_intervalle_wichtig_f\u00fcr_die_planung"
     },
@@ -1729,7 +1719,7 @@
       "source_file": "llm-knowledge/Laufen/Trainingspr\u00e4ferenzen.md",
       "source_location": "L30",
       "_origin": "ast",
-      "community": 123,
+      "community": 6,
       "norm_label": "drei regeln, die dabei gelten",
       "id": "llm_knowledge_laufen_trainingspr\u00e4ferenzen_drei_regeln_die_dabei_gelten"
     },
@@ -1739,7 +1729,7 @@
       "source_file": "llm-knowledge/Laufen/Trainingspr\u00e4ferenzen.md",
       "source_location": "L42",
       "_origin": "ast",
-      "community": 123,
+      "community": 6,
       "norm_label": "verknupfte notizen",
       "id": "llm_knowledge_laufen_trainingspr\u00e4ferenzen_verkn\u00fcpfte_notizen"
     },
@@ -2399,7 +2389,7 @@
       "source_file": "llm-knowledge/Python/Python - Async und Performance.md",
       "source_location": "L1",
       "_origin": "ast",
-      "community": 83,
+      "community": 5,
       "norm_label": "python - async und performance.md",
       "id": "llm_knowledge_python_python_async_und_performance"
     },
@@ -2409,7 +2399,7 @@
       "source_file": "llm-knowledge/Python/Python - Async und Performance.md",
       "source_location": "L8",
       "_origin": "ast",
-      "community": 83,
+      "community": 5,
       "norm_label": "\ud83d\udc0d python \u2013 async und performance",
       "id": "llm_knowledge_python_python_async_und_performance_python_async_und_performance"
     },
@@ -2419,7 +2409,7 @@
       "source_file": "llm-knowledge/Python/Python - Async und Performance.md",
       "source_location": "L14",
       "_origin": "ast",
-      "community": 83,
+      "community": 5,
       "norm_label": "grundbegriffe",
       "id": "llm_knowledge_python_python_async_und_performance_grundbegriffe"
     },
@@ -2429,7 +2419,7 @@
       "source_file": "llm-knowledge/Python/Python - Async und Performance.md",
       "source_location": "L18",
       "_origin": "ast",
-      "community": 83,
+      "community": 5,
       "norm_label": "asyncio",
       "id": "llm_knowledge_python_python_async_und_performance_asyncio"
     },
@@ -2439,7 +2429,7 @@
       "source_file": "llm-knowledge/Python/Python - Async und Performance.md",
       "source_location": "L24",
       "_origin": "ast",
-      "community": 83,
+      "community": 5,
       "norm_label": "threads vs. prozesse",
       "id": "llm_knowledge_python_python_async_und_performance_threads_vs_prozesse"
     },
@@ -2449,7 +2439,7 @@
       "source_file": "llm-knowledge/Python/Python - Async und Performance.md",
       "source_location": "L27",
       "_origin": "ast",
-      "community": 83,
+      "community": 5,
       "norm_label": "performance messen",
       "id": "llm_knowledge_python_python_async_und_performance_performance_messen"
     },
@@ -2459,7 +2449,7 @@
       "source_file": "llm-knowledge/Python/Python - Async und Performance.md",
       "source_location": "L32",
       "_origin": "ast",
-      "community": 83,
+      "community": 5,
       "norm_label": "erfasste anki-karten",
       "id": "llm_knowledge_python_python_async_und_performance_erfasste_anki_karten"
     },
@@ -2589,7 +2579,7 @@
       "source_file": "llm-knowledge/Python/Python - Funktionen und OOP.md",
       "source_location": "L8",
       "_origin": "ast",
-      "community": 83,
+      "community": 4,
       "norm_label": "\ud83d\udc0d python \u2013 funktionen und oop",
       "id": "llm_knowledge_python_python_funktionen_und_oop_python_funktionen_und_oop"
     },
@@ -2599,7 +2589,7 @@
       "source_file": "llm-knowledge/Python/Python - Funktionen und OOP.md",
       "source_location": "L14",
       "_origin": "ast",
-      "community": 83,
+      "community": 4,
       "norm_label": "funktionen",
       "id": "llm_knowledge_python_python_funktionen_und_oop_funktionen"
     },
@@ -2609,7 +2599,7 @@
       "source_file": "llm-knowledge/Python/Python - Funktionen und OOP.md",
       "source_location": "L20",
       "_origin": "ast",
-      "community": 83,
+      "community": 4,
       "norm_label": "methodentypen",
       "id": "llm_knowledge_python_python_funktionen_und_oop_methodentypen"
     },
@@ -2619,7 +2609,7 @@
       "source_file": "llm-knowledge/Python/Python - Funktionen und OOP.md",
       "source_location": "L24",
       "_origin": "ast",
-      "community": 83,
+      "community": 4,
       "norm_label": "vererbung",
       "id": "llm_knowledge_python_python_funktionen_und_oop_vererbung"
     },
@@ -2629,7 +2619,7 @@
       "source_file": "llm-knowledge/Python/Python - Funktionen und OOP.md",
       "source_location": "L30",
       "_origin": "ast",
-      "community": 83,
+      "community": 4,
       "norm_label": "objekterzeugung & datenklassen",
       "id": "llm_knowledge_python_python_funktionen_und_oop_objekterzeugung_datenklassen"
     },
@@ -2639,7 +2629,7 @@
       "source_file": "llm-knowledge/Python/Python - Funktionen und OOP.md",
       "source_location": "L35",
       "_origin": "ast",
-      "community": 83,
+      "community": 4,
       "norm_label": "dunder-methoden (protokolle)",
       "id": "llm_knowledge_python_python_funktionen_und_oop_dunder_methoden_protokolle"
     },
@@ -2649,7 +2639,7 @@
       "source_file": "llm-knowledge/Python/Python - Funktionen und OOP.md",
       "source_location": "L44",
       "_origin": "ast",
-      "community": 83,
+      "community": 4,
       "norm_label": "generatoren",
       "id": "llm_knowledge_python_python_funktionen_und_oop_generatoren"
     },
@@ -2659,7 +2649,7 @@
       "source_file": "llm-knowledge/Python/Python - Funktionen und OOP.md",
       "source_location": "L49",
       "_origin": "ast",
-      "community": 83,
+      "community": 4,
       "norm_label": "erfasste anki-karten",
       "id": "llm_knowledge_python_python_funktionen_und_oop_erfasste_anki_karten"
     },
@@ -2679,7 +2669,7 @@
       "source_file": "llm-knowledge/Python/Python - Standardbibliothek.md",
       "source_location": "L8",
       "_origin": "ast",
-      "community": 83,
+      "community": 7,
       "norm_label": "\ud83d\udc0d python \u2013 standardbibliothek",
       "id": "llm_knowledge_python_python_standardbibliothek_python_standardbibliothek"
     },
@@ -2689,7 +2679,7 @@
       "source_file": "llm-knowledge/Python/Python - Standardbibliothek.md",
       "source_location": "L14",
       "_origin": "ast",
-      "community": 83,
+      "community": 7,
       "norm_label": "collections",
       "id": "llm_knowledge_python_python_standardbibliothek_collections"
     },
@@ -2699,7 +2689,7 @@
       "source_file": "llm-knowledge/Python/Python - Standardbibliothek.md",
       "source_location": "L20",
       "_origin": "ast",
-      "community": 83,
+      "community": 7,
       "norm_label": "functools",
       "id": "llm_knowledge_python_python_standardbibliothek_functools"
     },
@@ -2709,7 +2699,7 @@
       "source_file": "llm-knowledge/Python/Python - Standardbibliothek.md",
       "source_location": "L24",
       "_origin": "ast",
-      "community": 83,
+      "community": 7,
       "norm_label": "itertools",
       "id": "llm_knowledge_python_python_standardbibliothek_itertools"
     },
@@ -2719,7 +2709,7 @@
       "source_file": "llm-knowledge/Python/Python - Standardbibliothek.md",
       "source_location": "L30",
       "_origin": "ast",
-      "community": 83,
+      "community": 7,
       "norm_label": "dateien, zeit, daten",
       "id": "llm_knowledge_python_python_standardbibliothek_dateien_zeit_daten"
     },
@@ -2729,7 +2719,7 @@
       "source_file": "llm-knowledge/Python/Python - Standardbibliothek.md",
       "source_location": "L35",
       "_origin": "ast",
-      "community": 83,
+      "community": 7,
       "norm_label": "sonstiges",
       "id": "llm_knowledge_python_python_standardbibliothek_sonstiges"
     },
@@ -2739,7 +2729,7 @@
       "source_file": "llm-knowledge/Python/Python - Standardbibliothek.md",
       "source_location": "L40",
       "_origin": "ast",
-      "community": 83,
+      "community": 7,
       "norm_label": "erfasste anki-karten",
       "id": "llm_knowledge_python_python_standardbibliothek_erfasste_anki_karten"
     },
@@ -2759,7 +2749,7 @@
       "source_file": "llm-knowledge/Python/Python - Syntax und Datentypen.md",
       "source_location": "L8",
       "_origin": "ast",
-      "community": 3,
+      "community": 83,
       "norm_label": "\ud83d\udc0d python \u2013 syntax und datentypen",
       "id": "llm_knowledge_python_python_syntax_und_datentypen_python_syntax_und_datentypen"
     },
@@ -2769,7 +2759,7 @@
       "source_file": "llm-knowledge/Python/Python - Syntax und Datentypen.md",
       "source_location": "L14",
       "_origin": "ast",
-      "community": 3,
+      "community": 83,
       "norm_label": "datentypen & hashbarkeit",
       "id": "llm_knowledge_python_python_syntax_und_datentypen_datentypen_hashbarkeit"
     },
@@ -2779,7 +2769,7 @@
       "source_file": "llm-knowledge/Python/Python - Syntax und Datentypen.md",
       "source_location": "L19",
       "_origin": "ast",
-      "community": 3,
+      "community": 83,
       "norm_label": "slicing & unpacking",
       "id": "llm_knowledge_python_python_syntax_und_datentypen_slicing_unpacking"
     },
@@ -2789,7 +2779,7 @@
       "source_file": "llm-knowledge/Python/Python - Syntax und Datentypen.md",
       "source_location": "L24",
       "_origin": "ast",
-      "community": 3,
+      "community": 83,
       "norm_label": "comprehensions & generatoren",
       "id": "llm_knowledge_python_python_syntax_und_datentypen_comprehensions_generatoren"
     },
@@ -2799,7 +2789,7 @@
       "source_file": "llm-knowledge/Python/Python - Syntax und Datentypen.md",
       "source_location": "L29",
       "_origin": "ast",
-      "community": 3,
+      "community": 83,
       "norm_label": "strings & formatierung",
       "id": "llm_knowledge_python_python_syntax_und_datentypen_strings_formatierung"
     },
@@ -2809,7 +2799,7 @@
       "source_file": "llm-knowledge/Python/Python - Syntax und Datentypen.md",
       "source_location": "L33",
       "_origin": "ast",
-      "community": 3,
+      "community": 83,
       "norm_label": "sets",
       "id": "llm_knowledge_python_python_syntax_und_datentypen_sets"
     },
@@ -2819,7 +2809,7 @@
       "source_file": "llm-knowledge/Python/Python - Syntax und Datentypen.md",
       "source_location": "L36",
       "_origin": "ast",
-      "community": 3,
+      "community": 83,
       "norm_label": "dicts",
       "id": "llm_knowledge_python_python_syntax_und_datentypen_dicts"
     },
@@ -2829,7 +2819,7 @@
       "source_file": "llm-knowledge/Python/Python - Syntax und Datentypen.md",
       "source_location": "L39",
       "_origin": "ast",
-      "community": 3,
+      "community": 83,
       "norm_label": "listen-methoden & sortierung",
       "id": "llm_knowledge_python_python_syntax_und_datentypen_listen_methoden_sortierung"
     },
@@ -2839,7 +2829,7 @@
       "source_file": "llm-knowledge/Python/Python - Syntax und Datentypen.md",
       "source_location": "L45",
       "_origin": "ast",
-      "community": 3,
+      "community": 83,
       "norm_label": "identitat & kopien",
       "id": "llm_knowledge_python_python_syntax_und_datentypen_identit\u00e4t_kopien"
     },
@@ -2849,7 +2839,7 @@
       "source_file": "llm-knowledge/Python/Python - Syntax und Datentypen.md",
       "source_location": "L50",
       "_origin": "ast",
-      "community": 3,
+      "community": 83,
       "norm_label": "pattern matching",
       "id": "llm_knowledge_python_python_syntax_und_datentypen_pattern_matching"
     },
@@ -2859,7 +2849,7 @@
       "source_file": "llm-knowledge/Python/Python - Syntax und Datentypen.md",
       "source_location": "L54",
       "_origin": "ast",
-      "community": 3,
+      "community": 83,
       "norm_label": "erfasste anki-karten",
       "id": "llm_knowledge_python_python_syntax_und_datentypen_erfasste_anki_karten"
     },
@@ -4843,36 +4833,6 @@
     {
       "relation": "references",
       "confidence": "EXTRACTED",
-      "source_file": "llm-knowledge/Laufen/Athletenstatus.md",
-      "source_location": "L89",
-      "weight": 1.0,
-      "source": "llm_knowledge_laufen_athletenstatus",
-      "target": "llm_knowledge_laufen_renntag_erkenntnisse",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "references",
-      "confidence": "EXTRACTED",
-      "source_file": "llm-knowledge/Laufen/Athletenstatus.md",
-      "source_location": "L293",
-      "weight": 1.0,
-      "source": "llm_knowledge_laufen_athletenstatus",
-      "target": "llm_knowledge_laufen_wettkampf_2026_09_13_m\u00fcnster_28",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "references",
-      "confidence": "EXTRACTED",
-      "source_file": "llm-knowledge/Laufen/Athletenstatus.md",
-      "source_location": "L25",
-      "weight": 1.0,
-      "source": "llm_knowledge_laufen_athletenstatus",
-      "target": "llm_knowledge_laufen_wettkampf_2026_11_29_advents_aaseelauf",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "references",
-      "confidence": "EXTRACTED",
       "source_file": "llm-knowledge/Laufen/_Index.md",
       "source_location": "L13",
       "weight": 1.0,
@@ -4914,7 +4874,7 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "llm-knowledge/Laufen/Athletenstatus.md",
-      "source_location": "L248",
+      "source_location": "L238",
       "weight": 1.0,
       "source": "llm_knowledge_laufen_athletenstatus_athletenstatus",
       "target": "llm_knowledge_laufen_athletenstatus_krafttraining_pflichtbestandteil_ab_13_09_2026",
@@ -4924,7 +4884,7 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "llm-knowledge/Laufen/Athletenstatus.md",
-      "source_location": "L227",
+      "source_location": "L217",
       "weight": 1.0,
       "source": "llm_knowledge_laufen_athletenstatus_athletenstatus",
       "target": "llm_knowledge_laufen_athletenstatus_nebensportarten",
@@ -4944,7 +4904,7 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "llm-knowledge/Laufen/Athletenstatus.md",
-      "source_location": "L315",
+      "source_location": "L309",
       "weight": 1.0,
       "source": "llm_knowledge_laufen_athletenstatus_athletenstatus",
       "target": "llm_knowledge_laufen_athletenstatus_verkn\u00fcpfte_notizen",
@@ -4964,7 +4924,7 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "llm-knowledge/Laufen/Athletenstatus.md",
-      "source_location": "L289",
+      "source_location": "L279",
       "weight": 1.0,
       "source": "llm_knowledge_laufen_athletenstatus_athletenstatus",
       "target": "llm_knowledge_laufen_athletenstatus_\u00e4nderungshistorie",
@@ -5013,22 +4973,12 @@
     {
       "relation": "contains",
       "confidence": "EXTRACTED",
-      "source_file": "llm-knowledge/Laufen/Athletenstatus.md",
-      "source_location": "L207",
-      "weight": 1.0,
-      "source": "llm_knowledge_laufen_athletenstatus_formtrend",
-      "target": "llm_knowledge_laufen_athletenstatus_ctl_zielkorridor_korrigiert_13_09_2026",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
       "source_file": "llm-knowledge/Laufen/Renntag-Erkenntnisse.md",
       "source_location": "L8",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "llm_knowledge_laufen_renntag_erkenntnisse",
-      "target": "llm_knowledge_laufen_renntag_erkenntnisse_renntag_erkenntnisse",
-      "confidence_score": 1.0
+      "target": "llm_knowledge_laufen_renntag_erkenntnisse_renntag_erkenntnisse"
     },
     {
       "relation": "references",
@@ -5036,9 +4986,9 @@
       "source_file": "llm-knowledge/Laufen/Wettkampf 2026-09-13 M\u00fcnster 28.md",
       "source_location": "L110",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "llm_knowledge_laufen_wettkampf_2026_09_13_m\u00fcnster_28",
-      "target": "llm_knowledge_laufen_renntag_erkenntnisse",
-      "confidence_score": 1.0
+      "target": "llm_knowledge_laufen_renntag_erkenntnisse"
     },
     {
       "relation": "references",
@@ -5046,9 +4996,9 @@
       "source_file": "llm-knowledge/Laufen/Wettkampf 2026-11-29 Advents-Aaseelauf.md",
       "source_location": "L50",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "llm_knowledge_laufen_wettkampf_2026_11_29_advents_aaseelauf",
-      "target": "llm_knowledge_laufen_renntag_erkenntnisse",
-      "confidence_score": 1.0
+      "target": "llm_knowledge_laufen_renntag_erkenntnisse"
     },
     {
       "relation": "references",
@@ -5066,9 +5016,9 @@
       "source_file": "llm-knowledge/Laufen/Renntag-Erkenntnisse.md",
       "source_location": "L74",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "llm_knowledge_laufen_renntag_erkenntnisse_renntag_erkenntnisse",
-      "target": "llm_knowledge_laufen_renntag_erkenntnisse_5_km_test_24_06_2026_ziel_verfehlt_20_31_statt_18_00_18_15",
-      "confidence_score": 1.0
+      "target": "llm_knowledge_laufen_renntag_erkenntnisse_5_km_test_24_06_2026_ziel_verfehlt_20_31_statt_18_00_18_15"
     },
     {
       "relation": "contains",
@@ -5076,9 +5026,9 @@
       "source_file": "llm-knowledge/Laufen/Renntag-Erkenntnisse.md",
       "source_location": "L118",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "llm_knowledge_laufen_renntag_erkenntnisse_renntag_erkenntnisse",
-      "target": "llm_knowledge_laufen_renntag_erkenntnisse_neue_support_dateien_25_06_2026",
-      "confidence_score": 1.0
+      "target": "llm_knowledge_laufen_renntag_erkenntnisse_neue_support_dateien_25_06_2026"
     },
     {
       "relation": "contains",
@@ -5086,9 +5036,9 @@
       "source_file": "llm-knowledge/Laufen/Renntag-Erkenntnisse.md",
       "source_location": "L106",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "llm_knowledge_laufen_renntag_erkenntnisse_renntag_erkenntnisse",
-      "target": "llm_knowledge_laufen_renntag_erkenntnisse_verkn\u00fcpfte_notizen",
-      "confidence_score": 1.0
+      "target": "llm_knowledge_laufen_renntag_erkenntnisse_verkn\u00fcpfte_notizen"
     },
     {
       "relation": "contains",
@@ -5096,9 +5046,9 @@
       "source_file": "llm-knowledge/Laufen/Renntag-Erkenntnisse.md",
       "source_location": "L14",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "llm_knowledge_laufen_renntag_erkenntnisse_renntag_erkenntnisse",
-      "target": "llm_knowledge_laufen_renntag_erkenntnisse_wecker_28_m\u00fcnster_13_09_2026_ziel_erreicht_aber_zwei_harte_lehren_2_02_21",
-      "confidence_score": 1.0
+      "target": "llm_knowledge_laufen_renntag_erkenntnisse_wecker_28_m\u00fcnster_13_09_2026_ziel_erreicht_aber_zwei_harte_lehren_2_02_21"
     },
     {
       "relation": "contains",
@@ -5106,9 +5056,9 @@
       "source_file": "llm-knowledge/Laufen/Renntag-Erkenntnisse.md",
       "source_location": "L23",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "llm_knowledge_laufen_renntag_erkenntnisse_wecker_28_m\u00fcnster_13_09_2026_ziel_erreicht_aber_zwei_harte_lehren_2_02_21",
-      "target": "llm_knowledge_laufen_renntag_erkenntnisse_lehre_1_das_limit_ist_muskul\u00e4r_nicht_aerob",
-      "confidence_score": 1.0
+      "target": "llm_knowledge_laufen_renntag_erkenntnisse_lehre_1_das_limit_ist_muskul\u00e4r_nicht_aerob"
     },
     {
       "relation": "contains",
@@ -5116,9 +5066,9 @@
       "source_file": "llm-knowledge/Laufen/Renntag-Erkenntnisse.md",
       "source_location": "L48",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "llm_knowledge_laufen_renntag_erkenntnisse_wecker_28_m\u00fcnster_13_09_2026_ziel_erreicht_aber_zwei_harte_lehren_2_02_21",
-      "target": "llm_knowledge_laufen_renntag_erkenntnisse_lehre_2_der_zu_schnelle_erste_kilometer_ist_jetzt_ein_muster_kein_einzelfall",
-      "confidence_score": 1.0
+      "target": "llm_knowledge_laufen_renntag_erkenntnisse_lehre_2_der_zu_schnelle_erste_kilometer_ist_jetzt_ein_muster_kein_einzelfall"
     },
     {
       "relation": "contains",
@@ -5126,9 +5076,9 @@
       "source_file": "llm-knowledge/Laufen/Renntag-Erkenntnisse.md",
       "source_location": "L95",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "llm_knowledge_laufen_renntag_erkenntnisse_5_km_test_24_06_2026_ziel_verfehlt_20_31_statt_18_00_18_15",
-      "target": "llm_knowledge_laufen_renntag_erkenntnisse_konsequenzen_f\u00fcr_den_n\u00e4chsten_versuch",
-      "confidence_score": 1.0
+      "target": "llm_knowledge_laufen_renntag_erkenntnisse_konsequenzen_f\u00fcr_den_n\u00e4chsten_versuch"
     },
     {
       "relation": "contains",
@@ -5136,9 +5086,9 @@
       "source_file": "llm-knowledge/Laufen/Renntag-Erkenntnisse.md",
       "source_location": "L78",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "llm_knowledge_laufen_renntag_erkenntnisse_5_km_test_24_06_2026_ziel_verfehlt_20_31_statt_18_00_18_15",
-      "target": "llm_knowledge_laufen_renntag_erkenntnisse_was_die_zeit_gekostet_hat_mehrere_faktoren_zusammen",
-      "confidence_score": 1.0
+      "target": "llm_knowledge_laufen_renntag_erkenntnisse_was_die_zeit_gekostet_hat_mehrere_faktoren_zusammen"
     },
     {
       "relation": "references",
@@ -5166,9 +5116,9 @@
       "source_file": "llm-knowledge/Laufen/Wettkampf 2026-09-13 M\u00fcnster 28.md",
       "source_location": "L11",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "llm_knowledge_laufen_wettkampf_2026_09_13_m\u00fcnster_28",
-      "target": "llm_knowledge_laufen_wettkampf_2026_09_13_m\u00fcnster_28_wecker_28_m\u00fcnster_2026_28_km",
-      "confidence_score": 1.0
+      "target": "llm_knowledge_laufen_wettkampf_2026_09_13_m\u00fcnster_28_wecker_28_m\u00fcnster_2026_28_km"
     },
     {
       "relation": "contains",
@@ -5176,9 +5126,9 @@
       "source_file": "llm-knowledge/Laufen/Wettkampf 2026-09-13 M\u00fcnster 28.md",
       "source_location": "L81",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "llm_knowledge_laufen_wettkampf_2026_09_13_m\u00fcnster_28_wecker_28_m\u00fcnster_2026_28_km",
-      "target": "llm_knowledge_laufen_wettkampf_2026_09_13_m\u00fcnster_28_aufbau_4_wochen_in_intervals_icu_eingetragen",
-      "confidence_score": 1.0
+      "target": "llm_knowledge_laufen_wettkampf_2026_09_13_m\u00fcnster_28_aufbau_4_wochen_in_intervals_icu_eingetragen"
     },
     {
       "relation": "contains",
@@ -5186,9 +5136,9 @@
       "source_file": "llm-knowledge/Laufen/Wettkampf 2026-09-13 M\u00fcnster 28.md",
       "source_location": "L73",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "llm_knowledge_laufen_wettkampf_2026_09_13_m\u00fcnster_28_wecker_28_m\u00fcnster_2026_28_km",
-      "target": "llm_knowledge_laufen_wettkampf_2026_09_13_m\u00fcnster_28_ausgangslage_stand_11_08_2026",
-      "confidence_score": 1.0
+      "target": "llm_knowledge_laufen_wettkampf_2026_09_13_m\u00fcnster_28_ausgangslage_stand_11_08_2026"
     },
     {
       "relation": "contains",
@@ -5196,9 +5146,9 @@
       "source_file": "llm-knowledge/Laufen/Wettkampf 2026-09-13 M\u00fcnster 28.md",
       "source_location": "L15",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "llm_knowledge_laufen_wettkampf_2026_09_13_m\u00fcnster_28_wecker_28_m\u00fcnster_2026_28_km",
-      "target": "llm_knowledge_laufen_wettkampf_2026_09_13_m\u00fcnster_28_eckdaten",
-      "confidence_score": 1.0
+      "target": "llm_knowledge_laufen_wettkampf_2026_09_13_m\u00fcnster_28_eckdaten"
     },
     {
       "relation": "contains",
@@ -5206,9 +5156,9 @@
       "source_file": "llm-knowledge/Laufen/Wettkampf 2026-09-13 M\u00fcnster 28.md",
       "source_location": "L101",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "llm_knowledge_laufen_wettkampf_2026_09_13_m\u00fcnster_28_wecker_28_m\u00fcnster_2026_28_km",
-      "target": "llm_knowledge_laufen_wettkampf_2026_09_13_m\u00fcnster_28_einordnung_in_die_saison",
-      "confidence_score": 1.0
+      "target": "llm_knowledge_laufen_wettkampf_2026_09_13_m\u00fcnster_28_einordnung_in_die_saison"
     },
     {
       "relation": "contains",
@@ -5216,9 +5166,9 @@
       "source_file": "llm-knowledge/Laufen/Wettkampf 2026-09-13 M\u00fcnster 28.md",
       "source_location": "L105",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "llm_knowledge_laufen_wettkampf_2026_09_13_m\u00fcnster_28_wecker_28_m\u00fcnster_2026_28_km",
-      "target": "llm_knowledge_laufen_wettkampf_2026_09_13_m\u00fcnster_28_offene_punkte",
-      "confidence_score": 1.0
+      "target": "llm_knowledge_laufen_wettkampf_2026_09_13_m\u00fcnster_28_offene_punkte"
     },
     {
       "relation": "contains",
@@ -5226,9 +5176,9 @@
       "source_file": "llm-knowledge/Laufen/Wettkampf 2026-09-13 M\u00fcnster 28.md",
       "source_location": "L116",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "llm_knowledge_laufen_wettkampf_2026_09_13_m\u00fcnster_28_wecker_28_m\u00fcnster_2026_28_km",
-      "target": "llm_knowledge_laufen_wettkampf_2026_09_13_m\u00fcnster_28_quellen",
-      "confidence_score": 1.0
+      "target": "llm_knowledge_laufen_wettkampf_2026_09_13_m\u00fcnster_28_quellen"
     },
     {
       "relation": "contains",
@@ -5236,9 +5186,9 @@
       "source_file": "llm-knowledge/Laufen/Wettkampf 2026-09-13 M\u00fcnster 28.md",
       "source_location": "L95",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "llm_knowledge_laufen_wettkampf_2026_09_13_m\u00fcnster_28_wecker_28_m\u00fcnster_2026_28_km",
-      "target": "llm_knowledge_laufen_wettkampf_2026_09_13_m\u00fcnster_28_risiko_abbruchkriterien",
-      "confidence_score": 1.0
+      "target": "llm_knowledge_laufen_wettkampf_2026_09_13_m\u00fcnster_28_risiko_abbruchkriterien"
     },
     {
       "relation": "contains",
@@ -5246,9 +5196,9 @@
       "source_file": "llm-knowledge/Laufen/Wettkampf 2026-09-13 M\u00fcnster 28.md",
       "source_location": "L27",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "llm_knowledge_laufen_wettkampf_2026_09_13_m\u00fcnster_28_wecker_28_m\u00fcnster_2026_28_km",
-      "target": "llm_knowledge_laufen_wettkampf_2026_09_13_m\u00fcnster_28_startunterlagenausgabe",
-      "confidence_score": 1.0
+      "target": "llm_knowledge_laufen_wettkampf_2026_09_13_m\u00fcnster_28_startunterlagenausgabe"
     },
     {
       "relation": "contains",
@@ -5256,9 +5206,9 @@
       "source_file": "llm-knowledge/Laufen/Wettkampf 2026-09-13 M\u00fcnster 28.md",
       "source_location": "L112",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "llm_knowledge_laufen_wettkampf_2026_09_13_m\u00fcnster_28_wecker_28_m\u00fcnster_2026_28_km",
-      "target": "llm_knowledge_laufen_wettkampf_2026_09_13_m\u00fcnster_28_verwandte_notizen",
-      "confidence_score": 1.0
+      "target": "llm_knowledge_laufen_wettkampf_2026_09_13_m\u00fcnster_28_verwandte_notizen"
     },
     {
       "relation": "contains",
@@ -5266,9 +5216,9 @@
       "source_file": "llm-knowledge/Laufen/Wettkampf 2026-09-13 M\u00fcnster 28.md",
       "source_location": "L40",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "llm_knowledge_laufen_wettkampf_2026_09_13_m\u00fcnster_28_wecker_28_m\u00fcnster_2026_28_km",
-      "target": "llm_knowledge_laufen_wettkampf_2026_09_13_m\u00fcnster_28_weitere_startzeiten_am_veranstaltungstag",
-      "confidence_score": 1.0
+      "target": "llm_knowledge_laufen_wettkampf_2026_09_13_m\u00fcnster_28_weitere_startzeiten_am_veranstaltungstag"
     },
     {
       "relation": "contains",
@@ -5276,9 +5226,9 @@
       "source_file": "llm-knowledge/Laufen/Wettkampf 2026-09-13 M\u00fcnster 28.md",
       "source_location": "L49",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "llm_knowledge_laufen_wettkampf_2026_09_13_m\u00fcnster_28_wecker_28_m\u00fcnster_2026_28_km",
-      "target": "llm_knowledge_laufen_wettkampf_2026_09_13_m\u00fcnster_28_zielsetzung",
-      "confidence_score": 1.0
+      "target": "llm_knowledge_laufen_wettkampf_2026_09_13_m\u00fcnster_28_zielsetzung"
     },
     {
       "relation": "contains",
@@ -5286,9 +5236,9 @@
       "source_file": "llm-knowledge/Laufen/Wettkampf 2026-09-13 M\u00fcnster 28.md",
       "source_location": "L59",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "llm_knowledge_laufen_wettkampf_2026_09_13_m\u00fcnster_28_zielsetzung",
-      "target": "llm_knowledge_laufen_wettkampf_2026_09_13_m\u00fcnster_28_pacing_negativ_splitten",
-      "confidence_score": 1.0
+      "target": "llm_knowledge_laufen_wettkampf_2026_09_13_m\u00fcnster_28_pacing_negativ_splitten"
     },
     {
       "relation": "contains",
@@ -5296,9 +5246,9 @@
       "source_file": "llm-knowledge/Laufen/Wettkampf 2026-09-13 M\u00fcnster 28.md",
       "source_location": "L67",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "llm_knowledge_laufen_wettkampf_2026_09_13_m\u00fcnster_28_zielsetzung",
-      "target": "llm_knowledge_laufen_wettkampf_2026_09_13_m\u00fcnster_28_taktik",
-      "confidence_score": 1.0
+      "target": "llm_knowledge_laufen_wettkampf_2026_09_13_m\u00fcnster_28_taktik"
     },
     {
       "relation": "references",
@@ -5316,9 +5266,9 @@
       "source_file": "llm-knowledge/Laufen/Wettkampf 2026-11-29 Advents-Aaseelauf.md",
       "source_location": "L11",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "llm_knowledge_laufen_wettkampf_2026_11_29_advents_aaseelauf",
-      "target": "llm_knowledge_laufen_wettkampf_2026_11_29_advents_aaseelauf_36_aok_advents_aaseelauf_2026_10_km",
-      "confidence_score": 1.0
+      "target": "llm_knowledge_laufen_wettkampf_2026_11_29_advents_aaseelauf_36_aok_advents_aaseelauf_2026_10_km"
     },
     {
       "relation": "contains",
@@ -5326,9 +5276,9 @@
       "source_file": "llm-knowledge/Laufen/Wettkampf 2026-11-29 Advents-Aaseelauf.md",
       "source_location": "L20",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "llm_knowledge_laufen_wettkampf_2026_11_29_advents_aaseelauf_36_aok_advents_aaseelauf_2026_10_km",
-      "target": "llm_knowledge_laufen_wettkampf_2026_11_29_advents_aaseelauf_eckdaten",
-      "confidence_score": 1.0
+      "target": "llm_knowledge_laufen_wettkampf_2026_11_29_advents_aaseelauf_eckdaten"
     },
     {
       "relation": "contains",
@@ -5336,9 +5286,9 @@
       "source_file": "llm-knowledge/Laufen/Wettkampf 2026-11-29 Advents-Aaseelauf.md",
       "source_location": "L31",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "llm_knowledge_laufen_wettkampf_2026_11_29_advents_aaseelauf_36_aok_advents_aaseelauf_2026_10_km",
-      "target": "llm_knowledge_laufen_wettkampf_2026_11_29_advents_aaseelauf_pr\u00fcfpunkt_sub_1_20",
-      "confidence_score": 1.0
+      "target": "llm_knowledge_laufen_wettkampf_2026_11_29_advents_aaseelauf_pr\u00fcfpunkt_sub_1_20"
     },
     {
       "relation": "contains",
@@ -5346,9 +5296,9 @@
       "source_file": "llm-knowledge/Laufen/Wettkampf 2026-11-29 Advents-Aaseelauf.md",
       "source_location": "L43",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "llm_knowledge_laufen_wettkampf_2026_11_29_advents_aaseelauf_36_aok_advents_aaseelauf_2026_10_km",
-      "target": "llm_knowledge_laufen_wettkampf_2026_11_29_advents_aaseelauf_umgang",
-      "confidence_score": 1.0
+      "target": "llm_knowledge_laufen_wettkampf_2026_11_29_advents_aaseelauf_umgang"
     },
     {
       "relation": "contains",
@@ -5356,9 +5306,9 @@
       "source_file": "llm-knowledge/Laufen/Wettkampf 2026-11-29 Advents-Aaseelauf.md",
       "source_location": "L60",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "llm_knowledge_laufen_wettkampf_2026_11_29_advents_aaseelauf_36_aok_advents_aaseelauf_2026_10_km",
-      "target": "llm_knowledge_laufen_wettkampf_2026_11_29_advents_aaseelauf_verwandte_notizen",
-      "confidence_score": 1.0
+      "target": "llm_knowledge_laufen_wettkampf_2026_11_29_advents_aaseelauf_verwandte_notizen"
     },
     {
       "relation": "contains",
@@ -9042,5 +8992,5 @@
     }
   ],
   "hyperedges": [],
-  "built_at_commit": "5a7b3798861a1c4b8b6fdd9ef10f55acadb9c744"
+  "built_at_commit": "665f81f0287959cc79045053abafd86609ae10f8"
 }

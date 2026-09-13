@@ -1,16 +1,16 @@
 # Graph Report - obsidian-llm  (2026-09-13)
 
 ## Corpus Check
-- 38 files · ~29,135 words
+- 38 files · ~29,237 words
 - Verdict: corpus is large enough that graph structure adds value.
 
 ## Summary
-- 460 nodes · 421 edges · 104 communities (31 shown, 73 thin omitted)
+- 459 nodes · 417 edges · 106 communities (33 shown, 73 thin omitted)
 - Extraction: 100% EXTRACTED · 0% INFERRED · 0% AMBIGUOUS
 - Token cost: 0 input · 0 output
 
 ## Graph Freshness
-- Built from commit: `5a7b3798`
+- Built from commit: `665f81f0`
 - Run `git rev-parse HEAD` and compare to check if the graph is stale.
 - Run `graphify update .` after code changes (no API cost).
 
@@ -19,6 +19,10 @@
 - [[_COMMUNITY_Obsidian-Git Internals (JS)|Obsidian-Git Internals (JS)]]
 - [[_COMMUNITY_🐍 Python – Async und Performance|🐍 Python – Async und Performance]]
 - [[_COMMUNITY_🐍 Python – Syntax und Datentypen|🐍 Python – Syntax und Datentypen]]
+- [[_COMMUNITY_🐍 Python – Funktionen und OOP|🐍 Python – Funktionen und OOP]]
+- [[_COMMUNITY_🐍 Python – Async und Performance|🐍 Python – Async und Performance]]
+- [[_COMMUNITY_Running Training & HR Science|Running Training & HR Science]]
+- [[_COMMUNITY_🐍 Python – Standardbibliothek|🐍 Python – Standardbibliothek]]
 - [[_COMMUNITY_Plugin Code (minified) C8|Plugin Code (minified) C8]]
 - [[_COMMUNITY_Plugin Code (minified) C14|Plugin Code (minified) C14]]
 - [[_COMMUNITY_Plugin Code (minified) C31|Plugin Code (minified) C31]]
@@ -48,7 +52,6 @@
 - [[_COMMUNITY_🟥 Karten-Qualität — was gute Python-Karten unterscheidet|🟥 Karten-Qualität — was gute Python-Karten unterscheidet]]
 - [[_COMMUNITY_💓 Herzfrequenzzonen|💓 Herzfrequenzzonen]]
 - [[_COMMUNITY_🚴 Rennrad-Urlaub 13.–19.07.2026 (KW 29)|🚴 Rennrad-Urlaub 13.–19.07.2026 (KW 29)]]
-- [[_COMMUNITY_⚙️ Trainingspräferenzen|⚙️ Trainingspräferenzen]]
 - [[_COMMUNITY_5-Zonen-HF-Modell (Laufen)|5-Zonen-HF-Modell (Laufen)]]
 - [[_COMMUNITY_LTHR-Doppelwert (165 vs. 172 bpm)|LTHR-Doppelwert (165 vs. 172 bpm)]]
 - [[_COMMUNITY_Flache Vault-Struktur mit YAML-Frontmatter statt Ordnertiefe|Flache Vault-Struktur mit YAML-Frontmatter statt Ordnertiefe]]
@@ -135,7 +138,7 @@
 ## Import Cycles
 - None detected.
 
-## Communities (104 total, 73 thin omitted)
+## Communities (106 total, 73 thin omitted)
 
 ### Community 0 - "MCP Test/Assert Helpers (JS)"
 Cohesion: 0.14
@@ -146,12 +149,28 @@ Cohesion: 0.17
 Nodes (12): Aufbau der drei Wochen, Die spannendsten Etappen im Detail, Etappe 12 — Calar Alto (03.09.), Etappe 14 — Sierra de la Pandera (05.09.), Etappe 18 — EZF Jerez (10.09.), Etappe 19 — Peñas Blancas (11.09.), Etappe 20 — Collado del Alguacil (12.09.), Etappe 4 — Andorra-Rundkurs (25.08.) (+4 more)
 
 ### Community 2 - "🐍 Python – Async und Performance"
-Cohesion: 0.13
-Nodes (15): 🎯 Aktives Ziel, 📊 Aktuelle Leistungsdatenpunkte, 📍 Athletenstatus, CTL-Zielkorridor — korrigiert 13.09.2026, 📉 Formtrend, 🏋️ Krafttraining — Pflichtbestandteil ab 13.09.2026, 🚴 Nebensportarten, Prüfpunkte für Sub-1:20 (verbindlich) (+7 more)
+Cohesion: 0.14
+Nodes (14): 🎯 Aktives Ziel, 📊 Aktuelle Leistungsdatenpunkte, 📍 Athletenstatus, 📉 Formtrend, 🏋️ Krafttraining — Pflichtbestandteil ab 13.09.2026, 🚴 Nebensportarten, Prüfpunkte für Sub-1:20 (verbindlich), Resilienz-Datenpunkt (gemessen 13.09.2026) — der entscheidende Befund (+6 more)
 
 ### Community 3 - "🐍 Python – Syntax und Datentypen"
-Cohesion: 0.18
-Nodes (11): Comprehensions & Generatoren, Datentypen & Hashbarkeit, Dicts, Erfasste Anki-Karten, Identität & Kopien, Listen-Methoden & Sortierung, Pattern Matching, 🐍 Python – Syntax und Datentypen (+3 more)
+Cohesion: 0.22
+Nodes (9): 5-km-Test, 24.06.2026 — Ziel verfehlt (20:31 statt 18:00–18:15), Konsequenzen für den nächsten Versuch, Lehre 1: Das Limit ist muskulär, nicht aerob, Lehre 2: Der zu schnelle erste Kilometer ist jetzt ein Muster, kein Einzelfall, 🆕 Neue Support-Dateien (25.06.2026), 🏁 Renntag-Erkenntnisse, Verknüpfte Notizen, Was die Zeit gekostet hat (mehrere Faktoren zusammen) (+1 more)
+
+### Community 4 - "🐍 Python – Funktionen und OOP"
+Cohesion: 0.25
+Nodes (8): Dunder-Methoden (Protokolle), Erfasste Anki-Karten, Funktionen, Generatoren, Methodentypen, Objekterzeugung & Datenklassen, 🐍 Python – Funktionen und OOP, Vererbung
+
+### Community 5 - "🐍 Python – Async und Performance"
+Cohesion: 0.29
+Nodes (6): asyncio, Erfasste Anki-Karten, Grundbegriffe, Performance messen, 🐍 Python – Async und Performance, Threads vs. Prozesse
+
+### Community 6 - "Running Training & HR Science"
+Cohesion: 0.21
+Nodes (5): Drei Regeln, die dabei gelten, Feste Wochenstruktur, ⚙️ Trainingspräferenzen, Variantenreiche Intervalle (wichtig für die Planung), Verknüpfte Notizen
+
+### Community 7 - "🐍 Python – Standardbibliothek"
+Cohesion: 0.29
+Nodes (7): collections, Dateien, Zeit, Daten, Erfasste Anki-Karten, functools, itertools, 🐍 Python – Standardbibliothek, Sonstiges
 
 ### Community 8 - "Plugin Code (minified) C8"
 Cohesion: 0.09
@@ -170,7 +189,7 @@ Cohesion: 0.18
 Nodes (11): 🎯 Abgleich mit Plan & Zielen, 🗓️ Die Einheiten im Überblick, 🔑 Erkenntnisse, 📊 Formverlauf (CTL / ATL / TSB), Intensitätsverteilung (80/20), ✅ Konsequenzen für die nächste Planung, Rad — **Plan-Soll verfehlt (klein)**, Struktur — **lehrbuchmäßig getroffen** (+3 more)
 
 ### Community 51 - "Plugin Code (minified) C51"
-Cohesion: 0.13
+Cohesion: 0.14
 Nodes (14): 1. **Keine actionable Checklisten/Workflows**, 2. **Keine prospektive Test-Dokumentation**, 3. **Wochenberichte nicht standardisiert**, 4. **Langzeittrends sind schwer zu sehen**, 5. **Kein klarer "nächster Test"-Plan**, Aktuelle Struktur (IST), Diese Woche (bis 01.07.), 🎯 Empfohlene Struktur (SOLL) (+6 more)
 
 ### Community 52 - "Plugin Code (minified) C52"
@@ -182,8 +201,8 @@ Cohesion: 0.14
 Nodes (14): 1. Langer Lauf — die wichtigste Einheit, 2. Renntempo-Dauerlauf (Marathon/HM-Pace-Lauf), 3. Schwellenlauf — bleibt zentral, 4. VO2max-Intervalle — reduziert, aber nicht streichen, 🔑 Die Schlüsseleinheiten (rangiert nach Wirkung), 🧩 Ergänzende Elemente (aus dem Vault übernommen), 🧭 Grundprinzip: Polarisiertes Training bleibt, Laufspezifisches Krafttraining (+6 more)
 
 ### Community 54 - "Plugin Code (minified) C54"
-Cohesion: 0.08
-Nodes (23): Analysen, Hinweis zur Aktualität, Laufen — Übersicht, Pläne & Methodik, Prinzip für neue Notizen, Rennen & Tests, Urlaub & Pausen, Wochenberichte & Trainingslogs (+15 more)
+Cohesion: 0.11
+Nodes (14): Analysen, Hinweis zur Aktualität, Laufen — Übersicht, Pläne & Methodik, Prinzip für neue Notizen, Rennen & Tests, Urlaub & Pausen, Wochenberichte & Trainingslogs (+6 more)
 
 ### Community 59 - "Plugin Code (minified) C59"
 Cohesion: 0.14
@@ -210,8 +229,8 @@ Cohesion: 0.18
 Nodes (11): 1. VO2max-Intervalle (Dienstag), 2. Schwellenlauf (Donnerstag), 3. Langer Lauf (Sonntag), Die drei Schlüsseleinheiten pro Woche, Ergänzende Elemente, Intensitätsverteilung (Ziel), Laufspezifisches Krafttraining, Strides / Steigerungsläufe (+3 more)
 
 ### Community 83 - "Python Data Structures & Complexity"
-Cohesion: 0.05
-Nodes (36): asyncio, Erfasste Anki-Karten, Grundbegriffe, Performance messen, 🐍 Python – Async und Performance, Threads vs. Prozesse, Erfasste Anki-Karten, Funktionen anwenden (pandas) (+28 more)
+Cohesion: 0.06
+Nodes (26): Erfasste Anki-Karten, Funktionen anwenden (pandas), Indizierung (pandas), numpy, 🐍 Python – Data Science (numpy und pandas), Erfasste Anki-Karten, heapq, Membership-Komplexität (+18 more)
 
 ### Community 84 - "📅 Wochenbericht 18.–25. Juni 2026"
 Cohesion: 0.20
@@ -245,10 +264,6 @@ Nodes (5): 5-Zonen-Modell (Laufen), Empfehlung der Sportmedizin, 💓 Herzfreque
 Cohesion: 0.40
 Nodes (5): 🔁 Anpassung des Trainingsplans, 🚴 Empfehlung für die Urlaubswoche, 🚴 Rennrad-Urlaub 13.–19.07.2026 (KW 29), 🧠 Trainingsphysiologische Einordnung, Verknüpfte Notizen
 
-### Community 123 - "⚙️ Trainingspräferenzen"
-Cohesion: 0.40
-Nodes (5): Drei Regeln, die dabei gelten, Feste Wochenstruktur, ⚙️ Trainingspräferenzen, Variantenreiche Intervalle (wichtig für die Planung), Verknüpfte Notizen
-
 ## Knowledge Gaps
 - **349 isolated node(s):** `Prüfpunkte für Sub-1:20 (verbindlich)`, `💓 Zonen & Schwellen`, `Was das für die Ziele bedeutet`, `Resilienz-Datenpunkt (gemessen 13.09.2026) — der entscheidende Befund`, `Umfangsrampe zum Venloop (beschlossen 13.09.2026)` (+344 more)
   These have ≤1 connection - possible missing edges or undocumented components.
@@ -257,17 +272,17 @@ Nodes (5): Drei Regeln, die dabei gelten, Feste Wochenstruktur, ⚙️ Trainings
 ## Suggested Questions
 _Questions this graph is uniquely positioned to answer:_
 
-- **Why does `📍 Athletenstatus` connect `🐍 Python – Async und Performance` to `Plugin Code (minified) C54`?**
-  _High betweenness centrality (0.030) - this node is a cross-community bridge._
 - **Why does `📚 HM-Aufbau — Forschungsgrundlagen 2026` connect `Plugin Code (minified) C65` to `Running Training & HR Science`?**
   _High betweenness centrality (0.028) - this node is a cross-community bridge._
-- **Why does `🏁 Wecker-28 Münster 2026 — 28 km` connect `Plugin Code (minified) C59` to `Plugin Code (minified) C54`?**
+- **Why does `🏁 Wecker-28 Münster 2026 — 28 km` connect `Plugin Code (minified) C59` to `Running Training & HR Science`?**
+  _High betweenness centrality (0.028) - this node is a cross-community bridge._
+- **Why does `📍 Athletenstatus` connect `🐍 Python – Async und Performance` to `Plugin Code (minified) C54`?**
   _High betweenness centrality (0.028) - this node is a cross-community bridge._
 - **What connects `Prüfpunkte für Sub-1:20 (verbindlich)`, `💓 Zonen & Schwellen`, `Was das für die Ziele bedeutet` to the rest of the system?**
   _354 weakly-connected nodes found - possible documentation gaps or missing edges._
 - **Should `MCP Test/Assert Helpers (JS)` be split into smaller, more focused modules?**
   _Cohesion score 0.14285714285714285 - nodes in this community are weakly interconnected._
 - **Should `🐍 Python – Async und Performance` be split into smaller, more focused modules?**
-  _Cohesion score 0.13333333333333333 - nodes in this community are weakly interconnected._
+  _Cohesion score 0.14285714285714285 - nodes in this community are weakly interconnected._
 - **Should `Plugin Code (minified) C8` be split into smaller, more focused modules?**
   _Cohesion score 0.0873015873015873 - nodes in this community are weakly interconnected._
