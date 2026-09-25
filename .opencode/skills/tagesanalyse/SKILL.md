@@ -13,6 +13,33 @@ Keine Zonen, LTHR-Werte oder Zielpaces in dieser Datei. Die stehen in
 `llm-knowledge/Laufen/Athletenstatus.md` und werden dort gelesen. Steht ein Wert in
 beiden, gilt die Statusdatei.
 
+**Rechne nicht im Kopf.** Für Decoupling, TSB, Schrittlängen-Drift, Riegel/VDOT und
+Pacing gibt es `scripts/laufcoach.py`. Nutze es statt Überschlagsrechnungen — die
+Formeln sind dort gegen echte Intervals.icu-Werte verifiziert:
+
+```
+python3 scripts/laufcoach.py tsb --ctl <ctl> --atl <atl>
+python3 scripts/laufcoach.py riegel --from <m> --time <h:mm:ss> --to <m>
+python3 scripts/laufcoach.py vdot --dist <m> --time <h:mm:ss>
+```
+
+Für `decoupling()`, `stride_drift()`, `resting_hr_flag()` und `polarization()` gibt
+es keinen CLI-Befehl — die brauchen Messreihen. Dafür das Modul importieren:
+
+```bash
+python3 -c "
+import sys; sys.path.insert(0, 'scripts')
+from laufcoach import stride_drift
+d = stride_drift({'pace': 256, 'hr': 152, 'cadence': 83.3},
+                 {'pace': 271, 'hr': 152, 'cadence': 83.1})
+print(d['stride_pct'], d['verdict'])"
+```
+
+(`pace` in s/km, `cadence` einbeinig wie von Garmin geliefert. Der `sys.path`-Zusatz
+macht den Aufruf unabhängig davon, aus welchem Verzeichnis er läuft.)
+
+Gib im Ergebnis die Zahl an, nicht den Aufruf.
+
 ## 1. Daten holen — in dieser Reihenfolge
 
 1. Aktuelles Datum über das time-MCP.
@@ -70,8 +97,9 @@ Bei Läufen ab ~45 min: erste gegen zweite Hälfte, Pace-zu-HF.
 - 5–10 % → Grenzbereich, meist Umfang oder Hitze
 - über 10 % → zu schnell für den aktuellen Zustand, oder Hitze/Dehydrierung
 
-Liefert Intervals.icu kein Decoupling (häufig `None`), rechne es aus den Streams oder
-den Runden-Splits selbst und sag, dass es eine eigene Rechnung ist.
+Liefert Intervals.icu kein Decoupling (häufig `None`, wie bei fast allen Einheiten
+des Athleten), rechne es mit `decoupling(speed, hr)` aus `scripts/laufcoach.py` über
+die Streams oder Runden-Splits und sag, dass es eine eigene Rechnung ist.
 
 Vergleiche das Ergebnis mit früheren Einheiten desselben Typs. Ein Einzelwert ohne
 Vergleich sagt wenig.
@@ -91,6 +119,17 @@ Vergleich sagt wenig.
 Kadenz und Schrittlänge gegen den persönlichen Normalbereich aus der Historie —
 nicht gegen irgendeinen Lehrbuchwert. Auffällig fallende Kadenz bei gleicher Pace
 deutet auf Ermüdung. Dazu Höhenmeter, Temperatur, Wind, sofern erfasst und relevant.
+
+**Bei Läufen ab ~90 min zusätzlich Pflicht: Schrittlängen-Drift.** Vergleiche ein
+frühes gegen ein spätes Segment mit `stride_drift()` aus `scripts/laufcoach.py`.
+Das ist bei diesem Athleten der aussagekräftigste Einzelbefund — am 13.09.2026
+brach das Tempo über die letzten 7 km um 5,5 % ein, bei **konstanter HF und
+konstanter Kadenz**, also vollständig über die Schrittlänge. Das Limit ist
+muskulär-strukturell, nicht kardiovaskulär.
+
+Konsequenz für die Analyse: Eine unauffällige HF ist kein Beleg dafür, dass die
+Einheit gut weggesteckt wurde. Zielwert ist Drift unter 3 %. Liegt er darüber,
+gehört das in die Befunde, auch wenn Decoupling und HF sauber aussehen.
 
 ## 3. Revisionsauslöser prüfen
 

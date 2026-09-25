@@ -35,6 +35,9 @@ Map of Content für alle Laufen-Notizen. Flache Ordnerstruktur, Filterung läuft
 ## Analysen
 - [[Umfangshistorie 2025-2026]] — 64 Wochen Wochenumfänge, Belastbarkeit und Konstanz
 
+## Werkzeuge
+- `scripts/laufcoach.py` — Rechenkern: Riegel/VDOT-Prognose, CTL/ATL/TSB, Decoupling und Schrittlängen-Drift, Wettkampf-Must-Haves, Pacing, Intervallplanung. Enthält einen Snapshot von [[Athletenstatus]] — bei Änderungen dort nachziehen. Prüfen mit `python3 scripts/laufcoach.py --self-test`.
+
 ## Urlaub & Pausen
 - [[Urlaub 2026-07-13 bis 07-19]] — Rennrad-Urlaub (KW 29), Plan-Anpassung KW 29–31
 

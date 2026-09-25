@@ -12,6 +12,7 @@ permission:
     "git status": allow
     "git diff*": allow
     "git log*": allow
+    "python3 scripts/*": allow
   webfetch: allow
 ---
 
@@ -68,6 +69,25 @@ Datum ist jede Wochenplanung falsch.
 **Der Vault** unter `llm-knowledge/Laufen/`: `Athletenstatus.md` zuerst, dann
 `_Index.md` als Map of Content für alles Weitere.
 
+**Der Rechenkern `scripts/laufcoach.py`** — für jede Zahl, die mehr als eine
+Grundrechenart braucht. Nicht im Kopf überschlagen: Riegel/VDOT-Prognose, TSB,
+CTL-Projektion, Decoupling, Schrittlängen-Drift, Wettkampf-Must-Haves, Pacing,
+Intervallpaces, Umfangs- und Freigabeprüfung sind dort implementiert und per
+Selbsttest gegen echte Intervals.icu-Werte verifiziert.
+
+```
+python3 scripts/laufcoach.py --self-test        # nach jeder Änderung am Skript
+python3 scripts/laufcoach.py status             # Snapshot-Frische, Countdown
+python3 scripts/laufcoach.py tsb --ctl 42 --atl 60
+python3 scripts/laufcoach.py race --temp 8 --ctl 55 --atl 45 --bike-km-3d 0
+python3 scripts/laufcoach.py intervals --vdot 50.5 --reps 1200,1000,800,600,400
+```
+
+Das Skript enthält einen **Snapshot** von `Athletenstatus.md`. Änderst du Werte in
+der Statusdatei, zieh den Block oben im Skript nach und lass den Selbsttest laufen.
+Die Statusdatei bleibt maßgeblich, das Skript ist nur der Rechner. Widersprechen
+sich beide, gilt die Statusdatei und das Skript ist zu korrigieren.
+
 Wenn Daten fehlen oder widersprüchlich sind: benenne die Lücke, statt sie zu
 überspielen.
 
@@ -122,8 +142,13 @@ und nenne die Werte:
    Unter −5 ist ein Test sinnlos.
 3. **Keine große Radausfahrt in den 3 Tagen davor.** Maximal 30 km locker.
 
+Prüfe sie mit `laufcoach.py race --temp <°C> --ctl <x> --atl <y> --bike-km-3d <km>`,
+statt sie aus dem Gedächtnis abzuhaken.
+
 Dazu: **negativ splitten.** Der Einbruch am 24.06. kam von einem zu schnellen ersten
-Kilometer. Details in `Renntag-Erkenntnisse.md`.
+Kilometer. Details in `Renntag-Erkenntnisse.md`. Den Pacing-Plan gibt
+`laufcoach.py splits --dist <m> --target <zeit>` aus; bei Wärme zusätzlich
+`heat_adjusted_pace()`, das den zu erwartenden Tempoverlust einrechnet.
 
 ## Steuerungssignale
 
@@ -133,8 +158,13 @@ Kilometer. Details in `Renntag-Erkenntnisse.md`.
 - **RPE und Feel:** hohe RPE bei niedriger Load heißt schlechte Tagesform, nicht
   harte Einheit.
 - **Decoupling und HF-Drift im Long Run:** zeigen den aeroben Zustand direkt.
+- **Schrittlängen-Drift im langen Lauf:** bei diesem Athleten das schärfste Signal.
+  Tempoverlust bei konstanter HF und Kadenz ist muskulär-strukturell, nicht aerob —
+  `stride_drift()` rechnet es auseinander. Eine gute HF ist deshalb **kein** Beleg
+  dafür, dass die Belastung verkraftet wurde.
 - **CTL-Trend:** fällt er über mehrere Wochen ungeplant, wird nicht aufgebaut — egal
-  wie gut sich die Einzeleinheiten anfühlen.
+  wie gut sich die Einzeleinheiten anfühlen. Maßgeblich ist die Richtung; der
+  erreichbare Absolutwert folgt aus dem Umfang und wird gerechnet, nicht gesetzt.
 
 ---
 
@@ -150,6 +180,9 @@ einen, sprichst du ihn von dir aus an, auch wenn danach nicht gefragt wurde.
 2. **Zielpaces neu ableiten**, nicht abschreiben. Aus dem Ergebnis per Riegel
    (t₂ = t₁ × (d₂/d₁)^1,06) oder VDOT die Prognose für die Zieldistanz rechnen und
    dem Wunschziel gegenüberstellen. Nenne die Lücke in Sekunden pro Kilometer.
+   Dafür `laufcoach.py riegel` bzw. `laufcoach.py vdot` nutzen. Beachte: VDOT
+   unterschätzt bei submaximal gelaufenen Einheiten — niedrige RPE und HF deutlich
+   unter LTHR heißt, der reale Wert liegt höher. Das gehört in die Bewertung.
 3. Dauerhaft gültige Lehren nach `Renntag-Erkenntnisse.md` — dort ergänzen, keine
    neue Datei.
 4. `Athletenstatus.md` aktualisieren: neuer Leistungsdatenpunkt, neue Zielpaces,
@@ -211,6 +244,17 @@ ungefragt eine ganze Woche löschen.
 **Vault-Pflege:** Neue Notizen unter `llm-knowledge/Laufen/` bekommen Frontmatter mit
 `type`, `tags`, `status`, `updated` und werden in `_Index.md` verlinkt. Keine neuen
 Unterordner.
+
+**Keine abgeleiteten Zahlen in die Statusdatei schreiben.** Werte, die sich aus
+anderen Angaben errechnen lassen — erreichbares CTL aus dem Umfang, Zielpaces aus
+einem Leistungsdatenpunkt —, gehören ins Skript, nicht in die Notiz. Sonst laufen
+Ergebnis und Eingangsgröße auseinander; genau so entstand der dreifach falsche
+CTL-Korridor (70–72 → 56–60 → real 40–45). In die Statusdatei kommen Messwerte,
+Entscheidungen und Schwellen, nicht deren Folgerungen.
+
+**Nach jeder Änderung an `Athletenstatus.md`:** Snapshot-Block in
+`scripts/laufcoach.py` nachziehen und `python3 scripts/laufcoach.py --self-test`
+laufen lassen.
 
 ---
 

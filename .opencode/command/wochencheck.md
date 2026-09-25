@@ -30,8 +30,13 @@ Halte dich kurz. Eine Tabelle plus zwei bis drei Sätze Bewertung reichen.
 
 - CTL, ATL, TSB (= CTL − ATL) mit Zahlen nennen.
 - CTL-Trend über die letzten 3–4 Wochen: aufgebaut, gehalten oder verloren?
+  **Die Richtung zählt, nicht das Niveau** — der erreichbare Absolutwert ergibt
+  sich aus dem Umfang und liegt bei diesem Athleten niedriger, als man vermutet.
 - Ruhepuls gegen den Schnitt der Vorwochen.
 - Auffälligkeiten bei RPE/Feel.
+
+Rechne das nicht im Kopf: `python3 scripts/laufcoach.py tsb --ctl <x> --atl <y>`,
+für die Vorausschau `laufcoach.py ctl --ctl <x> --atl <y> --weeks 64,68,74`.
 
 ## 4. Revisionsauslöser prüfen
 
@@ -49,8 +54,17 @@ Wenn die Datei aktualisiert gehört, sag was du ändern willst, und mach es dann
 
 Konkrete Einheiten mit Tag, Distanz/Dauer, Pace- und HF-Vorgabe. Beachte dabei:
 Dienstag bleibt Intervalltag, Intervallformat gegenüber den letzten Wochen
-rotieren, mindestens eine Radeinheit, Umfang innerhalb dessen, was die
-Umfangstoleranz im Status hergibt.
+rotieren, Umfang und Krafteinheiten nach den Vorgaben im Status, Umfang innerhalb
+dessen, was die Umfangstoleranz dort hergibt.
+
+**Kein Rad einplanen.** Das Rad wurde am 13.09.2026 aus der festen Wochenplanung
+gestrichen und läuft spontan nach Lust — nicht einfordern, nicht als Ausfall
+werten. Maßgeblich ist der Abschnitt Nebensportarten im Status.
+
+Prüfe den geplanten Umfang mit `laufcoach.py`: `volume_check(week_km, prev_km,
+long_run_km)` fängt zu große Sprünge und einen Long Run außerhalb 25–33 % ab.
+Steht eine neue Umfangsstufe an, vorher `ramp_release(...)` — alle vier
+Freigabekriterien erfüllt oder Stufe wiederholen.
 
 Frage nach, bevor du die Woche in den Intervals.icu-Kalender schreibst — außer
 der Athlet hat im Zusatzkontext oben schon gesagt, dass er sie eingetragen

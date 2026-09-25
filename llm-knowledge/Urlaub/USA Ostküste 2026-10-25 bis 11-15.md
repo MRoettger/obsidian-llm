@@ -10,18 +10,18 @@ status: Planung – noch nichts gebucht
 
 ## 1. Eckdaten
 
-| | |
-|---|---|
-| **Zeitraum** | So 25.10. – So 15.11.2026 (**21 Nächte**, 22 Reisetage) |
-| **Personen** | 2 |
-| **Hinflug** | So 25.10., **10:30 ab Düsseldorf (DUS)** → New York |
-| **Rückflug** | So 15.11. ab Miami (MIA) → Deutschland, **Landung Mo 16.11.** |
-| **Flugkonzept** | Gabelflug (Open Jaw): New York rein, Miami raus |
-| **Fortbewegung** | 2 Inlandsflüge, Mietwagen nur lokal (Charleston 3 Tage, Keys 5 Tage) |
-| **Tempo** | 4 Stationen, lange Aufenthalte, nur 3 Umzüge |
-| **Budget-Niveau** | Mittelklasse, Unterkunft gemischt (Hotel in Städten, Apartment wo länger) |
-| **Schwerpunkte** | Städte & Kultur, Strand & Entspannen |
-| **Gesamtkosten (2 P.)** | **ca. 9.220 – 14.270 €** → **4.610 – 7.135 € pro Person** |
+|                         |                                                                           |
+| ----------------------- | ------------------------------------------------------------------------- |
+| **Zeitraum**            | So 25.10. – So 15.11.2026 (**21 Nächte**, 22 Reisetage)                   |
+| **Personen**            | 2                                                                         |
+| **Hinflug**             | So 25.10., **10:30 ab Düsseldorf (DUS)** → New York                       |
+| **Rückflug**            | So 15.11. ab Miami (MIA) → Deutschland, **Landung Mo 16.11.**             |
+| **Flugkonzept**         | Gabelflug (Open Jaw): New York rein, Miami raus                           |
+| **Fortbewegung**        | 2 Inlandsflüge, Mietwagen nur lokal (Charleston 3 Tage, Keys 5 Tage)      |
+| **Tempo**               | 4 Stationen, lange Aufenthalte, nur 3 Umzüge                              |
+| **Budget-Niveau**       | Mittelklasse, Unterkunft gemischt (Hotel in Städten, Apartment wo länger) |
+| **Schwerpunkte**        | Städte & Kultur, Strand & Entspannen                                      |
+| **Gesamtkosten (2 P.)** | **ca. 9.220 – 14.270 €** → **4.610 – 7.135 € pro Person**                 |
 
 > **Achtung Urlaubstage:** Transatlantikflüge ab Miami starten fast immer abends (Lufthansa MIA–FRA typisch gegen 17:45). Beim Rückflug am **So 15.11.** landet ihr erst am **Montag, 16.11.** morgens in Frankfurt und seid mittags zu Hause. Der Montag ist noch ein Reisetag — das liegt einen Tag außerhalb eures ursprünglichen Fensters (22.10.–15.11.).
 
