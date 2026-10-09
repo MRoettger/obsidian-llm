@@ -4,14 +4,474 @@
   "graph": {},
   "nodes": [
     {
+      "label": "_Index.md",
+      "file_type": "document",
+      "source_file": "llm-knowledge/Laufen/_Index.md",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "llm_knowledge_laufen_index",
+      "community": 51,
+      "norm_label": "_index.md"
+    },
+    {
+      "label": "Laufen \u2014 \u00dcbersicht",
+      "file_type": "document",
+      "source_file": "llm-knowledge/Laufen/_Index.md",
+      "source_location": "L8",
+      "_origin": "ast",
+      "id": "llm_knowledge_laufen_index_laufen_\u00fcbersicht",
+      "community": 51,
+      "norm_label": "laufen \u2014 ubersicht"
+    },
+    {
+      "label": "Ziele & Status",
+      "file_type": "document",
+      "source_file": "llm-knowledge/Laufen/_Index.md",
+      "source_location": "L12",
+      "_origin": "ast",
+      "id": "llm_knowledge_laufen_index_ziele_status",
+      "community": 51,
+      "norm_label": "ziele & status"
+    },
+    {
+      "label": "Pl\u00e4ne & Methodik",
+      "file_type": "document",
+      "source_file": "llm-knowledge/Laufen/_Index.md",
+      "source_location": "L17",
+      "_origin": "ast",
+      "id": "llm_knowledge_laufen_index_pl\u00e4ne_methodik",
+      "community": 51,
+      "norm_label": "plane & methodik"
+    },
+    {
+      "label": "Rennen & Tests",
+      "file_type": "document",
+      "source_file": "llm-knowledge/Laufen/_Index.md",
+      "source_location": "L24",
+      "_origin": "ast",
+      "id": "llm_knowledge_laufen_index_rennen_tests",
+      "community": 51,
+      "norm_label": "rennen & tests"
+    },
+    {
+      "label": "Wochenberichte & Trainingslogs",
+      "file_type": "document",
+      "source_file": "llm-knowledge/Laufen/_Index.md",
+      "source_location": "L31",
+      "_origin": "ast",
+      "id": "llm_knowledge_laufen_index_wochenberichte_trainingslogs",
+      "community": 51,
+      "norm_label": "wochenberichte & trainingslogs"
+    },
+    {
+      "label": "Analysen",
+      "file_type": "document",
+      "source_file": "llm-knowledge/Laufen/_Index.md",
+      "source_location": "L35",
+      "_origin": "ast",
+      "id": "llm_knowledge_laufen_index_analysen",
+      "community": 51,
+      "norm_label": "analysen"
+    },
+    {
+      "label": "Werkzeuge",
+      "file_type": "document",
+      "source_file": "llm-knowledge/Laufen/_Index.md",
+      "source_location": "L38",
+      "_origin": "ast",
+      "id": "llm_knowledge_laufen_index_werkzeuge",
+      "community": 51,
+      "norm_label": "werkzeuge"
+    },
+    {
+      "label": "Urlaub & Pausen",
+      "file_type": "document",
+      "source_file": "llm-knowledge/Laufen/_Index.md",
+      "source_location": "L41",
+      "_origin": "ast",
+      "id": "llm_knowledge_laufen_index_urlaub_pausen",
+      "community": 51,
+      "norm_label": "urlaub & pausen"
+    },
+    {
+      "label": "Prinzip f\u00fcr neue Notizen",
+      "file_type": "document",
+      "source_file": "llm-knowledge/Laufen/_Index.md",
+      "source_location": "L44",
+      "_origin": "ast",
+      "id": "llm_knowledge_laufen_index_prinzip_f\u00fcr_neue_notizen",
+      "community": 51,
+      "norm_label": "prinzip fur neue notizen"
+    },
+    {
+      "label": "Hinweis zur Aktualit\u00e4t",
+      "file_type": "document",
+      "source_file": "llm-knowledge/Laufen/_Index.md",
+      "source_location": "L49",
+      "_origin": "ast",
+      "id": "llm_knowledge_laufen_index_hinweis_zur_aktualit\u00e4t",
+      "community": 51,
+      "norm_label": "hinweis zur aktualitat"
+    },
+    {
+      "label": "USA 2026-10-25 bis 11-13.md",
+      "file_type": "document",
+      "source_file": "llm-knowledge/Urlaub/USA 2026-10-25 bis 11-13.md",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "llm_knowledge_urlaub_usa_2026_10_25_bis_11_13",
+      "community": 7,
+      "norm_label": "usa 2026-10-25 bis 11-13.md"
+    },
+    {
+      "label": "USA 2026",
+      "file_type": "document",
+      "source_file": "llm-knowledge/Urlaub/USA 2026-10-25 bis 11-13.md",
+      "source_location": "L6",
+      "_origin": "ast",
+      "id": "llm_knowledge_urlaub_usa_2026_10_25_bis_11_13_usa_2026",
+      "community": 7,
+      "norm_label": "usa 2026"
+    },
+    {
+      "label": "Kosten",
+      "file_type": "document",
+      "source_file": "llm-knowledge/Urlaub/USA 2026-10-25 bis 11-13.md",
+      "source_location": "L9",
+      "_origin": "ast",
+      "id": "llm_knowledge_urlaub_usa_2026_10_25_bis_11_13_kosten",
+      "community": 7,
+      "norm_label": "kosten"
+    },
+    {
+      "label": "Fl\u00fcge",
+      "file_type": "document",
+      "source_file": "llm-knowledge/Urlaub/USA 2026-10-25 bis 11-13.md",
+      "source_location": "L11",
+      "_origin": "ast",
+      "id": "llm_knowledge_urlaub_usa_2026_10_25_bis_11_13_fl\u00fcge",
+      "community": 7,
+      "norm_label": "fluge"
+    },
+    {
+      "label": "Unterk\u00fcnfte",
+      "file_type": "document",
+      "source_file": "llm-knowledge/Urlaub/USA 2026-10-25 bis 11-13.md",
+      "source_location": "L20",
+      "_origin": "ast",
+      "id": "llm_knowledge_urlaub_usa_2026_10_25_bis_11_13_unterk\u00fcnfte",
+      "community": 7,
+      "norm_label": "unterkunfte"
+    },
+    {
+      "label": "Gesamt",
+      "file_type": "document",
+      "source_file": "llm-knowledge/Urlaub/USA 2026-10-25 bis 11-13.md",
+      "source_location": "L30",
+      "_origin": "ast",
+      "id": "llm_knowledge_urlaub_usa_2026_10_25_bis_11_13_gesamt",
+      "community": 7,
+      "norm_label": "gesamt"
+    },
+    {
+      "label": "USA Ostk\u00fcste 2026-10-25 bis 11-15.md",
+      "file_type": "document",
+      "source_file": "llm-knowledge/Urlaub/USA Ostk\u00fcste 2026-10-25 bis 11-15.md",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "llm_knowledge_urlaub_usa_ostk\u00fcste_2026_10_25_bis_11_15",
+      "community": 14,
+      "norm_label": "usa ostkuste 2026-10-25 bis 11-15.md"
+    },
+    {
+      "label": "USA Ostk\u00fcste 2026 \u2013 New York, Charleston, Key West, Miami",
+      "file_type": "document",
+      "source_file": "llm-knowledge/Urlaub/USA Ostk\u00fcste 2026-10-25 bis 11-15.md",
+      "source_location": "L9",
+      "_origin": "ast",
+      "id": "llm_knowledge_urlaub_usa_ostk\u00fcste_2026_10_25_bis_11_15_usa_ostk\u00fcste_2026_new_york_charleston_key_west_miami",
+      "community": 14,
+      "norm_label": "usa ostkuste 2026 \u2013 new york, charleston, key west, miami"
+    },
+    {
+      "label": "1. Eckdaten",
+      "file_type": "document",
+      "source_file": "llm-knowledge/Urlaub/USA Ostk\u00fcste 2026-10-25 bis 11-15.md",
+      "source_location": "L11",
+      "_origin": "ast",
+      "id": "llm_knowledge_urlaub_usa_ostk\u00fcste_2026_10_25_bis_11_15_1_eckdaten",
+      "community": 14,
+      "norm_label": "1. eckdaten"
+    },
+    {
+      "label": "2. Struktur",
+      "file_type": "document",
+      "source_file": "llm-knowledge/Urlaub/USA Ostk\u00fcste 2026-10-25 bis 11-15.md",
+      "source_location": "L28",
+      "_origin": "ast",
+      "id": "llm_knowledge_urlaub_usa_ostk\u00fcste_2026_10_25_bis_11_15_2_struktur",
+      "community": 14,
+      "norm_label": "2. struktur"
+    },
+    {
+      "label": "3. Fluglage \u2014 was du vor der Buchung pr\u00fcfen musst",
+      "file_type": "document",
+      "source_file": "llm-knowledge/Urlaub/USA Ostk\u00fcste 2026-10-25 bis 11-15.md",
+      "source_location": "L41",
+      "_origin": "ast",
+      "id": "llm_knowledge_urlaub_usa_ostk\u00fcste_2026_10_25_bis_11_15_3_fluglage_was_du_vor_der_buchung_pr\u00fcfen_musst",
+      "community": 14,
+      "norm_label": "3. fluglage \u2014 was du vor der buchung prufen musst"
+    },
+    {
+      "label": "Der 25.10. ist der Stichtag des Winterflugplans",
+      "file_type": "document",
+      "source_file": "llm-knowledge/Urlaub/USA Ostk\u00fcste 2026-10-25 bis 11-15.md",
+      "source_location": "L43",
+      "_origin": "ast",
+      "id": "llm_knowledge_urlaub_usa_ostk\u00fcste_2026_10_25_bis_11_15_der_25_10_ist_der_stichtag_des_winterflugplans",
+      "community": 14,
+      "norm_label": "der 25.10. ist der stichtag des winterflugplans"
+    },
+    {
+      "label": "DUS \u2192 New York nonstop: existiert im Winter mit hoher Wahrscheinlichkeit nicht",
+      "file_type": "document",
+      "source_file": "llm-knowledge/Urlaub/USA Ostk\u00fcste 2026-10-25 bis 11-15.md",
+      "source_location": "L47",
+      "_origin": "ast",
+      "id": "llm_knowledge_urlaub_usa_ostk\u00fcste_2026_10_25_bis_11_15_dus_new_york_nonstop_existiert_im_winter_mit_hoher_wahrscheinlichkeit_nicht",
+      "community": 14,
+      "norm_label": "dus \u2192 new york nonstop: existiert im winter mit hoher wahrscheinlichkeit nicht"
+    },
+    {
+      "label": "Was das f\u00fcr Tag 1 bedeutet",
+      "file_type": "document",
+      "source_file": "llm-knowledge/Urlaub/USA Ostk\u00fcste 2026-10-25 bis 11-15.md",
+      "source_location": "L54",
+      "_origin": "ast",
+      "id": "llm_knowledge_urlaub_usa_ostk\u00fcste_2026_10_25_bis_11_15_was_das_f\u00fcr_tag_1_bedeutet",
+      "community": 14,
+      "norm_label": "was das fur tag 1 bedeutet"
+    },
+    {
+      "label": "R\u00fcckflug ab Miami",
+      "file_type": "document",
+      "source_file": "llm-knowledge/Urlaub/USA Ostk\u00fcste 2026-10-25 bis 11-15.md",
+      "source_location": "L63",
+      "_origin": "ast",
+      "id": "llm_knowledge_urlaub_usa_ostk\u00fcste_2026_10_25_bis_11_15_r\u00fcckflug_ab_miami",
+      "community": 14,
+      "norm_label": "ruckflug ab miami"
+    },
+    {
+      "label": "Zeitverschiebung (Sonderfall in diesem Zeitraum)",
+      "file_type": "document",
+      "source_file": "llm-knowledge/Urlaub/USA Ostk\u00fcste 2026-10-25 bis 11-15.md",
+      "source_location": "L76",
+      "_origin": "ast",
+      "id": "llm_knowledge_urlaub_usa_ostk\u00fcste_2026_10_25_bis_11_15_zeitverschiebung_sonderfall_in_diesem_zeitraum",
+      "community": 14,
+      "norm_label": "zeitverschiebung (sonderfall in diesem zeitraum)"
+    },
+    {
+      "label": "4. Wetter \u2013 und warum die Route so aussieht",
+      "file_type": "document",
+      "source_file": "llm-knowledge/Urlaub/USA Ostk\u00fcste 2026-10-25 bis 11-15.md",
+      "source_location": "L85",
+      "_origin": "ast",
+      "id": "llm_knowledge_urlaub_usa_ostk\u00fcste_2026_10_25_bis_11_15_4_wetter_und_warum_die_route_so_aussieht",
+      "community": 14,
+      "norm_label": "4. wetter \u2013 und warum die route so aussieht"
+    },
+    {
+      "label": "5. Tagesplan",
+      "file_type": "document",
+      "source_file": "llm-knowledge/Urlaub/USA Ostk\u00fcste 2026-10-25 bis 11-15.md",
+      "source_location": "L98",
+      "_origin": "ast",
+      "id": "llm_knowledge_urlaub_usa_ostk\u00fcste_2026_10_25_bis_11_15_5_tagesplan",
+      "community": 14,
+      "norm_label": "5. tagesplan"
+    },
+    {
+      "label": "Block 1 \u2014 New York City (6 N\u00e4chte, So 25.10. \u2013 Sa 31.10.)",
+      "file_type": "document",
+      "source_file": "llm-knowledge/Urlaub/USA Ostk\u00fcste 2026-10-25 bis 11-15.md",
+      "source_location": "L100",
+      "_origin": "ast",
+      "id": "llm_knowledge_urlaub_usa_ostk\u00fcste_2026_10_25_bis_11_15_block_1_new_york_city_6_n\u00e4chte_so_25_10_sa_31_10",
+      "community": 14,
+      "norm_label": "block 1 \u2014 new york city (6 nachte, so 25.10. \u2013 sa 31.10.)"
+    },
+    {
+      "label": "Block 2 \u2014 Charleston, South Carolina (6 N\u00e4chte, Sa 31.10. \u2013 Fr 06.11.)",
+      "file_type": "document",
+      "source_file": "llm-knowledge/Urlaub/USA Ostk\u00fcste 2026-10-25 bis 11-15.md",
+      "source_location": "L118",
+      "_origin": "ast",
+      "id": "llm_knowledge_urlaub_usa_ostk\u00fcste_2026_10_25_bis_11_15_block_2_charleston_south_carolina_6_n\u00e4chte_sa_31_10_fr_06_11",
+      "community": 14,
+      "norm_label": "block 2 \u2014 charleston, south carolina (6 nachte, sa 31.10. \u2013 fr 06.11.)"
+    },
+    {
+      "label": "Block 3 \u2014 Florida Keys / Key West (4 N\u00e4chte, Fr 06.11. \u2013 Di 10.11.)",
+      "file_type": "document",
+      "source_file": "llm-knowledge/Urlaub/USA Ostk\u00fcste 2026-10-25 bis 11-15.md",
+      "source_location": "L138",
+      "_origin": "ast",
+      "id": "llm_knowledge_urlaub_usa_ostk\u00fcste_2026_10_25_bis_11_15_block_3_florida_keys_key_west_4_n\u00e4chte_fr_06_11_di_10_11",
+      "community": 14,
+      "norm_label": "block 3 \u2014 florida keys / key west (4 nachte, fr 06.11. \u2013 di 10.11.)"
+    },
+    {
+      "label": "Block 4 \u2014 Miami / Miami Beach (5 N\u00e4chte, Di 10.11. \u2013 So 15.11.)",
+      "file_type": "document",
+      "source_file": "llm-knowledge/Urlaub/USA Ostk\u00fcste 2026-10-25 bis 11-15.md",
+      "source_location": "L152",
+      "_origin": "ast",
+      "id": "llm_knowledge_urlaub_usa_ostk\u00fcste_2026_10_25_bis_11_15_block_4_miami_miami_beach_5_n\u00e4chte_di_10_11_so_15_11",
+      "community": 14,
+      "norm_label": "block 4 \u2014 miami / miami beach (5 nachte, di 10.11. \u2013 so 15.11.)"
+    },
+    {
+      "label": "6. Kostenaufstellung (2 Personen, 21 N\u00e4chte)",
+      "file_type": "document",
+      "source_file": "llm-knowledge/Urlaub/USA Ostk\u00fcste 2026-10-25 bis 11-15.md",
+      "source_location": "L167",
+      "_origin": "ast",
+      "id": "llm_knowledge_urlaub_usa_ostk\u00fcste_2026_10_25_bis_11_15_6_kostenaufstellung_2_personen_21_n\u00e4chte",
+      "community": 14,
+      "norm_label": "6. kostenaufstellung (2 personen, 21 nachte)"
+    },
+    {
+      "label": "Fl\u00fcge",
+      "file_type": "document",
+      "source_file": "llm-knowledge/Urlaub/USA Ostk\u00fcste 2026-10-25 bis 11-15.md",
+      "source_location": "L171",
+      "_origin": "ast",
+      "id": "llm_knowledge_urlaub_usa_ostk\u00fcste_2026_10_25_bis_11_15_fl\u00fcge",
+      "community": 14,
+      "norm_label": "fluge"
+    },
+    {
+      "label": "Unterkunft",
+      "file_type": "document",
+      "source_file": "llm-knowledge/Urlaub/USA Ostk\u00fcste 2026-10-25 bis 11-15.md",
+      "source_location": "L181",
+      "_origin": "ast",
+      "id": "llm_knowledge_urlaub_usa_ostk\u00fcste_2026_10_25_bis_11_15_unterkunft",
+      "community": 14,
+      "norm_label": "unterkunft"
+    },
+    {
+      "label": "Mietwagen & Transport vor Ort",
+      "file_type": "document",
+      "source_file": "llm-knowledge/Urlaub/USA Ostk\u00fcste 2026-10-25 bis 11-15.md",
+      "source_location": "L193",
+      "_origin": "ast",
+      "id": "llm_knowledge_urlaub_usa_ostk\u00fcste_2026_10_25_bis_11_15_mietwagen_transport_vor_ort",
+      "community": 14,
+      "norm_label": "mietwagen & transport vor ort"
+    },
+    {
+      "label": "Verpflegung & Aktivit\u00e4ten",
+      "file_type": "document",
+      "source_file": "llm-knowledge/Urlaub/USA Ostk\u00fcste 2026-10-25 bis 11-15.md",
+      "source_location": "L206",
+      "_origin": "ast",
+      "id": "llm_knowledge_urlaub_usa_ostk\u00fcste_2026_10_25_bis_11_15_verpflegung_aktivit\u00e4ten",
+      "community": 14,
+      "norm_label": "verpflegung & aktivitaten"
+    },
+    {
+      "label": "Formalit\u00e4ten & Sonstiges",
+      "file_type": "document",
+      "source_file": "llm-knowledge/Urlaub/USA Ostk\u00fcste 2026-10-25 bis 11-15.md",
+      "source_location": "L217",
+      "_origin": "ast",
+      "id": "llm_knowledge_urlaub_usa_ostk\u00fcste_2026_10_25_bis_11_15_formalit\u00e4ten_sonstiges",
+      "community": 14,
+      "norm_label": "formalitaten & sonstiges"
+    },
+    {
+      "label": "Gesamt",
+      "file_type": "document",
+      "source_file": "llm-knowledge/Urlaub/USA Ostk\u00fcste 2026-10-25 bis 11-15.md",
+      "source_location": "L228",
+      "_origin": "ast",
+      "id": "llm_knowledge_urlaub_usa_ostk\u00fcste_2026_10_25_bis_11_15_gesamt",
+      "community": 14,
+      "norm_label": "gesamt"
+    },
+    {
+      "label": "Sparhebel (falls die Spanne zu hoch ist)",
+      "file_type": "document",
+      "source_file": "llm-knowledge/Urlaub/USA Ostk\u00fcste 2026-10-25 bis 11-15.md",
+      "source_location": "L240",
+      "_origin": "ast",
+      "id": "llm_knowledge_urlaub_usa_ostk\u00fcste_2026_10_25_bis_11_15_sparhebel_falls_die_spanne_zu_hoch_ist",
+      "community": 14,
+      "norm_label": "sparhebel (falls die spanne zu hoch ist)"
+    },
+    {
+      "label": "7. Checkliste Einreise & Formalit\u00e4ten",
+      "file_type": "document",
+      "source_file": "llm-knowledge/Urlaub/USA Ostk\u00fcste 2026-10-25 bis 11-15.md",
+      "source_location": "L254",
+      "_origin": "ast",
+      "id": "llm_knowledge_urlaub_usa_ostk\u00fcste_2026_10_25_bis_11_15_7_checkliste_einreise_formalit\u00e4ten",
+      "community": 14,
+      "norm_label": "7. checkliste einreise & formalitaten"
+    },
+    {
+      "label": "8. Buchungsreihenfolge & Fristen",
+      "file_type": "document",
+      "source_file": "llm-knowledge/Urlaub/USA Ostk\u00fcste 2026-10-25 bis 11-15.md",
+      "source_location": "L271",
+      "_origin": "ast",
+      "id": "llm_knowledge_urlaub_usa_ostk\u00fcste_2026_10_25_bis_11_15_8_buchungsreihenfolge_fristen",
+      "community": 14,
+      "norm_label": "8. buchungsreihenfolge & fristen"
+    },
+    {
+      "label": "9. Praktische Hinweise USA",
+      "file_type": "document",
+      "source_file": "llm-knowledge/Urlaub/USA Ostk\u00fcste 2026-10-25 bis 11-15.md",
+      "source_location": "L291",
+      "_origin": "ast",
+      "id": "llm_knowledge_urlaub_usa_ostk\u00fcste_2026_10_25_bis_11_15_9_praktische_hinweise_usa",
+      "community": 14,
+      "norm_label": "9. praktische hinweise usa"
+    },
+    {
+      "label": "10. Offene Punkte / noch zu entscheiden",
+      "file_type": "document",
+      "source_file": "llm-knowledge/Urlaub/USA Ostk\u00fcste 2026-10-25 bis 11-15.md",
+      "source_location": "L303",
+      "_origin": "ast",
+      "id": "llm_knowledge_urlaub_usa_ostk\u00fcste_2026_10_25_bis_11_15_10_offene_punkte_noch_zu_entscheiden",
+      "community": 14,
+      "norm_label": "10. offene punkte / noch zu entscheiden"
+    },
+    {
+      "label": "Verwandte Notizen",
+      "file_type": "document",
+      "source_file": "llm-knowledge/Urlaub/USA Ostk\u00fcste 2026-10-25 bis 11-15.md",
+      "source_location": "L317",
+      "_origin": "ast",
+      "id": "llm_knowledge_urlaub_usa_ostk\u00fcste_2026_10_25_bis_11_15_verwandte_notizen",
+      "community": 14,
+      "norm_label": "verwandte notizen"
+    },
+    {
       "label": "Athletenstatus.md",
       "file_type": "document",
       "source_file": "llm-knowledge/Laufen/Athletenstatus.md",
       "source_location": "L1",
       "_origin": "ast",
-      "id": "llm_knowledge_laufen_athletenstatus",
-      "community": 54,
-      "norm_label": "athletenstatus.md"
+      "community": 2,
+      "norm_label": "athletenstatus.md",
+      "id": "llm_knowledge_laufen_athletenstatus"
     },
     {
       "label": "\ud83d\udccd Athletenstatus",
@@ -19,9 +479,9 @@
       "source_file": "llm-knowledge/Laufen/Athletenstatus.md",
       "source_location": "L9",
       "_origin": "ast",
-      "id": "llm_knowledge_laufen_athletenstatus_athletenstatus",
       "community": 2,
-      "norm_label": "\ud83d\udccd athletenstatus"
+      "norm_label": "\ud83d\udccd athletenstatus",
+      "id": "llm_knowledge_laufen_athletenstatus_athletenstatus"
     },
     {
       "label": "\ud83c\udfaf Aktives Ziel",
@@ -29,9 +489,9 @@
       "source_file": "llm-knowledge/Laufen/Athletenstatus.md",
       "source_location": "L21",
       "_origin": "ast",
-      "id": "llm_knowledge_laufen_athletenstatus_aktives_ziel",
       "community": 2,
-      "norm_label": "\ud83c\udfaf aktives ziel"
+      "norm_label": "\ud83c\udfaf aktives ziel",
+      "id": "llm_knowledge_laufen_athletenstatus_aktives_ziel"
     },
     {
       "label": "Pr\u00fcfpunkte f\u00fcr Sub-1:20 (verbindlich)",
@@ -39,9 +499,9 @@
       "source_file": "llm-knowledge/Laufen/Athletenstatus.md",
       "source_location": "L37",
       "_origin": "ast",
-      "id": "llm_knowledge_laufen_athletenstatus_pr\u00fcfpunkte_f\u00fcr_sub_1_20_verbindlich",
       "community": 2,
-      "norm_label": "prufpunkte fur sub-1:20 (verbindlich)"
+      "norm_label": "prufpunkte fur sub-1:20 (verbindlich)",
+      "id": "llm_knowledge_laufen_athletenstatus_pr\u00fcfpunkte_f\u00fcr_sub_1_20_verbindlich"
     },
     {
       "label": "\ud83d\udc93 Zonen & Schwellen",
@@ -49,9 +509,9 @@
       "source_file": "llm-knowledge/Laufen/Athletenstatus.md",
       "source_location": "L49",
       "_origin": "ast",
-      "id": "llm_knowledge_laufen_athletenstatus_zonen_schwellen",
       "community": 2,
-      "norm_label": "\ud83d\udc93 zonen & schwellen"
+      "norm_label": "\ud83d\udc93 zonen & schwellen",
+      "id": "llm_knowledge_laufen_athletenstatus_zonen_schwellen"
     },
     {
       "label": "\ud83d\udcca Aktuelle Leistungsdatenpunkte",
@@ -59,9 +519,9 @@
       "source_file": "llm-knowledge/Laufen/Athletenstatus.md",
       "source_location": "L78",
       "_origin": "ast",
-      "id": "llm_knowledge_laufen_athletenstatus_aktuelle_leistungsdatenpunkte",
       "community": 2,
-      "norm_label": "\ud83d\udcca aktuelle leistungsdatenpunkte"
+      "norm_label": "\ud83d\udcca aktuelle leistungsdatenpunkte",
+      "id": "llm_knowledge_laufen_athletenstatus_aktuelle_leistungsdatenpunkte"
     },
     {
       "label": "Was das f\u00fcr die Ziele bedeutet",
@@ -69,9 +529,9 @@
       "source_file": "llm-knowledge/Laufen/Athletenstatus.md",
       "source_location": "L91",
       "_origin": "ast",
-      "id": "llm_knowledge_laufen_athletenstatus_was_das_f\u00fcr_die_ziele_bedeutet",
       "community": 2,
-      "norm_label": "was das fur die ziele bedeutet"
+      "norm_label": "was das fur die ziele bedeutet",
+      "id": "llm_knowledge_laufen_athletenstatus_was_das_f\u00fcr_die_ziele_bedeutet"
     },
     {
       "label": "Resilienz-Datenpunkt (gemessen 13.09.2026) \u2014 der entscheidende Befund",
@@ -79,9 +539,9 @@
       "source_file": "llm-knowledge/Laufen/Athletenstatus.md",
       "source_location": "L104",
       "_origin": "ast",
-      "id": "llm_knowledge_laufen_athletenstatus_resilienz_datenpunkt_gemessen_13_09_2026_der_entscheidende_befund",
       "community": 2,
-      "norm_label": "resilienz-datenpunkt (gemessen 13.09.2026) \u2014 der entscheidende befund"
+      "norm_label": "resilienz-datenpunkt (gemessen 13.09.2026) \u2014 der entscheidende befund",
+      "id": "llm_knowledge_laufen_athletenstatus_resilienz_datenpunkt_gemessen_13_09_2026_der_entscheidende_befund"
     },
     {
       "label": "\ud83c\udfc3 Umfangstoleranz",
@@ -89,9 +549,9 @@
       "source_file": "llm-knowledge/Laufen/Athletenstatus.md",
       "source_location": "L126",
       "_origin": "ast",
-      "id": "llm_knowledge_laufen_athletenstatus_umfangstoleranz",
       "community": 2,
-      "norm_label": "\ud83c\udfc3 umfangstoleranz"
+      "norm_label": "\ud83c\udfc3 umfangstoleranz",
+      "id": "llm_knowledge_laufen_athletenstatus_umfangstoleranz"
     },
     {
       "label": "Umfangsrampe zum Venloop (beschlossen 13.09.2026)",
@@ -99,9 +559,9 @@
       "source_file": "llm-knowledge/Laufen/Athletenstatus.md",
       "source_location": "L155",
       "_origin": "ast",
-      "id": "llm_knowledge_laufen_athletenstatus_umfangsrampe_zum_venloop_beschlossen_13_09_2026",
       "community": 2,
-      "norm_label": "umfangsrampe zum venloop (beschlossen 13.09.2026)"
+      "norm_label": "umfangsrampe zum venloop (beschlossen 13.09.2026)",
+      "id": "llm_knowledge_laufen_athletenstatus_umfangsrampe_zum_venloop_beschlossen_13_09_2026"
     },
     {
       "label": "\ud83d\udcc9 Formtrend",
@@ -109,9 +569,9 @@
       "source_file": "llm-knowledge/Laufen/Athletenstatus.md",
       "source_location": "L199",
       "_origin": "ast",
-      "id": "llm_knowledge_laufen_athletenstatus_formtrend",
       "community": 2,
-      "norm_label": "\ud83d\udcc9 formtrend"
+      "norm_label": "\ud83d\udcc9 formtrend",
+      "id": "llm_knowledge_laufen_athletenstatus_formtrend"
     },
     {
       "label": "\ud83d\udeb4 Nebensportarten",
@@ -119,9 +579,9 @@
       "source_file": "llm-knowledge/Laufen/Athletenstatus.md",
       "source_location": "L217",
       "_origin": "ast",
-      "id": "llm_knowledge_laufen_athletenstatus_nebensportarten",
       "community": 2,
-      "norm_label": "\ud83d\udeb4 nebensportarten"
+      "norm_label": "\ud83d\udeb4 nebensportarten",
+      "id": "llm_knowledge_laufen_athletenstatus_nebensportarten"
     },
     {
       "label": "\ud83c\udfcb\ufe0f Krafttraining \u2014 Pflichtbestandteil ab 13.09.2026",
@@ -129,9 +589,9 @@
       "source_file": "llm-knowledge/Laufen/Athletenstatus.md",
       "source_location": "L238",
       "_origin": "ast",
-      "id": "llm_knowledge_laufen_athletenstatus_krafttraining_pflichtbestandteil_ab_13_09_2026",
       "community": 2,
-      "norm_label": "\ud83c\udfcb\ufe0f krafttraining \u2014 pflichtbestandteil ab 13.09.2026"
+      "norm_label": "\ud83c\udfcb\ufe0f krafttraining \u2014 pflichtbestandteil ab 13.09.2026",
+      "id": "llm_knowledge_laufen_athletenstatus_krafttraining_pflichtbestandteil_ab_13_09_2026"
     },
     {
       "label": "\ud83d\udd04 \u00c4nderungshistorie",
@@ -139,9 +599,9 @@
       "source_file": "llm-knowledge/Laufen/Athletenstatus.md",
       "source_location": "L279",
       "_origin": "ast",
-      "id": "llm_knowledge_laufen_athletenstatus_\u00e4nderungshistorie",
       "community": 2,
-      "norm_label": "\ud83d\udd04 anderungshistorie"
+      "norm_label": "\ud83d\udd04 anderungshistorie",
+      "id": "llm_knowledge_laufen_athletenstatus_\u00e4nderungshistorie"
     },
     {
       "label": "Verkn\u00fcpfte Notizen",
@@ -149,9 +609,9 @@
       "source_file": "llm-knowledge/Laufen/Athletenstatus.md",
       "source_location": "L309",
       "_origin": "ast",
-      "id": "llm_knowledge_laufen_athletenstatus_verkn\u00fcpfte_notizen",
       "community": 2,
-      "norm_label": "verknupfte notizen"
+      "norm_label": "verknupfte notizen",
+      "id": "llm_knowledge_laufen_athletenstatus_verkn\u00fcpfte_notizen"
     },
     {
       "label": "Renntag-Erkenntnisse.md",
@@ -462,106 +922,6 @@
       "community": 54,
       "norm_label": "verwandte notizen",
       "id": "llm_knowledge_laufen_wettkampf_2026_11_29_advents_aaseelauf_verwandte_notizen"
-    },
-    {
-      "label": "_Index.md",
-      "file_type": "document",
-      "source_file": "llm-knowledge/Laufen/_Index.md",
-      "source_location": "L1",
-      "_origin": "ast",
-      "community": 54,
-      "norm_label": "_index.md",
-      "id": "llm_knowledge_laufen_index"
-    },
-    {
-      "label": "Laufen \u2014 \u00dcbersicht",
-      "file_type": "document",
-      "source_file": "llm-knowledge/Laufen/_Index.md",
-      "source_location": "L8",
-      "_origin": "ast",
-      "community": 54,
-      "norm_label": "laufen \u2014 ubersicht",
-      "id": "llm_knowledge_laufen_index_laufen_\u00fcbersicht"
-    },
-    {
-      "label": "Ziele & Status",
-      "file_type": "document",
-      "source_file": "llm-knowledge/Laufen/_Index.md",
-      "source_location": "L12",
-      "_origin": "ast",
-      "community": 54,
-      "norm_label": "ziele & status",
-      "id": "llm_knowledge_laufen_index_ziele_status"
-    },
-    {
-      "label": "Pl\u00e4ne & Methodik",
-      "file_type": "document",
-      "source_file": "llm-knowledge/Laufen/_Index.md",
-      "source_location": "L17",
-      "_origin": "ast",
-      "community": 54,
-      "norm_label": "plane & methodik",
-      "id": "llm_knowledge_laufen_index_pl\u00e4ne_methodik"
-    },
-    {
-      "label": "Rennen & Tests",
-      "file_type": "document",
-      "source_file": "llm-knowledge/Laufen/_Index.md",
-      "source_location": "L24",
-      "_origin": "ast",
-      "community": 54,
-      "norm_label": "rennen & tests",
-      "id": "llm_knowledge_laufen_index_rennen_tests"
-    },
-    {
-      "label": "Wochenberichte & Trainingslogs",
-      "file_type": "document",
-      "source_file": "llm-knowledge/Laufen/_Index.md",
-      "source_location": "L31",
-      "_origin": "ast",
-      "community": 54,
-      "norm_label": "wochenberichte & trainingslogs",
-      "id": "llm_knowledge_laufen_index_wochenberichte_trainingslogs"
-    },
-    {
-      "label": "Analysen",
-      "file_type": "document",
-      "source_file": "llm-knowledge/Laufen/_Index.md",
-      "source_location": "L35",
-      "_origin": "ast",
-      "community": 54,
-      "norm_label": "analysen",
-      "id": "llm_knowledge_laufen_index_analysen"
-    },
-    {
-      "label": "Urlaub & Pausen",
-      "file_type": "document",
-      "source_file": "llm-knowledge/Laufen/_Index.md",
-      "source_location": "L38",
-      "_origin": "ast",
-      "community": 54,
-      "norm_label": "urlaub & pausen",
-      "id": "llm_knowledge_laufen_index_urlaub_pausen"
-    },
-    {
-      "label": "Prinzip f\u00fcr neue Notizen",
-      "file_type": "document",
-      "source_file": "llm-knowledge/Laufen/_Index.md",
-      "source_location": "L41",
-      "_origin": "ast",
-      "community": 54,
-      "norm_label": "prinzip fur neue notizen",
-      "id": "llm_knowledge_laufen_index_prinzip_f\u00fcr_neue_notizen"
-    },
-    {
-      "label": "Hinweis zur Aktualit\u00e4t",
-      "file_type": "document",
-      "source_file": "llm-knowledge/Laufen/_Index.md",
-      "source_location": "L46",
-      "_origin": "ast",
-      "community": 54,
-      "norm_label": "hinweis zur aktualitat",
-      "id": "llm_knowledge_laufen_index_hinweis_zur_aktualit\u00e4t"
     },
     {
       "label": "HM-Aufbau Forschungsgrundlagen 2026.md",
@@ -1219,7 +1579,7 @@
       "source_file": "llm-knowledge/Laufen/Obsidian-Struktur-Analyse 25.06.2026.md",
       "source_location": "L1",
       "_origin": "ast",
-      "community": 54,
+      "community": 51,
       "norm_label": "obsidian-struktur-analyse 25.06.2026.md",
       "id": "llm_knowledge_laufen_obsidian_struktur_analyse_25_06_2026"
     },
@@ -1689,7 +2049,7 @@
       "source_file": "llm-knowledge/Laufen/Trainingspr\u00e4ferenzen.md",
       "source_location": "L8",
       "_origin": "ast",
-      "community": 6,
+      "community": 9,
       "norm_label": "\u2699\ufe0f trainingspraferenzen",
       "id": "llm_knowledge_laufen_trainingspr\u00e4ferenzen_trainingspr\u00e4ferenzen"
     },
@@ -1699,7 +2059,7 @@
       "source_file": "llm-knowledge/Laufen/Trainingspr\u00e4ferenzen.md",
       "source_location": "L12",
       "_origin": "ast",
-      "community": 6,
+      "community": 9,
       "norm_label": "feste wochenstruktur",
       "id": "llm_knowledge_laufen_trainingspr\u00e4ferenzen_feste_wochenstruktur"
     },
@@ -1709,7 +2069,7 @@
       "source_file": "llm-knowledge/Laufen/Trainingspr\u00e4ferenzen.md",
       "source_location": "L17",
       "_origin": "ast",
-      "community": 6,
+      "community": 9,
       "norm_label": "variantenreiche intervalle (wichtig fur die planung)",
       "id": "llm_knowledge_laufen_trainingspr\u00e4ferenzen_variantenreiche_intervalle_wichtig_f\u00fcr_die_planung"
     },
@@ -1719,7 +2079,7 @@
       "source_file": "llm-knowledge/Laufen/Trainingspr\u00e4ferenzen.md",
       "source_location": "L30",
       "_origin": "ast",
-      "community": 6,
+      "community": 9,
       "norm_label": "drei regeln, die dabei gelten",
       "id": "llm_knowledge_laufen_trainingspr\u00e4ferenzen_drei_regeln_die_dabei_gelten"
     },
@@ -1729,7 +2089,7 @@
       "source_file": "llm-knowledge/Laufen/Trainingspr\u00e4ferenzen.md",
       "source_location": "L42",
       "_origin": "ast",
-      "community": 6,
+      "community": 9,
       "norm_label": "verknupfte notizen",
       "id": "llm_knowledge_laufen_trainingspr\u00e4ferenzen_verkn\u00fcpfte_notizen"
     },
@@ -2669,7 +3029,7 @@
       "source_file": "llm-knowledge/Python/Python - Standardbibliothek.md",
       "source_location": "L8",
       "_origin": "ast",
-      "community": 7,
+      "community": 83,
       "norm_label": "\ud83d\udc0d python \u2013 standardbibliothek",
       "id": "llm_knowledge_python_python_standardbibliothek_python_standardbibliothek"
     },
@@ -2679,7 +3039,7 @@
       "source_file": "llm-knowledge/Python/Python - Standardbibliothek.md",
       "source_location": "L14",
       "_origin": "ast",
-      "community": 7,
+      "community": 83,
       "norm_label": "collections",
       "id": "llm_knowledge_python_python_standardbibliothek_collections"
     },
@@ -2689,7 +3049,7 @@
       "source_file": "llm-knowledge/Python/Python - Standardbibliothek.md",
       "source_location": "L20",
       "_origin": "ast",
-      "community": 7,
+      "community": 83,
       "norm_label": "functools",
       "id": "llm_knowledge_python_python_standardbibliothek_functools"
     },
@@ -2699,7 +3059,7 @@
       "source_file": "llm-knowledge/Python/Python - Standardbibliothek.md",
       "source_location": "L24",
       "_origin": "ast",
-      "community": 7,
+      "community": 83,
       "norm_label": "itertools",
       "id": "llm_knowledge_python_python_standardbibliothek_itertools"
     },
@@ -2709,7 +3069,7 @@
       "source_file": "llm-knowledge/Python/Python - Standardbibliothek.md",
       "source_location": "L30",
       "_origin": "ast",
-      "community": 7,
+      "community": 83,
       "norm_label": "dateien, zeit, daten",
       "id": "llm_knowledge_python_python_standardbibliothek_dateien_zeit_daten"
     },
@@ -2719,7 +3079,7 @@
       "source_file": "llm-knowledge/Python/Python - Standardbibliothek.md",
       "source_location": "L35",
       "_origin": "ast",
-      "community": 7,
+      "community": 83,
       "norm_label": "sonstiges",
       "id": "llm_knowledge_python_python_standardbibliothek_sonstiges"
     },
@@ -2729,7 +3089,7 @@
       "source_file": "llm-knowledge/Python/Python - Standardbibliothek.md",
       "source_location": "L40",
       "_origin": "ast",
-      "community": 7,
+      "community": 83,
       "norm_label": "erfasste anki-karten",
       "id": "llm_knowledge_python_python_standardbibliothek_erfasste_anki_karten"
     },
@@ -3422,296 +3782,6 @@
       "community": 104,
       "norm_label": "6. verpflegung & selbstversorgung",
       "id": "llm_knowledge_radurlaub_\u00fcbersicht_radurlaub_6_verpflegung_selbstversorgung"
-    },
-    {
-      "label": "USA Ostk\u00fcste 2026-10-25 bis 11-15.md",
-      "file_type": "document",
-      "source_file": "llm-knowledge/Urlaub/USA Ostk\u00fcste 2026-10-25 bis 11-15.md",
-      "source_location": "L1",
-      "_origin": "ast",
-      "community": 0,
-      "norm_label": "usa ostkuste 2026-10-25 bis 11-15.md",
-      "id": "llm_knowledge_urlaub_usa_ostk\u00fcste_2026_10_25_bis_11_15"
-    },
-    {
-      "label": "USA Ostk\u00fcste 2026 \u2013 New York, Charleston, Key West, Miami",
-      "file_type": "document",
-      "source_file": "llm-knowledge/Urlaub/USA Ostk\u00fcste 2026-10-25 bis 11-15.md",
-      "source_location": "L9",
-      "_origin": "ast",
-      "community": 14,
-      "norm_label": "usa ostkuste 2026 \u2013 new york, charleston, key west, miami",
-      "id": "llm_knowledge_urlaub_usa_ostk\u00fcste_2026_10_25_bis_11_15_usa_ostk\u00fcste_2026_new_york_charleston_key_west_miami"
-    },
-    {
-      "label": "1. Eckdaten",
-      "file_type": "document",
-      "source_file": "llm-knowledge/Urlaub/USA Ostk\u00fcste 2026-10-25 bis 11-15.md",
-      "source_location": "L11",
-      "_origin": "ast",
-      "community": 14,
-      "norm_label": "1. eckdaten",
-      "id": "llm_knowledge_urlaub_usa_ostk\u00fcste_2026_10_25_bis_11_15_1_eckdaten"
-    },
-    {
-      "label": "2. Struktur",
-      "file_type": "document",
-      "source_file": "llm-knowledge/Urlaub/USA Ostk\u00fcste 2026-10-25 bis 11-15.md",
-      "source_location": "L28",
-      "_origin": "ast",
-      "community": 14,
-      "norm_label": "2. struktur",
-      "id": "llm_knowledge_urlaub_usa_ostk\u00fcste_2026_10_25_bis_11_15_2_struktur"
-    },
-    {
-      "label": "3. Fluglage \u2014 was du vor der Buchung pr\u00fcfen musst",
-      "file_type": "document",
-      "source_file": "llm-knowledge/Urlaub/USA Ostk\u00fcste 2026-10-25 bis 11-15.md",
-      "source_location": "L41",
-      "_origin": "ast",
-      "community": 14,
-      "norm_label": "3. fluglage \u2014 was du vor der buchung prufen musst",
-      "id": "llm_knowledge_urlaub_usa_ostk\u00fcste_2026_10_25_bis_11_15_3_fluglage_was_du_vor_der_buchung_pr\u00fcfen_musst"
-    },
-    {
-      "label": "Der 25.10. ist der Stichtag des Winterflugplans",
-      "file_type": "document",
-      "source_file": "llm-knowledge/Urlaub/USA Ostk\u00fcste 2026-10-25 bis 11-15.md",
-      "source_location": "L43",
-      "_origin": "ast",
-      "community": 14,
-      "norm_label": "der 25.10. ist der stichtag des winterflugplans",
-      "id": "llm_knowledge_urlaub_usa_ostk\u00fcste_2026_10_25_bis_11_15_der_25_10_ist_der_stichtag_des_winterflugplans"
-    },
-    {
-      "label": "DUS \u2192 New York nonstop: existiert im Winter mit hoher Wahrscheinlichkeit nicht",
-      "file_type": "document",
-      "source_file": "llm-knowledge/Urlaub/USA Ostk\u00fcste 2026-10-25 bis 11-15.md",
-      "source_location": "L47",
-      "_origin": "ast",
-      "community": 14,
-      "norm_label": "dus \u2192 new york nonstop: existiert im winter mit hoher wahrscheinlichkeit nicht",
-      "id": "llm_knowledge_urlaub_usa_ostk\u00fcste_2026_10_25_bis_11_15_dus_new_york_nonstop_existiert_im_winter_mit_hoher_wahrscheinlichkeit_nicht"
-    },
-    {
-      "label": "Was das f\u00fcr Tag 1 bedeutet",
-      "file_type": "document",
-      "source_file": "llm-knowledge/Urlaub/USA Ostk\u00fcste 2026-10-25 bis 11-15.md",
-      "source_location": "L54",
-      "_origin": "ast",
-      "community": 14,
-      "norm_label": "was das fur tag 1 bedeutet",
-      "id": "llm_knowledge_urlaub_usa_ostk\u00fcste_2026_10_25_bis_11_15_was_das_f\u00fcr_tag_1_bedeutet"
-    },
-    {
-      "label": "R\u00fcckflug ab Miami",
-      "file_type": "document",
-      "source_file": "llm-knowledge/Urlaub/USA Ostk\u00fcste 2026-10-25 bis 11-15.md",
-      "source_location": "L63",
-      "_origin": "ast",
-      "community": 14,
-      "norm_label": "ruckflug ab miami",
-      "id": "llm_knowledge_urlaub_usa_ostk\u00fcste_2026_10_25_bis_11_15_r\u00fcckflug_ab_miami"
-    },
-    {
-      "label": "Zeitverschiebung (Sonderfall in diesem Zeitraum)",
-      "file_type": "document",
-      "source_file": "llm-knowledge/Urlaub/USA Ostk\u00fcste 2026-10-25 bis 11-15.md",
-      "source_location": "L76",
-      "_origin": "ast",
-      "community": 14,
-      "norm_label": "zeitverschiebung (sonderfall in diesem zeitraum)",
-      "id": "llm_knowledge_urlaub_usa_ostk\u00fcste_2026_10_25_bis_11_15_zeitverschiebung_sonderfall_in_diesem_zeitraum"
-    },
-    {
-      "label": "4. Wetter \u2013 und warum die Route so aussieht",
-      "file_type": "document",
-      "source_file": "llm-knowledge/Urlaub/USA Ostk\u00fcste 2026-10-25 bis 11-15.md",
-      "source_location": "L85",
-      "_origin": "ast",
-      "community": 14,
-      "norm_label": "4. wetter \u2013 und warum die route so aussieht",
-      "id": "llm_knowledge_urlaub_usa_ostk\u00fcste_2026_10_25_bis_11_15_4_wetter_und_warum_die_route_so_aussieht"
-    },
-    {
-      "label": "5. Tagesplan",
-      "file_type": "document",
-      "source_file": "llm-knowledge/Urlaub/USA Ostk\u00fcste 2026-10-25 bis 11-15.md",
-      "source_location": "L98",
-      "_origin": "ast",
-      "community": 14,
-      "norm_label": "5. tagesplan",
-      "id": "llm_knowledge_urlaub_usa_ostk\u00fcste_2026_10_25_bis_11_15_5_tagesplan"
-    },
-    {
-      "label": "Block 1 \u2014 New York City (6 N\u00e4chte, So 25.10. \u2013 Sa 31.10.)",
-      "file_type": "document",
-      "source_file": "llm-knowledge/Urlaub/USA Ostk\u00fcste 2026-10-25 bis 11-15.md",
-      "source_location": "L100",
-      "_origin": "ast",
-      "community": 14,
-      "norm_label": "block 1 \u2014 new york city (6 nachte, so 25.10. \u2013 sa 31.10.)",
-      "id": "llm_knowledge_urlaub_usa_ostk\u00fcste_2026_10_25_bis_11_15_block_1_new_york_city_6_n\u00e4chte_so_25_10_sa_31_10"
-    },
-    {
-      "label": "Block 2 \u2014 Charleston, South Carolina (6 N\u00e4chte, Sa 31.10. \u2013 Fr 06.11.)",
-      "file_type": "document",
-      "source_file": "llm-knowledge/Urlaub/USA Ostk\u00fcste 2026-10-25 bis 11-15.md",
-      "source_location": "L118",
-      "_origin": "ast",
-      "community": 14,
-      "norm_label": "block 2 \u2014 charleston, south carolina (6 nachte, sa 31.10. \u2013 fr 06.11.)",
-      "id": "llm_knowledge_urlaub_usa_ostk\u00fcste_2026_10_25_bis_11_15_block_2_charleston_south_carolina_6_n\u00e4chte_sa_31_10_fr_06_11"
-    },
-    {
-      "label": "Block 3 \u2014 Florida Keys / Key West (4 N\u00e4chte, Fr 06.11. \u2013 Di 10.11.)",
-      "file_type": "document",
-      "source_file": "llm-knowledge/Urlaub/USA Ostk\u00fcste 2026-10-25 bis 11-15.md",
-      "source_location": "L138",
-      "_origin": "ast",
-      "community": 14,
-      "norm_label": "block 3 \u2014 florida keys / key west (4 nachte, fr 06.11. \u2013 di 10.11.)",
-      "id": "llm_knowledge_urlaub_usa_ostk\u00fcste_2026_10_25_bis_11_15_block_3_florida_keys_key_west_4_n\u00e4chte_fr_06_11_di_10_11"
-    },
-    {
-      "label": "Block 4 \u2014 Miami / Miami Beach (5 N\u00e4chte, Di 10.11. \u2013 So 15.11.)",
-      "file_type": "document",
-      "source_file": "llm-knowledge/Urlaub/USA Ostk\u00fcste 2026-10-25 bis 11-15.md",
-      "source_location": "L152",
-      "_origin": "ast",
-      "community": 14,
-      "norm_label": "block 4 \u2014 miami / miami beach (5 nachte, di 10.11. \u2013 so 15.11.)",
-      "id": "llm_knowledge_urlaub_usa_ostk\u00fcste_2026_10_25_bis_11_15_block_4_miami_miami_beach_5_n\u00e4chte_di_10_11_so_15_11"
-    },
-    {
-      "label": "6. Kostenaufstellung (2 Personen, 21 N\u00e4chte)",
-      "file_type": "document",
-      "source_file": "llm-knowledge/Urlaub/USA Ostk\u00fcste 2026-10-25 bis 11-15.md",
-      "source_location": "L167",
-      "_origin": "ast",
-      "community": 14,
-      "norm_label": "6. kostenaufstellung (2 personen, 21 nachte)",
-      "id": "llm_knowledge_urlaub_usa_ostk\u00fcste_2026_10_25_bis_11_15_6_kostenaufstellung_2_personen_21_n\u00e4chte"
-    },
-    {
-      "label": "Fl\u00fcge",
-      "file_type": "document",
-      "source_file": "llm-knowledge/Urlaub/USA Ostk\u00fcste 2026-10-25 bis 11-15.md",
-      "source_location": "L171",
-      "_origin": "ast",
-      "community": 14,
-      "norm_label": "fluge",
-      "id": "llm_knowledge_urlaub_usa_ostk\u00fcste_2026_10_25_bis_11_15_fl\u00fcge"
-    },
-    {
-      "label": "Unterkunft",
-      "file_type": "document",
-      "source_file": "llm-knowledge/Urlaub/USA Ostk\u00fcste 2026-10-25 bis 11-15.md",
-      "source_location": "L181",
-      "_origin": "ast",
-      "community": 14,
-      "norm_label": "unterkunft",
-      "id": "llm_knowledge_urlaub_usa_ostk\u00fcste_2026_10_25_bis_11_15_unterkunft"
-    },
-    {
-      "label": "Mietwagen & Transport vor Ort",
-      "file_type": "document",
-      "source_file": "llm-knowledge/Urlaub/USA Ostk\u00fcste 2026-10-25 bis 11-15.md",
-      "source_location": "L193",
-      "_origin": "ast",
-      "community": 14,
-      "norm_label": "mietwagen & transport vor ort",
-      "id": "llm_knowledge_urlaub_usa_ostk\u00fcste_2026_10_25_bis_11_15_mietwagen_transport_vor_ort"
-    },
-    {
-      "label": "Verpflegung & Aktivit\u00e4ten",
-      "file_type": "document",
-      "source_file": "llm-knowledge/Urlaub/USA Ostk\u00fcste 2026-10-25 bis 11-15.md",
-      "source_location": "L206",
-      "_origin": "ast",
-      "community": 14,
-      "norm_label": "verpflegung & aktivitaten",
-      "id": "llm_knowledge_urlaub_usa_ostk\u00fcste_2026_10_25_bis_11_15_verpflegung_aktivit\u00e4ten"
-    },
-    {
-      "label": "Formalit\u00e4ten & Sonstiges",
-      "file_type": "document",
-      "source_file": "llm-knowledge/Urlaub/USA Ostk\u00fcste 2026-10-25 bis 11-15.md",
-      "source_location": "L217",
-      "_origin": "ast",
-      "community": 14,
-      "norm_label": "formalitaten & sonstiges",
-      "id": "llm_knowledge_urlaub_usa_ostk\u00fcste_2026_10_25_bis_11_15_formalit\u00e4ten_sonstiges"
-    },
-    {
-      "label": "Gesamt",
-      "file_type": "document",
-      "source_file": "llm-knowledge/Urlaub/USA Ostk\u00fcste 2026-10-25 bis 11-15.md",
-      "source_location": "L228",
-      "_origin": "ast",
-      "community": 14,
-      "norm_label": "gesamt",
-      "id": "llm_knowledge_urlaub_usa_ostk\u00fcste_2026_10_25_bis_11_15_gesamt"
-    },
-    {
-      "label": "Sparhebel (falls die Spanne zu hoch ist)",
-      "file_type": "document",
-      "source_file": "llm-knowledge/Urlaub/USA Ostk\u00fcste 2026-10-25 bis 11-15.md",
-      "source_location": "L240",
-      "_origin": "ast",
-      "community": 14,
-      "norm_label": "sparhebel (falls die spanne zu hoch ist)",
-      "id": "llm_knowledge_urlaub_usa_ostk\u00fcste_2026_10_25_bis_11_15_sparhebel_falls_die_spanne_zu_hoch_ist"
-    },
-    {
-      "label": "7. Checkliste Einreise & Formalit\u00e4ten",
-      "file_type": "document",
-      "source_file": "llm-knowledge/Urlaub/USA Ostk\u00fcste 2026-10-25 bis 11-15.md",
-      "source_location": "L254",
-      "_origin": "ast",
-      "community": 14,
-      "norm_label": "7. checkliste einreise & formalitaten",
-      "id": "llm_knowledge_urlaub_usa_ostk\u00fcste_2026_10_25_bis_11_15_7_checkliste_einreise_formalit\u00e4ten"
-    },
-    {
-      "label": "8. Buchungsreihenfolge & Fristen",
-      "file_type": "document",
-      "source_file": "llm-knowledge/Urlaub/USA Ostk\u00fcste 2026-10-25 bis 11-15.md",
-      "source_location": "L271",
-      "_origin": "ast",
-      "community": 14,
-      "norm_label": "8. buchungsreihenfolge & fristen",
-      "id": "llm_knowledge_urlaub_usa_ostk\u00fcste_2026_10_25_bis_11_15_8_buchungsreihenfolge_fristen"
-    },
-    {
-      "label": "9. Praktische Hinweise USA",
-      "file_type": "document",
-      "source_file": "llm-knowledge/Urlaub/USA Ostk\u00fcste 2026-10-25 bis 11-15.md",
-      "source_location": "L291",
-      "_origin": "ast",
-      "community": 14,
-      "norm_label": "9. praktische hinweise usa",
-      "id": "llm_knowledge_urlaub_usa_ostk\u00fcste_2026_10_25_bis_11_15_9_praktische_hinweise_usa"
-    },
-    {
-      "label": "10. Offene Punkte / noch zu entscheiden",
-      "file_type": "document",
-      "source_file": "llm-knowledge/Urlaub/USA Ostk\u00fcste 2026-10-25 bis 11-15.md",
-      "source_location": "L303",
-      "_origin": "ast",
-      "community": 14,
-      "norm_label": "10. offene punkte / noch zu entscheiden",
-      "id": "llm_knowledge_urlaub_usa_ostk\u00fcste_2026_10_25_bis_11_15_10_offene_punkte_noch_zu_entscheiden"
-    },
-    {
-      "label": "Verwandte Notizen",
-      "file_type": "document",
-      "source_file": "llm-knowledge/Urlaub/USA Ostk\u00fcste 2026-10-25 bis 11-15.md",
-      "source_location": "L317",
-      "_origin": "ast",
-      "community": 14,
-      "norm_label": "verwandte notizen",
-      "id": "llm_knowledge_urlaub_usa_ostk\u00fcste_2026_10_25_bis_11_15_verwandte_notizen"
     },
     {
       "label": "Urlaub August.md",
@@ -4823,22 +4893,452 @@
     {
       "relation": "contains",
       "confidence": "EXTRACTED",
-      "source_file": "llm-knowledge/Laufen/Athletenstatus.md",
-      "source_location": "L9",
+      "source_file": "llm-knowledge/Laufen/_Index.md",
+      "source_location": "L8",
       "weight": 1.0,
-      "source": "llm_knowledge_laufen_athletenstatus",
-      "target": "llm_knowledge_laufen_athletenstatus_athletenstatus",
+      "source": "llm_knowledge_laufen_index",
+      "target": "llm_knowledge_laufen_index_laufen_\u00fcbersicht",
       "confidence_score": 1.0
     },
     {
       "relation": "references",
       "confidence": "EXTRACTED",
-      "source_file": "llm-knowledge/Laufen/_Index.md",
-      "source_location": "L13",
+      "source_file": "llm-knowledge/Laufen/Obsidian-Struktur-Analyse 25.06.2026.md",
+      "source_location": "L10",
       "weight": 1.0,
       "confidence_score": 1.0,
-      "source": "llm_knowledge_laufen_index",
-      "target": "llm_knowledge_laufen_athletenstatus"
+      "source": "llm_knowledge_laufen_obsidian_struktur_analyse_25_06_2026",
+      "target": "llm_knowledge_laufen_index"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "llm-knowledge/Laufen/_Index.md",
+      "source_location": "L35",
+      "weight": 1.0,
+      "source": "llm_knowledge_laufen_index_laufen_\u00fcbersicht",
+      "target": "llm_knowledge_laufen_index_analysen",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "llm-knowledge/Laufen/_Index.md",
+      "source_location": "L49",
+      "weight": 1.0,
+      "source": "llm_knowledge_laufen_index_laufen_\u00fcbersicht",
+      "target": "llm_knowledge_laufen_index_hinweis_zur_aktualit\u00e4t",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "llm-knowledge/Laufen/_Index.md",
+      "source_location": "L17",
+      "weight": 1.0,
+      "source": "llm_knowledge_laufen_index_laufen_\u00fcbersicht",
+      "target": "llm_knowledge_laufen_index_pl\u00e4ne_methodik",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "llm-knowledge/Laufen/_Index.md",
+      "source_location": "L44",
+      "weight": 1.0,
+      "source": "llm_knowledge_laufen_index_laufen_\u00fcbersicht",
+      "target": "llm_knowledge_laufen_index_prinzip_f\u00fcr_neue_notizen",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "llm-knowledge/Laufen/_Index.md",
+      "source_location": "L24",
+      "weight": 1.0,
+      "source": "llm_knowledge_laufen_index_laufen_\u00fcbersicht",
+      "target": "llm_knowledge_laufen_index_rennen_tests",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "llm-knowledge/Laufen/_Index.md",
+      "source_location": "L41",
+      "weight": 1.0,
+      "source": "llm_knowledge_laufen_index_laufen_\u00fcbersicht",
+      "target": "llm_knowledge_laufen_index_urlaub_pausen",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "llm-knowledge/Laufen/_Index.md",
+      "source_location": "L38",
+      "weight": 1.0,
+      "source": "llm_knowledge_laufen_index_laufen_\u00fcbersicht",
+      "target": "llm_knowledge_laufen_index_werkzeuge",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "llm-knowledge/Laufen/_Index.md",
+      "source_location": "L31",
+      "weight": 1.0,
+      "source": "llm_knowledge_laufen_index_laufen_\u00fcbersicht",
+      "target": "llm_knowledge_laufen_index_wochenberichte_trainingslogs",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "llm-knowledge/Laufen/_Index.md",
+      "source_location": "L12",
+      "weight": 1.0,
+      "source": "llm_knowledge_laufen_index_laufen_\u00fcbersicht",
+      "target": "llm_knowledge_laufen_index_ziele_status",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "llm-knowledge/Urlaub/USA 2026-10-25 bis 11-13.md",
+      "source_location": "L6",
+      "weight": 1.0,
+      "source": "llm_knowledge_urlaub_usa_2026_10_25_bis_11_13",
+      "target": "llm_knowledge_urlaub_usa_2026_10_25_bis_11_13_usa_2026",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "llm-knowledge/Urlaub/USA 2026-10-25 bis 11-13.md",
+      "source_location": "L9",
+      "weight": 1.0,
+      "source": "llm_knowledge_urlaub_usa_2026_10_25_bis_11_13_usa_2026",
+      "target": "llm_knowledge_urlaub_usa_2026_10_25_bis_11_13_kosten",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "llm-knowledge/Urlaub/USA 2026-10-25 bis 11-13.md",
+      "source_location": "L11",
+      "weight": 1.0,
+      "source": "llm_knowledge_urlaub_usa_2026_10_25_bis_11_13_kosten",
+      "target": "llm_knowledge_urlaub_usa_2026_10_25_bis_11_13_fl\u00fcge",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "llm-knowledge/Urlaub/USA 2026-10-25 bis 11-13.md",
+      "source_location": "L30",
+      "weight": 1.0,
+      "source": "llm_knowledge_urlaub_usa_2026_10_25_bis_11_13_kosten",
+      "target": "llm_knowledge_urlaub_usa_2026_10_25_bis_11_13_gesamt",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "llm-knowledge/Urlaub/USA 2026-10-25 bis 11-13.md",
+      "source_location": "L20",
+      "weight": 1.0,
+      "source": "llm_knowledge_urlaub_usa_2026_10_25_bis_11_13_kosten",
+      "target": "llm_knowledge_urlaub_usa_2026_10_25_bis_11_13_unterk\u00fcnfte",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "llm-knowledge/Urlaub/USA Ostk\u00fcste 2026-10-25 bis 11-15.md",
+      "source_location": "L9",
+      "weight": 1.0,
+      "source": "llm_knowledge_urlaub_usa_ostk\u00fcste_2026_10_25_bis_11_15",
+      "target": "llm_knowledge_urlaub_usa_ostk\u00fcste_2026_10_25_bis_11_15_usa_ostk\u00fcste_2026_new_york_charleston_key_west_miami",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "llm-knowledge/Urlaub/USA Ostk\u00fcste 2026-10-25 bis 11-15.md",
+      "source_location": "L303",
+      "weight": 1.0,
+      "source": "llm_knowledge_urlaub_usa_ostk\u00fcste_2026_10_25_bis_11_15_usa_ostk\u00fcste_2026_new_york_charleston_key_west_miami",
+      "target": "llm_knowledge_urlaub_usa_ostk\u00fcste_2026_10_25_bis_11_15_10_offene_punkte_noch_zu_entscheiden",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "llm-knowledge/Urlaub/USA Ostk\u00fcste 2026-10-25 bis 11-15.md",
+      "source_location": "L11",
+      "weight": 1.0,
+      "source": "llm_knowledge_urlaub_usa_ostk\u00fcste_2026_10_25_bis_11_15_usa_ostk\u00fcste_2026_new_york_charleston_key_west_miami",
+      "target": "llm_knowledge_urlaub_usa_ostk\u00fcste_2026_10_25_bis_11_15_1_eckdaten",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "llm-knowledge/Urlaub/USA Ostk\u00fcste 2026-10-25 bis 11-15.md",
+      "source_location": "L28",
+      "weight": 1.0,
+      "source": "llm_knowledge_urlaub_usa_ostk\u00fcste_2026_10_25_bis_11_15_usa_ostk\u00fcste_2026_new_york_charleston_key_west_miami",
+      "target": "llm_knowledge_urlaub_usa_ostk\u00fcste_2026_10_25_bis_11_15_2_struktur",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "llm-knowledge/Urlaub/USA Ostk\u00fcste 2026-10-25 bis 11-15.md",
+      "source_location": "L41",
+      "weight": 1.0,
+      "source": "llm_knowledge_urlaub_usa_ostk\u00fcste_2026_10_25_bis_11_15_usa_ostk\u00fcste_2026_new_york_charleston_key_west_miami",
+      "target": "llm_knowledge_urlaub_usa_ostk\u00fcste_2026_10_25_bis_11_15_3_fluglage_was_du_vor_der_buchung_pr\u00fcfen_musst",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "llm-knowledge/Urlaub/USA Ostk\u00fcste 2026-10-25 bis 11-15.md",
+      "source_location": "L85",
+      "weight": 1.0,
+      "source": "llm_knowledge_urlaub_usa_ostk\u00fcste_2026_10_25_bis_11_15_usa_ostk\u00fcste_2026_new_york_charleston_key_west_miami",
+      "target": "llm_knowledge_urlaub_usa_ostk\u00fcste_2026_10_25_bis_11_15_4_wetter_und_warum_die_route_so_aussieht",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "llm-knowledge/Urlaub/USA Ostk\u00fcste 2026-10-25 bis 11-15.md",
+      "source_location": "L98",
+      "weight": 1.0,
+      "source": "llm_knowledge_urlaub_usa_ostk\u00fcste_2026_10_25_bis_11_15_usa_ostk\u00fcste_2026_new_york_charleston_key_west_miami",
+      "target": "llm_knowledge_urlaub_usa_ostk\u00fcste_2026_10_25_bis_11_15_5_tagesplan",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "llm-knowledge/Urlaub/USA Ostk\u00fcste 2026-10-25 bis 11-15.md",
+      "source_location": "L167",
+      "weight": 1.0,
+      "source": "llm_knowledge_urlaub_usa_ostk\u00fcste_2026_10_25_bis_11_15_usa_ostk\u00fcste_2026_new_york_charleston_key_west_miami",
+      "target": "llm_knowledge_urlaub_usa_ostk\u00fcste_2026_10_25_bis_11_15_6_kostenaufstellung_2_personen_21_n\u00e4chte",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "llm-knowledge/Urlaub/USA Ostk\u00fcste 2026-10-25 bis 11-15.md",
+      "source_location": "L254",
+      "weight": 1.0,
+      "source": "llm_knowledge_urlaub_usa_ostk\u00fcste_2026_10_25_bis_11_15_usa_ostk\u00fcste_2026_new_york_charleston_key_west_miami",
+      "target": "llm_knowledge_urlaub_usa_ostk\u00fcste_2026_10_25_bis_11_15_7_checkliste_einreise_formalit\u00e4ten",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "llm-knowledge/Urlaub/USA Ostk\u00fcste 2026-10-25 bis 11-15.md",
+      "source_location": "L271",
+      "weight": 1.0,
+      "source": "llm_knowledge_urlaub_usa_ostk\u00fcste_2026_10_25_bis_11_15_usa_ostk\u00fcste_2026_new_york_charleston_key_west_miami",
+      "target": "llm_knowledge_urlaub_usa_ostk\u00fcste_2026_10_25_bis_11_15_8_buchungsreihenfolge_fristen",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "llm-knowledge/Urlaub/USA Ostk\u00fcste 2026-10-25 bis 11-15.md",
+      "source_location": "L291",
+      "weight": 1.0,
+      "source": "llm_knowledge_urlaub_usa_ostk\u00fcste_2026_10_25_bis_11_15_usa_ostk\u00fcste_2026_new_york_charleston_key_west_miami",
+      "target": "llm_knowledge_urlaub_usa_ostk\u00fcste_2026_10_25_bis_11_15_9_praktische_hinweise_usa",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "llm-knowledge/Urlaub/USA Ostk\u00fcste 2026-10-25 bis 11-15.md",
+      "source_location": "L317",
+      "weight": 1.0,
+      "source": "llm_knowledge_urlaub_usa_ostk\u00fcste_2026_10_25_bis_11_15_usa_ostk\u00fcste_2026_new_york_charleston_key_west_miami",
+      "target": "llm_knowledge_urlaub_usa_ostk\u00fcste_2026_10_25_bis_11_15_verwandte_notizen",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "llm-knowledge/Urlaub/USA Ostk\u00fcste 2026-10-25 bis 11-15.md",
+      "source_location": "L43",
+      "weight": 1.0,
+      "source": "llm_knowledge_urlaub_usa_ostk\u00fcste_2026_10_25_bis_11_15_3_fluglage_was_du_vor_der_buchung_pr\u00fcfen_musst",
+      "target": "llm_knowledge_urlaub_usa_ostk\u00fcste_2026_10_25_bis_11_15_der_25_10_ist_der_stichtag_des_winterflugplans",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "llm-knowledge/Urlaub/USA Ostk\u00fcste 2026-10-25 bis 11-15.md",
+      "source_location": "L47",
+      "weight": 1.0,
+      "source": "llm_knowledge_urlaub_usa_ostk\u00fcste_2026_10_25_bis_11_15_3_fluglage_was_du_vor_der_buchung_pr\u00fcfen_musst",
+      "target": "llm_knowledge_urlaub_usa_ostk\u00fcste_2026_10_25_bis_11_15_dus_new_york_nonstop_existiert_im_winter_mit_hoher_wahrscheinlichkeit_nicht",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "llm-knowledge/Urlaub/USA Ostk\u00fcste 2026-10-25 bis 11-15.md",
+      "source_location": "L63",
+      "weight": 1.0,
+      "source": "llm_knowledge_urlaub_usa_ostk\u00fcste_2026_10_25_bis_11_15_3_fluglage_was_du_vor_der_buchung_pr\u00fcfen_musst",
+      "target": "llm_knowledge_urlaub_usa_ostk\u00fcste_2026_10_25_bis_11_15_r\u00fcckflug_ab_miami",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "llm-knowledge/Urlaub/USA Ostk\u00fcste 2026-10-25 bis 11-15.md",
+      "source_location": "L54",
+      "weight": 1.0,
+      "source": "llm_knowledge_urlaub_usa_ostk\u00fcste_2026_10_25_bis_11_15_3_fluglage_was_du_vor_der_buchung_pr\u00fcfen_musst",
+      "target": "llm_knowledge_urlaub_usa_ostk\u00fcste_2026_10_25_bis_11_15_was_das_f\u00fcr_tag_1_bedeutet",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "llm-knowledge/Urlaub/USA Ostk\u00fcste 2026-10-25 bis 11-15.md",
+      "source_location": "L76",
+      "weight": 1.0,
+      "source": "llm_knowledge_urlaub_usa_ostk\u00fcste_2026_10_25_bis_11_15_3_fluglage_was_du_vor_der_buchung_pr\u00fcfen_musst",
+      "target": "llm_knowledge_urlaub_usa_ostk\u00fcste_2026_10_25_bis_11_15_zeitverschiebung_sonderfall_in_diesem_zeitraum",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "llm-knowledge/Urlaub/USA Ostk\u00fcste 2026-10-25 bis 11-15.md",
+      "source_location": "L100",
+      "weight": 1.0,
+      "source": "llm_knowledge_urlaub_usa_ostk\u00fcste_2026_10_25_bis_11_15_5_tagesplan",
+      "target": "llm_knowledge_urlaub_usa_ostk\u00fcste_2026_10_25_bis_11_15_block_1_new_york_city_6_n\u00e4chte_so_25_10_sa_31_10",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "llm-knowledge/Urlaub/USA Ostk\u00fcste 2026-10-25 bis 11-15.md",
+      "source_location": "L118",
+      "weight": 1.0,
+      "source": "llm_knowledge_urlaub_usa_ostk\u00fcste_2026_10_25_bis_11_15_5_tagesplan",
+      "target": "llm_knowledge_urlaub_usa_ostk\u00fcste_2026_10_25_bis_11_15_block_2_charleston_south_carolina_6_n\u00e4chte_sa_31_10_fr_06_11",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "llm-knowledge/Urlaub/USA Ostk\u00fcste 2026-10-25 bis 11-15.md",
+      "source_location": "L138",
+      "weight": 1.0,
+      "source": "llm_knowledge_urlaub_usa_ostk\u00fcste_2026_10_25_bis_11_15_5_tagesplan",
+      "target": "llm_knowledge_urlaub_usa_ostk\u00fcste_2026_10_25_bis_11_15_block_3_florida_keys_key_west_4_n\u00e4chte_fr_06_11_di_10_11",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "llm-knowledge/Urlaub/USA Ostk\u00fcste 2026-10-25 bis 11-15.md",
+      "source_location": "L152",
+      "weight": 1.0,
+      "source": "llm_knowledge_urlaub_usa_ostk\u00fcste_2026_10_25_bis_11_15_5_tagesplan",
+      "target": "llm_knowledge_urlaub_usa_ostk\u00fcste_2026_10_25_bis_11_15_block_4_miami_miami_beach_5_n\u00e4chte_di_10_11_so_15_11",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "llm-knowledge/Urlaub/USA Ostk\u00fcste 2026-10-25 bis 11-15.md",
+      "source_location": "L171",
+      "weight": 1.0,
+      "source": "llm_knowledge_urlaub_usa_ostk\u00fcste_2026_10_25_bis_11_15_6_kostenaufstellung_2_personen_21_n\u00e4chte",
+      "target": "llm_knowledge_urlaub_usa_ostk\u00fcste_2026_10_25_bis_11_15_fl\u00fcge",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "llm-knowledge/Urlaub/USA Ostk\u00fcste 2026-10-25 bis 11-15.md",
+      "source_location": "L217",
+      "weight": 1.0,
+      "source": "llm_knowledge_urlaub_usa_ostk\u00fcste_2026_10_25_bis_11_15_6_kostenaufstellung_2_personen_21_n\u00e4chte",
+      "target": "llm_knowledge_urlaub_usa_ostk\u00fcste_2026_10_25_bis_11_15_formalit\u00e4ten_sonstiges",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "llm-knowledge/Urlaub/USA Ostk\u00fcste 2026-10-25 bis 11-15.md",
+      "source_location": "L228",
+      "weight": 1.0,
+      "source": "llm_knowledge_urlaub_usa_ostk\u00fcste_2026_10_25_bis_11_15_6_kostenaufstellung_2_personen_21_n\u00e4chte",
+      "target": "llm_knowledge_urlaub_usa_ostk\u00fcste_2026_10_25_bis_11_15_gesamt",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "llm-knowledge/Urlaub/USA Ostk\u00fcste 2026-10-25 bis 11-15.md",
+      "source_location": "L193",
+      "weight": 1.0,
+      "source": "llm_knowledge_urlaub_usa_ostk\u00fcste_2026_10_25_bis_11_15_6_kostenaufstellung_2_personen_21_n\u00e4chte",
+      "target": "llm_knowledge_urlaub_usa_ostk\u00fcste_2026_10_25_bis_11_15_mietwagen_transport_vor_ort",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "llm-knowledge/Urlaub/USA Ostk\u00fcste 2026-10-25 bis 11-15.md",
+      "source_location": "L240",
+      "weight": 1.0,
+      "source": "llm_knowledge_urlaub_usa_ostk\u00fcste_2026_10_25_bis_11_15_6_kostenaufstellung_2_personen_21_n\u00e4chte",
+      "target": "llm_knowledge_urlaub_usa_ostk\u00fcste_2026_10_25_bis_11_15_sparhebel_falls_die_spanne_zu_hoch_ist",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "llm-knowledge/Urlaub/USA Ostk\u00fcste 2026-10-25 bis 11-15.md",
+      "source_location": "L181",
+      "weight": 1.0,
+      "source": "llm_knowledge_urlaub_usa_ostk\u00fcste_2026_10_25_bis_11_15_6_kostenaufstellung_2_personen_21_n\u00e4chte",
+      "target": "llm_knowledge_urlaub_usa_ostk\u00fcste_2026_10_25_bis_11_15_unterkunft",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "llm-knowledge/Urlaub/USA Ostk\u00fcste 2026-10-25 bis 11-15.md",
+      "source_location": "L206",
+      "weight": 1.0,
+      "source": "llm_knowledge_urlaub_usa_ostk\u00fcste_2026_10_25_bis_11_15_6_kostenaufstellung_2_personen_21_n\u00e4chte",
+      "target": "llm_knowledge_urlaub_usa_ostk\u00fcste_2026_10_25_bis_11_15_verpflegung_aktivit\u00e4ten",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "llm-knowledge/Laufen/Athletenstatus.md",
+      "source_location": "L9",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "llm_knowledge_laufen_athletenstatus",
+      "target": "llm_knowledge_laufen_athletenstatus_athletenstatus"
     },
     {
       "relation": "contains",
@@ -4846,9 +5346,9 @@
       "source_file": "llm-knowledge/Laufen/Athletenstatus.md",
       "source_location": "L21",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "llm_knowledge_laufen_athletenstatus_athletenstatus",
-      "target": "llm_knowledge_laufen_athletenstatus_aktives_ziel",
-      "confidence_score": 1.0
+      "target": "llm_knowledge_laufen_athletenstatus_aktives_ziel"
     },
     {
       "relation": "contains",
@@ -4856,9 +5356,9 @@
       "source_file": "llm-knowledge/Laufen/Athletenstatus.md",
       "source_location": "L78",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "llm_knowledge_laufen_athletenstatus_athletenstatus",
-      "target": "llm_knowledge_laufen_athletenstatus_aktuelle_leistungsdatenpunkte",
-      "confidence_score": 1.0
+      "target": "llm_knowledge_laufen_athletenstatus_aktuelle_leistungsdatenpunkte"
     },
     {
       "relation": "contains",
@@ -4866,9 +5366,9 @@
       "source_file": "llm-knowledge/Laufen/Athletenstatus.md",
       "source_location": "L199",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "llm_knowledge_laufen_athletenstatus_athletenstatus",
-      "target": "llm_knowledge_laufen_athletenstatus_formtrend",
-      "confidence_score": 1.0
+      "target": "llm_knowledge_laufen_athletenstatus_formtrend"
     },
     {
       "relation": "contains",
@@ -4876,9 +5376,9 @@
       "source_file": "llm-knowledge/Laufen/Athletenstatus.md",
       "source_location": "L238",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "llm_knowledge_laufen_athletenstatus_athletenstatus",
-      "target": "llm_knowledge_laufen_athletenstatus_krafttraining_pflichtbestandteil_ab_13_09_2026",
-      "confidence_score": 1.0
+      "target": "llm_knowledge_laufen_athletenstatus_krafttraining_pflichtbestandteil_ab_13_09_2026"
     },
     {
       "relation": "contains",
@@ -4886,9 +5386,9 @@
       "source_file": "llm-knowledge/Laufen/Athletenstatus.md",
       "source_location": "L217",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "llm_knowledge_laufen_athletenstatus_athletenstatus",
-      "target": "llm_knowledge_laufen_athletenstatus_nebensportarten",
-      "confidence_score": 1.0
+      "target": "llm_knowledge_laufen_athletenstatus_nebensportarten"
     },
     {
       "relation": "contains",
@@ -4896,9 +5396,9 @@
       "source_file": "llm-knowledge/Laufen/Athletenstatus.md",
       "source_location": "L126",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "llm_knowledge_laufen_athletenstatus_athletenstatus",
-      "target": "llm_knowledge_laufen_athletenstatus_umfangstoleranz",
-      "confidence_score": 1.0
+      "target": "llm_knowledge_laufen_athletenstatus_umfangstoleranz"
     },
     {
       "relation": "contains",
@@ -4906,9 +5406,9 @@
       "source_file": "llm-knowledge/Laufen/Athletenstatus.md",
       "source_location": "L309",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "llm_knowledge_laufen_athletenstatus_athletenstatus",
-      "target": "llm_knowledge_laufen_athletenstatus_verkn\u00fcpfte_notizen",
-      "confidence_score": 1.0
+      "target": "llm_knowledge_laufen_athletenstatus_verkn\u00fcpfte_notizen"
     },
     {
       "relation": "contains",
@@ -4916,9 +5416,9 @@
       "source_file": "llm-knowledge/Laufen/Athletenstatus.md",
       "source_location": "L49",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "llm_knowledge_laufen_athletenstatus_athletenstatus",
-      "target": "llm_knowledge_laufen_athletenstatus_zonen_schwellen",
-      "confidence_score": 1.0
+      "target": "llm_knowledge_laufen_athletenstatus_zonen_schwellen"
     },
     {
       "relation": "contains",
@@ -4926,9 +5426,9 @@
       "source_file": "llm-knowledge/Laufen/Athletenstatus.md",
       "source_location": "L279",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "llm_knowledge_laufen_athletenstatus_athletenstatus",
-      "target": "llm_knowledge_laufen_athletenstatus_\u00e4nderungshistorie",
-      "confidence_score": 1.0
+      "target": "llm_knowledge_laufen_athletenstatus_\u00e4nderungshistorie"
     },
     {
       "relation": "contains",
@@ -4936,9 +5436,9 @@
       "source_file": "llm-knowledge/Laufen/Athletenstatus.md",
       "source_location": "L37",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "llm_knowledge_laufen_athletenstatus_aktives_ziel",
-      "target": "llm_knowledge_laufen_athletenstatus_pr\u00fcfpunkte_f\u00fcr_sub_1_20_verbindlich",
-      "confidence_score": 1.0
+      "target": "llm_knowledge_laufen_athletenstatus_pr\u00fcfpunkte_f\u00fcr_sub_1_20_verbindlich"
     },
     {
       "relation": "contains",
@@ -4946,9 +5446,9 @@
       "source_file": "llm-knowledge/Laufen/Athletenstatus.md",
       "source_location": "L104",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "llm_knowledge_laufen_athletenstatus_aktuelle_leistungsdatenpunkte",
-      "target": "llm_knowledge_laufen_athletenstatus_resilienz_datenpunkt_gemessen_13_09_2026_der_entscheidende_befund",
-      "confidence_score": 1.0
+      "target": "llm_knowledge_laufen_athletenstatus_resilienz_datenpunkt_gemessen_13_09_2026_der_entscheidende_befund"
     },
     {
       "relation": "contains",
@@ -4956,9 +5456,9 @@
       "source_file": "llm-knowledge/Laufen/Athletenstatus.md",
       "source_location": "L91",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "llm_knowledge_laufen_athletenstatus_aktuelle_leistungsdatenpunkte",
-      "target": "llm_knowledge_laufen_athletenstatus_was_das_f\u00fcr_die_ziele_bedeutet",
-      "confidence_score": 1.0
+      "target": "llm_knowledge_laufen_athletenstatus_was_das_f\u00fcr_die_ziele_bedeutet"
     },
     {
       "relation": "contains",
@@ -4966,9 +5466,9 @@
       "source_file": "llm-knowledge/Laufen/Athletenstatus.md",
       "source_location": "L155",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "llm_knowledge_laufen_athletenstatus_umfangstoleranz",
-      "target": "llm_knowledge_laufen_athletenstatus_umfangsrampe_zum_venloop_beschlossen_13_09_2026",
-      "confidence_score": 1.0
+      "target": "llm_knowledge_laufen_athletenstatus_umfangsrampe_zum_venloop_beschlossen_13_09_2026"
     },
     {
       "relation": "contains",
@@ -5251,16 +5751,6 @@
       "target": "llm_knowledge_laufen_wettkampf_2026_09_13_m\u00fcnster_28_taktik"
     },
     {
-      "relation": "references",
-      "confidence": "EXTRACTED",
-      "source_file": "llm-knowledge/Laufen/_Index.md",
-      "source_location": "L28",
-      "weight": 1.0,
-      "confidence_score": 1.0,
-      "source": "llm_knowledge_laufen_index",
-      "target": "llm_knowledge_laufen_wettkampf_2026_11_29_advents_aaseelauf"
-    },
-    {
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "llm-knowledge/Laufen/Wettkampf 2026-11-29 Advents-Aaseelauf.md",
@@ -5309,106 +5799,6 @@
       "confidence_score": 1.0,
       "source": "llm_knowledge_laufen_wettkampf_2026_11_29_advents_aaseelauf_36_aok_advents_aaseelauf_2026_10_km",
       "target": "llm_knowledge_laufen_wettkampf_2026_11_29_advents_aaseelauf_verwandte_notizen"
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "llm-knowledge/Laufen/_Index.md",
-      "source_location": "L8",
-      "weight": 1.0,
-      "confidence_score": 1.0,
-      "source": "llm_knowledge_laufen_index",
-      "target": "llm_knowledge_laufen_index_laufen_\u00fcbersicht"
-    },
-    {
-      "relation": "references",
-      "confidence": "EXTRACTED",
-      "source_file": "llm-knowledge/Laufen/Obsidian-Struktur-Analyse 25.06.2026.md",
-      "source_location": "L10",
-      "weight": 1.0,
-      "confidence_score": 1.0,
-      "source": "llm_knowledge_laufen_obsidian_struktur_analyse_25_06_2026",
-      "target": "llm_knowledge_laufen_index"
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "llm-knowledge/Laufen/_Index.md",
-      "source_location": "L35",
-      "weight": 1.0,
-      "confidence_score": 1.0,
-      "source": "llm_knowledge_laufen_index_laufen_\u00fcbersicht",
-      "target": "llm_knowledge_laufen_index_analysen"
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "llm-knowledge/Laufen/_Index.md",
-      "source_location": "L46",
-      "weight": 1.0,
-      "confidence_score": 1.0,
-      "source": "llm_knowledge_laufen_index_laufen_\u00fcbersicht",
-      "target": "llm_knowledge_laufen_index_hinweis_zur_aktualit\u00e4t"
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "llm-knowledge/Laufen/_Index.md",
-      "source_location": "L17",
-      "weight": 1.0,
-      "confidence_score": 1.0,
-      "source": "llm_knowledge_laufen_index_laufen_\u00fcbersicht",
-      "target": "llm_knowledge_laufen_index_pl\u00e4ne_methodik"
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "llm-knowledge/Laufen/_Index.md",
-      "source_location": "L41",
-      "weight": 1.0,
-      "confidence_score": 1.0,
-      "source": "llm_knowledge_laufen_index_laufen_\u00fcbersicht",
-      "target": "llm_knowledge_laufen_index_prinzip_f\u00fcr_neue_notizen"
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "llm-knowledge/Laufen/_Index.md",
-      "source_location": "L24",
-      "weight": 1.0,
-      "confidence_score": 1.0,
-      "source": "llm_knowledge_laufen_index_laufen_\u00fcbersicht",
-      "target": "llm_knowledge_laufen_index_rennen_tests"
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "llm-knowledge/Laufen/_Index.md",
-      "source_location": "L38",
-      "weight": 1.0,
-      "confidence_score": 1.0,
-      "source": "llm_knowledge_laufen_index_laufen_\u00fcbersicht",
-      "target": "llm_knowledge_laufen_index_urlaub_pausen"
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "llm-knowledge/Laufen/_Index.md",
-      "source_location": "L31",
-      "weight": 1.0,
-      "confidence_score": 1.0,
-      "source": "llm_knowledge_laufen_index_laufen_\u00fcbersicht",
-      "target": "llm_knowledge_laufen_index_wochenberichte_trainingslogs"
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "llm-knowledge/Laufen/_Index.md",
-      "source_location": "L12",
-      "weight": 1.0,
-      "confidence_score": 1.0,
-      "source": "llm_knowledge_laufen_index_laufen_\u00fcbersicht",
-      "target": "llm_knowledge_laufen_index_ziele_status"
     },
     {
       "relation": "contains",
@@ -8581,296 +8971,6 @@
       "target": "llm_knowledge_radurlaub_\u00fcbersicht_radurlaub_8_dokumente_wichtiges"
     },
     {
-      "relation": "references",
-      "confidence": "EXTRACTED",
-      "source_file": "llm-knowledge/Urlaub/USA Ostk\u00fcste 2026-10-25 bis 11-15.md",
-      "source_location": "L319",
-      "weight": 1.0,
-      "confidence_score": 1.0,
-      "source": "llm_knowledge_urlaub_usa_ostk\u00fcste_2026_10_25_bis_11_15",
-      "target": "llm_knowledge_urlaub_urlaub_august"
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "llm-knowledge/Urlaub/USA Ostk\u00fcste 2026-10-25 bis 11-15.md",
-      "source_location": "L9",
-      "weight": 1.0,
-      "confidence_score": 1.0,
-      "source": "llm_knowledge_urlaub_usa_ostk\u00fcste_2026_10_25_bis_11_15",
-      "target": "llm_knowledge_urlaub_usa_ostk\u00fcste_2026_10_25_bis_11_15_usa_ostk\u00fcste_2026_new_york_charleston_key_west_miami"
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "llm-knowledge/Urlaub/USA Ostk\u00fcste 2026-10-25 bis 11-15.md",
-      "source_location": "L303",
-      "weight": 1.0,
-      "confidence_score": 1.0,
-      "source": "llm_knowledge_urlaub_usa_ostk\u00fcste_2026_10_25_bis_11_15_usa_ostk\u00fcste_2026_new_york_charleston_key_west_miami",
-      "target": "llm_knowledge_urlaub_usa_ostk\u00fcste_2026_10_25_bis_11_15_10_offene_punkte_noch_zu_entscheiden"
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "llm-knowledge/Urlaub/USA Ostk\u00fcste 2026-10-25 bis 11-15.md",
-      "source_location": "L11",
-      "weight": 1.0,
-      "confidence_score": 1.0,
-      "source": "llm_knowledge_urlaub_usa_ostk\u00fcste_2026_10_25_bis_11_15_usa_ostk\u00fcste_2026_new_york_charleston_key_west_miami",
-      "target": "llm_knowledge_urlaub_usa_ostk\u00fcste_2026_10_25_bis_11_15_1_eckdaten"
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "llm-knowledge/Urlaub/USA Ostk\u00fcste 2026-10-25 bis 11-15.md",
-      "source_location": "L28",
-      "weight": 1.0,
-      "confidence_score": 1.0,
-      "source": "llm_knowledge_urlaub_usa_ostk\u00fcste_2026_10_25_bis_11_15_usa_ostk\u00fcste_2026_new_york_charleston_key_west_miami",
-      "target": "llm_knowledge_urlaub_usa_ostk\u00fcste_2026_10_25_bis_11_15_2_struktur"
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "llm-knowledge/Urlaub/USA Ostk\u00fcste 2026-10-25 bis 11-15.md",
-      "source_location": "L41",
-      "weight": 1.0,
-      "confidence_score": 1.0,
-      "source": "llm_knowledge_urlaub_usa_ostk\u00fcste_2026_10_25_bis_11_15_usa_ostk\u00fcste_2026_new_york_charleston_key_west_miami",
-      "target": "llm_knowledge_urlaub_usa_ostk\u00fcste_2026_10_25_bis_11_15_3_fluglage_was_du_vor_der_buchung_pr\u00fcfen_musst"
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "llm-knowledge/Urlaub/USA Ostk\u00fcste 2026-10-25 bis 11-15.md",
-      "source_location": "L85",
-      "weight": 1.0,
-      "confidence_score": 1.0,
-      "source": "llm_knowledge_urlaub_usa_ostk\u00fcste_2026_10_25_bis_11_15_usa_ostk\u00fcste_2026_new_york_charleston_key_west_miami",
-      "target": "llm_knowledge_urlaub_usa_ostk\u00fcste_2026_10_25_bis_11_15_4_wetter_und_warum_die_route_so_aussieht"
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "llm-knowledge/Urlaub/USA Ostk\u00fcste 2026-10-25 bis 11-15.md",
-      "source_location": "L98",
-      "weight": 1.0,
-      "confidence_score": 1.0,
-      "source": "llm_knowledge_urlaub_usa_ostk\u00fcste_2026_10_25_bis_11_15_usa_ostk\u00fcste_2026_new_york_charleston_key_west_miami",
-      "target": "llm_knowledge_urlaub_usa_ostk\u00fcste_2026_10_25_bis_11_15_5_tagesplan"
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "llm-knowledge/Urlaub/USA Ostk\u00fcste 2026-10-25 bis 11-15.md",
-      "source_location": "L167",
-      "weight": 1.0,
-      "confidence_score": 1.0,
-      "source": "llm_knowledge_urlaub_usa_ostk\u00fcste_2026_10_25_bis_11_15_usa_ostk\u00fcste_2026_new_york_charleston_key_west_miami",
-      "target": "llm_knowledge_urlaub_usa_ostk\u00fcste_2026_10_25_bis_11_15_6_kostenaufstellung_2_personen_21_n\u00e4chte"
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "llm-knowledge/Urlaub/USA Ostk\u00fcste 2026-10-25 bis 11-15.md",
-      "source_location": "L254",
-      "weight": 1.0,
-      "confidence_score": 1.0,
-      "source": "llm_knowledge_urlaub_usa_ostk\u00fcste_2026_10_25_bis_11_15_usa_ostk\u00fcste_2026_new_york_charleston_key_west_miami",
-      "target": "llm_knowledge_urlaub_usa_ostk\u00fcste_2026_10_25_bis_11_15_7_checkliste_einreise_formalit\u00e4ten"
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "llm-knowledge/Urlaub/USA Ostk\u00fcste 2026-10-25 bis 11-15.md",
-      "source_location": "L271",
-      "weight": 1.0,
-      "confidence_score": 1.0,
-      "source": "llm_knowledge_urlaub_usa_ostk\u00fcste_2026_10_25_bis_11_15_usa_ostk\u00fcste_2026_new_york_charleston_key_west_miami",
-      "target": "llm_knowledge_urlaub_usa_ostk\u00fcste_2026_10_25_bis_11_15_8_buchungsreihenfolge_fristen"
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "llm-knowledge/Urlaub/USA Ostk\u00fcste 2026-10-25 bis 11-15.md",
-      "source_location": "L291",
-      "weight": 1.0,
-      "confidence_score": 1.0,
-      "source": "llm_knowledge_urlaub_usa_ostk\u00fcste_2026_10_25_bis_11_15_usa_ostk\u00fcste_2026_new_york_charleston_key_west_miami",
-      "target": "llm_knowledge_urlaub_usa_ostk\u00fcste_2026_10_25_bis_11_15_9_praktische_hinweise_usa"
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "llm-knowledge/Urlaub/USA Ostk\u00fcste 2026-10-25 bis 11-15.md",
-      "source_location": "L317",
-      "weight": 1.0,
-      "confidence_score": 1.0,
-      "source": "llm_knowledge_urlaub_usa_ostk\u00fcste_2026_10_25_bis_11_15_usa_ostk\u00fcste_2026_new_york_charleston_key_west_miami",
-      "target": "llm_knowledge_urlaub_usa_ostk\u00fcste_2026_10_25_bis_11_15_verwandte_notizen"
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "llm-knowledge/Urlaub/USA Ostk\u00fcste 2026-10-25 bis 11-15.md",
-      "source_location": "L43",
-      "weight": 1.0,
-      "confidence_score": 1.0,
-      "source": "llm_knowledge_urlaub_usa_ostk\u00fcste_2026_10_25_bis_11_15_3_fluglage_was_du_vor_der_buchung_pr\u00fcfen_musst",
-      "target": "llm_knowledge_urlaub_usa_ostk\u00fcste_2026_10_25_bis_11_15_der_25_10_ist_der_stichtag_des_winterflugplans"
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "llm-knowledge/Urlaub/USA Ostk\u00fcste 2026-10-25 bis 11-15.md",
-      "source_location": "L47",
-      "weight": 1.0,
-      "confidence_score": 1.0,
-      "source": "llm_knowledge_urlaub_usa_ostk\u00fcste_2026_10_25_bis_11_15_3_fluglage_was_du_vor_der_buchung_pr\u00fcfen_musst",
-      "target": "llm_knowledge_urlaub_usa_ostk\u00fcste_2026_10_25_bis_11_15_dus_new_york_nonstop_existiert_im_winter_mit_hoher_wahrscheinlichkeit_nicht"
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "llm-knowledge/Urlaub/USA Ostk\u00fcste 2026-10-25 bis 11-15.md",
-      "source_location": "L63",
-      "weight": 1.0,
-      "confidence_score": 1.0,
-      "source": "llm_knowledge_urlaub_usa_ostk\u00fcste_2026_10_25_bis_11_15_3_fluglage_was_du_vor_der_buchung_pr\u00fcfen_musst",
-      "target": "llm_knowledge_urlaub_usa_ostk\u00fcste_2026_10_25_bis_11_15_r\u00fcckflug_ab_miami"
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "llm-knowledge/Urlaub/USA Ostk\u00fcste 2026-10-25 bis 11-15.md",
-      "source_location": "L54",
-      "weight": 1.0,
-      "confidence_score": 1.0,
-      "source": "llm_knowledge_urlaub_usa_ostk\u00fcste_2026_10_25_bis_11_15_3_fluglage_was_du_vor_der_buchung_pr\u00fcfen_musst",
-      "target": "llm_knowledge_urlaub_usa_ostk\u00fcste_2026_10_25_bis_11_15_was_das_f\u00fcr_tag_1_bedeutet"
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "llm-knowledge/Urlaub/USA Ostk\u00fcste 2026-10-25 bis 11-15.md",
-      "source_location": "L76",
-      "weight": 1.0,
-      "confidence_score": 1.0,
-      "source": "llm_knowledge_urlaub_usa_ostk\u00fcste_2026_10_25_bis_11_15_3_fluglage_was_du_vor_der_buchung_pr\u00fcfen_musst",
-      "target": "llm_knowledge_urlaub_usa_ostk\u00fcste_2026_10_25_bis_11_15_zeitverschiebung_sonderfall_in_diesem_zeitraum"
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "llm-knowledge/Urlaub/USA Ostk\u00fcste 2026-10-25 bis 11-15.md",
-      "source_location": "L100",
-      "weight": 1.0,
-      "confidence_score": 1.0,
-      "source": "llm_knowledge_urlaub_usa_ostk\u00fcste_2026_10_25_bis_11_15_5_tagesplan",
-      "target": "llm_knowledge_urlaub_usa_ostk\u00fcste_2026_10_25_bis_11_15_block_1_new_york_city_6_n\u00e4chte_so_25_10_sa_31_10"
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "llm-knowledge/Urlaub/USA Ostk\u00fcste 2026-10-25 bis 11-15.md",
-      "source_location": "L118",
-      "weight": 1.0,
-      "confidence_score": 1.0,
-      "source": "llm_knowledge_urlaub_usa_ostk\u00fcste_2026_10_25_bis_11_15_5_tagesplan",
-      "target": "llm_knowledge_urlaub_usa_ostk\u00fcste_2026_10_25_bis_11_15_block_2_charleston_south_carolina_6_n\u00e4chte_sa_31_10_fr_06_11"
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "llm-knowledge/Urlaub/USA Ostk\u00fcste 2026-10-25 bis 11-15.md",
-      "source_location": "L138",
-      "weight": 1.0,
-      "confidence_score": 1.0,
-      "source": "llm_knowledge_urlaub_usa_ostk\u00fcste_2026_10_25_bis_11_15_5_tagesplan",
-      "target": "llm_knowledge_urlaub_usa_ostk\u00fcste_2026_10_25_bis_11_15_block_3_florida_keys_key_west_4_n\u00e4chte_fr_06_11_di_10_11"
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "llm-knowledge/Urlaub/USA Ostk\u00fcste 2026-10-25 bis 11-15.md",
-      "source_location": "L152",
-      "weight": 1.0,
-      "confidence_score": 1.0,
-      "source": "llm_knowledge_urlaub_usa_ostk\u00fcste_2026_10_25_bis_11_15_5_tagesplan",
-      "target": "llm_knowledge_urlaub_usa_ostk\u00fcste_2026_10_25_bis_11_15_block_4_miami_miami_beach_5_n\u00e4chte_di_10_11_so_15_11"
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "llm-knowledge/Urlaub/USA Ostk\u00fcste 2026-10-25 bis 11-15.md",
-      "source_location": "L171",
-      "weight": 1.0,
-      "confidence_score": 1.0,
-      "source": "llm_knowledge_urlaub_usa_ostk\u00fcste_2026_10_25_bis_11_15_6_kostenaufstellung_2_personen_21_n\u00e4chte",
-      "target": "llm_knowledge_urlaub_usa_ostk\u00fcste_2026_10_25_bis_11_15_fl\u00fcge"
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "llm-knowledge/Urlaub/USA Ostk\u00fcste 2026-10-25 bis 11-15.md",
-      "source_location": "L217",
-      "weight": 1.0,
-      "confidence_score": 1.0,
-      "source": "llm_knowledge_urlaub_usa_ostk\u00fcste_2026_10_25_bis_11_15_6_kostenaufstellung_2_personen_21_n\u00e4chte",
-      "target": "llm_knowledge_urlaub_usa_ostk\u00fcste_2026_10_25_bis_11_15_formalit\u00e4ten_sonstiges"
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "llm-knowledge/Urlaub/USA Ostk\u00fcste 2026-10-25 bis 11-15.md",
-      "source_location": "L228",
-      "weight": 1.0,
-      "confidence_score": 1.0,
-      "source": "llm_knowledge_urlaub_usa_ostk\u00fcste_2026_10_25_bis_11_15_6_kostenaufstellung_2_personen_21_n\u00e4chte",
-      "target": "llm_knowledge_urlaub_usa_ostk\u00fcste_2026_10_25_bis_11_15_gesamt"
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "llm-knowledge/Urlaub/USA Ostk\u00fcste 2026-10-25 bis 11-15.md",
-      "source_location": "L193",
-      "weight": 1.0,
-      "confidence_score": 1.0,
-      "source": "llm_knowledge_urlaub_usa_ostk\u00fcste_2026_10_25_bis_11_15_6_kostenaufstellung_2_personen_21_n\u00e4chte",
-      "target": "llm_knowledge_urlaub_usa_ostk\u00fcste_2026_10_25_bis_11_15_mietwagen_transport_vor_ort"
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "llm-knowledge/Urlaub/USA Ostk\u00fcste 2026-10-25 bis 11-15.md",
-      "source_location": "L240",
-      "weight": 1.0,
-      "confidence_score": 1.0,
-      "source": "llm_knowledge_urlaub_usa_ostk\u00fcste_2026_10_25_bis_11_15_6_kostenaufstellung_2_personen_21_n\u00e4chte",
-      "target": "llm_knowledge_urlaub_usa_ostk\u00fcste_2026_10_25_bis_11_15_sparhebel_falls_die_spanne_zu_hoch_ist"
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "llm-knowledge/Urlaub/USA Ostk\u00fcste 2026-10-25 bis 11-15.md",
-      "source_location": "L181",
-      "weight": 1.0,
-      "confidence_score": 1.0,
-      "source": "llm_knowledge_urlaub_usa_ostk\u00fcste_2026_10_25_bis_11_15_6_kostenaufstellung_2_personen_21_n\u00e4chte",
-      "target": "llm_knowledge_urlaub_usa_ostk\u00fcste_2026_10_25_bis_11_15_unterkunft"
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "llm-knowledge/Urlaub/USA Ostk\u00fcste 2026-10-25 bis 11-15.md",
-      "source_location": "L206",
-      "weight": 1.0,
-      "confidence_score": 1.0,
-      "source": "llm_knowledge_urlaub_usa_ostk\u00fcste_2026_10_25_bis_11_15_6_kostenaufstellung_2_personen_21_n\u00e4chte",
-      "target": "llm_knowledge_urlaub_usa_ostk\u00fcste_2026_10_25_bis_11_15_verpflegung_aktivit\u00e4ten"
-    },
-    {
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "llm-knowledge/Urlaub/Urlaub August.md",
@@ -8992,5 +9092,5 @@
     }
   ],
   "hyperedges": [],
-  "built_at_commit": "665f81f0287959cc79045053abafd86609ae10f8"
+  "built_at_commit": "c8432ce364fd215a2dd8803e5ed5d0d2e61e026f"
 }

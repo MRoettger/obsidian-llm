@@ -43,7 +43,7 @@ from typing import Iterable, Sequence
 # 1. ATHLETENSTATUS — Snapshot aus llm-knowledge/Laufen/Athletenstatus.md
 # =============================================================================
 
-STATUS_UPDATED = date(2026, 9, 13)
+STATUS_UPDATED = date(2026, 9, 29)
 STATUS_SOURCE = "llm-knowledge/Laufen/Athletenstatus.md"
 STATUS_MAX_AGE_DAYS = 56  # acht Wochen, siehe Coach-Prompt
 
@@ -88,10 +88,11 @@ CHECK_CORRECT_S = 2370      # 39:30 -> Zielzeit auf 1:23-1:24 korrigieren
 HM_M = 21097.5
 MARATHON_M = 42195.0
 
-# Umfangsrampe zum Venloop (beschlossen 13.09.2026), KW -> km
+# Umfangsrampe zum Venloop (beschlossen 13.09.2026, um 2 Wochen verschoben
+# am 29.09.2026 wegen leichter Infektion in KW 39), KW -> km.
+# KW 39 = 0 km real (krank). Ab KW 45 offen, Neubewertung zur Revision 12.10.2026.
 VOLUME_RAMP: dict[int, int] = {
-    38: 30, 39: 50, 40: 58, 41: 64, 42: 48,
-    43: 68, 44: 74, 45: 78, 46: 58, 47: 80, 48: 82,
+    38: 30, 39: 0, 40: 38, 41: 50, 42: 58, 43: 64, 44: 48,
 }
 LONG_RUN_SHARE = (0.25, 0.33)   # Anteil am Wochenumfang
 MAX_SINGLE_RUN_KM = 24.0        # bis zum Taper

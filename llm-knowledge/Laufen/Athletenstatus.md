@@ -2,7 +2,7 @@
 type: status
 tags: [laufen, status, steuerung]
 status: lebend
-updated: 2026-09-13
+updated: 2026-09-29
 naechste_revision: 2026-10-12
 ---
 
@@ -160,16 +160,13 @@ Der Athlet hat höhere Umfänge ausdrücklich freigegeben. Die bisherige Decke v
 | KW | km | Charakter |
 |---|---|---|
 | 38 | **30** | Regeneration nach dem 28er — nicht verhandelbar, Gewebeheilung |
-| 39 | 50 | bekanntes Terrain (KW 33–35 waren 57/62/57) |
-| 40 | 58 | bekanntes Terrain |
-| 41 | **64** | erste neue Stufe |
-| 42 | 48 | Entlastung |
-| 43 | 68 | |
-| 44 | 74 | |
-| 45 | 78 | |
-| 46 | 58 | Entlastung |
-| 47 | 80 | |
-| 48 – KW 11/27 | 78–88 | HM-Block, Peak 88 |
+| 39 | ~~50~~ **0** | **krank** (leichte Infektion 21.–29.09.), Stufe verfehlt |
+| 40 | **38** | Wiedereinstieg, Obergrenze, kein Aufholen |
+| 41 | 50 | die verfehlte Stufe aus KW 39, wiederholt statt übersprungen |
+| 42 | 58 | |
+| 43 | **64** | erste neue Stufe |
+| 44 | 48 | Entlastung |
+| ab 45 | offen | Neubewertung zur Revision 12.10.2026. Ursprünglich 68–88 mit Peak 88 (KW 43–KW 11/27) |
 
 **Warum kein zahmer Wiederaufbau:** Die 10-%-Regel gilt für Neuland, nicht für Umfänge,
 die vor vier Wochen nachweislich vertragen wurden. Das echte Neuland beginnt bei 64 km.
@@ -178,6 +175,13 @@ passiert dort, nicht im Wiederaufholen. Peak 88 km bleibt unter dem Allzeit-Reko
 100 km (Sept. 2025).
 
 Entlastung jede vierte Woche −25 %. Kein Einzellauf über 24 km bis zum Taper.
+
+> **Verschiebung 29.09.2026:** Leichte Infektion, KW 39 komplett ausgefallen (Leiter 24.09.,
+> Schwelle 26.09., Long Run 27.09.). Rampe um zwei Wochen nach hinten, Ausfälle werden
+> nicht nachgeholt. Erste Qualität: gekürzte Leiter 06.10., Schwelle 08.10. Die Leiter
+> darf nur laufen, wenn die vier Läufe davor sauber waren (Puls bei lockerem Tempo unter 140,
+> Ruhepuls höchstens 49). Drei ausgefallene Schlüsseleinheiten sind formal der Revisionsauslöser
+> aus Abschnitt 4.3 des Coach-Prompts, hier krankheitsbedingt und einmalig.
 
 **Abbruchkriterien für die Rampe:** Schmerz an Schienbein/Ferse/Mittelfuß der im
 Laufverlauf zunimmt · Ruhepuls > 1 Woche über 52 · drei ausgefallene Schlüsseleinheiten
@@ -297,6 +301,7 @@ Größe, die im 28er weggebrochen ist. Reiner Kraftaufbau leistet das nicht.
 | 13.09.2026 | **CTL-Absolutwerte und Zielkorridor aus der Datei entfernt.** Verstießen gegen die eigene Regel im Vorspann (Tagesdaten gehören nach Intervals.icu) und waren zusätzlich dreimal falsch: 70–72 → 56–60 → real 40–45. Ursache: abgeleiteter Wert stand neben seinen Eingangsgrößen und lief davon weg. Zielwert wird jetzt mit `scripts/laufcoach.py ctl` aus der Umfangsrampe gerechnet. Die Entscheidung dahinter (CTL ist Hilfsgröße, Laufspezifik vor Zahl) bleibt als Prinzip erhalten. |
 | 13.09.2026 | Load/km empirisch aus 20 echten Läufen neu bestimmt: **3,13 locker / 4,18 Qualität / 4,82 Renntempo** (vorher pauschal 3,3 bzw. 4,8). Gegenprobe KW 34: Modell 206 vs. real 213 Load bei 62 km. |
 | 13.09.2026 | Ruhepuls vereinheitlicht: Normalbereich **44–49**, Alarmschwelle 52. Vorher standen 44–50 und 44–49 nebeneinander in derselben Datei. |
+| 29.09.2026 | **Leichte Infektion 21.–29.09., KW 39 ausgefallen (0 von 50 km).** Drei Schlüsseleinheiten verpasst, nicht nachgeholt. Umfangsrampe um zwei Wochen verschoben: KW 40 = 38, 41 = 50, 42 = 58, 43 = 64, 44 = 48, ab KW 45 offen bis zur Revision 12.10. Prüfpunkt 38:30 am 29.11. bleibt unverändert. Intervals.icu: Notiz 21.09. und ausgefallene Events als „KRANK“ markiert, Woche 30.09.–04.10. neu angelegt. |
 | 13.09.2026 | `scripts/laufcoach.py` angelegt — Rechenkern für Prognose, CTL/TSB, Decoupling, Schrittlängen-Drift, Must-Haves, Pacing und Intervalle. Selbsttest verifiziert die Formeln gegen echte Intervals.icu-Werte. Enthält einen **Snapshot** dieser Datei; bei Änderungen hier muss der Block dort nachgezogen werden. |
 
 > **Pflegeregel:** Bei jeder Änderung `updated` im Frontmatter setzen, `naechste_revision`
