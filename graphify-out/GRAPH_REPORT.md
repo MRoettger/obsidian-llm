@@ -1,7 +1,7 @@
-# Graph Report - obsidian-llm  (2026-09-25)
+# Graph Report - obsidian-llm  (2026-10-09)
 
 ## Corpus Check
-- 39 files · ~29,636 words
+- 39 files · ~29,778 words
 - Verdict: corpus is large enough that graph structure adds value.
 
 ## Summary
@@ -10,7 +10,7 @@
 - Token cost: 0 input · 0 output
 
 ## Graph Freshness
-- Built from commit: `c8432ce3`
+- Built from commit: `0503f699`
 - Run `git rev-parse HEAD` and compare to check if the graph is stale.
 - Run `graphify update .` after code changes (no API cost).
 
@@ -126,8 +126,8 @@
 3. `🏁 Wecker-28 Münster 2026 — 28 km` - 12 edges
 4. `🔬 Intervalltraining — Forschungsstand 2026` - 12 edges
 5. `🐍 Python – Syntax und Datentypen` - 11 edges
-6. `Laufen — Übersicht` - 10 edges
-7. `📍 Athletenstatus` - 10 edges
+6. `📍 Athletenstatus` - 10 edges
+7. `Laufen — Übersicht` - 10 edges
 8. `🏁 Arrow Venloop 2027 — Halbmarathon` - 10 edges
 9. `6. Kostenaufstellung (2 Personen, 21 Nächte)` - 8 edges
 10. `🏃‍♂️ Trainingsmethoden Halbmarathon & Marathon` - 8 edges
@@ -265,7 +265,7 @@ Cohesion: 0.40
 Nodes (5): 🔁 Anpassung des Trainingsplans, 🚴 Empfehlung für die Urlaubswoche, 🚴 Rennrad-Urlaub 13.–19.07.2026 (KW 29), 🧠 Trainingsphysiologische Einordnung, Verknüpfte Notizen
 
 ## Knowledge Gaps
-- **353 isolated node(s):** `Ziele & Status`, `Pläne & Methodik`, `Rennen & Tests`, `Wochenberichte & Trainingslogs`, `Analysen` (+348 more)
+- **353 isolated node(s):** `Prüfpunkte für Sub-1:20 (verbindlich)`, `💓 Zonen & Schwellen`, `Was das für die Ziele bedeutet`, `Resilienz-Datenpunkt (gemessen 13.09.2026) — der entscheidende Befund`, `Umfangsrampe zum Venloop (beschlossen 13.09.2026)` (+348 more)
   These have ≤1 connection - possible missing edges or undocumented components.
 - **73 thin communities (<3 nodes) omitted from report** — run `graphify query` to explore isolated nodes.
 
@@ -278,7 +278,7 @@ _Questions this graph is uniquely positioned to answer:_
   _High betweenness centrality (0.025) - this node is a cross-community bridge._
 - **Why does `🏃‍♂️ Trainingsmethoden Halbmarathon & Marathon` connect `Plugin Code (minified) C53` to `Running Training & HR Science`?**
   _High betweenness centrality (0.025) - this node is a cross-community bridge._
-- **What connects `Ziele & Status`, `Pläne & Methodik`, `Rennen & Tests` to the rest of the system?**
+- **What connects `Prüfpunkte für Sub-1:20 (verbindlich)`, `💓 Zonen & Schwellen`, `Was das für die Ziele bedeutet` to the rest of the system?**
   _358 weakly-connected nodes found - possible documentation gaps or missing edges._
 - **Should `🐍 Python – Async und Performance` be split into smaller, more focused modules?**
   _Cohesion score 0.13333333333333333 - nodes in this community are weakly interconnected._

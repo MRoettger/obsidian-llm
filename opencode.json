@@ -1,6 +1,6 @@
 {
   "$schema": "https://opencode.ai/config.json",
-  "plugin": ["plugins/graphify.js"],
+  "plugin": [],
   "model": "litellm/gpt-6-luna",
   "mcp": {
     "perplexity": {
