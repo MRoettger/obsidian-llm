@@ -69,8 +69,12 @@ Gesucht wird **nur**:
 | `isbn` | ISBN-13 **der Ausgabe, die der Nutzer nennt.** Nennt er keine und gibt es mehrere deutsche Ausgaben (Hardcover, Taschenbuch, Sondereditionen): **leer lassen** |
 | Genre-Tags | aus dem festen Vokabular oben |
 
-Keine Inhaltsangabe, kein Klappentext, keine Bewertung — auch nicht "als Quelle markiert".
-Der Body bleibt leer, außer der Nutzer liefert selbst Text.
+Zusätzlich wird der **offizielle Klappentext** übernommen (siehe Schritt 4). Er kommt
+**wörtlich** von der Verlagsseite (Oetinger, Suhrkamp, Penguin Random House usw.), nicht
+aus Shops und nicht aus Rezensionen. Keine selbst geschriebene Inhaltsangabe, keine
+Paraphrase, keine Bewertung. Pressestimmen und Werbe-Aufzählungen ("Bekannt durch die
+Filme …") gehören nicht dazu. Findet sich auf keiner Verlagsseite ein Text: Abschnitt
+weglassen und das im Ergebnis sagen.
 
 ISBN-13 vor dem Eintragen auf die Prüfziffer testen: Ziffern abwechselnd mit 1 und 3
 gewichten, die Summe muss durch 10 teilbar sein. Besteht sie nicht, ist die ISBN falsch
@@ -86,9 +90,23 @@ Pfad: `llm-knowledge/Books/Buchliste/<Titel>.md`
 - Dateiname = Titel, wie der Nutzer das Buch nennt, sonst der deutsche Titel. Ohne
   Untertitel. Verbotene Zeichen `\ / : * ? " < > |` durch ` - ` ersetzen oder entfernen.
 - Frontmatter nach Schema, `status: ungelesen`, `gelesen` leer.
-- Nach dem Frontmatter bleibt der Body leer. Hat der Nutzer etwas dazu gesagt
-  ("empfohlen von Anna", "wegen der Serie"), kommt das **wörtlich** als normaler Absatz
-  in den Body.
+- Body: Hat der Nutzer etwas dazu gesagt ("empfohlen von Anna", "wegen der Serie"),
+  steht das **wörtlich** als normaler Absatz direkt nach dem Frontmatter. Danach folgt
+  der Klappentext in genau dieser Form, mit der Quelle als Link:
+
+  ```markdown
+  ## Klappentext
+
+  > **Tagline des Verlags (falls vorhanden)**
+  >
+  > Text wörtlich, Absätze mit `>` weitergeführt.
+
+  Quelle: [Verlag](https://…)
+  ```
+
+  Die Rechtschreibung des Verlags bleibt unverändert, auch Eigenheiten wie `Katniss´`.
+  Eigene Gedanken des Nutzers kommen später in einen eigenen Abschnitt, nie in den
+  Klappentext.
 
 ### 5. Rückmeldung
 Eine kurze Zusammenfassung: Dateiname, was eingetragen wurde, **was leer geblieben ist
@@ -107,7 +125,8 @@ dann trage ich sie nach").
 
 ## Was diese Skill nicht tut
 
-- Keine Inhaltsangaben, Rezensionen oder Zitate erfinden oder aus dem Web übernehmen.
+- Keine eigenen Inhaltsangaben, Rezensionen oder Zitate erfinden. Aus dem Web kommt
+  ausschließlich der offizielle Klappentext, wörtlich und mit Quelle.
 - Bestehende Notizen nicht umbenennen, umformatieren oder inhaltlich verbessern.
 - `Bücherübersicht.md` nicht anfassen.
 - Keine Dateien außerhalb von `llm-knowledge/Books/` ändern.
