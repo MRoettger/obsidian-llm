@@ -1,0 +1,143 @@
+title: Homematic Temperaturen
+views:
+  - title: Temperaturen
+    path: homematic-temperaturen
+    icon: mdi:thermometer
+    cards:
+      - type: markdown
+        title: Hinweis
+        content: >-
+          Die Namen der Heizgruppen (climate) und der Thermostat-Geräte
+          passen in Home Assistant nicht zusammen. Die Räume unten stammen
+          aus den Heizgruppen.
+
+      - type: vertical-stack
+        title: Räume
+        cards:
+          - type: horizontal-stack
+            cards:
+              - type: thermostat
+                entity: climate.raum_2_hmip_raum_2
+              - type: thermostat
+                entity: climate.hmip_bad
+              - type: thermostat
+                entity: climate.hmip_kuche
+          - type: horizontal-stack
+            cards:
+              - type: thermostat
+                entity: climate.hmip_schlafzimmer
+              - type: thermostat
+                entity: climate.hmip_wohnzimmer
+              - type: thermostat
+                entity: climate.hmip_buro
+
+      - type: entities
+        title: Ist / Soll je Raum
+        entities:
+          - type: attribute
+            entity: climate.raum_2_hmip_raum_2
+            attribute: current_temperature
+            name: Büro Ist
+            suffix: °C
+          - type: attribute
+            entity: climate.raum_2_hmip_raum_2
+            attribute: temperature
+            name: Büro Soll
+            suffix: °C
+          - type: attribute
+            entity: climate.hmip_bad
+            attribute: current_temperature
+            name: Wohnzimmer Tür Ist
+            suffix: °C
+          - type: attribute
+            entity: climate.hmip_bad
+            attribute: temperature
+            name: Wohnzimmer Tür Soll
+            suffix: °C
+          - type: attribute
+            entity: climate.hmip_kuche
+            attribute: current_temperature
+            name: Wohnzimmer Essbereich Ist
+            suffix: °C
+          - type: attribute
+            entity: climate.hmip_kuche
+            attribute: temperature
+            name: Wohnzimmer Essbereich Soll
+            suffix: °C
+          - type: attribute
+            entity: climate.hmip_schlafzimmer
+            attribute: current_temperature
+            name: Schlafzimmer Ist
+            suffix: °C
+          - type: attribute
+            entity: climate.hmip_schlafzimmer
+            attribute: temperature
+            name: Schlafzimmer Soll
+            suffix: °C
+          - type: attribute
+            entity: climate.hmip_wohnzimmer
+            attribute: current_temperature
+            name: Bad Ist
+            suffix: °C
+          - type: attribute
+            entity: climate.hmip_wohnzimmer
+            attribute: temperature
+            name: Bad Soll
+            suffix: °C
+          - type: attribute
+            entity: climate.hmip_buro
+            attribute: current_temperature
+            name: Gästezimmer Ist
+            suffix: °C
+          - type: attribute
+            entity: climate.hmip_buro
+            attribute: temperature
+            name: Gästezimmer Soll
+            suffix: °C
+
+      - type: history-graph
+        title: Temperaturverlauf (24 h)
+        hours_to_show: 24
+        entities:
+          - entity: sensor.hmip_heating_thermostat_temperature_2
+            name: Raum 2
+          - entity: sensor.hmip_heating_thermostat_temperature
+            name: büro
+          - entity: sensor.hmip_heating_thermostat_temperature_3
+            name: Küche
+          - entity: sensor.hmip_heating_thermostat_temperature_4
+            name: Wohnzimmer
+          - entity: sensor.hmip_radiator_thermostat_compact_temperature
+            name: compact
+          - entity: sensor.hmip_buro_thermostat_temperature
+            name: Büro Thermostat
+
+      - type: entities
+        title: Thermostate Temperatur
+        entities:
+          - sensor.hmip_heating_thermostat_temperature_2
+          - sensor.hmip_heating_thermostat_temperature
+          - sensor.hmip_heating_thermostat_temperature_3
+          - sensor.hmip_heating_thermostat_temperature_4
+          - sensor.hmip_radiator_thermostat_compact_temperature
+          - sensor.hmip_buro_thermostat_temperature
+
+      - type: entities
+        title: Ventilstellung
+        entities:
+          - sensor.hmip_heating_thermostat_heating_2
+          - sensor.hmip_heating_thermostat_heating
+          - sensor.hmip_heating_thermostat_heating_3
+          - sensor.hmip_heating_thermostat_heating_4
+          - sensor.hmip_radiator_thermostat_compact_heating
+          - sensor.hmip_buro_thermostat_heating
+
+      - type: entities
+        title: Batterie
+        entities:
+          - binary_sensor.hmip_heating_thermostat_battery_2
+          - binary_sensor.hmip_heating_thermostat_battery
+          - binary_sensor.hmip_heating_thermostat_battery_3
+          - binary_sensor.hmip_heating_thermostat_battery_4
+          - binary_sensor.hmip_radiator_thermostat_compact_batteriestand
+          - binary_sensor.hmip_buro_thermostat_battery

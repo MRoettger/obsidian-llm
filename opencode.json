@@ -3,10 +3,51 @@
   "plugin": [],
   "model": "litellm/gpt-6-luna",
   "mcp": {
-    "perplexity": {
+    "intervals-icu": {
+      "type": "local",
+      "enabled": true,
+      "command": [
+        "/Users/roettger/.local/bin/uv",
+        "run",
+        "--frozen",
+        "--with",
+        "mcp[cli]",
+        "--with-editable",
+        "/Users/roettger/git/intervals-mcp-server",
+        "mcp",
+        "run",
+        "/Users/roettger/git/intervals-mcp-server/src/intervals_mcp_server/server.py"
+      ],
+      "environment": {
+        "API_KEY": "5it0nyelzckas3tq4avmspos3",
+        "ATHLETE_ID": "i560773"
+      }
+    },
+    "exa": {
       "type": "remote",
       "enabled": true,
-      "url": "https://litellm.ai.viadee.cloud/mcp/websearch"
+      "url": "https://mcp.exa.ai/mcp",
+      "headers": {
+        "x-api-key": "{env:EXA_API_KEY}"
+      }
+    },
+    "time": {
+      "type": "local",
+      "enabled": true,
+      "command": ["/Users/roettger/.local/bin/uvx", "mcp-server-time"],
+      "environment": {
+        "UV_TOOL_DIR": "/Users/roettger/.cache/uv/tools",
+        "UV_TOOL_BIN_DIR": "/Users/roettger/.cache/uv/tool-bin"
+      }
+    },
+    "home-assistant": {
+      "type": "remote",
+      "enabled": true,
+      "url": "http://192.168.178.50:8123/api/mcp",
+      "oauth": false,
+      "headers": {
+        "Authorization": "Bearer {env:HA_TOKEN}"
+      }
     }
   },
   "provider": {
