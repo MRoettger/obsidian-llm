@@ -45,8 +45,10 @@
       "enabled": true,
       "url": "http://192.168.178.50:8123/api/mcp",
       "oauth": false,
+      "timeout": 60000,
       "headers": {
-        "Authorization": "Bearer {env:HA_TOKEN}"
+        "Authorization": "Bearer {env:HA_TOKEN}",
+        "Connection": "close"
       }
     }
   },
